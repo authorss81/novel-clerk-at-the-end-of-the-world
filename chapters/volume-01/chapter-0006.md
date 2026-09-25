@@ -128,6 +128,8 @@ Owen was not in the room. He was on the step, and he heard the seal, because you
 
 He came in on the eighth day with the batch and did the batch. The run had ended on the first, in a memorandum, and two clean batches since then had not put it back, and the mark in the supervisor's book beside his name was now a question with an answer attached to it, and there was nothing at all to be done on the eighth day.
 
+A girl from the fifth desk came over at about eleven with a sheet she was not sure of and stood holding it out, and he looked at it, and it was an ordinary rate notice with the witness line already filled by a man who had not been in the room, and he told her, in as few words as he could find, that he was not the clerk of record for that desk any more and that she should take it to the Front Desk and ask for the counter, and she said the Front Desk would send it back, and he said that he knew, and she said, "Then who signs it," and he said that he did not know, and that this was a new thing that had happened to the building since Friday, and she went away holding it, and he went back to a batch that ran clean and taught him nothing at all.
+
 At noon he walked upriver with a sheet of paper on which he had written a list, and by the time he got to the hall he had written a second one underneath, and the second one was the same list twice.
 
 Ada was doing the marker, out of the wet, in waders, with two of the crew.
@@ -138,7 +140,7 @@ She came over and looked at the list upside down, the way people do, and read tw
 
 "Yes."
 
-"Copyist who stayed." She went back to the marker. "Come and hold this end. I've got the ninth post and I need somebody who won't tell me a story."
+"Stay, then, and hold this end." She went back to the marker. "I've got the ninth post and I need somebody who won't tell me a story about the weather."
 
 He held the end of a six-foot painted board in the rain for four hours and did not tell her a story once, and afterwards he walked back down with a chalk stain on his hands that would not come out in three days, and stopped at the top of the weir path, where the water was up a foot on the lower stair and moving, to work out what he had actually done this week.
 

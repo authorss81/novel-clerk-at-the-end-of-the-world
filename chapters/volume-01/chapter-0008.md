@@ -1,10 +1,10 @@
 # Chapter 8 — Load Restriction
 
-The thing came up from the District Deputy Registrar's office at noon on the tenth day, went onto the seal stair at half past one, and arrived at the Fourth River Desk at ten past two with a docket number on the corner and a line at the foot reading *copy and enter at Fourth Desk, per instruction*, and Owen read it standing up because a formal instrument in a building that has a seal stair is a thing you read where you stand.
+The thing came up from the District Deputy Registrar's office at noon on the tenth day, went onto the seal stair at half past one, and lay on the rail of the Fourth River Desk from ten past two until he came in at six, because a rail takes what is put on it and asks nobody how long it has been there. It had a docket number on the corner and a line at the foot reading *copy and enter at Fourth Desk, per instruction*. He read it standing up, because a formal instrument in a building that has a seal stair is a thing you read where you stand.
 
-**LOAD-RESTRICTION SUSPECTION**
+**LOAD-RESTRICTION SUSPENSION**
 *Ninth Weir public crossing, Docketford.*
-*On the finding of the district works engineer, dated this day, that the abutment crack at the west abutment has advanced five inches since the inspection of the spring, the named crossing is closed to loaded traffic and to vehicles above four tons, with immediate effect, pending structural assessment.*
+*On the finding of the district works engineer, dated this day, that the crack at the west abutment has advanced five inches since the inspection of the spring, the named crossing is closed to loaded traffic and to vehicles above four tons, with immediate effect, pending structural assessment.*
 
 That was the whole of it. Half a sheet. It carried the engineer's finding as an exhibit and the finding was four lines long and Owen read it four times and it was correct. It was the most correct document he had ever handled. The crack was there; the engineer had put a wire across it in the spring and a mark beside it and had come back in the wet on the ninth with a rule and a lamp and had measured the offset and had written down the number, and the number was five inches, and the number was the entire case.
 
@@ -12,7 +12,7 @@ That was the whole of it. Half a sheet. It carried the engineer's finding as an 
 
 It was not a threat and it was not an obstruction. It was a competent man declining, in the proper form, on a real measurement, to say something he could not stand behind. Owen had spent a week wishing somebody in that building would be caught out in a lie. It had never occurred to him, and it occurred to him now with a small cold shock, that the worst thing that could happen to him that week was for the Office to turn out to be right.
 
-The notice required one more thing before it could be served on the ward, and the one more thing was the reason he was standing in the River Desk at ten past two with his coat already on.
+The notice required one more thing before it could be served on the ward, and the one more thing was the reason he was standing in the River Desk at six with his coat already on.
 
 *The condition of the named work shall be observed and recorded by a district officer, or by such witness as the ward may produce, at the hour of service.*
 
@@ -20,7 +20,7 @@ He read it twice. Then he went to the stair and asked the runner for the ward, a
 
 ---
 
-Pell was on the second desk at two o'clock with her sleeves rolled and the top of her ink dried with a scatter of sand over it, which is what the Hall did on wet days, and Owen stood at the end of it and did not sit down.
+Pell was on the second desk at quarter past six with her sleeves rolled and the top of her ink dried with a scatter of sand over it, which is what the Hall did on wet days, and Owen stood at the end of it and did not sit down.
 
 "I'm going out to the weir tonight to serve this."
 
@@ -48,8 +48,9 @@ Pell read it. She read it the whole way down, twice, which was not her habit.
 
 The river was up two feet on the lower stair and had been coming up since noon.
 
-They went out at dusk with a lamp and an oilcloth and a rule, and Wend Voss was already at the top of the weir path with a lantern, because he had come down on his own time again and had not said that he was coming, 
-The party was nine. Ada with a lamp and the folded drawing. Ferris on the bank with the log book. Dory Anstruther, who had volunteered and who was the fastest of the nine in water and the second strongest. Two of the crew with a line. Ilse Mern, who had come to see, and who was told she could not go down, and who stayed. And Owen, with the notice in an oilskin and no boots worth the name.
+They went out at dusk with a lamp and an oilcloth and a rule, and Wend Voss was at the top of the weir path with his lantern before they were halfway down the lane, because he had come down on his own time again and had not said that he was coming, and Ada looked at him and said nothing about it, which was how she told him not to be thanked for it.
+
+The party was nine. Ada with a lamp and the folded drawing. Ferris on the bank with the log book. Dory Anstruther, who had volunteered and who was the fastest of the nine in water and the second strongest, and Ferrow with the line, who was fourth fastest and the only one of them who said out loud that he was frightened of it. Ilse Mern, who had come to see, and who was told she could not go down, and who stayed, and who held the second lamp over the log while Ferris wrote. Bram Tillet at the head of the stair with the chalk and a bucket for the levels. Two of the crew on the top path with a spare line and a coil of rope, who did nothing all evening except hold what they were told to hold. And Owen, with the notice in an oilskin and no boots worth the name.
 
 "Down to the gauge," Ada said. "The suspension's served on the work, not on the rail, and the wire's on the west abutment, so somebody has to be at the abutment and somebody has to be at the gauge, and the gauge is in the spillway channel."
 
@@ -111,7 +112,7 @@ It did not throw him. Owen would think about that for a long time afterward, and
 
 The line went tight. Ada did not fall over, which Owen thought at the time was the least likely fact in the world, and afterwards was the fact he could not argue with. She braced both heels in the stair and came back hand over hand on the line, and Ferris had the other end round a bollard, and Ilse Mern had got to the rope without being told, and a man Owen did not know came down the path at a run because Voss's lantern had been visible from the road.
 
-They got him out at the third attempt. It took six minutes and it took two men Owen had never met and a boat-hook, and it took longer than Owen's memory has any room for. When it was done the boy was on the weir path on his side with his arms moving and Ada Rusk's hands on his ribs counting, and Voss was holding a blanket, and the lamp was lying on its side in the water at the bottom of the stair, and the ward's finished return was dry in a coat on the bank, nine feet and a stone wall away from where the boy had been.
+They got him out at the third attempt. It took six minutes and it took two men Owen had never met and a boat-hook, and it took longer than Owen's memory has any room for. When it was done the boy was on the weir path on his side with his arms moving and Ada Rusk's hands on his ribs counting, and Voss was holding a blanket, and the lamp was lying on its side in the water at the bottom of the stair, and the notice was in the grass in its oilskin, nine feet and a stone wall away from where the boy had been, dry, and correct in every particular, and signed by nobody at all.
 
 Owen sat down on the coping of the weir path with his hands shaking and a sheet of oiled paper in his pocket and found that the part of him which was still working was the part that was glad nobody had asked him to sign anything.
 
@@ -138,8 +139,6 @@ He tore it into pieces the size of a playing card and he did it in front of Juni
 Pell looked at him.
 
 She said nothing. That was the whole of what she did, and it was more than he had any right to expect, and it was more than he could have survived an answer to. She did not say *it doesn't count* and she did not say *you'd never* and she did not look at him with anything at all, and after a while she got up and went down the weir path to see to the blanket.
-
-
 
 ---
 

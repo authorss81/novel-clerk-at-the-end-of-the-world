@@ -53,19 +53,19 @@ He had the two documents side by side without deciding to. The schedule on the l
 > Stated effective date: earlier than the act performed.
 > The notice reports no further matter.
 
-He read it twice. He checked it against what he could see with his own eyes, because he does not trust a thing he cannot corroborate, and the corroboration was on the desk in two places: the ninth and the eleventh. Yes. The notice was correct. It was also almost nothing. It did not say who had written the ninth. It did not say whether it was a mistake or a decision or a slip of a pen in a hurry in a room where nobody had time. It did not touch the second leaf, which he had not read, and it made no claim at all about the scope, which was the part that had moved three duties out of a ward of two hundred and forty people and would not move them back because two days of arithmetic had come loose.
+He read it twice. He checked it against what he could see with his own eyes, because he did not trust a thing he could not corroborate, and the corroboration was on the desk in two places: the ninth and the eleventh. Yes. The notice was correct. It was also almost nothing. It did not say who had written the ninth. It did not say whether it was a mistake or a decision or a slip of a pen in a hurry in a room where nobody had time. It did not touch the second leaf, which he had not read, and it made no claim at all about the scope, which was the part that had moved three duties out of a ward of two hundred and forty people and would not move them back because two days of arithmetic had come loose.
 
 He read it a third time anyway, because a man who has been handed a small true thing and no use for it will go back to it, looking for the door out.
 
 There wasn't one.
 
-The batch wanted his countersignature. That was the whole of what was asked of him this afternoon: a second officer's mark saying the Fourth Desk's copy agrees with what the Office holds, which is not the same as saying the thing is right, and which every clerk in the hall understood to be the same, and which is why the mark is cheap and the batch is the work. He had signed nine hundred of them without reading one, and he would have signed the last one too, and the sheet would have gone up the stair to the seal press before the lamps were lit, and ten weeks clean would have held.
+The batch wanted his mark at the foot of it. That was the whole of what was asked of him this afternoon: his own hand in the box that says the Fourth Desk's copy agrees with what the Office holds, which is not the same as saying the thing is right, and which every clerk in the hall understood to be the same, and which is why the mark is cheap and the copying is the work. He had put that mark under nine hundred batches without reading one, and he would have put it under this one too, and the sheet would have gone up the stair to the seal press before the lamps were lit, and ten weeks clean would have held.
 
 He took the dull pencil. He put it on the entry, on the receiving line, in the space the form leaves for an officer who is not satisfied, and he wrote the six words the form allows and no others.
 
 *Referred for local confirmation.*
 
-Then he did not countersign it.
+Then he left the box at the foot empty.
 
 The rule was one refusal per batch and he had spent it. The other thirty sheets could still go up if the Fourth Desk's copy went up without the Lower Lock sheet, with a memorandum saying which sheet and why; and a memorandum is slower than a batch and slower still is the last week of a quarterly run, which is the thing a man on the Fourth Desk is actually paid in.
 

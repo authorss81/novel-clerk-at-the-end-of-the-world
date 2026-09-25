@@ -1,8 +1,8 @@
 # Chapter 5 — Nobody Else Will Perform It
 
-He had two days of nothing, which was unusual, and he spent the first of them at the Fourth Desk copying a batch that ran clean and the second of them in a state he would not have called worry.
+He had a Saturday, which was unusual. He spent the day at the Fourth Desk copying a batch that ran clean and the night behind it in a state he would not have called worry.
 
-On the second day a clerk he did not know brought a bundle of returned papers down from the seal stair and put it on the wrong desk, and among the returns was a stamped copy of the Lower Lock transfer, and the copy was closed. The office's own copy, returned because the review was over and the file had been made up. Owen looked at the closure stamp on it and did not touch it and did not think about it, because there was nothing to think about yet, and because a man who is on the fourth page of a case has no business being pleased.
+On the Sunday a clerk he did not know brought a bundle of returned papers down from the seal stair and put it on the wrong desk, and among the returns was a stamped copy of the Lower Lock transfer, and the copy was closed. The Office's own copy, returned because the review had sat and the file had been made up. Owen looked at the closure stamp on it and did not touch it and did not think about it, because there was nothing to think about yet, and because a man who is on the fourth page of a case has no business being pleased.
 
 Then it rained hard, and it was the sixth day.
 

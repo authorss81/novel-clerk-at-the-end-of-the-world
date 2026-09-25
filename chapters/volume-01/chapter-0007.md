@@ -12,9 +12,7 @@ The first refusal came from Ilse Mern, at the pump, at seven in the morning, wit
 
 The ninth day went like that. Owen went round Lower Lock with a sheet and a pencil and asked everybody who had put a hand to one of the four things to witness a duty their own household was part of, and every one of them found a way to be kind and to say no, and the reasons were not all the same, and the reasons were the most useful thing he learned that day.
 
-Bram Tillet would not, because he had voted against the transfer, and a man's refusal of one thing is a man's refusal, and he would not put his name under a return the four of them had voted against. Holm Ferris would not, because the watch is paid out of the ward and a man cannot hold a lamp for both sides. Nessa Kray, seventy-one, would not, because the seed stall is in neither leaf of that annex, and she has kept a thing outside the Registry for forty-one years and is not joining one at the end of them. Wenna Sarr would not, and did not need to be asked twice, and gave a reason Owen wrote down word for word because it was the sixth of the six: *I am not a witness. I am the only grown person that child has got.* Ada was not asked, and did not need to be; she was one of the four who had said no, and a woman who has said no once in a room does not say it twice in a kitchen.
-
-He came back to the hall at four with the sheet almost empty and sat down, and Marguerite Bray read it upside down and put it face down and said, in the voice she used for the delivery book, "Well. Now you know the shape of the job."
+Bram Tillet would not, because he had voted against the transfer, and a man's refusal of one thing is a man's refusal, and he would not put his name under a return the four of them had voted against. Holm Ferris would not, because the watch is paid out of the ward and a man cannot hold a lamp for both sides. Nessa Kray, seventy-one, would not, because the seed stall is in neither leaf of that annex, and she had sold seed in this ward for forty-one years without once needing a Registry to agree that she was a woman who sold things, and she was not joining one at the end of them. Wenna Sarr would not, and did not need to be asked twice, and gave a reason Owen wrote down word for word because it was the sixth of the six: *I am not a witness. I am the only grown person that child has got.* Ada was not asked, and did not need to be; she was one of the four who had said no, and a woman who has said no once in a room does not say it twice in a kitchen.
 
 He came back to the hall at four with the sheet almost empty and sat down, and Marguerite Bray read it upside down and put it face down and said, in the voice she used for the delivery book, "Well. Now you know the shape of the job."
 
@@ -82,7 +80,9 @@ The boy was seventeen-looking in that light with rain in his hair, and he though
 
 "That's the Dory in Ada's crew," he said. "There's only one of that as well." Then he went past him, got the priming bar out of its socket, and worked harder for the next four hours than anybody else on the pump.
 
-Which was the first act. After it there was a marker to go up on the weir path, chalk and paint, because the water was up and the marker had been down since the flood and the crew had been waiting three weeks for a day they could set it without a man standing in the river. Then the granary accounts, because the season's second weighing had been done on the seventh with nobody from the office there, and the counts were in Mern's hand and Tillet's and Bray's, and the double count matched, and the hundred and nine barrow-loads of stone a year did not, because there had been no stone in the quarter and the line had been carried forward by somebody in an office with a pen.
+Ada came by at eight with the slate in her hand and looked at the four hours of priming on it and then at him standing in the doorway with the lamp still in his, and said, "Copyist who stayed," and went back out into the rain before he could answer it, and he understood that it was not affection, and that it was worth more than affection, and that he would be back on that step at four in the morning for as long as the return stood.
+
+Which was the first act. Then the granary accounts, because the season's second weighing had been done on the seventh with nobody from the office there, and the counts were in Mern's hand and Tillet's and Bray's, and the double count matched, and the hundred and nine barrow-loads of stone a year did not, because there had been no stone in the quarter and the line had been carried forward by somebody in an office with a pen. The second act was the marker, chalk and paint, which had been down since the flood, and the crew had been waiting three weeks for a day when the man holding the board would not have to stand in the river.
 
 Owen wrote that down too, and when Ada read it she said, "That's a fourth thing, and nobody has claimed it since the flood."
 
@@ -92,9 +92,9 @@ Owen wrote that down too, and when Ada read it she said, "That's a fourth thing,
 
 ---
 
-The return was drafted branch by branch. It took the rest of that day and most of the night and it was four times the work Owen had allowed himself, and it went the way Nell had said it would go: three of the nine wanted their own page.
+The return was drafted branch by branch. It took the whole of the morning after the pump and four times the work Owen had allowed himself, and it went the way Nell had said it would go: three of the nine wanted their own page.
 
-They wanted it in terms Owen had never heard in nine years of copying. Not *private* — that was a word from the Mill Ward, and the three of them had heard it and disliked it. What Ilse Mern said was: "I'll not have my name on a page with anybody else's on it. There's nine of us and four who said no, and the minute a page's got a yes on it and a no on it and the two are the same sheet, in ten years there's a clerk reads that page and says the ward did it and the ward didn't. I want my own page. I want to be able to hand it in on its own."
+They wanted it in terms Owen had never heard on any desk in this building. Not *private* — that was a word from the Mill Ward, and the three of them had heard it and disliked it. What Ilse Mern said was: "I'll not have my name on a page with anybody else's on it. There's nine of us and four who said no, and the minute a page's got a yes on it and a no on it and the two are the same sheet, in ten years there's a clerk reads that page and says the ward did it and the ward didn't. I want my own page. I want to be able to hand it in on its own."
 
 They were right, and it took him a moment to see why, and it was a moment he wanted back afterwards: a page with a yes and a no on it is not a record of two people, it is a record of an argument, and an argument is the one thing a return can never be built out of.
 
@@ -104,7 +104,7 @@ So nine sheets, one adult to a sheet, no shared line anywhere, the three who had
 
 He wrote that in the margin before he wrote anything else, because a man who has been handed a tool by a woman in a kitchen deserves to use it correctly the first time.
 
-The scope took the rest of the night and the better part of the morning, and it was the part of the whole business that mattered most.
+The scope took from about eleven and was still going at two, and it was the part of the whole business that mattered most.
 
 They fought about the word *crossing* for two hours. Owen wanted it in the first line, in the title, in the subject box, in the act, in the effect, and he wanted *the Ninth Weir is maintained by this ward* in a form that could be copied into a claim by anybody who ever needed it. He wanted it because he had learned, since the first of the month, that a thing which is not named cannot be held by anybody, and because a document that says *public works* can be made to mean whatever the next clerk needs it to mean.
 
@@ -112,7 +112,7 @@ Ada beat him with a sheet of paper and a wet marker boot.
 
 "Try it," she said. "Read me the version where it says the crossing is maintained."
 
-He read it. He had written it twice by then, and the second version was good, and it said: *The Ninth Weir public crossing is maintained by this district. It is load-restricted to vehicles above four tons and closed to loaded traffic pending structural assessment. Its maintenance is the duty of this district.*
+He read it. He had written it twice by then, and the second version was good, and it said: *The Ninth Weir public crossing is maintained by this district. It is load-restricted to vehicles above four tons and closed to loaded traffic, as it has been since the spring notice, and is not claimed by this return to be open. Its maintenance is the duty of this district.*
 
 "Last line," Ada said.
 
@@ -140,6 +140,14 @@ Owen wrote it out and it took a quarter of an hour and it was, he understood as 
 
 ---
 
+Then Owen did the thing that was left to do, which was to put the ward's words in where his own were, and to do it before anybody came to look at it.
+
+He wrote the scope out again in the order the ward had said it: the actual words, in the order they had been spoken, on the pump step and at the weir path and in the hall, and where a ward member's phrase was better than his he kept the ward's, and where two of them disagreed he wrote both and noted the disagreement, because the difference between *we closed it* and *the district closed it* is the whole difference between a ward that keeps a thing and a ward that was done to.
+
+He was still at it when Ada came in out of the rain with her sleeves full of river and told him that a thing had gone up to the seal stair at noon with the Deputy Registrar's seal on it, that it was addressed to the Fourth River Desk and had been lying on his rail since two, and that it was not a courtesy.
+
+---
+
 Wend Voss came out at half past three on the tenth day with a lantern and a folded coat under his arm, and stood at the top of the weir path for ten minutes without saying one word while a nineteen-year-old set a six-foot marker in the wet and two of the crew held it, and then he wrote his observation in the margin himself, in his own words, and added a second line for a pump start on the ninth that he had walked down from the annex on his own time to see and had mentioned to nobody.
 
 *Witnessed by W. Voss, counter clerk, Mill Ward annex: the marker set at the weir path, and a pump start at the hour stated. I witnessed these acts. I witnessed no drafting and I have no view on the wording. My district received the maintenance of this crossing and did not perform it. I record that I consider its performance a cost to my district and not a gain, and that I have signed because a cost I have carried for eleven months with no district behind it is a cost I would rather see named.*
@@ -160,7 +168,7 @@ It was in the drawer, and he had known it was there since the sixth, and he took
 
 The page said nothing.
 
-Not nothing, exactly. That was the part he had to sit with. There was no small cold place behind his sternum, no pressure, no line of print in the margin, no date, no name, no next act required. He put his palm flat on the ward's copy and read it and looked at the pier behind it and then picked up the six other documents on the table and read all of them in the same way, one after the other, and got the same nothing from every one, and it took him four attempts to understand what had happened.
+Not nothing, exactly. That was the part he had to sit with. There was no small cold place behind his sternum, no pressure, no line of print in the margin, no date, no name, no next act required. He put his palm flat on the ward's copy and read it and looked at the pier behind it and then picked up the six other documents on the table, which were all copies out of the same made-up file, and read them the same way, one after the other, and got nothing out of any of them either, and it took him four attempts to understand what had happened.
 
 He could see the *district works inspection roll* the moment Pell named it. He could see a thin file. He could see a file with a contradiction in it, and he had seen one on the first day of the month, sitting at the Fourth Desk, comparing two dates and a stamp, and the margin had told him the date was early in a single line and left him to do the rest of the work himself.
 
@@ -168,16 +176,12 @@ This file was not thin.
 
 It was closed. The review had sat on the fifth day — he had learned that on the sixth, in a bundle of returned papers on the wrong desk, and had not thought about it since — and a review that has sat closes the file, and a closed file does not answer. The district works inspection roll was a public document kept in an open drawer and a thin error file is a document somebody still has a use for, and this was neither of those things. It was a file that had been finished, on purpose, by men who had done what they were required to do and had gone home.
 
-Owen Rusk sat in a ward hall in the rain with his hand on a dead file and understood the first true thing anyone had ever taught him that he did not already know: that the difference between a document that answers and a document that has been closed is not a matter of degree, or of cleverness, or of how well you read, and that a thin file having once spoken to him was not a promise that this one would.
+Owen Rusk sat in a ward hall in the rain with his hand on a dead file and understood the first true thing anyone had ever taught him that he did not already know: that the difference between a document that answers and a document that has been closed is not a matter of degree, or of cleverness, or of how well you read.
 
-He had no instrument for that. There was nothing in nine years that told him what a silence was. He wrote it down anyway, in his own book, in the plainest words he could manage, and wrote down the word *closed* and the date of the review, because he was a man who wrote things down and because on the day somebody wanted to know what the Office knew and when it stopped telling, the date would be the only thing he had.
+He had no instrument for that. Nothing in this building told him what a silence was. He wrote it down anyway, in his own book, in the plainest words he could manage, and wrote down the word *closed* and the date of the review, because he was a man who wrote things down and because on the day somebody wanted to know what the Office knew and when it stopped telling, the date would be the only thing he had.
 
 *Nothing came. The file was closed at the review on the fifth. A closed file is not a thin file. A thin file answers and a closed file does not, and I cannot tell them apart except by the stamp, and the stamp is a thing they put on.*
 
-He put it back in the drawer and closed the drawer, and then he did the second thing, which was the thing that made the tenth day worth having.
-
-He wrote the scope in the ward's own words: the actual words, in the order they had been said, on the pump step and at the weir path and in the hall, and where a ward member's phrase was better than his he kept the ward's, and where two of them disagreed he wrote both and noted the disagreement, because the difference between *we closed it* and *the district closed it* is the whole difference between a ward that keeps a thing and a ward that was done to.
-
-He was still writing when the light came up over the water, and Ada came in out of it with her sleeves full of river and told him that the District Deputy Registrar's office had sent a thing up to the seal stair at noon, that the Fourth Desk was to receive it in the afternoon, and that it was not a courtesy.
+He put it back in the drawer and closed the drawer, and did not open it again, which was not in him, and which he noticed himself not doing.
 
 And Owen put the nine pages on the desk and squared them, and looked at the clock, and understood that the return was finished — signed, witnessed, narrowed, disputed, and complete on its face — and that there was not one qualified man in the Registry of Continuant Works who could enter a single word of it.

@@ -27,7 +27,7 @@ chapters/volume-01/chapter-0011.md
 chapters/volume-01/chapter-0020.md
 ```
 
-Each file is prose, beginning with a `# Chapter N — Title` heading. No outlines, no chapter synopses, no beat lists, no placeholder text, no meta commentary about the batch or the cards. Never cut away mid-sentence to manufacture suspense. Ordinary chapters run roughly 2,200–3,200 words; a compact reversal may be shorter and a complete scene may be longer. Never pad to a number and never split a finished scene to hit one. Three of Batch 0001's chapters ran long; Chapters 7, 10 and 3 in particular. Prefer tightening inside a scene to adding a beat.
+Each file is prose, beginning with a `# Chapter N — Title` heading. No outlines, no chapter synopses, no beat lists, no placeholder text, no meta commentary about the batch or the cards. Never cut away mid-sentence to manufacture suspense. Ordinary chapters run roughly 2,200–3,200 words; a compact reversal may be shorter and a complete scene may be longer. Never pad to a number and never split a finished scene to hit one. Batch 0001 finished long in several chapters — 7, 10, 8, 9 and 3 — because each of them carries a full two-day or twenty-hour day in one scene. Prefer tightening inside a scene to adding a beat, and if a scene needs the room, let it have the room.
 
 ## Where the Batch Starts
 
@@ -39,14 +39,14 @@ It is **batch Day 15, a Tuesday**, the third week of the rain season, C.Y. 487. 
 
 ## The Act This Batch Opens On, and the One It Cannot Do
 
-**Chapter 11 is the entry of Lower Lock's district return as a filing.** That is the act Batch 0001 could not perform: in that batch there was no qualified signer, and the return sat unentered at the back of Pell's tray with a covering slip naming Owen as the person who delivered it. On Day 15 the supervised tray has an assisting clerk slot, Owen is the only clerk in the hall not yet taken off the copying floors, and Pell is supervising. He enters it. It is **his first qualified filing**. That single act:
+**Chapter 11 is the entry of Lower Lock's district return as a filing.** That is the act Batch 0001 could not perform: in that batch there was no qualified signer, and the return sat unentered at the back of Pell's tray with a covering slip naming Owen as the person who delivered it. On Day 15 the supervised tray has an assisting clerk slot, Owen is the only clerk in the hall not yet taken off the hall, and Pell is supervising. He enters it. It is **his first qualified filing**. That single act:
 
 - lifts the freeze on the ward's standing;
 - restores the crossing's status **as a duty the ward performs** and as nothing else — not safe, not open, not funded, not repaired;
 - starts the return's own seven-day review, first due **Day 22**;
 - puts Owen's name on a qualified instrument for the first time in his working life, and puts Pell's name on it as supervisor.
 
-He is **Stage 1, Sealed Witness** in the sense the bible defines — a completed qualified filing, a named duty accepted, and a demonstrated knowledge of what the entry cannot support. He does **not** hold a preservation hold, does not have three or four cases, and does not lose a name. Stage 1's real costs arrive at Chapter 46 and in Batch 0003. Do not spend them here.
+**He is still Stage 0, a Copy Clerk.** One assisted filing is not a stage. He acquires no preservation hold, no term, no authority beyond this tray, and no duty that can take a name off him. **Stage 1, Sealed Witness is acquired at the Chapter 46 certification**, and the costs of it arrive there. Do not spend them here and do not name the stage in the prose.
 
 ## Rules That Govern This Batch
 
@@ -61,7 +61,7 @@ These are not suggestions. Violating one breaks the volume.
 - **Four instruments stay apart:** the spring engineering notice on the Ninth Weir; the C.Y. 486 transfer receipt; Pike's Chapter 8 load-restriction suspension; and **Stability Order 114**, signed by Pike in Chapters 17–18 on the sixteen failing returns named in Chapter 3. Stability Order 114 is a **stability order under the Deputy Registrar's solvency authority** closing or suspending named failing district returns together. It is not a load restriction, not a closure interval, and not a suspension of an individual status. It is the instrument that reaches public appeal.
 - **Three seven-day clocks stay apart.** The return's review interval, first due **Day 22**. The answer clock, due **Day 19**. The closure interval. None satisfies another. The written answer on Day 19 restores nothing and holds nothing.
 - **The Day 14 lapse is never walked back.** It stands in the roll for the rest of the volume. Entering the return on Day 15 does not amend the Day 14 entry; it starts a new status from the day of entry.
-- **The two annex leaves stay apart**, and neither carries the backdating in this batch because the backdating was surrendered in Chapter 5 and never corrected. The three requests refused inside that two-day window stay logged and unexplained. Batch 0003 is the earliest beat that may pay them.
+- **The two annex leaves stay apart**, and neither carries the backdating in this batch because the backdating was surrendered in Chapter 5 and never corrected. The three requests refused inside that two-day window stay logged and unexplained for the whole of Chapters 11–19. **Chapter 20 is the only beat in this batch that may name them or say what they were about**, and it may do it only because the ward's own delivery book puts them there; the Office never explains them, nothing is restored, and Owen's withdrawn charge is not reinstated. **Batch 0003 is the first beat that may take it further.**
 - **Marginalia is thin and contradictory files only.** The batch may stage one or two more perception beats and no more, both on genuinely thin or contradictory records. A thin file answers him. A held, closed or sealed file is silent, and Owen is now learning what silence is worth — that is the Chapter 14–15 material. Never a notice on a sealed record, never numbers, bars, skill lists, solution buttons, or software jargon. No third "system."
 - **The instrument is a district return**, file number **487-LL**. "Local return" is the category word. The Council's own language may use it.
 - **Nothing restores the dead.** Marta Rusk and Tal Sarr stay dead, and the correct record says so. Dory Anstruther's injury and treatment record stand beside the Office's schedule as two descriptions of the same living man.

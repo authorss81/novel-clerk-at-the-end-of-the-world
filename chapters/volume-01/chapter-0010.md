@@ -34,9 +34,9 @@ And the fourth thing was not on the roll at all. It was in a lane in Lower Lock 
 
 ---
 
-They had been at it since midnight. The pump had gone on the twelfth and had not come back; the reason was a rod that needed a new pin, and the pin had been at the mill's factor since the ninth, and the mill's factor had gone to Fetter Bend on Friday and was coming back on a Tuesday. So half the ward had been turning a hand pump in the dark for twelve hours, in shifts, in the rain, with a bucket and a lantern and a tally on a slate.
+They had been at it since the pump went, at six on the evening of the twelfth, and it had not come back; the reason was a rod that needed a new pin, and the pin had been at the mill's factor since the ninth, and the mill's factor had gone to Fetter Bend on Friday and was coming back on a Tuesday. So half the ward had been turning a hand pump in the dark for twelve hours, in shifts, in the rain, with a bucket and a lantern and a tally on a slate.
 
-Owen had been there for four of them. He had wanted to give them money and Ada had stopped him at the pump house door with one flat hand, and when he said that his mother's burial had been disputed for eight months over a residence status, and this is the same, she looked at him for a long moment and said: "Yes. It is. And if I take your money tonight, then in six months when the return is entered there will be a sheet somewhere with your father's money in it, and I will have to hand it back or lie about it. I have a crew of nine and a hall stove that only burns when somebody pays for the coal. I am not doing any of that tonight."
+Owen had been there for four of them. He had wanted to give them money and Ada had stopped him at the pump house door with one flat hand, and when he said that his mother's burial had been disputed for eight months over a residence status, and this is the same, she looked at him for a long moment and said: "Yes. It is. And if I take your money tonight, then in six months' time there will be a sheet somewhere in this business with your money on it in a ward's return, and I will have to hand it back or lie about it. I have a crew of nine and a hall stove that only burns when somebody pays for the coal. I am not doing any of that tonight."
 
 So he turned the handle for four hours and went home wet to the elbow, and he learned, in a way no document had taught him, what twelve hours at a hand pump does to a person in a ward of two hundred and forty. He wrote it down, because he was a man who writes things down.
 
@@ -86,7 +86,7 @@ He unfolded it. Six names, and against each, in Pell's square hand: *custodian �
 
 "That is a protective return with every part left out."
 
-"Yes. A protective return needs two unrelated living witnesses, a current care act and a named appeal route, and it holds a child or a person who cannot answer for seven days at a time, and it never binds their future consent, labour, name, vote or private life. Lower Lock has none of the three parts. The one person in that ward who could be a custodian is sixty-one and handwrites a roll, and the child who matters most is twelve, and lives two doors from her with an aunt who is one of the four people this ward has already decided were wrong."
+"Yes. A protective return needs two unrelated living witnesses, a current care act and a named appeal route, and it holds a child or a person who cannot answer for seven days at a time, and it never binds their future consent, labour, name, vote or private life. Lower Lock has none of the four parts. The one person in that ward who could be a custodian is sixty-one and handwrites a roll, and the child who matters most is twelve, and lives two doors from her with an aunt who is one of the four people this ward has already decided were wrong."
 
 "So it cannot be done."
 
@@ -112,7 +112,7 @@ It was not a law and it was not addressed to him. It was a Council instruction t
 
 The clerk on the seal stair, who was about fifty and had been there twenty years, did not look up.
 
-"Form Zero," she said. "The Common Return. It is the only instrument that can take a stability order out of the file, because a stability order is a district instrument and a district instrument is answered by a return, and Form Zero is not a return, it is the end of the Mandate." She dipped her pen. "It has no valid signature path. It has never had one. There is a form and a schedule of witness conditions and nowhere on it to put anybody's hand. It is due in thirteen years, if the Mandate runs to it, and every clerk in this building has a copy of the first page in a drawer because you are required to have one, and nobody has ever filled it in, and that is the whole of what I know and I have been here twenty years."
+"Form Zero," she said. "The Common Return. It is the only instrument that can take a stability order out of the file, because a stability order is a district instrument and a district instrument is answered by a return, and Form Zero is not a return, it is the end of the Mandate." She dipped her pen. "It has no valid signature path. It has never had one. There is a form and nowhere on it to put anybody's hand. It is due in thirteen years, if the Mandate runs to it, and every clerk in this building has a copy of the first page in a drawer because you are required to have one, and nobody has ever filled it in, and that is the whole of what I know and I have been here twenty years."
 
 "Half the ward is frozen this morning."
 
@@ -120,7 +120,7 @@ The clerk on the seal stair, who was about fifty and had been there twenty years
 
 "And nothing you can do about it."
 
-"No," said the clerk, "and I would not do it if I could, and the reason is on the first page in a drawer, and it says that no person may answer for another without that person's right to refuse. It is one sentence long, and it is the only sentence in this building that anybody has ever been afraid of, and I have never met a Chancellor and I do not want to."
+"No," said the clerk, "and I would not do it if I could, and there is a reason for that on the first page in the drawer, and it is one sentence long, and I am not going to read it out to you on a stair rail in the rain. I have never met a Chancellor and I do not want to."
 
 ---
 
@@ -136,7 +136,7 @@ Nell Arbour came to the ground-floor counter at about half past five, which is n
 
 "Meaning the return does not need to be entered this week. It needs to be *valid* eventually, and it needs an appeal route that is open now, and it has one, and a route that is open now is worth more than an entry that arrives after the eighteenth and is refused because of a circular." She tapped the counter. "So the thing you are going to do is not the entry. It is the route. And the route needs a person at the other end of it who is not you and is not me and is not the Office, and there are about four people in the delta who could be that person and two of them are women I have had words with."
 
-"Ellis—"
+He had the first name ready. It was on the end of his tongue, and she watched his face while he did not say it, and cut across him anyway.
 
 "No. Here is the condition, and I am giving it to you in the street because in a room you would negotiate it. I will help with the appeal route. I will not be its witness. And I will not be yours." She said it without any weight at all, the way you read out a thing settled a long time ago. "Not because I don't believe you. Because an advocate who becomes one ward's person is that ward's person, and I told you why and you did not listen and I am not explaining it twice in the rain. And because the hardest part of this is not entry. It is asking people to be responsible in public, in a room, with their names on it — and you are not going to be able to do it for them, and every single thing you do from this counter is another thing you do for them."
 

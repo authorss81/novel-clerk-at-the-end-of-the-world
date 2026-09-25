@@ -130,7 +130,7 @@ Pike looked at him for a while.
 
 "Yes, sir."
 
-"Fine. It's the right form and it'll take the docket. Error cases get read, because an error case has a floor under it — a person can be put back. You'll want two witnesses for the seven who can be asked, and for the six who cannot you will want something this Office has not got. There is no form for that. There is a sealed thing on the seal stair for a person who cannot answer, and it needs a custodian, a route, and two witnesses who do not live together, and this ward has none of the three." He stood up again. "File it thin. And don't let anybody tell you it's about the ward's existence. It's about thirteen lines on a leaf. If you make it about the ward, this office will answer you about the ward, and you will lose the thirteen for the sake of two hundred and forty."
+"Fine. It's the right form and it'll take the docket. Error cases get read, because an error case has a floor under it — a person can be put back. You'll want two witnesses for the seven who can be asked, and for the six who cannot you will want something this Office has not got. There is no form for that. There is a sealed thing on the seal stair for a person who cannot answer, and it needs a custodian, a route, and two witnesses who do not live together, and this ward has none of them." He stood up again. "File it thin. And don't let anybody tell you it's about the ward's existence. It's about thirteen lines on a leaf. If you make it about the ward, this office will answer you about the ward, and you will lose the thirteen for the sake of two hundred and forty."
 
 It was good advice, and it cost the Office nothing, and Owen went upstairs and wrote the filing exactly as instructed: error only, thirteen lines, not the ward.
 
@@ -160,7 +160,7 @@ He had noticed her the way you notice a new lamp in a hall: as a change in the l
 
 She put the pen in its cup and squared her sheet.
 
-"You'll want the Form 9-C for an error case," she said. "And the schedule has to go in whole, both leaves, or the clerk will return it. And if you're filing it in your own name—" She tipped her head slightly. "Then it's not an error about a schedule. It's a statement by a Registry clerk that this Office is wrong, and everyone who reads it will know that's what it is, including him." She nodded once at the stair, where Pike had gone. "So make sure it's worth it."
+"You'll want the Form 9-C for an error case," she said. "And both leaves have to go in with it, whole, or the clerk will return it. And if you're filing it in your own name—" She tipped her head slightly. "Then it's not an error about a schedule. It's a statement by a Registry clerk that this Office is wrong, and everyone who reads it will know that's what it is, including him." She nodded once at the stair, where Pike had gone. "So make sure it's worth it."
 
 He filed it at four o'clock. The Form 9-C is a thin blue sheet, and the filer's name goes in the top box in the same size letters as the subject, and Owen wrote *Owen Rusk, Copy Clerk, Fourth River Desk* and sat looking at it before he put it in the tray, which is the only moment in the procedure at which a man can still take it back.
 

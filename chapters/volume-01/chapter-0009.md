@@ -36,7 +36,7 @@ He read it. The box above the two witnesses' names is the box on the short form 
 
 "Then this sheet says two people in a building said yes. That's not a witness, that's a rumour with a seal on it." She put the sheet down on the corner of the desk and squared it, and did not push it back, and did not take it, and did not say the word *no*.
 
-"You are the copyist of this desk," she said, "and I am the copyist of this desk, and if I take that sheet I am certifying a witness line with my hand on it, and there is nobody in this room who can say those two people were in the room. Not the four you asked in the hall. Not the woman who keeps the roll. Nobody." She looked up. "I have been in this Office three weeks and I have signed my name under four hundred things and every one of them I have seen. I am not going to start with that one."
+"You are the copyist of this desk," she said, "and I am the copyist of this desk, and if I take that sheet I am certifying a witness line with my hand on it, and there is nobody in this room who can say those two people were in the room. Not the four you asked in the hall. Not the woman who keeps the roll. Nobody." She looked up. "I have been in this Office three weeks and I have signed my name under eleven hundred things and every one of them I have seen. I am not going to start with that one."
 
 "Pell—"
 
@@ -82,7 +82,7 @@ Marguerite Bray did not queue. She went to the rail and put her ledger on the le
 
 The clerk looked at her. Then he looked at the queue, and then at his own hands, and said, "Against what instrument?"
 
-"Against the transfer of the maintenance of the Ninth Weir crossing, entered on the Mill Ward return in the autumn of last year, and against the lapse of its status at the continuance roll on Monday, and against the conditions in which this ward's households now stand."
+"Against the transfer of the maintenance of the Ninth Weir crossing, entered on the Mill Ward return in the autumn of last year, and against the lapse of its status that the continuance roll is to enter on Monday, and against the conditions in which this ward's households now stand."
 
 "That is a lot to put in one petition."
 
@@ -90,7 +90,7 @@ The clerk looked at her. Then he looked at the queue, and then at his own hands,
 
 "Madam, I can refuse a petition, and if I refuse it I have to write a reason, and the reason goes on the file and the file is public. I would have to write that a ward's steward may not ask this office to explain how it came to hold a public crossing." He said it without any inflection, as though he were reading a form. "I am not going to write that. Give me the words. I will enter what you say."
 
-"I know the words," said Marguerite Bray, "because I have been sitting in a kitchen for eleven days being told what they are, and nobody has written them down."
+"I know the words," said Marguerite Bray, "because I have been in that kitchen since the letter came, being told what they are, and nobody has written them down."
 
 So Owen stood at the rail and did not say one word while a woman of sixty-one with a hand-kept ledger dictated a petition, at some length, in the flat unhurried cadence of somebody reading out a delivery book, and he understood as it went along that he had spent a fortnight learning how to write a document and was now, for the first time in his life, being present while one was written by a person who was better at it.
 
@@ -128,7 +128,7 @@ Owen stood at the rail and listened to a man he had never met tell a ward stewar
 
 And Owen Rusk, a copy clerk with no authority to change a status, went up the Glass Stair and back to the Fourth River Desk and became a co-petitioner in his own name in a case he could not win by being correct, which is a thing the Office had no form for, because in nine years he had never seen it done and had certainly never thought of doing it.
 
-At the desk he wrote the one thing he had come down to write, on a sheet of the form's own paper, and it took him twenty minutes, and it is the only document in this business that carries his name for anything at all.
+At the desk he wrote the one thing he had come down to write, on a sheet of the form's own paper, and it took him the best part of an hour, and it is the only document in this business that carries his name for anything at all.
 
 **STATEMENT OF MY PART, by Owen Rusk, Copy Clerk, Fourth River Desk.**
 *I was the clerk of the Fourth River Desk. On the seventh day of this month I was instructed by the Mill Ward annex, in writing, to prepare a notice of ward ratification in the form provided, and the instruction included the direction that ward notices do not carry public works crossing language. I prepared the notice. I filled the scope box with a reference to the transfer registered at the Mill Ward annex rather than with a naming of the three works transferred, one of which is the Ninth Weir public crossing. I put my initials in the box the form gives the preparing clerk, which certifies that the sheet is my work and that the scope was filled as instructed, and which certifies nothing else whatever. I did not tick the box that certifies the notice accurate and complete, and I did not read it when the district office ticked it without me, and I let that stand, on a document of mine, about a ward of mine, with a word in it I knew to be true and knew to be unread. I did not name the crossing, and I knew at the time that the crossing was one of the works transferred and that the majority of the households in the ward had not read the transfer. I did not at any time make objection to the notice, either when I was instructed to prepare it, when I initialled it, when it was posted, or in the week after it was posted. I was not in the ward meeting of the seventh day until after it had begun, and I was removed from it when I attempted to state the omission. I state these facts because I am aware that the effect of the notice upon this ward was to obtain signatures to a consent whose subject the signers could not read, and I do not ask for that to be excused. I ask only that it be on the file.*

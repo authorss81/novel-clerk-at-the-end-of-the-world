@@ -1,6 +1,6 @@
 # Chapter 4 — Arbour Kitchen
 
-Arbour Kitchen had been a bakery that had failed and then had been something else, and the something else was a front room with four tables, a stove, a kettle going all day, and a rule that anybody could sit down if they were hungry and anybody could speak if they wanted a witness. On a Thursday afternoon in the second week of the rain season there were nine people in it, and three of them had come upriver from Lower Lock in the last two days and were sitting with their coats still on, and Owen knew them all.
+Arbour Kitchen had been a bakery that had failed and then had been something else, and the something else was a front room with four tables, a stove, a kettle going all day, and a rule that anybody could sit down if they were hungry and anybody could speak if they wanted a witness. On a Friday afternoon in the second week of the rain season there were nine people in it, and three of them had come upriver from Lower Lock in the last three days and were sitting with their coats still on, and Owen knew them all.
 
 Nell Arbour came out of the back with a ledger under her arm and her left hand held slightly away from her body in the way she had held it for six years, since a redaction case in Docketford had left the nerves in it unreliable and a bad operation had left the feeling worse. She was thirty-five. She had been an examiner in the building Owen worked in, four desks below his own, and she had left it two years ago, and the last words either of them had spoken were spoken in a hearing room, and they had both spent a certain amount of the intervening time being extremely busy.
 
@@ -16,7 +16,7 @@ Nell Arbour came out of the back with a ledger under her arm and her left hand h
 
 "Three families—"
 
-"Are in my kitchen because they walked to the annex on Tuesday morning and sat in a queue for six hours on the strength of a letter nobody had explained to them, and the counter clerk told them the ward's claims were being consolidated, and one of them asked what that meant, and the clerk said it meant they should come back after the next review with their papers." Nell sat down across the table from him. "I did not go and get them. They came here. And the Tuesday letter is eleven days old, and I have had somebody at this table every day since the morning it came in, and I did not need the Registry's permission to sit down with a person who is frightened."
+"Are in my kitchen because they walked to the annex on Tuesday morning and sat in a queue for six hours on the strength of a letter nobody had explained to them, and the counter clerk told them the ward's claims were being consolidated, and one of them asked what that meant, and the clerk said it meant they should come back after the next review with their papers." Nell sat down across the table from him. "I did not go and get them. They came here. And the Monday letter is eleven days old, and I have had somebody at this table every day since the morning it came in, and I did not need the Registry's permission to sit down with a person who is frightened."
 
 Owen put the oiled paper on the table.
 

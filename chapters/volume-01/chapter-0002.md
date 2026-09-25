@@ -16,7 +16,7 @@ Marguerite Bray was sixty-one and kept Lower Lock's roll by hand because, she ha
 
 "Right," she said. "You're here, so you'll hear it. Not because you asked."
 
-The letter had come eleven days ago. It was on the table face up under the brass weight, and it was a good letter, that was the trouble with it. It was warm in the way the Office manages to be warm. It noted that the Registry understood that households in marginal wards were often placed at a disadvantage by the cost of maintaining public works, and that in the interests of "better protection" residents were invited to *consolidate claims at the Mill Ward annex*, where a single counter would serve several wards more efficiently than scattered parish arrangements, and where assistance with roofing and water grants could be applied for under one return.
+The letter had come eight days ago. It was on the table face up under the brass weight, and it was a good letter, that was the trouble with it. It was warm in the way the Office manages to be warm. It noted that the Registry understood that households in marginal wards were often placed at a disadvantage by the cost of maintaining public works, and that in the interests of "better protection" residents were invited to *consolidate claims at the Mill Ward annex*, where a single counter would serve several wards more efficiently than scattered parish arrangements, and where assistance with roofing and water grants could be applied for under one return.
 
 It did not mention a crossing.
 
@@ -46,7 +46,7 @@ He had the piece of paper in his hand. He had rehearsed the thing on the walk up
 
 "I don't need the room. I need you to understand what the Office has done—"
 
-"I understand what the Office did in the autumn." She set the drawing down. "I understand what the Office did, and I understand it's eleven days old and it's the reason I'm standing here tonight with nine men who haven't been paid, because if the crossing's a Mill Ward matter then the crossing markers are a Lower Lock matter and the markers are unpaid, and that's the meeting. That's what's on the board. Do you see the board?"
+"I understand what the Office did in the autumn." She set the drawing down. "I understand what the Office did, and I understand it's eight days old and it's the reason I'm standing here tonight with nine men who haven't been paid, because if the crossing's a Mill Ward matter then the crossing markers are a Lower Lock matter and the markers are unpaid, and that's the meeting. That's what's on the board. Do you see the board?"
 
 He saw the board.
 
@@ -58,7 +58,7 @@ Owen sat back down.
 
 They did the meeting. He stayed for all of it, which was not asked of him and which cost him something he could not have written down, and he learned the ward's actual economy in about an hour, which no entry in any file had ever given him and which he had spent fifteen years believing he already knew.
 
-Two hundred and forty people in thirteen households of record, and the rest of the two hundred and forty — the ones nobody could count, the ones who slept in the sheds behind the granary, the ones who came and went and paid Kray for seed on credit — lived here and would not appear in a district return this century unless somebody wrote them in by hand. The granary held nine weeks in a good year and four in a bad one, and the ward had been having a bad one, and the pump was hand-primed nine times since the twelfth, and the crossing markers were four months in arrears, and the crew of nine had been working a fifth day on the strength of a letter from the mill about stone that had not arrived.
+Two hundred and forty people in thirteen households of record, and the rest of the two hundred and forty — the ones nobody could count, the ones who slept in the sheds behind the granary, the ones who came and went and paid Kray for seed on credit — lived here and would not appear in a district return this century unless somebody wrote them in by hand. The granary held nine weeks in a good year and four in a bad one, and the ward had been having a bad one, and the pump had been hand-primed nine times since the twelfth of last month, and the crossing markers were four months in arrears, and the crew of nine had been working a fifth day on the strength of a letter from the mill about stone that had not arrived.
 
 And then a man at the back stood up, awkwardly, with his hat in his hands.
 
@@ -84,7 +84,7 @@ It took until the lamp wanted trimming. It took longer than that. He wrote out t
 
 At about two he came to the thing he had been avoiding, which was the entry under Fetter Lane.
 
-Cobb Rennie. Age fifty-eight. Nine years at that address, previously, before the infirmary. Present residence, nine years, the same two rooms. Performed act: none recorded. Witnessed act: none. There was no act because there had been nothing to do and nothing to fail at; he had simply been a man in a ward for nineteen years and then, for two of them, a man in a ward that the roll could not locate.
+Cobb Rennie. Age fifty-eight. Nineteen years at that address, before the infirmary. Present residence, twenty-one years, the same two rooms. Performed act: none recorded. Witnessed act: none. There was no act because there had been nothing to do and nothing to fail at; he had simply been a man in a ward for nineteen years and then, for two of them longer, a man in a ward that the roll could not locate.
 
 Owen looked at the entry for a while, and then he wrote under it, in pencil, in Bray's book and not in his own: *witnessed by H. Ferris, night watch, and by B. Tillet, ferry cook, at ward meeting, both to personal knowledge.* He looked at Bray. She gave one short nod, which from her is a decoration.
 

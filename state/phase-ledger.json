@@ -1,15 +1,15 @@
 {
-  "version": 1,
-  "novel": "[novel-slug]",
   "currentPhase": "phase-000-bootstrap",
+  "novel": "novel-clerk-at-the-end-of-the-world",
+  "version": 1,
   "phases": [
     {
       "id": "phase-000-bootstrap",
       "status": "planned",
+      "fallbackUsed": false,
       "range": null,
       "attempts": 0,
-      "actualModel": null,
-      "fallbackUsed": false
+      "actualModel": null
     }
   ]
 }

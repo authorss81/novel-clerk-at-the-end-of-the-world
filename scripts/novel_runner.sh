@@ -3,6 +3,8 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
+git config user.name "novel-fleet-bot"
+git config user.email "novel-fleet-bot@users.noreply.github.com"
 mkdir -p logs
 
 PRIMARY="${NOVEL_MODEL:-opencode/space-bunny-free}"

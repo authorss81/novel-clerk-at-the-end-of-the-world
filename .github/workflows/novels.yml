@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [novel_tick]
-  schedule:
-    - cron: '*/30 * * * *'
 
 permissions:
   contents: write

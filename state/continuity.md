@@ -4,74 +4,112 @@
 
 - The setting is Vespera. Docketford is the opening city; the story begins in Concord Year 487 and ends at the end of Concord Year 500.
 - Owen Rusk is a 32-year-old Registry copy clerk. His want is to save Lower Lock and secure lawful authority; his need is to share responsibility. His flaw is compulsive self-correction and control; his fear is becoming a gatekeeper of valid lives.
-- Nell Arbour is the one slow-burn romance. Ada Rusk is Owen’s sister and an independent bridge mechanic. There is no harem structure.
-- The central mystery is who can complete Form Zero, the Common Return. The original rule forbids proxy authority; the current Registry has narrowed it, and Chancellor Verity Lound’s Assumption Plan is the coercive alternative.
-- Owen’s pooled infancy sponsorship creates a distributed root claim and makes him a possible transmission channel, never a rightful owner of other people’s consent.
-- Power is publicly witnessed fact. A written description never replaces the underlying act. The shared **common future** is the civic layer that lets separate local supports recognize and coordinate with one another; Civic Zero withdraws that layer without instantly erasing every local act.
+- Nell Arbour is the one slow-burn romance. Ada Rusk is Owen's sister and an independent bridge mechanic. There is no harem structure.
+- The central mystery is who can complete Form Zero, the Common Return. The original rule forbids proxy authority; the current Registry has narrowed it, and Chancellor Verity Lound's Assumption Plan is the coercive alternative.
+- Owen's pooled infancy sponsorship creates a distributed root claim and makes him a possible transmission channel, never a rightful owner of other people's consent.
+- Power is publicly witnessed fact. A written description never replaces the underlying act. The shared **common future** is the civic layer that lets separate local acts recognize and coordinate with one another; Civic Zero withdraws that layer without instantly erasing every local act.
 - The final answer is collective: local, household, community-refusal, personal, refusal, and protective returns within a bounded, recorded network activate Form Zero. Owen refuses the sole representative line. Hidden branches remain an acknowledged cost. Lound survives, loses unilateral office, and is not replaced by a new final enemy.
 
-## Volume 01 Canon Clarifications (established by `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`)
+## Volume 01 Canon — SETTLED BY THE WRITTEN BATCH (Batch 0001)
 
-These are author-facing planning facts fixed before Chapter 1 is written. Characters do not know them in advance.
+Everything below is now on the page in `chapters/volume-01/chapter-0001.md` through `chapter-0010.md`. Future prose must not contradict it.
 
-### Named Persons Introduced in Volume 01
+### New named persons and details established in the prose
 
-- **Marguerite Bray**, 61, the unofficially recognized ward steward of Lower Lock. She keeps the ward's paper roll by hand because the Registry's roll is useless to her. She files the petition that puts Lower Lock on the Glass Stair docket in Chapter 9. She is not Owen's ally; she uses him and refuses to be his.
-- **Cobb Rennie**, 58, off the Registry roll for two years while living at the same address, unable to draw a pension because no record places him there. His pension is an unresolved thread carried through the volume.
-- **Tal Sarr**, Lower Lock resident, signed and had witnessed a receipt eleven months before the opening moving the ward's crossing maintenance into the Mill Ward return; authority covered his own household only. **He signed it while alive, late in C.Y. 486, and the Office received it then — it was valid when it was written.** He drowned in the C.Y. 487 spring flood, months afterward, and his death disturbed nothing. **Dead before Chapter 1**, and never a forger, a liar, or a posthumous filer.
-- **Ivy Sarr**, 12, Tal's granddaughter, lives with an aunt. One of the thirteen "no local record" entries. Tal had no authority over her.
-- **Dory Anstruther**, 19, roofer's apprentice and bridge-crew hand, one of the thirteen, injured in the Ninth Weir spillway in Chapter 8.
-- **Wend Voss**, 51, the counter clerk at the Mill Ward annex, the man whose counter received the transfer. He signs as the **second outside witness** to Lower Lock's draft return in Chapter 7, having personally seen acts performed and nothing else, and separates his interest in writing by stating his cost-allocation reservation in the margin. His interest is separable from Lower Lock's only because his district inherited the crossing's cost.
-- **Nessa Kray**, 71, seed stall. **Bram Tillet**, 46, ferry cook. **Ilse Mern**, 44, laundress. **Holm Ferris**, 58, night watch. The remaining entries are in the file and are not all named on the page.
-- **Marta Rusk** is Owen and Ada's mother. Died of fever after a medicine shortage during a flood-year closure; the Registry's delay in revising her residence status delayed priority medicine and left her burial disputed for eight months. Her name is now fixed as Marta.
+- **Wenna Sarr**, keeper of a stall two doors from Marguerite Bray's, aunt to Ivy Sarr, and **one of the four who voted no**. Her reason for refusing to witness is the line that explains the protective-return problem in the ward's own voice: *I am not a witness. I am the only grown person that child has got.*
+- **Bram Tillet** (ferry cook) and **Holm Ferris** (night watch) are the other two of the four dissenters. Together with Ada Rusk that is the whole of the four.
+- **Ferrow**, a bridge-crew hand, works the night inspection with Dory. **Emery Tallack**, counter, Fetter Bend, is the man whose name will not come at the tray in Chapter 10 and comes back out of Owen's own notebook.
+- **Nell Arbour** saw Owen's signed statement "on Saturday" (Day 12) and told him it was the first thing he had written in ten years that was not a way of not saying something.
+- Owen's mother is **dead**. Her **burial** was disputed for eight months over a residence status; do not give her a pension. (Corrected during the review pass.)
+- The Ninth Weir repair estimate is **four thousand one hundred and sixty**. The abutment crack has moved **five inches** since the spring inspection.
+- The ward's granary holds **nine weeks in a good year, four in a bad one**; at the Day 14 roll the bins hold a little over four weeks and will be three by the end of the month.
+- The ward's four maintenance acts are the crossing, the Fetter Lane pump, the granary and **Kray's seed stall**; the transfer moved three and the seed stall is in neither leaf.
+- Cobb Rennie: **nineteen years** at the same two rooms, the last two with nothing in the book. Not one of the thirteen households, not one of the thirteen erased entries.
+- The lower Lock crew is **nine**; the crew's wage and the crossing markers are **four months in arrears**.
 
-### Volume 01 Institutional Objects
+### Instruments and how they were written
 
-- **Stability Order 114** — Docketford's instrument closing Lower Lock, signed by Halden Pike under the Deputy Registrar's solvency authority on the **sixteen failing district returns named in Chapter 3**, one of which is Lower Lock. Issued in Chapters 17–18 and **not before**; it is a **separate instrument** from the Chapter 8 load-restriction suspension and from the pre-existing spring engineering notice, and none of the three may be conflated. Defensible, not fraudulent, and carried into public appeal rather than quietly filed.
-- **The transfer entry** — a *receipt* of a claim, made in C.Y. 486 on Tal Sarr's signed and witnessed authority, assigning Lower Lock's crossing maintenance to a Mill Ward district return. The **receipt** is a supported fact, validly made, and cannot be corrected; it can only be challenged on **scope**.
-- **The annex has two leaves**, which are separate documents and are never both called "the schedule." (1) The **annex schedule** is dated and carries the effective dates of the three maintenance acts the transfer moves: the Ninth Weir crossing, the Fetter Lane pump, and the granary. It is the leaf with the two-day backdating. (2) The **no-local-record schedule** carries the thirteen names and asserts "no local record" against a **single named place, the crossing** — a claim about a place, not about a ward. **Lower Lock maintains four things and the transfer moved three**; the seed stall is in neither leaf and nobody explains it. Nell's Chapter 4 refusal is built on the second leaf, never on the first.
-- **The Day 14 lapse** — the weekly continuance roll in Chapter 10 enters the Ninth Weir's status as **lapsed — no supported district**, because the receiving return never performed the duty and Lower Lock never filed one. **The ward's own witnessed ratification is in the file and does not stop the roll: consent to a transfer is not a district performing a duty.** It stands for the rest of the volume and is never walked back. Consequences, all still true at Chapter 50: the Fetter Lane pump grant is **suspended, not extinguished**; Lower Lock's households cannot be continued, licensed, or witnessed on a district act, so the whole ward is frozen and **not one name is struck**; and the Chapter 8 load restriction is untouched and still in force, so the crossing is closed to loads and unsupported at once. **The Chapter 9 petition is not a stay and holds none of it**, which Chapter 9 states outright. The only cure inside Volume 01 is the ward's own return being entered.
-- **The ward's return is entered in Chapter 11, batch Day 15**, as Owen's first qualified filing as an assisting clerk. That entry lifts the freeze on the ward's standing and restores the crossing's status **as a duty the ward performs** — it does not make the crossing safe, funded, repaired, or open. Nothing in Batch 0001 enters the return: it is finished, witnessed, and sitting unentered at the end of Chapter 10 because no qualified signer exists there.
-- **Owen's destroyed continuity statement** — written in Chapter 8, a real forgery dressed as a summary, torn up by Owen himself in front of Pell. **Before he tears it up he copies the false wording into his own private ledger**, because he is a man who writes things down. Two holders, neither safe: **Pell**, the only living witness to the destruction, and **the ledger**, which has already proved it can leave the building. The earliest beat that may touch it is Batch 0002's attack on Pell's separability; it may also surface in Batch 0003–0004 if anyone but Owen reads the notebook. It must never be paid by Owen confessing it in the first person, and it must never be the thing that earns him forgiveness. Pell owes him nothing for it and neither of them treats it as a debt.
-- **Four instruments, kept apart:** (1) the **spring engineering notice** on the Ninth Weir, pre-existing, technical, carrying no appeal; (2) the **transfer receipt**; (3) the **Chapter 8 load-restriction suspension**, Pike's formal instrument on the engineer's finding that the abutment crack has moved five inches, and the first instrument in the case with a real appeal window — it is the ancestor of the crossing hold at the climax; (4) **Stability Order 114**. Owen copies and enters instrument (3) as Fourth Desk clerk; he signs nothing.
-- **Eleven days and eleven months** — the consolidation letter reaching Lower Lock in Chapter 2, and the families already sitting at Arbour Kitchen in Chapter 4, are **eleven days** old. The Sarr receipt is **eleven months** old. The two near-identical spans belong to different events and must never be blended. The ward lived inside the gap, and part of the volume's accusation is that nobody counted it.
-- **The transfer review** is confirmed for **batch Day 5** and happens off-page: it confirms the transfer, Owen is not on the notice, and nobody tells him. The "two working weeks" Owen believes he has in `outline/volume-01.md` is his assumption, not the calendar. Its closing the file is why the Chapter 7 copy of the transfer returns no marginalia.
-- **The unfiled correspondence tray** — Owen's reassignment posting. It is an **administrative posting, not a legal suspension**: it takes him off the copying floors and does not touch his standing as co-petitioner, his ability to file in his own name, or his signed statement in the docket. He may handle the tray and may not open the cord-brass-tabbed drawer inside it, which is closed in the ordinary physical sense and gives him nothing to perceive.
-- **The backdated annex schedule** — the schedule travelling with the transfer entry carries an effective date two days earlier than the earliest date any part of it could lawfully take effect. This is a real, provable defect, and it is the *only* correctable defect in the file. Owen proves it in Chapter 1, sees the **request register for that two-day window — which carries three refused requests** he cannot account for — then deliberately withdraws it from his own continuance inquiry in Chapter 5, because a correctable error is the Office's preferred way to close a file while leaving the scope untouched. **It is never corrected.** The three refusals are surrendered with the date, stay logged in the Office register, and stay unexplained for the whole batch; the log outlives Owen's withdrawal. The backdating proves the ward was moved before it was told; it says nothing about the transfer's scope. The Chapter 5 reversal depends on this ruling: the error route is not merely closed, it is surrendered on purpose.
-- **A continuance inquiry** — filed in the filer's name, public, suspends nothing, starts a visible docket.
-- **A petition for a hearing** — a request the Office cannot refuse without writing a reason. The cheapest lawful act in the volume and the ward's entry point. It is **entered** in the Glass Stair docket, not granted.
-- **ALDER ROW — 461** — a brass tab naming a Docketford ward officially closed in Concord Year 461, four streets from Owen's home, whose index card says *never opened*. The volume's closing question. Not opened in Volume 01. Beats: Ch 14–15 (Owen's index request, which the Office keeps a copy of), Ch 34–36 (the ward was closed and someone filed a return for it anyway, four streets from his bed), Ch 50 (the closing image).
-- **The countersignature standard** — an **unattributed** review standard already in force at Docketford by Chapter 3, carrying no Docketford number and answering to no office any clerk in the hall can name. The Provisional Council's circular in Chapter 10 names itself as the issuer, states the central countersignature requirement, and sets the "no community return after the present review" deadline that closes the local-return route. This is how Verity Lound is introduced: by circular, not in person. **Who at the Council issued it, and why, is reserved to Batch 0003** and is not discoverable in Batch 0001. Lound's **second** circular arrives in Chapters 33–35 and names the review rather than the hearing.
+- **The transfer receipt** (C.Y. 486, received 14th of the month, late in the year). A *receipt of a claim*, not a proposal. Validly made, and it is the reason the case reclassifies. Tal Sarr signed it while alive for his own household only; he drowned at the second lock in March. It is never a forgery, never a posthumous filing, never a lie.
+- **The annex schedule** — dated, carries the effective dates of the three moved acts, and is dated two days before the transfer was received at the annex counter. Owen proves this in Chapter 1 with the one margin notice and **withdraws it from his own inquiry in Chapter 5**. It is never corrected. Three requests refused inside that two-day window stay logged and unexplained.
+- **The no-local-record schedule** — the second leaf. Thirteen named people, *no local record at the named place*, and the named place is **the crossing**. Six children or people unable to answer (Ivy Sarr, 12, first line; a child of nine, surname Anstruther; a child of six entered under a grandmother's name; three marked *unable to answer*, one of them with an address instead of a name). Seven adults who can answer (Dory Anstruther, 19, first of the seven). It is a claim about a place and cannot be answered by a ward saying it exists.
+- **The spring engineering notice** — pre-existing, technical, no appeal route, "a load notice on the bridge since the spring." Distinguish it from instrument 3 in the prose, and do it by saying so.
+- **The load-restriction suspension** (Chapter 8) — Pike's formal instrument on the engineer's finding that the crack has moved five inches. It is the first instrument in the case with a real appeal window, and it is the one the writer's aside in Chapter 10 makes the separation explicit: it "gave a ward a real appeal window, which the spring notice never carried." **Not** Stability Order 114.
+- **Stability Order 114** — not issued in this batch. Pike says in Chapter 3 that it has to be signed by Friday, and at the end of Chapter 9 he has the sixteen names in a column. Lower Lock is one of the sixteen.
+- **The ward notice** (Chapter 6) — three boxes: scope, benefit, deadline, plus two lines for the preparing clerk and a third accuracy box for the receiving office. Owen initials the two preparing-clerk lines and lets the district office tick the accuracy clause. Do not write that he certified the notice.
+- **The Council circular** (arrives sealed at the end of Chapter 9, read on Day 14) — two sheets. Sheet one attributes the countersignature review standard to the **Provisional Council** as its issuer, in force in all district offices, answering to no Docketford office. Sheet two, headed *local returns filed after the close of the present review*, refuses any community return filed after the close of the current review quarter and returns it unexamined; the quarter **closes on the eighteenth**. Council seal, and a second signature in a small steady hand that is not the Registrar's. That is the whole of what the reader learns about the Chancellor.
+- **Form Zero**, Chapter 10, a clerk's aside on the seal stair: the only instrument that can take a stability order out of the file, no valid signature path, one page in a drawer that every clerk is required to keep, due in thirteen years. Nothing more.
 
-### Volume 01 Rules the Prose Must Not Violate
+### The ward's return as it now stands on the page
 
-- The central hinge of the volume is the difference between a claim to a **status** ("the crossing is open") and a claim to a **duty** ("we perform maintenance of a named public crossing; here is the act, here is the review date"). Owen must learn it, not stumble into it.
-- **Two documents, never one.** The **annex schedule** and the **no-local-record schedule** are separate leaves with separate scopes. Only the annex schedule carries the backdating. The no-local-record schedule names **one place**, the crossing, and never a ward — which is why a ward cannot answer it by saying it exists. Do not write "the schedule" where both leaves are meant, and do not let the Office's three moved acts become one, or become four.
-- **"Eleven" is rationed in Volume 01.** It means the eleven days of the consolidation letter and the eleven months of the Sarr receipt, and those two are the echo the volume is built on. The clean run is ten weeks, the abutment has moved five inches, Owen copied the finding that ended Nell's career in about twenty minutes, the pump is hand-primed for twelve hours, Owen has held his belief in his own precision for fifteen years, and the quarter's failing returns number **sixteen**. Do not spend "eleven" on anything else.
-- **Terminology ruling:** Lower Lock's instrument is a **district return** throughout Volume 01, matching its final file number 487-LL. "Local return" is the general category word for any community-filed return and is never a second, separate instrument. Do not write the two as interchangeable synonyms for one filing. The Council's circular in Ch 10 may use the category word "local return" in its own official language.
-- A return needs **two living observers with separable interests**. The draft return's two outside witnesses are **Junia Pell** and **Wend Voss**; both witnessed acts only and neither touched the drafting. Pell's independence is contestable on the record because she is a Registry officer, which is exactly why Batch 0002's payoff is *accepted for review* rather than accepted as binding. Voss separates his interest in writing. Do not write a single witness on this return.
-- **The continuance inquiry is amended, not reinterpreted.** As filed in Chapter 3 it is an **error** case: Owen alleges that thirteen people were struck from the record without cause. Chapter 5 withdraws the charge of error and states the charge of **scope**. From Chapter 5 onward the inquiry alleges scope. Never write it as a scope case before Chapter 5.
-- **Lower Lock's arithmetic is fixed.** About 240 residents in **thirteen households** on the last accepted roll. Nine ratify the transfer in Chapter 6 and become the **nine separately consenting adult branches** of the draft return in Chapter 7. Four vote no, **sign no branch anywhere in this batch**, and are offered a separate branch in Chapters 31–40. **Ada Rusk is one of the four.** The three households that refuse to share a page with another adult's name in Chapter 7 are **inside the nine, not among the four**; their refusal is a formatting demand and it is granted. One branch withdraws in Batch 0002 and the return narrows.
-- **The thirteen "no local record" entries split six and seven:** six children or people unable to answer, and seven adults who can answer. **Ivy Sarr, 12, is one of the six. Dory Anstruther, 19, is one of the seven.** The rest are in the file and need not all be read aloud.
-- **Cobb Rennie is neither one of the thirteen households nor one of the thirteen erased entries.** His erasure is two years old and belongs to an earlier review quarter, so nothing filed in this case reaches him. His pension stays uncured at Chapter 50.
-- **Three separate seven-day clocks, none of which satisfies another:** the return's own review interval, which **does not start in Batch 0001** and runs from the date the return is entered — Chapter 11, Day 15, first review due **Day 22**; the **answer clock** on the Chapter 9 petition, entered Day 12 and due **Day 19**, running to a written answer; and the **closure interval**, the seven days a failing return can be repaired. The ward's Day 14 roll is the ward's own weekly cycle and is not any of the three. Chapter 10 must not claim the return's review is coming due.
-- **The lapse's cure and the review interval are not the same event.** Entering the return on Day 15 lifts the freeze; the first review of the entered return falls due on Day 22; the Office's written answer on Day 19 restores nothing. None of the three satisfies another.
-- The nine-to-four ratification of Ch 6 is a **separate ward act** ratifying a transfer already validly received. It does not make the Ch 5 entry an error and does not retroactively authorize the Sarr receipt.
-- The transfer review happens **off-page** at **batch Day 5**; it confirms the transfer. Owen was not on the notice and does not attend; Pell's entry of the earlier record is his only substitute. Closing the file at the review is why the ward's copy of the transfer returns silence in Ch 7.
-- The **seven-day clock** opened in Ch 9 runs to the **written answer**, not to any hearing. It lands in Ch 12–13 and gives a date instead of a hearing, which is what allows the volume's real hearing to sit in Ch 31–40 without the clock expiring.
-- Owen's **first qualified filing as an assisting clerk is Batch 0002 (Ch 11–20).** In Batch 0001 he signs only his own statement of his part in the Ch 6 notice, which is adverse to him and needs no qualified signer. Do not credit a qualified filing to Batch 0001.
-- In Ch 10 a name Owen has copied for six years will not come and **comes back** a minute later. This is a near miss. The **permanent** loss of that name is the cost of the Stage 1 named duty and belongs to Batch 0003 and after Chapter 46. Do not spend it in Batch 0001.
-- The Ninth Weir is load-restricted, closed to loads, and unsafe for the entire volume. The crossing hold preserves a legal status and an appeal window only.
-- Owen signs no continuation, certification, or hold before Chapter 46. He is a Copy Clerk, a petitioner, a co-petitioner, and an assisting clerk until then, and reaches Stage 1 only at the volume climax.
-- Owen perceives marginalia only when he is personally comparing a genuine record with the physical act in front of him, and the batch stages **exactly two** perception beats: **one plain margin notice in Chapter 1**, comparing the receiving counter's stamp and register entry against the annex schedule's stated effective date and learning only that the date is early; and **one silence in Chapter 7**, the ward's copy of the transfer after it was closed at the Day 5 review. The Chapter 10 drawer is closed in the ordinary physical sense and yields nothing. Do not give him a margin notice on a held, closed, or sealed record in Volume 01, and keep notices rare, brief, and in plain language: no numbers, no bars, no skill lists, no solution buttons, no software jargon.
-- A household return is a set of separately consenting adult branches. No adult signs for another, and a withdrawal narrows the return rather than destroying it.
-- Protective returns require two unrelated living witnesses, a current care act, and a named appeal route, and **Lower Lock has no structure for them.** The six children and non-responders among the thirteen entries need them. **This stays unresolved through Volume 01.**
-- Nothing restores the dead. Marta Rusk and Tal Sarr stay dead, and the correct record says so.
-- Pike's secret is that the withdrawal was signed to move people off marginal land before a flood that killed elsewhere. It surfaces publicly in Volume 01 and does not launder the harm.
+**District Return 487-LL**, finished and witnessed on Day 11, **never entered in this batch**, sitting square at the back of Pell's tray with a covering slip naming Owen as the person who delivered it.
+
+- **Nine separately consenting adult branches**, one adult to a page, no shared line anywhere, no proxy clause, no witness line a householder could fill. The three who demanded their own pages are inside the nine.
+- **Two outside witnesses**, both acting only and neither touching the drafting: **Junia Pell** (Registry officer; her independence is contestable on the record and she says so against herself in the margin) and **Wend Voss** (Mill Ward annex counter clerk; his interest separated in his own words as a cost his district has carried and not used).
+- **Recorded dissent** of **four named households** inside the return, with the resolution nine to four recorded.
+- **Withdrawal note:** *A branch may be withdrawn by the person in it. Withdrawal removes that branch. It does not remove the return.*
+- **Scope:** the ward performs the maintenance of the Ninth Weir public crossing; this return claims nothing as to the safety, condition, or use of the crossing, which no witness in it is competent to speak to; the crossing is closed to loaded traffic and to vehicles above four tons under the load-restriction suspension, which the return neither challenges nor supersedes; the ward does not perform and does not claim the abutment repair; it renews the marker, the channel clearance and the pump prime each week; **any district able to perform the repair is invited to perform it**; the return comes back for renewal every seven days **from the day it is entered, and not before**.
+- **Appeal route** on the first page, already live. It is the part of the return that works without entry, and Nell says so.
+
+### The three seven-day clocks, as written
+
+1. **The return's own review interval** — does not exist until the return is **entered**, which happens in **Chapter 11, batch Day 15**. First review then due **Day 22**. Nothing in Batch 0001 may claim it is coming due, and the return's own text says the interval runs from entry.
+2. **The answer clock** on the petition — docket entered **Day 12**, answer due **Day 19**, running to a written answer and not to any hearing. The Glass Stair clerk said so in advance and unprompted.
+3. **The closure interval** — seven days in which a failing return can be repaired. Untouched and unnamed in the prose so far.
+
+The **Day 14 continuation roll** is the ward's own weekly cycle and is none of the three. It lapses the crossing on Day 14 and stands for the rest of the volume.
+
+### The Day 14 lapse as written
+
+Entered as *Ninth Weir public crossing. Lapsed — no supported district*, with the roll's own column recording the ward's witnessed ratification two lines below it. **Consent to a transfer is not a district performing a duty**, and Owen says so out loud in the hall. Consequences, in the order they land: the **Fetter Lane pump grant suspended**, not extinguished; **every household in Lower Lock cannot be continued, licensed, or witnessed on a district act**, and not one name is struck; the **Chapter 8 load restriction untouched and still in force**, so the crossing is closed and unsupported at once; and Ada's crew are maintaining a crossing no record says they maintain. The Chapter 9 petition holds none of it and the Glass Stair clerk said so before anyone asked. **Only entering the ward's return lifts it, in Chapter 11, and entering it restores the crossing as a duty the ward performs and nothing else.**
+
+### Owen's private ledger
+
+A cheap pocket notebook with a bad clasp, bought in the spring, headed *River Desk — private*. It holds, by the end of Chapter 10: the transfer's number, its received date and its stated effective date; the two-day gap; the three refused requests with their dates and initials; the **sixteen named failing returns**; the ward's acts and the four dissents; the **exact wording of the continuity statement he wrote and destroyed**; the roll entry in full with its carbon number; the **ALDER ROW — 461** number and the shape of the tab; the letter number of the Tallack envelope; and the closing line *I wrote it and I copied it down and I tore it up. If anybody ever asks, it was me, and the words are here.*
+
+### The destroyed continuity statement
+
+Written at about two in the morning on the night of Day 10 into Day 11, on the knee of a bollard at the weir path, in the form of an engineer's continuity statement: *The named work is maintained by the district performing the maintenance duty. The condition of the named work is supported as maintained. The work is not certified open. No load certification is given.* He copied it word for word into the ledger **before** tearing the sheet into pieces in front of Junia Pell, and said out loud that he had written it, that the wording was what a false statement would have said, that he wanted it recorded that he was the sort of clerk who would have, and that in six months somebody would be looking for a hand that put *supported as maintained* on this crossing and there is one. Pell read it, said it was true and the worst thing he had ever written, and did not treat it as a debt. Two holders: **Pell** and **the ledger**. Never paid by a first-person confession to anyone. Earliest beat that may touch it is Batch 0002's attack on Pell's separability.
+
+### Calendar and numbers, as fixed on the page
+
+**Day 1 is a Tuesday.** Therefore Day 3 is a Thursday, Day 4 a Friday, Day 5 a Saturday (the transfer review, off-page), Day 6 a Sunday, Day 7 a **Monday** (the ward ratification), Day 10 a Thursday, Day 11 a Friday, Day 12 a **Saturday** (the petition, the Glass Stair, the short-form window), Day 14 a **Monday** (the roll). The three Lower Lock families first went to the annex on the Tuesday of Day 2. The mill's factor went to Fetter Bend on the Friday before Day 12 and is back on the Tuesday after.
+
+- Ten weeks of clean run, broken on Day 1 and not recovered.
+- Five inches of abutment.
+- About twenty minutes for Owen copying the finding that ended Nell's career.
+- Twelve hours of hand-priming, the night of Day 13 into Day 14.
+- Fifteen years of Owen's belief in his own precision.
+- Sixteen failing returns, Lower Lock sixth on Pike's list and first in the notebook.
+- **Eleven** is spent on exactly two things: the eleven days of the consolidation letter and the families at Arbour Kitchen, and the eleven months of the Sarr receipt. Do not spend it on anything else. (Dates of the month — the ninth, the tenth, the eleventh — are not this.)
+
+### Perception
+
+The batch stages **exactly two** marginalia beats, and no more:
+
+1. **Chapter 1**, one plain notice, at the Fourth Desk, comparing the annex counter's receiving stamp and register entry against the annex schedule's stated effective date and learning only that the date is early.
+2. **Chapter 7**, one silence: the ward's copy of the transfer, closed at the Day 5 review, returns nothing at all. A thin file answers; a closed file does not, and the difference is the stamp and not the reading.
+
+Owen also learned in Chapter 7 that a document can be a **delivery book kept by a woman** and that Bray's back half of her roll is that book. Do not give him a third perception beat in Volume 01. The Chapter 10 drawer is closed in the ordinary physical sense and gives nothing.
+
+### Rules the prose must not violate
+
+- Owen signs **no continuation, certification, hold or filing** before Chapter 46. In Batch 0001 his only hand on anything is the preparing-clerk initials on the Chapter 6 notice and his own **Statement of my part** in Chapter 9, which is adverse to him and needs no qualified signer. His first qualified filing is **Chapter 11**.
+- The transfer's receipt is uncorrectable. The only correctable defect is the backdating, and Owen gave it up on purpose.
+- Two leaves, never merged, never both called "the schedule." In Chapter 3 Owen and Pell and Pike now name the second leaf explicitly.
+- A claim to a status is not a claim to a duty. The return claims the duty and disclaims safety, condition and use in the same sentence.
+- A ward cannot answer a claim about a place by saying it exists.
+- A return is a set of separately consenting adult branches. No adult signs for another; a withdrawal narrows the return.
+- A protective return needs two unrelated living witnesses, a current care act, and a named appeal route. Lower Lock has none of the three and the gap is **not** solved inside Volume 01.
+- The instrument is a **district return**, file number **487-LL**. "Local return" is the category word only; the Council's Chapter 10 circular uses it in its own language.
+- A suspension preserves a status or an appeal window only.
+- Nothing restores the dead. Marta Rusk and Tal Sarr stay dead.
+- Pell owes Owen nothing. The continuity statement is not a debt she has agreed to hold.
+- Nell refuses to be Owen's witness, his advocate, or his relief, and will not be one for the rest of the volume.
+- Verity Lound is offstage. Her two circulars are Chapters 10 and 33–35. She is never named in person.
 - The eight-person infancy sponsorship is not referenced, hinted at, or foreshadowed anywhere in Volume 01.
-- Kade, Sallow, Marr, Reed, Ansel Rive in person, the Census Guard, the Claim Market, the Free Counters, and the First Seal Subvault do not appear on stage in Volume 01. The Upland fringe and the Claim Market in Ch 4 are **Nell's speech and memory only**: remembered work, no scene, no named character from either place.
-- **Owen and Nell's last exchange was a hearing.** Her hearing at the Glass Stair ended her Registry career when the Office recorded her decision as procedural error, and **Owen was the copy clerk of record: he copied the finding and filed it, correctly, in about twenty minutes.** He has never explained to himself why he filed it. This is the charge under their professional opposition in Ch 4 and it is **not resolved in Volume 01**. It must never be turned into a misunderstanding that a conversation could clear.
-- **Unnamed roles in Volume 01:** the two Registry officers who witnessed the transfer and the no-local-record schedule, Lower Lock's hall warden, the Glass Stair clerk on duty in Ch 9, the Registry engineer behind the Ch 8 finding, and the Docketford counter clerks. Keeping them unnamed is deliberate — the opening's pressure comes from procedure, not from a villain in a room.
+- Not on stage in Volume 01 at all: Warden Kade, the Census Guard, Iven Sallow, Bettis Marr, Tovan Reed, Ansel Rive in person, the Claim Market, the Free Counters, the First Seal Subvault. The Upland fringe and the Claim Market appear only as Nell's remembered work in Chapter 4.
+- Unnamed roles stay unnamed: the two Registry officers who witnessed the transfer and the second leaf, the hall warden, the Glass Stair clerk on duty, the Registry engineer, the seal-stair clerk, the Mill Ward counter clerk.
+- Owen's Chapter 10 name-slip is a **near miss**, not a symptom. It came back out of his own notebook inside a second. He holds no duty, so nothing is permanently lost. The permanent loss belongs to Batch 0003 and to the Stage 1 named duty.
 
 ## Rule Baseline
 
@@ -79,16 +117,16 @@ These are author-facing planning facts fixed before Chapter 1 is written. Charac
 - A protective return for a child or person unable to communicate requires two unrelated living witnesses, a current care act, and a named local appeal route. It covers immediate care only and never binds future consent, labor, identity, vote, or private relationships.
 - A household return is an aggregate of separately consenting adult branches. No adult signs for another; each branch has an individual withdrawal and departure right.
 - Form Zero uses a bounded completeness procedure: publish received branches, the network boundary, a challenge notice, and unresolved branches; use independent witnesses; keep an appeal route open. Unknown or unreachable people are not presumed consent.
-- The central seal is a ministerial actuator. It checks recorded branch marks, witnesses, notice, boundary, and the declared representative line, then actuates the common future when those recorded conditions are met. It cannot certify hidden truth, meaningful consent, or universal completeness. A concealed proxy can receive a finite hold but remains challengeable.
-- Final return bundles travel through regional receiving tables by courier, semaphore, river post, and rail cart. Three days before Civic Zero, each table freezes an authenticated branch ledger. A listed branch may be narrowed, withdrawn, challenged, or changed to refusal by a separately witnessed amendment received before the final stroke. A new claimant branch absent from the cutoff ledger stays outside the final aggregate and may use the post-activation appeal route.
-- A preservation cache preserves a district’s last supported legal record, not consciousness. Its archive shell may continue while a custodian, current local act, and appeal route renew it, but an individual person branch cannot be restored after the 30-day limit.
+- The central seal is a ministerial actuator. It checks recorded branch marks, witnesses, notice, boundary, and the declared representative line, then actuates the common future when those recorded conditions are met. It cannot certify hidden truth, meaningful consent, or universal completeness.
+- Final return bundles travel through regional receiving tables by courier, semaphore, river post, and rail cart. Three days before Civic Zero, each table freezes an authenticated branch ledger. A listed branch may still be narrowed, withdrawn, challenged, or changed to refusal by a separately witnessed amendment received before the final stroke. A new claimant branch absent from the cutoff ledger stays outside the final aggregate and may use the post-activation appeal route.
+- A preservation cache preserves a district's last supported legal record, not consciousness. Its archive shell may continue while a custodian, current local act, and appeal route renew it, but an individual person branch cannot be restored after the 30-day limit.
 - The destroyed Glasshall Archive is distinct from the First Seal Subvault beneath Concord Hall. The Subvault was assembled in C.Y. 9 and preserves the first surviving seal of Form Zero, its witness schedules, and selected pre-Blanking source fragments; it is not an omniscient archive or a private override.
 - A legal suspension preserves a status or an appeal window only. It does not make a bridge safe, a crossing usable, a hospital staffed, or a community fed.
 
 ## Ending Authority
 
-- Lound alone holds the institutional authority to invoke the Assumption Clause for unfiled districts while the Provisional Mandate is alive. At the final transition, her proxy line can obtain only a 30-day succession hold under the Mandate’s transition clause. Her concrete renewal route is a day-twenty-five filing that pools the Council and essential services into one institutional branch and uses Owen’s mark to pass the first structural check; it fails at the next stroke when counter-entry shows that service acts do not authorize residents. A valid Common Return instead supersedes the hold immediately at Civic Zero, stops its term, and leaves no parallel regime.
-- Owen’s community-selected Custodian role receives, records, and transmits authorized returns. It does not let him sign for absent, sleeping, disabled, coerced, or refusing people.
+- Lound alone holds the institutional authority to invoke the Assumption Clause for unfiled districts while the Provisional Mandate is alive. At the final transition, her proxy line can obtain only a 30-day succession hold under the Mandate's transition clause. Her concrete renewal route is a day-twenty-five filing that pools the Council and essential services into one institutional branch and uses Owen's mark to pass the first structural check; it fails at the next stroke when counter-entry shows that service acts do not authorize residents. A valid Common Return instead supersedes the hold immediately at Civic Zero, stops its term, and leaves no parallel regime.
+- Owen's community-selected Custodian role receives, records, and transmits authorized returns. It does not let him sign for absent, sleeping, disabled, coerced, or refusing people.
 - The final Common Return is complete within a public bounded network and names what it could not know. Hidden branches remain an acknowledged cost, not an assumed representation.
 - Volume 15 opens at the ordinary branch cutoff, seventy-two hours before Civic Zero. Chapters 693–732 cover that relay window up to the final minutes; Chapters 733–736 take place in those last minutes before the final stroke.
 
@@ -96,7 +134,7 @@ These are author-facing planning facts fixed before Chapter 1 is written. Charac
 
 - Present-tense state belongs in `state/current.md` and must describe only what the opening cast can know or reasonably suspect.
 - Long-range relationship, mystery, and ending notes may be kept here as author planning, but they must not be presented to characters or the reader as already-known events.
-- The opening does not reveal the Blanking’s full history, the distributed design of Form Zero, Owen’s pooled infancy, Lound’s Assumption plan, or the later Owen–Nell rupture.
+- The opening does not reveal the Blanking's full history, the distributed design of Form Zero, Owen's pooled infancy, Lound's Assumption plan, or the later Owen–Nell rupture.
 
 ## Canon Guardrails
 
@@ -104,25 +142,25 @@ These are author-facing planning facts fixed before Chapter 1 is written. Charac
 - Do not let paperwork create labor, repairs, safety, consent, or truth.
 - Do not allow Common Tables, a Custodian, or a household filer to override withdrawals or answer for an absent person.
 - Do not add a cosmic threat or a new final antagonist.
-- Volume 01, the Batch 0001 chapter cards, and the canonical Batch 0001 execution prompt are complete and verified. **No chapter prose exists yet**, and the canonical Chapters 1–10 execution prompt is `workspace/volume-01/batch-0001/PROMPT.md`. No Chapters 11–20 execution prompt may exist until Batch 0001 is written and reviewed.
+- **Who issued the countersignature review standard, and why, is reserved to Batch 0003.** Batch 0001 established only that the Council claims to have issued it.
 
 ## Batch 0001 Calendar (author-facing)
 
-The batch runs fourteen days: the second and third weeks of the rain season, C.Y. 487. Day 1 is the morning Owen refuses the countersignature. Use these when dating anything, including "next Tuesday" and "the end of the week."
+The batch ran fourteen days: Days 1–14 of the second and third weeks of the rain season, C.Y. 487. **Day 1 is a Tuesday.** Day 1 is the morning Owen refuses the countersignature.
 
-| Chapters | Batch days |
-| --- | --- |
-| 1 | Day 1, before the lamps are lit |
-| 2 | Day 1 dusk into Day 2 dawn |
-| 3 | Day 3 |
-| 4 | Day 4 |
-| 5 | Day 6, one night |
-| 6 | Days 7–8 |
-| 7 | Days 9–10 |
-| 8 | Day 10 night into Day 11 |
-| 9 | Day 12 |
-| 10 | Days 13–14 |
+| Chapters | Batch days | Day of week |
+| --- | --- | --- |
+| 1 | Day 1, before the lamps are lit | Tuesday |
+| 2 | Day 1 dusk into Day 2 dawn | Tue–Wed |
+| 3 | Day 3 | Thursday |
+| 4 | Day 4 | Friday |
+| 5 | Day 6, one night | Sunday |
+| 6 | Days 7–8 | Monday–Tuesday |
+| 7 | Days 9–10 | Wed–Thu |
+| 8 | Day 10 night into Day 11 | Thu–Fri |
+| 9 | Day 12 | Saturday |
+| 10 | Days 13–14 | Sunday–Monday |
 
-Two dates fall outside the table. The **transfer review** is Day 5 and is confirmed off-page. The **petition's answer is due on Day 19**, seven days after the Day 12 docket entry, and lands in Chapters 12–13. Batch 0002 therefore opens on Day 15 with a due date already running.
+Two dates fall outside the table. The **transfer review** is Day 5 (Saturday), confirmed off-page, its file closed. The **petition's answer is due on Day 19**, seven days after the Day 12 docket entry, and lands in Chapters 12–13. Batch 0002 therefore opens on Day 15 with a freeze in force and an answer already due.
 
-The **Day 14 continuation roll** is inside the table and inside Chapter 10, and it is the batch's material cost: the crossing's status is entered as lapsed, the pump grant is suspended, and the ward is frozen. Two dates belong to Batch 0002 and are fixed here so nothing has to be invented later: **Lower Lock's return is entered as a filing on Day 15** (Owen's first qualified filing, which lifts the freeze), and **its first seven-day review falls due on Day 22**, in the same window as Stability Order 114.
+Two dates belong to Batch 0002 and are fixed here: **Lower Lock's return is entered as a filing on Day 15** (Owen's first qualified filing, which lifts the freeze), and **its first seven-day review falls due on Day 22**, in the same window as Stability Order 114. Two further dates are now also on the page: the **Council's review quarter closes on the eighteenth**, and **Stability Order 114 is signed in Chapters 17–18**.

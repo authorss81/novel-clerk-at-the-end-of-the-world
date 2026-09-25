@@ -114,6 +114,18 @@ The posting given to correspondence that cannot be routed: undeliverable notices
 
 The dated schedule that travels with a transfer or consolidation entry and carries the effective dates of the duties it moves. A schedule can be dated earlier than the earliest date any part of it could lawfully take effect; that defect is correctable, and correcting it is often how an office closes a file while leaving the wider scope untouched.
 
+### **No-local-record schedule**
+
+The second leaf of a transfer or consolidation annex, carrying a list of persons against a single named place and asserting that they have **no local record** there. It is a claim about a place, not about a community, and a community cannot answer it by saying it exists. A transfer annex has two leaves, the annex schedule and this one, with separate scopes; "the schedule" is ambiguous between them and should not be used when both are meant.
+
+### **Continuation roll**
+
+The weekly roll on which a district's standing is carried or lost. Where a district's return fails and no other district is performing its duty, the roll enters a **lapse**: a positive entry, not a gap, and one that cannot be argued off the roll once made.
+
+### **Lapsed status**
+
+A crossing or public work whose status has been entered on the continuation roll as having no supported district behind it. A lapse suspends grants and freezes the households attached to the district — no name is struck, but nothing in the ward can be continued, licensed, or witnessed on a district act. It does not make a structure safe, funded, or usable, and it is lifted only by a supported return being entered that names the work in its scope.
+
 ### **Countersignature review standard**
 
 A review rule requiring a second officer's countersignature before a filing is acted on. Docketford operates under one by C.Y. 487 that carries no Docketford number and answers to no local office; the Provisional Council names itself as its issuer in a circular of that year. A standard can be in force without anyone at the desk being able to name its author.

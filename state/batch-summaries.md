@@ -8,4 +8,4 @@ No batch has been written yet.
 
 ### Batch 0001 — Chapters 1–10, *The Omission* (planned, not written)
 
-Planned in `outline/batches/volume-01-batch-0001.md` and executed by `workspace/volume-01/batch-0001/PROMPT.md`. Fourteen days of story time, Days 1–14 of the second and third weeks of the rain season, C.Y. 487. Reversal at Chapter 5, batch climax at Chapter 9, aftermath and hook at Chapter 10. When this batch is written, replace this section with what actually happened.
+Planned in `outline/batches/volume-01-batch-0001.md` and executed by `workspace/volume-01/batch-0001/PROMPT.md`. Fourteen days of story time, Days 1–14 of the second and third weeks of the rain season, C.Y. 487. Reversal at Chapter 5, batch climax at Chapter 9, aftermath and reckoning at Chapter 10, where the Day 14 roll enters the crossing's status as lapsed and freezes the ward. The ward's return is finished and witnessed by the end of the batch and is never entered in it: Batch 0002 opens on Day 15 by entering it as Owen's first qualified filing, which lifts the freeze and starts a review due Day 22. When this batch is written, replace this section with what actually happened.

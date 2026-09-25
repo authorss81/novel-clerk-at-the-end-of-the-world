@@ -195,7 +195,7 @@ The man whose counter received the transfer. Signs as the **second outside witne
 
 ### **Junia Pell** — Junior Copy Clerk, 22
 
-New to the Fourth River Desk. Faster than Owen, willing to change procedure, and openly unimpressed by seniority. She is the first person inside the Office to ask who consented, she refuses Owen's short-form attestation in Chapter 9, she witnesses the destruction of his forged continuity statement in Chapter 8, and she remains under no obligation to him afterwards. Her signature on the ward's return is career-damaging in a way neither she nor Owen says out loud.
+New to the Fourth River Desk. Faster than Owen, willing to change procedure, and openly unimpressed by seniority. She is the first person inside the Office to ask who consented, she refuses Owen's short-form attestation in Chapter 9, and she witnesses the destruction of his forged continuity statement in Chapter 8 — saying nothing that could be repeated, which is the most generous thing she does in the volume and the first hint that she has decided what she is and is not willing to be used for. Her signature on the ward's return is career-damaging in a way neither she nor Owen says out loud. She remains under no obligation to him afterwards, and the statement she witnessed is not a debt she has agreed to hold.
 
 ### **Cobb Rennie** — Lower Lock, 58
 
@@ -219,7 +219,7 @@ A seed stallholder of 71, a ferry cook of 46, a laundress of 44, and a night wat
 
 ### Unnamed Roles in Volume 01
 
-The two Registry officers who witnessed the transfer and the "no local record" schedule; Lower Lock's hall warden; the Glass Stair clerk on duty in Chapter 9; the Registry engineer behind the Chapter 8 finding; and the Docketford counter clerks. They are institutions with hands, not conspirators. Keeping them unnamed in Volume 01 is a deliberate choice: the pressure in the opening comes from procedure, not from a villain in a room.
+The two Registry officers who witnessed the transfer and the no-local-record schedule; Lower Lock's hall warden; the Glass Stair clerk on duty in Chapter 9; the Registry engineer behind the Chapter 8 finding; and the Docketford counter clerks. They are institutions with hands, not conspirators. Keeping them unnamed in Volume 01 is a deliberate choice: the pressure in the opening comes from procedure, not from a villain in a room.
 
 ---
 

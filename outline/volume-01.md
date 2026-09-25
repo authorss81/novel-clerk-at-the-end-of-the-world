@@ -9,7 +9,7 @@ Power span: Stage 0 Copy Clerk to Stage 1 Sealed Witness
 
 Docketford's weekly continuance roll omits Lower Lock while the Ninth Weir crossing remains structurally unsafe. The ward is not late and it is not simply forgotten: a *transfer* entry moves the ward's maintenance duties — the crossing, the Fetter Lane pump, the granary — into a Mill Ward district return that has no crew, no funds, and no way to reach the weir. The entry carries Registry witnesses and no Lower Lock witness. If Lower Lock files nothing, its crossing status lapses with its return and the ward begins to lose its own name, its pump grant, and its households' standing. If the ward files for itself, it becomes legally responsible for a structure nobody will fund.
 
-Owen Rusk has two working weeks before the transfer's review and no authority to stop any of it. The review itself is not a scene in Batch 0001: it happens off-page inside that fortnight, it confirms the transfer, and Owen is not on the notice for it.
+Owen Rusk has two working weeks before the transfer's review and no authority to stop any of it. The review itself is not a scene in Batch 0001: it happens off-page inside that fortnight — confirmed for batch Day 5, which the Office brought forward, so the two weeks is Owen's assumption and not the calendar — it confirms the transfer, and Owen is not on the notice for it.
 
 ## Starting State
 

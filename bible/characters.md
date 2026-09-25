@@ -181,6 +181,48 @@ Reed proves that a community can intentionally leave an old record and establish
 
 ---
 
+## Volume 01 Supporting Cast — Docketford and Lower Lock
+
+These are working people in the opening volume, not trophies for the main cast. Each has an ordinary life that continues whether or not Owen's case succeeds. Ages are at the opening in C.Y. 487.
+
+### **Marguerite Bray** — Ward Steward of Lower Lock, 61
+
+Keeps Lower Lock's paper roll by hand because the Registry's roll is useless to her. Dry, exact, unsentimental, and entirely uninterested in Owen's career. She is not his ally: she uses him, corrects him in front of the ward, and refuses to be his. In Chapter 9 she files the petition that puts Lower Lock on the Glass Stair docket **in her own name**, in her own words, asking only for a hearing. She never thanks him for the thing he proved.
+
+### **Wend Voss** — Counter Clerk, Mill Ward Annex, 51
+
+The man whose counter received the transfer. Signs as the **second outside witness** to Lower Lock's draft return in Chapter 7, having personally seen acts performed and nothing else, and separates his interest in writing by stating his cost-allocation reservation in the margin. His interest is separable from Lower Lock's only because his district inherited the crossing's cost. He is not a coward and not a convert; he is a clerk doing the least dishonest thing available to him.
+
+### **Junia Pell** — Junior Copy Clerk, 22
+
+New to the Fourth River Desk. Faster than Owen, willing to change procedure, and openly unimpressed by seniority. She is the first person inside the Office to ask who consented, she refuses Owen's short-form attestation in Chapter 9, she witnesses the destruction of his forged continuity statement in Chapter 8, and she remains under no obligation to him afterwards. Her signature on the ward's return is career-damaging in a way neither she nor Owen says out loud.
+
+### **Cobb Rennie** — Lower Lock, 58
+
+Off the Registry roll for two years while living at the same address, known by everyone, unable to draw a pension because no record places him there. He is not among the thirteen households on the last accepted roll and not among the thirteen erased entries; his absence predates this case and nothing filed in it reaches him. His pension is unsolved at the end of Volume 01 and must stay unsolved.
+
+### **Dory Anstruther** — Bridge-crew apprentice, 19
+
+One of the thirteen entries the Office says has no local record, and one of the seven adults who can answer. Goes into the Ninth Weir spillway in Chapter 8 and is pulled out alive. His treatment record and the Office's schedule are then two different descriptions of the same man, which is the point.
+
+### **Ivy Sarr** — 12
+
+Tal Sarr's granddaughter; lives with an aunt. One of the six entries that are children or people unable to answer, and therefore part of the protective-return problem Lower Lock cannot solve alone. Tal had no authority over her.
+
+### **Tal Sarr** — Deceased
+
+A Lower Lock resident who signed and had witnessed a receipt in late C.Y. 486 moving the ward's crossing maintenance into the Mill Ward return. His authority covered his own household only. He drowned in the C.Y. 487 spring flood, months after the receipt was validly received, and his death disturbed nothing about it. He is not a villain and not a forger. He signed a smaller thing than it was used for.
+
+### **Nessa Kray, Bram Tillet, Ilse Mern, Holm Ferris** — Lower Lock
+
+A seed stallholder of 71, a ferry cook of 46, a laundress of 44, and a night watchman of 58. They are the ward's texture and its witnesses: people who perform small acts on a schedule and can be asked what they actually saw. Other erased entries stay in the file and need not all be read aloud.
+
+### Unnamed Roles in Volume 01
+
+The two Registry officers who witnessed the transfer and the "no local record" schedule; Lower Lock's hall warden; the Glass Stair clerk on duty in Chapter 9; the Registry engineer behind the Chapter 8 finding; and the Docketford counter clerks. They are institutions with hands, not conspirators. Keeping them unnamed in Volume 01 is a deliberate choice: the pressure in the opening comes from procedure, not from a villain in a room.
+
+---
+
 ## Core Relationship Map
 
 - **Owen–Nell:** Professional opposition → earned trust → romance → rupture over secrecy → changed partnership → chosen marriage with separate authority and an explicit right to refuse each other’s cases.

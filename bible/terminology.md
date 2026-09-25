@@ -98,6 +98,34 @@ The central record office. Short form after first introduction: **the Registry**
 
 The Docketford branch where Owen begins work. It handles local changes, inheritance, apprenticeships, infrastructure, and continuances.
 
+### **Fourth River Desk**
+
+Owen's numbered desk on the River Desk copying floor, where the weekly continuance batch is produced. Also called the **Fourth Desk**. A desk is a place and a person may be posted to it; the phrase never means a legal status.
+
+### **Copying floor / copying hall**
+
+The long hall of numbered desks where continuances are copied, compared, and countersigned. Distinct from the **seal stair**, where documents are sealed and lodged.
+
+### **Unfiled correspondence tray**
+
+The posting given to correspondence that cannot be routed: undeliverable notices, returned petitions, and mail for people the Office cannot find. It is an administrative assignment, not a punishment in law and not a legal suspension. A tray of unfiled correspondence may contain cord-brass-tabbed drawers that a clerk is not permitted to open.
+
+### **Annex schedule**
+
+The dated schedule that travels with a transfer or consolidation entry and carries the effective dates of the duties it moves. A schedule can be dated earlier than the earliest date any part of it could lawfully take effect; that defect is correctable, and correcting it is often how an office closes a file while leaving the wider scope untouched.
+
+### **Countersignature review standard**
+
+A review rule requiring a second officer's countersignature before a filing is acted on. Docketford operates under one by C.Y. 487 that carries no Docketford number and answers to no local office; the Provisional Council names itself as its issuer in a circular of that year. A standard can be in force without anyone at the desk being able to name its author.
+
+### **Stability order**
+
+A Docketford instrument signed under the Deputy Registrar's solvency authority that closes or suspends named failing district returns together, on the argument that Docketford cannot fund them all. A stability order is distinct from a load-restriction suspension, from a closure interval, and from a legal suspension of an individual status. It is the instrument most likely to reach public appeal, because it is the one that cannot be filed quietly.
+
+### **Load-restriction suspension**
+
+A formal instrument closing a named public crossing to specified loads, issued on an engineer's finding, and carrying a real appeal window. It preserves a legal status and a route of challenge. It does not make the structure safe, funded, repaired, or usable, and it does not remove the people who still need the crossing.
+
 ### **Continuance**
 
 The supported condition that allows a person, place, relationship, or institution to remain recognized in a case.
@@ -152,7 +180,19 @@ A challenge by an affected person or community. Appeals reopen scope, evidence, 
 
 ### **Glass Stair**
 
-The Registry’s public appeal hall and entrance to the surviving Docketford docket rooms. Named for its old glazed roof. It is not the destroyed Glasshall Archive.
+The Registry’s public appeal hall and entrance to the surviving Docketford docket rooms. Named for its old glazed roof. It is not the destroyed Glasshall Archive. A petition for a hearing is **entered** in its docket; entering is not granting.
+
+### **Ward hall**
+
+A neighborhood meeting hall with a table, a roll, and a hall warden who keeps order. A ward meeting can witness and seal a ward act, including a ratification. It cannot compel anyone to attend, and its vote binds only the households present and consenting.
+
+### **Mill Ward annex**
+
+The Docketford district office that administers the Mill Ward return, run from a room with a counter and a queue. Its counter receives filings and receipts from people who come in person, which makes it the natural first stop for a consolidation campaign.
+
+### **Fetter Lane pump**
+
+The ward’s waterworks in Lower Lock, hand-primed when it fails, and the reason a majority of the ward’s households want a consolidation grant. A pump grant is not a claim about a crossing.
 
 ### **Black cord**
 
@@ -268,7 +308,7 @@ A flood-prone Docketford ward. It is a real neighborhood, not a slum used only f
 
 ### **Ninth Weir**
 
-The damaged crossing at the center of the first volume.
+The damaged crossing at the center of the first volume: a public crossing between Mill Ward and Lower Lock, flood-damaged, load-restricted, and closed to loads for the whole of Volume 01. A claim about it may be a claim to a **status** or a claim to a **duty**, and only the second is one a ward can make.
 
 ### **Arbour Kitchen**
 

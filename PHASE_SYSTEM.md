@@ -146,7 +146,7 @@ The writer reads:
 - `state/open-threads.md`
 - relevant character and world files
 
-The writer does not need to read every previous chapter. The state and previous batch summaries are the long-term memory. The last two or three chapters provide immediate scene continuity.
+The writer does not need to read every previous chapter. The state and previous batch summaries are the long-term memory. Read the previous 20 chapters for immediate voice and continuity; extend to 30 when the model’s verified context budget safely allows it.
 
 The writer must write 10–20 complete chapters in order, with full scenes and natural prose. It updates the chapter summaries, continuity, and open-thread files as it works.
 
@@ -316,7 +316,7 @@ Never load the whole manuscript into every batch prompt. Keep summaries compact 
 At the end of every batch:
 
 - Store a batch summary.
-- Keep only the latest two or three chapters for immediate voice reference.
+- Keep a rolling window of 20–30 recent chapters for immediate voice reference.
 - Update continuity and open threads.
 - Keep a rolling volume summary.
 - Archive older chapter summaries by volume without deleting them.

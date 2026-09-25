@@ -14,7 +14,7 @@ Last batch summary: none
 
 - Vespera is an industrial river civilization governed by publicly witnessed acts. Docketford is the opening city; the story begins in Concord Year 487 and the Provisional Mandate expires at the end of C.Y. 500.
 - Owen Rusk is a 32-year-old Registry copy clerk in Lower Lock. He can notice discrepancies and perform ordinary witness acts, but he has no independent filing authority.
-- The Lower Lock closure order, the unsafe Ninth Weir, and the local redaction policy are immediate public problems. Civic Zero is a known deadline thirteen years away, not an immediate event.
+- The transfer of Lower Lock's crossing maintenance into a Mill Ward return, and the load-restricted Ninth Weir, are the immediate public problems. The ward's continuance entry has been *replaced*, not forgotten, and no closure order has been signed yet. Redaction is not yet a public problem in Docketford. Civic Zero is a known deadline thirteen years away, not an immediate event.
 - Nell Arbour is a former Registry examiner and Owen’s professional opponent. They recognize each other’s competence and do not yet share a working partnership.
 
 ## Rules the Writer Must Carry Forward
@@ -24,6 +24,8 @@ Last batch summary: none
 - A household return is a set of separately consenting adult branches. Each adult can withdraw or leave without another adult signing for them.
 - A preservation cache may keep an archive shell alive after a person-specific 14-day or 30-day limit, but it never preserves consciousness or makes an expired person restorable.
 - A legal suspension preserves a status or an appeal window only. It does not make a bridge safe, a crossing usable, a hospital staffed, or a community fed.
+- Lower Lock's instrument is a **district return**, filed as 487-LL. "Local return" is the general category for a community-filed return, not a second instrument.
+- A return needs two living observers with separable interests. In Batch 0001 those are Junia Pell and Wend Voss, and Pell's independence is contestable because she is a Registry officer.
 
 ## Long-Range Planning (Not Opening Knowledge)
 
@@ -33,19 +35,20 @@ Last batch summary: none
 
 ## Active Story Engine (Planning Only)
 
-- `outline/volume-01.md` fixes Volume 01 (Chapters 1–50, *The Unfiled Ward*): central pressure, midpoint reversal at approximately Chapter 25, climax in Chapters 46–48, concrete resolution in Chapters 49–50, and the next-volume question.
-- `outline/batches/volume-01-batch-0001.md` fixes Chapters 1–10 (*The Omission*): reversal at Chapter 5, climax at Chapter 9, aftermath at Chapter 10. It is planning only until the batch is written.
-- Volume 1 must secure a lawful local return for Lower Lock, challenge Halden Pike’s stability order, and let Ada negotiate her ward’s future.
+- `outline/volume-01.md` fixes Volume 01 (Chapters 1–50, *The Unfiled Ward*): central pressure, midpoint reversal at approximately Chapter 25, and climax plus concrete resolution in Chapters 46–50, with the Sealed Witness acquisition at the certification in Chapter 46, followed by the next-volume question. It also carries a Hook Payoff Schedule so no hook opened in Volume 01 lies dormant.
+- `outline/batches/volume-01-batch-0001.md` fixes Chapters 1–10 (*The Omission*): reversal at Chapter 5, climax at Chapter 9, aftermath at Chapter 10. About fourteen days of story time. It is planning only until the batch is written.
+- The Volume 01 outline and Batch 0001 cards were repaired after the `phase-001-outline` review. The rulings — valid transfer receipt, the uncorrected backdating, the assisting-clerk filing deferred to Batch 0002, the Chapter 10 name near-miss, Stability Order 114's origin in Ch 17–18, the two witnesses, and the seven-day answer clock — are recorded in `state/continuity.md`.
+- Volume 1 must secure a lawful district return for Lower Lock, challenge Halden Pike’s stability order, and let Ada negotiate her ward’s future.
 - The central mystery remains who can complete Form Zero without a single person answering for everyone else. Owen’s first glimpse of Form Zero arrives in Chapter 10 as a clerk’s aside: it has no valid signature path.
 - Owen and Nell’s planned rupture over concealed information belongs to the middle volumes; it is not opening knowledge and must not be treated as a current event.
 - The final answer remains collective, with Lound surviving, losing unilateral office, and no new final enemy.
 
 ## Power State
 
-Owen begins as an ordinary Copy Clerk with public witnessing available to everyone and no independent filing authority. His later stages are earned through practice, cost, failure, relationships, and changed decisions.
+Owen begins as an ordinary Copy Clerk with public witnessing available to everyone and no independent filing authority. Batch 0001 is Stage 0 throughout: no hold, no qualified filing, no perception of a closed record. His **first qualified filing as an assisting clerk is Batch 0002**; Stage 1 Sealed Witness is acquired at the Chapter 46 certification. His later stages are earned through practice, cost, failure, relationships, and changed decisions.
 
 ## Workflow State
 
 - No chapter prose exists yet.
 - `workspace/phase-002-batch-plan/PROMPT.md` is planning-only; `workspace/volume-01/batch-0001/PROMPT.md` is the canonical Chapters 1–10 execution prompt.
-- Story state belongs to the writer. `state/phase-ledger.json` is controller-owned; this repair pass records the current phase as running but does not mark it complete.
+- Story state belongs to the writer. `state/phase-ledger.json` is controller-owned and is **not** edited here; the workflow controller writes phase status after the review and fix pass.

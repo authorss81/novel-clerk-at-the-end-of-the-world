@@ -108,6 +108,12 @@ Do not use “continuance” as a vague synonym for memory.
 
 A formal statement carrying a supported fact forward. Types include a household return, ward return, district return, personal return, refusal return, protective return, and local return. A return records the acts and limits of the people who make it; it never grants a filer authority over someone who did not consent to a branch.
 
+### **District return / local return**
+
+A community-filed return. **District return** names the instrument when the community is a named district or ward and the filing carries a district file number — Lower Lock’s is **District Return 487-LL**. **Local return** is the general category for any return filed by and for a community at any scale; it is not a second or different instrument.
+
+Use one term for one thing inside a volume. Do not write “local return” and “district return” as interchangeable synonyms for a single filing. An official circular may use the category word where its own language does.
+
 ### **Household return**
 
 A local return made up of separately consenting adult branches. Each adult keeps an individual withdrawal and departure right, and a household filer cannot sign for another adult. A child or person unable to communicate is covered only by a protective return, never by a household proxy.
@@ -258,7 +264,7 @@ The opening river city in the River Delta, population roughly 80,000.
 
 ### **Lower Lock**
 
-A flood-prone Docketford ward. It is a real neighborhood, not a slum used only for suffering.
+A flood-prone Docketford ward. It is a real neighborhood, not a slum used only for suffering. Its return is filed as **District Return 487-LL**.
 
 ### **Ninth Weir**
 

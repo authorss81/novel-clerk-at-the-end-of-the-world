@@ -12,7 +12,7 @@ This file is author-facing planning. It is not a list of facts already known by 
 
 ## Immediate Volume 1 Promises
 
-- Lower Lock and the Ninth Weir need a lawful local return before a closure order becomes irreversible.
+- Lower Lock and the Ninth Weir need a lawful district return before a closure order becomes irreversible.
 - Halden Pike’s stability order must be challenged through evidence and appeals, not a hidden power.
 - Owen and Nell must work together while retaining their professional disagreement.
 - Ada must be allowed to negotiate Lower Lock’s future rather than becoming Owen’s protected ward.
@@ -24,6 +24,12 @@ This file is author-facing planning. It is not a list of facts already known by 
 - Six of the thirteen erased entries are children or people unable to answer. Lower Lock has no protective-return structure and this is **not** solved by the end of Volume 01.
 - Cobb Rennie’s pension, the four dissenting households’ separate branch, Dory Anstruther’s injury, and the four months of the ward’s granary reserve are open threads inside the volume.
 - Pike’s justification — the withdrawal that saved people elsewhere and hid its own cost — must surface without excusing it.
+- **Stability Order 114 has no issuer until Chapters 17–18**, when Pike signs it on the eleven failing returns he named in Chapter 3. It must be a separate instrument from the Chapter 8 load-restriction suspension, and it is the instrument that reaches public appeal.
+- **The seven-day answer clock** opened in Chapter 9 must land in Chapters 12–13. It runs to the written answer, not to a hearing, and the answer it gives is a date. Without that beat the volume has a clock and no payoff.
+- **The backdated annex schedule** is the one thing Owen was provably right about, and he withdraws his own proof of it in Chapter 5. It is never corrected. The three requests refused inside those two days stay logged, and someone must still be reading that log.
+- **Alder Row and the brass tab** need beats at Ch 14–15 (the index request) and Ch 34–36 (the four streets), not just the Chapter 10 discovery and the Chapter 50 image. The drawer is never opened in Volume 01.
+- **Lound’s second circular** must arrive in Chapters 33–35 and name the review rather than the hearing. Her two circulars are her whole presence in Volume 01.
+- **Pell’s independence is contestable** because she is a Registry officer signing a ward’s duty instrument. The question must stay open through Batch 0002, where the answer is *accepted for review* rather than binding.
 
 ## Relationship and Character Payoffs
 

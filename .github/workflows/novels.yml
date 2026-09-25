@@ -1,6 +1,8 @@
 name: novel-batch
 
 on:
+  schedule:
+    - cron: "0,30 * * * *"
   workflow_dispatch:
     inputs:
       probe:
@@ -70,7 +72,7 @@ jobs:
   run-batch:
     if: ${{ inputs.probe != true }}
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 240
     steps:
       - name: Checkout
         uses: actions/checkout@v4

@@ -86,10 +86,22 @@ checkpoint_loop() {
 }
 
 resume_wip() {
+  if [ -f "$phase_dir/.wip-conflict" ]; then
+    echo "Skipping stale WIP branch $wip_branch after a previous merge conflict"
+    return 0
+  fi
   if git ls-remote --exit-code origin "refs/heads/$wip_branch" >/dev/null 2>&1; then
     echo "Resuming checkpoint from $wip_branch"
     git fetch origin "$wip_branch" 2>/dev/null || true
-    git merge --no-edit FETCH_HEAD
+    if ! git merge --no-edit FETCH_HEAD; then
+      git merge --abort 2>/dev/null || true
+      touch "$phase_dir/.wip-conflict"
+      git add "$phase_dir/.wip-conflict"
+      git commit -m "novel: skip stale WIP $phase_id" >/dev/null
+      git push origin HEAD
+      echo "WIP conflict; continuing from current main"
+      return 0
+    fi
     touch "$phase_dir/.checkpoint"
     rm -f "$phase_dir/.deferred"
   fi
@@ -226,7 +238,7 @@ if [ "$review_code" -eq 0 ] && grep -qiE 'finding|problem|issue|contradiction|re
 fi
 
 touch "$phase_dir/.done"
-rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.checkpoint"
+rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict"
 if ! commit_changes "novel: complete $phase_id"; then
   echo "Completion marker produced no commit"
   exit 0

@@ -8,6 +8,11 @@ mkdir -p logs
 PRIMARY="${NOVEL_MODEL:-opencode/space-bunny-free}"
 FALLBACKS="${NOVEL_FALLBACK_MODELS:-opencode/muse-spark-1.3-contributor-free,opencode/muse-spark-1.2-contributor-free,opencode/nemotron-3-ultra-free,opencode/nemotron-3.5-lightning-free,opencode/mimo-v2.6-flash-free,opencode/ling-3.0-flash-fin-free}"
 MAX_MODELS="${MAX_MODELS:-3}"
+PLANNING_TIMEOUT_SECONDS="${PLANNING_TIMEOUT_SECONDS:-2700}"
+BATCH_TIMEOUT_SECONDS="${BATCH_TIMEOUT_SECONDS:-7200}"
+REVIEW_TIMEOUT_SECONDS="${REVIEW_TIMEOUT_SECONDS:-900}"
+FIX_TIMEOUT_SECONDS="${FIX_TIMEOUT_SECONDS:-3600}"
+CHECKPOINT_INTERVAL_SECONDS="${CHECKPOINT_INTERVAL_SECONDS:-300}"
 
 if [ -z "${OPENCODE_API_KEY:-}" ]; then
   echo "OPENCODE_API_KEY is missing" >&2
@@ -33,13 +38,65 @@ prompt_file="$phase_dir/PROMPT.md"
 log_file="logs/${phase_id}.log"
 review_log="logs/${phase_id}.review.log"
 fix_log="logs/${phase_id}.fix.log"
-phase_timeout="${PHASE_TIMEOUT_SECONDS:-5400}"
+wip_branch="novel-wip/${phase_id}"
+checkpoint_pid=""
 
 case "$phase_id" in
-  phase-000-*|phase-001-*|phase-002-*) phase_timeout="${PLANNING_TIMEOUT_SECONDS:-1800}" ;;
+  phase-000-*|phase-001-*|phase-002-*) phase_timeout="$PLANNING_TIMEOUT_SECONDS" ;;
+  *) phase_timeout="$BATCH_TIMEOUT_SECONDS" ;;
 esac
 
 printf '%s\n' "Running $phase_id with timeout ${phase_timeout}s" | tee "$log_file"
+
+start_checkpoint_loop() {
+  checkpoint_loop &
+  checkpoint_pid=$!
+}
+
+stop_checkpoint_loop() {
+  if [ -n "$checkpoint_pid" ]; then
+    kill "$checkpoint_pid" 2>/dev/null || true
+    wait "$checkpoint_pid" 2>/dev/null || true
+    checkpoint_pid=""
+  fi
+}
+
+checkpoint_wip() {
+  if ! git status --porcelain 2>/dev/null | grep -vE '^\?\? logs/|^.. logs/' | grep -q .; then
+    return 0
+  fi
+  git add -A 2>/dev/null || true
+  local tree commit base
+  tree="$(git write-tree 2>/dev/null)" || return 0
+  base="$(git rev-parse HEAD 2>/dev/null || echo HEAD)"
+  commit="$(git commit-tree "$tree" -p "$base" -m "novel: checkpoint $phase_id $(date -u +%s)" 2>/dev/null)" || return 0
+  if git push origin "$commit:refs/heads/$wip_branch" --force 2>/dev/null; then
+    echo "Checkpoint pushed to $wip_branch"
+  fi
+  git reset -q 2>/dev/null || true
+}
+
+checkpoint_loop() {
+  while true; do
+    sleep "$CHECKPOINT_INTERVAL_SECONDS"
+    checkpoint_wip || true
+  done
+}
+
+resume_wip() {
+  if git ls-remote --exit-code origin "refs/heads/$wip_branch" >/dev/null 2>&1; then
+    echo "Resuming checkpoint from $wip_branch"
+    git fetch origin "$wip_branch" 2>/dev/null || true
+    git merge --no-edit FETCH_HEAD
+    touch "$phase_dir/.checkpoint"
+    rm -f "$phase_dir/.deferred"
+  fi
+}
+
+clear_wip() {
+  git push origin --delete "$wip_branch" 2>/dev/null || true
+  rm -f "$phase_dir/.checkpoint"
+}
 
 commit_changes() {
   local message="$1"
@@ -56,11 +113,9 @@ commit_changes() {
 
 checkpoint_and_defer() {
   local reason="$1"
-  touch "$phase_dir/.checkpoint"
-  if commit_changes "novel: checkpoint $phase_id"; then
-    echo "Checkpoint saved for $phase_id"
-  fi
-  touch "$phase_dir/.deferred"
+  stop_checkpoint_loop
+  touch "$phase_dir/.checkpoint" "$phase_dir/.deferred"
+  checkpoint_wip
   echo "Phase deferred: $phase_id ($reason)"
   exit 0
 }
@@ -74,11 +129,13 @@ if [ "${#model_list[@]}" -gt "$MAX_MODELS" ]; then
   model_list=("${model_list[@]:0:$MAX_MODELS}")
 fi
 
+resume_wip
 prompt_text="$(cat "$prompt_file")"
 if [ -f "$phase_dir/.checkpoint" ]; then
   prompt_text="A checkpoint exists for this phase. Continue from the existing files and state. Do not restart completed work. $prompt_text"
 fi
 
+start_checkpoint_loop
 writer_ok=false
 attempted=0
 for model in "${model_list[@]}"; do
@@ -104,9 +161,11 @@ for model in "${model_list[@]}"; do
     continue
   fi
   printf 'Writer failed with a work error; not switching models.\n' | tee -a "$log_file"
+  stop_checkpoint_loop
   touch "$phase_dir/.blocked"
   exit 1
 done
+stop_checkpoint_loop
 
 if [ "$writer_ok" != true ]; then
   checkpoint_and_defer "no writer model succeeded"
@@ -124,26 +183,28 @@ else
   exit 0
 fi
 
+start_checkpoint_loop
 set +e
-timeout --signal=TERM --kill-after=20s 900s opencode run --model "$PRIMARY" --agent novel-reviewer "Review the current phase changes. Do not edit files. Return concrete findings and finish promptly." >"$review_log" 2>&1
+timeout --signal=TERM --kill-after=20s "$REVIEW_TIMEOUT_SECONDS" opencode run --model "$PRIMARY" --agent novel-reviewer "Review the current phase changes. Do not edit files. Return concrete findings and finish promptly." >"$review_log" 2>&1
 review_code=$?
 set -e
+stop_checkpoint_loop
 
 if [ "$review_code" -eq 124 ] || [ "$review_code" -eq 143 ]; then
-  echo "Review timed out; writer checkpoint is already saved"
+  echo "Review timed out; writer work is already committed"
   touch "$phase_dir/.deferred"
   exit 0
 fi
 
 if [ "$review_code" -eq 0 ] && grep -qiE 'finding|problem|issue|contradiction|repetition|outline-like|meta' "$review_log"; then
+  start_checkpoint_loop
   set +e
-  timeout --signal=TERM --kill-after=20s 3600s opencode run --model "$PRIMARY" --agent novel-writer "Read the reviewer findings in $review_log. Apply necessary fixes to the current phase and state files. Preserve good prose, do not restart the batch, and do not change the planned plot." >"$fix_log" 2>&1
+  timeout --signal=TERM --kill-after=20s "$FIX_TIMEOUT_SECONDS" opencode run --model "$PRIMARY" --agent novel-writer "Read the reviewer findings in $review_log. Apply necessary fixes to the current phase and state files. Preserve good prose, do not restart the batch, and do not change the planned plot." >"$fix_log" 2>&1
   fix_code=$?
   set -e
+  stop_checkpoint_loop
   if [ "$fix_code" -eq 124 ] || [ "$fix_code" -eq 143 ]; then
-    echo "Fix pass timed out; writer checkpoint is already saved"
-    touch "$phase_dir/.deferred"
-    exit 0
+    checkpoint_and_defer "fix timeout"
   fi
   if [ "$fix_code" -ne 0 ]; then
     touch "$phase_dir/.blocked"
@@ -158,6 +219,7 @@ if ! commit_changes "novel: complete $phase_id"; then
   echo "Completion marker produced no commit"
   exit 0
 fi
+clear_wip
 
 if [ -n "${GH_TOKEN:-}" ]; then
   gh api -X POST \

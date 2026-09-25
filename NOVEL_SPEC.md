@@ -9,7 +9,7 @@ Relationship policy: One slow-burn relationship or no romance, decided in the bi
 Power rule: Growth must be earned through practice, cost, failure, relationships, and changed decisions. The lead must not become instantly overpowered unless the approved genre premise requires it.
 
 ## Premise
-A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, reality loses its supported future.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, Vespera loses its common future, although locally supported acts may endure for a time.
 
 ## Ending
 The final form is completed by an entire civilization rather than one clerk.

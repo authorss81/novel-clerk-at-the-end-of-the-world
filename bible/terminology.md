@@ -56,7 +56,7 @@ The public, combined view of separately authorized returns. An aggregate include
 
 ### **Assumption Plan**
 
-Chancellor Verity Lound’s emergency proposal allowing the Chancellor to accept a return on behalf of absent, incapacitated, or unreachable people. At the Mandate’s final transition, it can obtain a finite 30-day succession hold under the old emergency machinery, but that hold cannot create the common future or become a valid final authority. It is not called the Evil Plan, Coup, or Final Seal by the characters.
+Chancellor Verity Lound’s emergency proposal allowing the Chancellor to accept a return on behalf of absent, incapacitated, or unreachable people. At the Mandate’s final transition, it can obtain a finite 30-day succession hold under the old emergency machinery. Lound intends to renew that hold through a separate coercive filing, not through automatic succession. Neither the hold nor the renewal can create the common future or become a valid final authority. It is not called the Evil Plan, Coup, or Final Seal by the characters.
 
 ### **Assumption Clause**
 
@@ -76,11 +76,15 @@ The Provisional Registry’s ministerial actuator. It checks the recorded shape 
 
 ### **30-day succession hold**
 
-A finite emergency bridge created when the central seal accepts a coercive Assumption filing under the Mandate’s one-time transition clause. It can preserve the last supported status of central roads, hospitals, waterworks, and archive shells while named custodians repeat emergency acts. It does not preserve consciousness, create the common future, or authorize a custodian to answer for another person. It has a separate ledger status and cannot be promoted to a final return merely by adding a transmission mark. At the end of the interval, the hold expires unless a valid return or a new lawful authority has replaced it.
+A finite emergency bridge created when the central seal accepts a coercive Assumption filing under the Mandate’s one-time transition clause. It can preserve the last supported status of central roads, hospitals, waterworks, and archive shells while named custodians repeat emergency acts. It does not preserve consciousness, create the common future, or authorize a custodian to answer for another person. It has a separate ledger status and cannot be promoted to a final return merely by adding a transmission mark. Its term is exactly 30 days unless a valid Common Return or a new lawful authority replaces it first. A valid activation at Civic Zero supersedes the hold immediately and stops the clock; the new order does not run Lound’s hold in parallel. Central services then depend on named local returns and transition offices. If no valid return appears, the hold expires at the end of its term.
+
+### **Succession renewal**
+
+Lound’s proposed day-twenty-five filing during a succession hold. It declares the Provisional Council and all essential services one institutional branch and relies on Owen’s pooled mark to complete a false representative line. This is a new coercive filing, not lawful promotion of the hold. It may pass the first structural check and remain under temporary review, but essential-service acts do not authorize the residents Lound claims. Without Owen’s mark, one supported counter-entry separates those acts from the claimed scope at the next ledger stroke. If a valid Common Return activates first, it supersedes the hold and the renewal never matures.
 
 ### **Return bundle**
 
-A sealed, witnessed set of local return pages, branch list, witness confirmations, and appeal route physically carried to a regional receiving table. Return bundles travel by courier, semaphore, river post, and rail cart; they are not thoughts or unrestricted remote authority. The ordinary final window closes three days before Civic Zero.
+A sealed, witnessed set of local return pages, branch list, witness confirmations, and appeal route physically carried to a regional receiving table. Return bundles travel by courier, semaphore, river post, and rail cart; they are not thoughts or unrestricted remote authority. At the ordinary cutoff three days before Civic Zero, each regional table freezes an authenticated branch ledger. A new claimant branch absent from that ledger cannot enter the final aggregate. A listed branch may still be narrowed, withdrawn, challenged, or changed to refusal by a separately witnessed amendment delivered through the relay before the final stroke. Any claimant first reaching the network after the cutoff remains outside the final aggregate and may use the post-activation appeal route.
 
 ---
 

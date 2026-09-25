@@ -11,7 +11,7 @@
 
 ## One-Sentence Premise
 
-A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, Vespera loses its common supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, Vespera loses its common future, although locally supported acts may endure for a time; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
 
 ## Elevator Pitch
 
@@ -66,14 +66,14 @@ The ladder does not consist of increasingly powerful monsters. It escalates thro
 2. A field commander removes unstable people and calls deletion mercy.
 3. A senior reformer hides amendments because he believes only centralized truth can prevent another Blanking.
 4. A market broker turns consent into transferable property.
-5. Chancellor Verity Lound offers centralized safety under one accountable authority: a finite succession hold that she believes can be made permanent.
+5. Chancellor Verity Lound offers centralized safety under one accountable authority: a finite succession hold that she tries to renew through a coercive institutional filing.
 6. The final pressure comes from the structure itself: Form Zero rewards whoever can make every person appear to have consented.
 
 No antagonist beyond this planned ladder should become the final enemy.
 
 ## Ending Contract
 
-At Civic Zero, Chancellor Lound can invoke the Assumption Plan to place central infrastructure under a 30-day succession hold, making every citizen’s consent revocable by the office holding the emergency machinery. She believes a centralized custodian can turn that finite hold into a permanent continuation. Owen is tempted to lend the filing the authority of his transmission role and remove himself as the only authorized representative. Lound’s institutional mark can obtain the hold by itself; Owen’s pooled mark would make the coercive filing appear structurally complete to the old central seal and make it harder to challenge, though it cannot promote the hold to a valid final return. He refuses. Instead, thousands of local returns—households, farms, mutual-aid kitchens, caravans, villages, free counters, and individual solitary claimants—file independently through the human relay chain. A household return is a set of separately consenting adult branches, not one person signing for the others. Their separate acts aggregate into the completed Common Return.
+At Civic Zero, Chancellor Lound can invoke the Assumption Plan to place central infrastructure under a 30-day succession hold. Her concrete route to permanence is a day-twenty-five renewal filing that pools the Council and essential services into one institutional branch, then uses Owen’s pooled transmission mark to make the false representative line pass the central seal’s first structural check. The maneuver has a mechanical failure: essential-service acts do not independently authorize the residents Lound claims, so without Owen’s mark a supported counter-entry defeats the false scope at the next ledger stroke. Owen refuses to supply that mark. At the final stroke, the valid Common Return immediately supersedes the succession hold; the hold’s 30-day clock never runs alongside the new order. Instead, thousands of returns already pre-positioned before the ordinary cutoff, together with authorized narrowing, withdrawal, and refusal amendments received during the final seventy-two hours, aggregate into the completed Common Return. A household return remains a set of separately consenting adult branches, not one person signing for the others. A genuinely new claimant branch arriving after the cutoff remains outside the final aggregate and can use the post-activation appeal route.
 
 The final form is completed by the civilization, not by Owen’s handwriting. Its completeness is bounded and public: the network records every branch it receives, leaves hidden or unreachable branches explicitly unresolved instead of presuming consent, and keeps an appeal route open for them. Owen’s final act is to remove himself as the only authorized representative.
 

@@ -70,3 +70,50 @@ This file is author-facing planning. It is not a list of facts already known by 
 - Verity Lound's Assumption Plan is the final political opponent; Sallow's market, Rive's secrecy, and Kade's suspension doctrine are earlier stages of the same authority conflict.
 - Lound's institutional proxy authority and Owen's community-selected transmission role must remain distinct at the climax.
 - The final form must be completed by plural voluntary returns within a bounded, public network, with irreversible losses acknowledged and no new cosmic enemy.
+
+---
+
+## Volume 01 — CLOSED, and what it hands on
+
+Volume 01 (*The Unfiled Ward*, Chapters 1–50, C.Y. 487) is finished. The threads below are marked as **CLOSED — PAID**, **CLOSED — LEFT OPEN DELIBERATELY**, or **HANDED TO VOLUME 02**.
+
+### CLOSED — PAID inside Volume 01
+
+- **PAYED — Stability Order 114 is in public appeal.** Carried on Day 59 in the room by Marguerite Bray in her own name, argued again on Day 66, **not withdrawn**, the sixteen still sixteen, Lower Lock sixth, one of the sixteen still suspended. Pike is **alive, unpromoted, and the first name in the register of contested closures of his district**, which he asked for himself in a room of thirty people, and which is public and printed once a year.
+- **PAYED — the narrow district return and the temporary preservation hold.** **Duty, and no status** — four words, the ward's own — is on a certified instrument with a seven-day review, separately consenting adult branches, a withdrawal right in the ward's capitals, a named appeal route, and a hold that keeps the crossing's last supported legal status and its appeal window alive and **does one thing and one thing only**.
+- **PAYED — Stage 1, Sealed Witness, acquired at the Chapter 46 certification and only there.** One completed qualified filing, one named duty accepted, one signed certification as a person without a seal, one active hold, one list of five lines.
+- **PAYED — Marta Rusk's record is amended**, with the eleven days and the eight months recorded as two figures, the office and the batch named, and **nothing returned**.
+- **PAYED — Hester Lund's letter.** Four lines, a **standing in the room with a document on the table in front of it**, and one disagreement spent out loud in a public room. She is **not** on the return, by her own seventh condition, and that absence is one of the volume's closing facts.
+- **PAYED — the four dissenters' pages.** One refusal in a cook's hand with the reason and the date, one duty in a watchman's hand, four sentences in a bridge mechanic's capitals, and one page still blank on purpose. Sent to Concord Hall five times. The branch is not a pardon and the ward never asked the office to name anybody in writing.
+- **PAYED — the twenty-two.** In a transcript, in a room of forty people, in front of forty, because Owen spent the sentence he carried up a hill and the Deputy Registrar declined to fight about the word *hid*.
+- **PAYED — the Office's answer on the forty-one was made to argue in public**, and it was a paragraph, and it is now a **form** that is correct, sufficient, posted, and will be the answer in every quarter. **Visibility is not remedy and the volume says so on the page.**
+
+### CLOSED — LEFT OPEN DELIBERATELY, and these are the volume's last open promises
+
+- **The six protective returns are at three of five parts.** Two of the five are Registry functions and this city has never paid for either. **A custodian's cost is now a number — five hours a week, every week, and the office may put somebody else in the place without asking the ward** — and it is a number on a page in a ward hall and **no custodian has been bought.** The word is not written beside any of the four people who could be asked. **This is the volume's last open promise about a person.**
+- **Cobb Rennie's pension is unreachable.** He named it himself, in public, on Day 66, and said it was worth less than money and more than nothing. His hours came off the return on Day 60 and stayed on the roster, and a roster records hours and not service. **Nothing in Volume 01 cured it and nothing may say it did.**
+- **The repair at the four thousand one hundred and sixty is unfunded**, and the notice at the weir path still invites any district able to perform it to perform it, and the crossing is **closed to loads**, unsafe, and with a legal status alive under a hold that does not make it safe.
+- **Ada's wage is a written condition of the ward's own roster and is not funded anywhere in Volume 01.**
+- **The sixteen are sixteen.** The order picks a place by a column struck at eight in the morning, and **Nell Arbour said so in a public room**: the objection is not that the order is unkind to Lower Lock, it is that a rule picks a place, and it goes to sixteen places and not one. **Volume 02 inherits the question of who decides which districts deserve to survive.**
+- **The forty-one dispositions a quarter are not stopped and not slowed.** A name in a schedule of duties, against a duty, by the second counter, which Owen has deliberately not looked up, and who is not a villain and has never been anybody's enemy.
+- **The forty other people in Redaction Batch 471/Q4/19 have not been asked and cannot be made to ask.** A person who does not know they are named in an entry cannot apply to see it, and how many of the forty are alive is not on the schedule and not in the register.
+- **The receipt promised on Day 19 was never given.** It is the fifth line of the list, and it is standing on a spike in the ground floor of the River Desk with a heading on it.
+- **The empty tenth in the Fetter Bend day-book** and the **ninth that was the day Tal Sarr asked** are unexplained and are the volume's oldest untouched thing.
+- **The eight dispatches in the drawer below Owen's floor**, unread, on a floor he is not cleared for.
+- **A name that does not come, twice.** **VANE, H.**, gone in the fourth week and never restored. **Hiram Cray**, of the water gate, gone on Day 65, permanent, not written down, not to be told. Neither was a price anybody charged. **No later chapter may resolve, repeat, notice or restore either.**
+
+### HANDED TO VOLUME 02 — *Clean Count*, Chapters 51–100, C.Y. 488
+
+1. **The Census Guard and Warden Oress Kade**, who do not appear on stage anywhere in Volume 01 and who arrive with the Docketford ledger. The volume's last argument, Nell Arbour's, is theirs to answer: **if redaction can be necessary, and somebody chose it, who decides which communities deserve to survive?**
+2. **The brass tab.** Intake **486/F-B/10**, a district return for **Alder Row**, a ward officially closed in the Concord Year 461, four streets from Owen's bed, in an intake series the Registry's own index says was never opened. **The cord is black, the card behind the tab says *never opened*, and Volume 02 inherits it shut.** Volume 01's finding is that it is **a filing and not a mystery**, and Volume 02 may not restage the four streets, which were spent in Chapters 10, 14 and 20.
+3. **The six protective returns** and the two unowned Registry functions, with the custodian's cost of five hours a week now a matter of public record in a transcript.
+4. **Cobb Rennie's pension**, and a man of fifty-eight who walks a girl of twelve home every night in the dark and is owed nineteen years at an address.
+5. **The form maintainer in the district office** — a name in a schedule of duties against a duty, by the second counter — whom Owen has not looked up, and whom the next batch may not make an enemy of without a beat that earns it.
+6. **The twenty-one.** A count, not a census. Eight branches, two observers, four objectors, six named act-holders, one steward — and three names that are not on it, each for a reason. **A bounded procedure that shows what it could not see is Volume 02's problem before it is Volume 15's.**
+7. **Form Zero**, still a clerk's aside on a seal stair: the only instrument that could supersede a stability order, no valid signature path, due in thirteen years, at the end of the Concord Year 500.
+8. **The registration and the term.** Owen Rusk is restored to a desk he no longer wants, holds a **seven-day** certification that expires at the hour of the seal on the seventieth day of the month, and is a person whose answers have a price and a term. **The price is that he can no longer hold a thing in general.** His post is the tray of unfiled correspondence and the record of the district returns. He is a stranger in the building.
+9. **Pell**, third statement of interest on the file, fourth name on a roll of nineteen, still the only living witness to a sheet nobody may raise, and owed nothing.
+10. **Nell Arbour**, who is not available, whose condition is the route and nothing else, and who said in a public room that the case is right and that is why she did it.
+11. **Ada Rusk**, who led her own filing, narrowed it herself, and holds a ward's paper of four words in her own capitals.
+12. **Halden Pike**, who is a reluctant source and a first name in a register, and whose later testimony helps prove that the Office knew.
+13. **The ward's week**, which does not stop: marker Thursday and Friday at seven forty, channel Wednesday night, pump prime Thursday at four, count Wednesday night written up Thursday afternoon, roster read at ten past six. **The crossing is shut, the pump is hand-primed on the worst nights, the granary is at a fortnight and a bit, and the wage is a written condition of a roster that nobody funds.**

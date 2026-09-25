@@ -39,8 +39,7 @@ Before writing a batch, read:
 - The complete series outline and ending.
 - The current volume outline.
 - The current batch chapter cards.
-- The previous batch summary.
-- The last two or three chapters for immediate voice and continuity.
+- The previous 20 chapters for immediate voice and continuity; extend to 30 when the model’s verified context budget safely allows it.
 - `state/current.md`.
 - `state/continuity.md`.
 - `state/open-threads.md`.

@@ -130,9 +130,7 @@ The ward hall was shut and the hall does not open on a Sunday unless there is bu
 
 He sat down and read it.
 
-He read out the whole of the Sunday, in order, the way he read out the Council's circular in the hall on the Wednesday — Nell Arbour's four sentences and the addition she had made to them; the wrong question and the right one; the landing, the boards, the hut, the tide table in its frame, the oil can; the seven conditions word for word; the sixth condition he was not entitled to; the fifteen words on the boards; and the name.
-
-He got the name right the first time, because he had written it down twice before he left the landing, on the back of his own hand in pencil, and read it out.
+He read out the whole of the Sunday, in order, the way he read out the Council's circular in the hall on the Wednesday — Nell Arbour's four sentences and the addition she had made to them; the wrong question and the right one; the landing, the boards, the hut, the tide table in its frame, the oil can; the seven conditions word for word; the sixth condition he was not entitled to; the fifteen words on the boards; and the name. He got it right the first time, because he had written it down twice before he left the landing, on the back of his own hand in pencil, and read it out.
 
 "**Hester Lund**," he said. "Coal Hill. Nineteen years on that table."
 

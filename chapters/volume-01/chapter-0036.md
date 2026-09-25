@@ -1,8 +1,6 @@
 # Chapter 36 — The Four Who Said No
 
-The return came up on the Friday morning of the forty-sixth day of the month in the long room at the end of the second floor with the high windows, and the room was booked for the morning and the clock in it was a different clock, and about forty people came to stand at the back of it, which is what happens when a reviewing officer books a room in which papers may be produced and read.
-
-The act was one line and Owen Rusk wrote it out in longhand on the form and read it back and then signed the box that said *entry of a filing on this tray*, and nothing else, because there was nothing else on the card to sign.
+The return came up on the Friday morning of the forty-sixth day of the month in the long room at the end of the second floor with the high windows, and the room was booked for the morning and the clock in it was a different clock, and about forty people came to stand at the back of it, which is what happens when a reviewing officer books a room in which papers may be produced and read. The act was one line and Owen Rusk wrote it out in longhand on the form and read it back and then signed the box that said *entry of a filing on this tray*, and nothing else, because there was nothing else on the card to sign.
 
 *On the forty-fifth day of the month the district performed the maintenance of the named work in the manner named in this return, upon a roster produced by the district, before the two observers recorded, the roster being produced at the ward hall and a copy held at the weir path, and the roster was read in public in the ward hall. No person not of the district was present. No person not of the district has been asked, the district having named no further day.*
 
@@ -44,7 +42,7 @@ Owen Rusk had learned in six weeks that there is a particular way four people si
 
 "Read what."
 
-"All of it." She counted them off, and it was the same hand she had used on the Thursday night with the Council's circular, and it did not slow down. "The roster, which we have read because anybody may read it. The schedule of the precedent, which was read out in this room in the granary by a man from the mill on a Wednesday night a fortnight and a bit ago and never explained to us by anybody in that building. The council's paper, which Mr Rusk read out in this room on Wednesday. The refusal column, which we have all had in our hands since the Saturday and which nobody has ever read out loud in a room, because it is a hundred and nine lines and it takes a woman with a free morning. The hearing statement, which is four lines and three of them are mine. The thing about the route that the man with the clock said out loud this morning in a room with windows."
+"All of it." She counted them off, and it was the same hand she had used on the Wednesday night with the Council's circular, and it did not slow down. "The roster, which we have read because anybody may read it. The schedule of the precedent, which was read out in this room in the granary by a man from the mill on a Wednesday night a fortnight and a bit ago and never explained to us by anybody in that building. The council's paper, which Mr Rusk read out in this room on Wednesday. The refusal column, which we have all had in our hands since the Saturday and which nobody has ever read out loud in a room, because it is a hundred and nine lines and it takes a woman with a free morning. The hearing statement, which is four lines and three of them are mine. The thing about the route that the man with the clock said out loud this morning in a room with windows."
 
 "Which is not fair," said Owen Rusk. "You were not in that room."
 
@@ -98,9 +96,7 @@ Holm Ferris, who is fifty-eight and keeps the night watch in this ward and had n
 
 "Then help me," said Ada Rusk, "because that is the part I have not got. A branch carries a duty. I have been talking about the *paper* of it for two days because the paper is what I understand and the paper is what I have got, and the paper is not the thing. Somebody has to say what the four of you would do on a Tuesday, in the rain, before somebody who is not us, that is a duty, and it has to be a thing you would actually do, and it has to be a thing that can be done by one of you alone, because a duty that needs all four of us is a duty that will not be done in February."
 
-The room sat with that for a while.
-
-And Owen Rusk, who had been standing at the end of the table since half past six with his hands behind his back, said:
+The room sat with that for a while, and then Owen Rusk, who had been standing at the end of the table since half past six with his hands behind his back, said:
 
 "I think a separate branch is a reinstatement in the return—"
 
@@ -122,13 +118,11 @@ Owen Rusk stood at the end of the table and had been wrong in a room in front of
 
 ---
 
-Bram Tillet said no.
-
-He said it at about a quarter to eight, from the corner, without standing up, and it was the last thing in the evening and it was so quiet that Ada had to ask him to say it again.
+Bram Tillet said no, and he said it at about a quarter to eight, from the corner, without standing up, and it was the last thing in the evening and it was so quiet that Ada had to ask him to say it again.
 
 "Say it again," she said, "louder, because if I have to ask you then it goes in the book wrong."
 
-Bram Tillet was forty-six and had been a ferry cook at Wexford Landing since he was nineteen and he has cooked on the middle crossing since he was nineteen and he voted no on the seventh day of the month with a hand up and a reason he gave at the time in one sentence, and he is not a man who speaks in rooms.
+Bram Tillet was forty-six and he is a ferry cook at Wexford Landing and he has cooked on the middle crossing since he was nineteen and he voted no on the seventh day of the month with a hand up and a reason he gave at the time in one sentence, and he is not a man who speaks in rooms.
 
 "No," he said, louder. "And I want the reason written down and I want it written down in the same breath as the no, because I have watched four people in this hall do a thing this month and the reason always arrives about a day late and by then everybody has agreed with it."
 
@@ -168,9 +162,7 @@ She did not stop the evening there, and Owen Rusk understood afterwards that thi
 
 "The day of the hearing," said Ada Rusk. "Whichever day it turns out to be. And I am not going to be able to help you with that, because it is not in anybody's book yet, and when it is, Mrs Bray will rule the day in the same column and you will be able to see it here in the hall, on the wall, whenever you want to look at it."
 
-Marguerite Bray wrote for about four minutes, in her own hand, and then ruled four lines under it, and then she wrote the four names at the top of four separate pages, one under another, in her own hand, and put the pencil down and read the whole of it back to the room including the part about the day of the hearing, which is the part that made Ada Rusk look at the floor for a second.
-
-And then she said the last thing of the night, in the flat voice she uses for things she means.
+Marguerite Bray wrote for about four minutes, in her own hand, and then ruled four lines under it, and then she wrote the four names at the top of four separate pages, one under another, in her own hand, and put the pencil down and read the whole of it back to the room including the part about the day of the hearing, which is the part that made Ada Rusk look at the floor for a second, and then she said the last thing of the night, in the flat voice she uses for things she means.
 
 "Twenty-two years ago I wrote a man's name in a delivery book because he brought me a paper and told me he could not read it, and it was the correct thing to do, and it did him no good at all." She put her hand flat on the page. "I am not telling you what I think. I am telling you what I have got, and what I have got is four blank pages in my own book with four names at the top of them, and that is a very small thing and it is the only thing I have ever been able to give anybody, and I have given it to four people who have not asked me for it, which is the only way anybody in this ward has ever received anything worth having."
 

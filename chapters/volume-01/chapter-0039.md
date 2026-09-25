@@ -1,12 +1,8 @@
 # Chapter 39 — The Ward Files Its Own Case
 
-The bin went on the Monday morning of the forty-ninth day of the month, which was not a thing anybody had planned, and it took about nine minutes to deal with and the whole of the ward came to look at it, because in a ward of two hundred and forty people a bin going is an event and because everybody in the room had been eating out of it in some sense for a month.
+The bin went on the Monday morning of the forty-ninth day of the month, which was not a thing anybody had planned, and it took about nine minutes to deal with and the whole of the ward came to look at it, because in a ward of two hundred and forty people a bin going is an event and because everybody in the room had been eating out of it in some sense for a month. It was at the back, on the floor, against the wall under the low window, and it was meal, and it had gone damp in the corner where the wall sweats, and it was not spoiled all the way through; it was spoiled in about a sixth of itself, and the rest of it was good, and Nessa Kray said that from the door without coming in, and got it right, and the granary committee stood round it for a while and then did the thing which is the only thing anybody in Lower Lock knows how to do with a bad bin, which is to write it down.
 
-It was at the back, on the floor, against the wall under the low window, and it was meal, and it had gone damp in the corner where the wall sweats, and it was not spoiled all the way through; it was spoiled in about a sixth of itself, and the rest of it was good, and Nessa Kray said that from the door without coming in, and got it right, and the granary committee stood round it for a while and then did the thing which is the only thing anybody in Lower Lock knows how to do with a bad bin, which is to write it down.
-
-Marguerite Bray wrote it in the pump book on the page where the figure lives, in pencil, in her own hand, with the day, and then she ruled the figure again underneath it.
-
-It came out at **just over two weeks**.
+Marguerite Bray wrote it in the pump book on the page where the figure lives, in pencil, in her own hand, with the day, and then she ruled the figure again underneath it. It came out at **just over two weeks**.
 
 Two weeks and a bit had been the figure on the Thursday, and the difference between that and what was on the board on the Monday was a sixth of a bin and about three days, and nobody said anything about that at all, and Owen Rusk stood at the end of the long table with a folder of nothing under his arm and understood that this was the second time in four days that a number in a pump book had fallen by an amount that nobody would have called a fall.
 
@@ -42,15 +38,11 @@ She looked round the room, and every single person in it was looking at her, and
 
 ---
 
-The honest answer to the Council's second question was Ada Rusk's and she gave it out loud before she wrote it down, which is the thing she does.
-
-They asked for the ground of the second examination in this district, and the ground is at item 14 of a schedule in a book in the district office, with recitals, four hundred and forty-three years old, amended never, and the recitals are *right* and everybody who has read them has said so and Ada Rusk said so in a hall on the Wednesday night with thirty people in it.
+The honest answer to the Council's second question was Ada Rusk's and she gave it out loud before she wrote it down, which is the thing she does. They asked for the ground of the second examination in this district, and the ground is at item 14 of a schedule in a book in the district office, with recitals, four hundred and forty-three years old, amended never, and the recitals are *right* and everybody who has read them has said so and Ada Rusk said so in a hall on the Wednesday night with thirty people in it.
 
 And then she said the other half.
 
-"The district cannot be examined by anybody who lives in it."
-
-She said it standing at the end of the table and then she wrote it in, because she had told the room on the Wednesday that the frightening part was the one that got written down, and she was not going to hand a ward a sentence in her own hand that she had not read out first.
+"The district cannot be examined by anybody who lives in it." She said it standing at the end of the table and then she wrote it in, because she had told the room on the Wednesday that the frightening part was the one that got written down, and she was not going to hand a ward a sentence in her own hand that she had not read out first.
 
 "Two hundred and forty people, and there is no person in this ward on a district-exclusion roll in this county, and there is not going to be one while the two observers we carry are a Registry officer on the second floor of a building in the city and a counter clerk in the district that took our crossing off us. That is a fact about where we are. It is not about anybody's conduct and it is not a complaint and it does not belong in a document to the Council, and I am putting it in because the Council asked us a question about examinations and the true answer is that we have never had one, and if I leave that out then somebody in Concord Hall will write *the district has examined itself* on a piece of paper in a year and it will be true on its face and false underneath.
 

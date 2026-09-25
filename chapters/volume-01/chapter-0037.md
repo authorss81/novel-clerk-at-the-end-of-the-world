@@ -8,9 +8,7 @@ He came in at half past ten on the Saturday morning of the forty-seventh day and
 
 At about eleven the door at the end of the hall opened and an officer of the district office came out with a sheet of paper in his hand and a runner behind him, and Owen Rusk felt the room find out what it was about a second and a half before anybody said anything, because it is a particular sound that thirty people make when a person in a good coat walks into a room holding paper.
 
-The officer was about thirty and did not know Owen and had clearly been told to do exactly what he was about to do.
-
-He put the sheet on the table beside Owen's, squared it, and turned round to the room.
+The officer was about thirty and did not know Owen and had clearly been told to do exactly what he was about to do. He put the sheet on the table beside Owen's, squared it, and turned round to the room.
 
 "This is the answer of the district office to a comparison posted at this table," he said. "It is dated the fortieth day of the month. It is posted here so that anybody who has read the comparison may read the answer. It is not a filing and I am not taking anybody's name."
 
@@ -22,9 +20,7 @@ He read it out. He read it in a clear voice and at a reasonable speed and he did
 
 *The office has answered a comparison posted at a public counter. It does not treat the posting of a comparison as a filing, and will not answer it as one in any other quarter.*
 
-Owen Rusk read the last three lines twice and then stopped reading and started listening to the room, which was the thing he had come to do.
-
-The officer had said the six words *in any other quarter* in the same voice as everything else, which is to say he had not known that he was saying them, and a woman of about fifty near the back of the room had made a small noise, and somebody at the front had said *what does that mean* loud enough for him to answer it.
+Owen Rusk read the last three lines twice and then stopped reading and started listening to the room, which was the thing he had come to do. The officer had said the six words *in any other quarter* in the same voice as everything else, which is to say he had not known that he was saying them, and a woman of about fifty near the back of the room had made a small noise, and somebody at the front had said *what does that mean* loud enough for him to answer it.
 
 "It means it is the answer for next quarter as well," said the officer, patiently. "A comparison is not a filing. The office answers a comparison once and does not carry it forward, and if the comparison is posted again the office will answer it again, and there is no form on which a question of this kind may be carried forward."
 
@@ -88,7 +84,7 @@ Pell came in at about half past twelve, on a Saturday, in a wet coat, and stood 
 
 "Go on."
 
-"First. Read the first five clauses against the answer you got at the counter a week ago." She put her finger in the air about a foot from the paper. "Word for word. Same order. Same sheet, with a sixth clause and a line at the foot added by hand on Wednesday, and a different signature at the bottom, and the same five clauses in the same order in the same words as the one that came down on the forty-th in the same building to the same table. I have been in this Office three months and I have read about nine of these this quarter and that is not a coincidence, Rusk, that is a *form*. The thing that answered your comparison is a form with your sheet's date typed into the top of it. It was written before the district office had even asked the ward for its schedule, and it went out on the Wednesday, which means somebody upstairs knew on the Monday that you were going to go on asking, and that is the whole of what a form is."
+"First. Read the first five clauses against the answer you got at the counter a week ago." She put her finger in the air about a foot from the paper. "Word for word. Same order. Same sheet, with a sixth clause and a line at the foot added by hand on Wednesday, and a different signature at the bottom, and the same five clauses in the same order in the same words as the one that came down on the fortieth in the same building to the same table. I have been in this Office three months and I have read about nine of these this quarter and that is not a coincidence, Rusk, that is a *form*. The thing that answered your comparison is a form with your sheet's date typed into the top of it. It was written before the district office had even asked the ward for its schedule, and it went out on the Wednesday, which means somebody upstairs knew on the Monday that you were going to go on asking, and that is the whole of what a form is."
 
 "And the name on the schedule of duties maintains the form."
 
@@ -110,9 +106,7 @@ Pell came in at about half past twelve, on a Saturday, in a wet coat, and stood 
 
 ---
 
-He got up the hill at half past two on the Saturday afternoon and the hall was shut, because a hall is shut on a Saturday unless somebody has business, and the granary book said two weeks and the crossing was shut and the sixteen were still sixteen and the return was renewed on the Friday and would come up again on the fifty-third, and the standing item in Docketford was a sheet of paper with a heading on it and two hundred and forty people behind it.
-
-And Owen Rusk stood in the lane above the river in the rain and worked out the only arithmetic that mattered in the whole of that morning, and it took about ninety seconds and it is four sentences long and it is the truest thing he wrote all week, and he did not write it in the register that night, because it is not a fact about a document and he has been caught before about the difference.
+He got up the hill at half past two on the Saturday afternoon and the hall was shut, because a hall is shut on a Saturday unless somebody has business, and the granary book said two weeks and the crossing was shut and the sixteen were still sixteen and the return was renewed on the Friday and would come up again on the fifty-third, and the standing item in Docketford was a sheet of paper with a heading on it and two hundred and forty people behind it, and Owen Rusk stood in the lane above the river in the rain and worked out the only arithmetic that mattered in the whole of that morning, and it took about ninety seconds and it is four sentences long and it is the truest thing he wrote all week, and he did not write it in the register that night, because it is not a fact about a document and he has been caught before about the difference.
 
 It is a practice and not an accident. The Office will go on refusing things in four words because the four words are on a form, and a form is cheap, and a sentence costs money and can be quoted against the person who wrote it, and the whole of this office's defence of itself is that it acts on reach and not on particulars and it will not be moved off that, and it is right to be proud of that, and it is also the reason that a woman in a court off Bell Row can go to a counter four times a year and be told *no district office competent* and never once be told what a competent office would have been.
 

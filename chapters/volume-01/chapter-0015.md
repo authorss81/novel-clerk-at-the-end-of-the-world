@@ -1,6 +1,6 @@
 # Chapter 15 — What Ivy Needs
 
-It took him all of Sunday night and most of Monday morning to work out how to answer Wenna Sarr, and the reason it took that long was that the first three answers he had in him were all complaints, and she had told him on Saturday evening that she was not going to let a month go by the way a fortnight went by, and Owen Rusk spent Sunday night and the first half of Monday in an empty ground-floor building being angry with a woman who sells nothing in particular four doors from Marguerite Bray's.
+It took him all of Sunday night and most of Monday morning to work out how to answer Wenna Sarr, and the reason it took that long was that the first three answers he had in him were all complaints, and she had told him the evening before that she was not going to let a month go by the way a fortnight went by, and Owen Rusk spent Sunday night and the first half of Monday in an empty ground-floor building being angry with a woman who sells nothing in particular four doors from Marguerite Bray's.
 
 The complaint answers were these. That the ward's business was the bridge and the crossing was a matter of a public work and a named place and a status on a continuation roll, and that a child was on a second leaf of a transfer annex and not on a ward return, and that if he started arguing about a twelve-year-old in the middle of a case about a bridge the bridge would be lost and the child would be exactly where she was. And that there was no instrument in Docketford that could hold her, and that a man who says otherwise is selling something. And that everybody in that ward had known this for a month and had said nothing because saying it was expensive.
 
@@ -20,7 +20,7 @@ Fourth finger, and she held it up longer than the others. "Somebody who is not m
 
 She put her hand down.
 
-"Now," she said. "I have been four months on that and everybody in this ward has been very kind to me about the roof and the pump and about my brother, and about this they have said nothing at all, and I have worked out the rest of it on my own, because I am not a fool and I had nothing else to do with a wet fortnight. And I have got down to the bottom, and here is the bottom, and you may tell me if it is wrong."
+"Now," she said. "I have been at this a fortnight and everybody in this ward has been very kind to me about the roof and the pump and about my brother, and about this they have said nothing at all, and I have worked out the rest of it on my own, because I am not a fool and I had nothing else to do with a wet fortnight. And I have got down to the bottom, and here is the bottom, and you may tell me if it is wrong."
 
 "The only person in this ward who could stand in that box is Mrs Bray."
 
@@ -74,7 +74,7 @@ The seal-stair clerk was on duty and let him up without asking, and he stood in 
 
 The clerk went down the stair and came back with a sheet of foolscap, folded, and gave it to him at the landing and stood four feet away while he read it, which is the correct procedure and which she did without comment.
 
-Owen read it with a good right hand and a bad one, and it took him a long time because the second half of it is nearly identical to the first half of it with the nouns changed, and by the fourth time through the top of the page he put his hand flat on it and stopped, and looked at the landing wall, and waited for something to arrive that he had been able to read for six weeks and which had never once arrived.
+Owen read it with a good right hand and a bad one, and it took him a long time because the second half of it is nearly identical to the first half of it with the nouns changed, and by the fourth time through the top of the page he put his hand flat on it and stopped, and looked at the landing wall, and waited for something to arrive that he had been able to read for three weeks and which had never once arrived.
 
 Nothing came.
 
@@ -88,7 +88,7 @@ Because the first time, in the hall, the silence had been an answer to a questio
 
 This silence did not have a date. It had no date at all, and no stamp, and no reviewer, and it was not anybody's decision and it was not anybody's failure. It was a drawer on a landing, with a plate on it, and the plate was correct, and there was nobody in the entire Registry of Continuant Works who could open the drawer for him, and therefore there was nobody he could be angry at, and therefore there was no act of his own that could change what was in it. He could go and learn the words. He could not go and learn the words before somebody chose to teach him, and nobody was going to choose, because nobody was harmed by his not knowing.
 
-He got the words, in the end, from the sheet in his hand and from Wenna Sarr's four fingers and from what Nell Arbour had said to him in a kitchen in the fourth week of the month that a child who cannot answer is a child who is being spoken for, in practice, by whoever is standing nearest the counter.
+He got the words, in the end, from the sheet in his hand and from Wenna Sarr's four fingers and from what she had said to him that morning outside her own boards, standing over him in the rain: that a child who cannot answer is a child who is being spoken for, in practice, by whoever is standing nearest the counter.
 
 He wrote it in the notebook in the flat voice and then he stopped and did not write anything else, and he understood that this was the third time in three days that he had put something down and written nothing beside it, and that he was not going to be able to explain to anybody, in a form anybody would accept, why a man who had spent a fortnight taking notes on a bridge could not make a list of a child's requirements.
 
@@ -96,7 +96,7 @@ He wrote it in the notebook in the flat voice and then he stopped and did not wr
 
 He found her at six in the evening, in the lane behind the hall, sitting on the granary step with a slate on her knees and a piece of chalk, doing what she had done every day since the flood and had done every day since Owen had known her, which is a sum.
 
-She was twelve. She had a coat that had been her father's and had been let out twice at the shoulders by somebody who was not a tailor. She looked up when he stopped and she said, "You're the copyist," and then, before he had answered, "Mern's is the only one you can do and mine's the one where the answer's nine and I've got eleven, and I'm not wrong, there's two of the seed trays in with the pump ones."
+She was twelve. She had a coat that had been her father's and had been let out twice at the shoulders by somebody who was not a tailor. She looked up when he stopped and she said, "You're the copyist," and then, before he had answered, "Mern's is the only one you can do and mine's the one where the answer's nine and I've got seven, and I'm not wrong, there's two of the seed trays in with the pump ones."
 
 "All right," said Owen. "Show me."
 
@@ -140,17 +140,17 @@ Owen wrote the four names down. He wrote them in the notebook and he wrote them 
 
 Ada Rusk. Bram Tillet. Ilse Mern. Cobb Rennie.
 
-And then he shut the book and sat on the step next to a twelve-year-old with a slate and said, "I am not going to tell you any of this is going to work. Three of those four are people who have said no to something this month in a room with witnesses in it, and one of them is a man no record in this city has placed anywhere for two years, and if anybody tells you that any of that is a kindness, it is not. It is a hole in somebody else's budget and the hole is the reason you are not on anything. I have said the only thing I am able to say and it is that the four of them did something this week that two other people in this ward have seen, and that is three of the five parts, and the other two are not yours and not mine."
+And then he shut the book and sat on the step next to a twelve-year-old with a slate and said, "I am not going to tell you any of this is going to work. Two of those four are people who have said no to something this month in a room full of witnesses, and have gone on doing the work the morning afterwards anyway, and one of them is a man no record in this city has placed anywhere for two years, and if anybody tells you that any of that is a kindness, it is not. It is a hole in somebody else's budget and the hole is the reason you are not on anything. I have said the only thing I am able to say and it is that the four of them did something this week that two other people in this ward have seen, and that is three of the five parts, and the other two are not yours and not mine."
 
 "Are you going to write it down?"
 
-"I have written the four names down. I am not going to write anything else down tonight, and if anybody asks you tomorrow whether a clerk has been asking questions about you, you can tell them exactly what he said, which is that you had eleven trays and there were two in the wrong stack, and that you were right and nobody had counted them in two years."
+"I have written the four names down. I am not going to write anything else down tonight, and if anybody asks you tomorrow whether a clerk has been asking questions about you, you can tell them exactly what he said, which is that you had seven trays and there were two in the wrong stack, and that you were right and nobody had counted them in two years."
 
-She laughed. It was a short, entirely ordinary twelve-year-old's laugh, and he had not heard one in his own front room in eleven years.
+She laughed. It was a short, entirely ordinary twelve-year-old's laugh, and he had not heard one in his own front room in years.
 
 "Mr Voss will be cross," she said. "He says nine."
 
-"Nine's the district's number. Eleven's yours. Both of them are right and it does not matter, and I am not going to be the man who makes you agree with a Registry."
+"Nine's the district's number. Seven's yours. Both of them are right and it does not matter, and I am not going to be the man who makes you agree with a Registry."
 
 ---
 

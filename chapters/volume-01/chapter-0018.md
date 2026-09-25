@@ -2,13 +2,13 @@
 
 He worked out the hour before anybody had to tell him, which was the only thing he got right that day.
 
-The Council's counter takes the week's instruments on the Friday at ten, and had taken them on the Friday at ten for as long as anybody in the building could remember, and an instrument that is to be at a counter at ten on the Friday has to be signed on the Thursday, and the Deputy Registrar had signed the Thursday instruments at four in the afternoon for nineteen years, in a room with a door that shut properly, with a runner waiting.
+The Council's counter takes the week's instruments on the Friday at ten, and had taken them on the Friday at ten for as long as anybody in the building could remember, and an instrument that is to be at a counter at ten on the Friday has to be signed on the Thursday, and the Deputy Registrar had signed the Thursday instruments at ten past four in the afternoon for nineteen years, in a room with a door that shut properly, with a runner waiting.
 
 So the signature would be at ten past four on the twenty-fourth, and everything that had to be in the file before the signature had to be on the countersignature desk before four, and there was a form of words for a thing arising after entry, and it was the first time in a month that Owen Rusk had wanted to write something down more than he had wanted to sleep.
 
 He got up at five. He wrote the amendment before the light, in his own front room, at the table with his mother's good plate on it, and then he did what he had learned to do in the first week of the month, which was to go and look at the physical act before he put the description of it on paper.
 
-At ten he went up to the seal stair, which is the correct route, and asked the clerk on duty — the one who had been there twenty years and who had made him read a requirements sheet at arm's length — a question, and it was a proper question and she answered it and wrote nothing down.
+At nine he went up to the seal stair, which is the correct route, and asked the clerk on duty — the one who had been there twenty years and who had made him read a requirements sheet at arm's length — a question, and it was a proper question and she answered it and wrote nothing down.
 
 "Does the Council's counter take the week's instruments on the Friday?"
 
@@ -16,19 +16,19 @@ At ten he went up to the seal stair, which is the correct route, and asked the c
 
 "Then an instrument for Friday is signed on the Thursday."
 
-"The Deputy Registrar signs at four. He has signed at four since nineteen ninety-one and there is a pot of tea on the tray at a quarter to and it is not a ritual, it is just that he has never once been late." She looked at him. "Why."
+"The Deputy Registrar signs at ten past four. He has signed at ten past four for nineteen years and there is a pot of tea on the tray at a quarter to and it is not a ritual, it is just that he has never once been late." She looked at him. "Why."
 
 "I am trying to know the shape of a day," said Owen, "and I have found out that you are not obliged to tell me and that you have, and I am grateful."
 
-"You are welcome. And you are also going to be in this building at a quarter to five tomorrow, and I shall not see you, and I do not care what you do between now and then as long as you understand that the door shuts at five and the stamp goes on the front of the instrument and not on the back."
+"You are welcome. And you are also going to be in this building at a quarter to five this afternoon, and I shall not see you, and I do not care what you do between now and then as long as you understand that the door shuts at five and the stamp goes on the front of the instrument and not on the back."
 
-He went upriver at half past ten.
+He went upriver at a quarter to eleven.
 
 ---
 
 Ada Rusk had got to the hall at eight.
 
-He found that out at eleven, from a boy from the mill, who had heard it from the factor, who had heard it at the counter on Tuesday when the queue was long and people talk. He was two hours late to his own warning, and the reason he was two hours late was that he had spent from ten until a quarter to eleven standing in a hall on the second floor listening to a thing he had to hear, and he would have gone on listening to it until the day after tomorrow.
+He found that out at a quarter to eleven, at the top of the hill, from a boy out of the mill, who had heard it from the factor, who had heard it at the counter on Tuesday when the queue was long and people talk. He was two hours late to his own warning, and the reason he was two hours late was that he had spent from ten until a quarter to eleven standing in a hall on the second floor listening to a thing he had to hear, and he would have gone on listening to it until the day after tomorrow.
 
 The ward hall was full and everybody was in it and nobody was working, and Ada was standing at the long table with a slate and chalk and the delivery book open, and she had told them. He came in at eleven and the hall stopped talking for about four seconds and then started again, and he understood that it had been going to start again whatever he said and that his coming in had cost it four seconds and that he could not get those four seconds back.
 
@@ -50,7 +50,7 @@ Here is what Ada Rusk had done between eight and half past ten, and he got it ou
 
 ---
 
-The amendment went in at ten past one.
+The amendment was finished at ten past one.
 
 The ward had a meeting at half past twelve on the Thursday because Ada had called it at eight, and the standing order of a meeting called by the crew leader at eight o'clock in the morning is that it is a meeting of the return, and there were eight branches left, and the eighth was a man of forty-four who had a badly mended roof, and all eight of them came, and Marguerite Bray took the minutes because the minutes were a delivery book.
 

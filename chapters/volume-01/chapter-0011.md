@@ -4,7 +4,7 @@ The tray has no schedule, and that turned out to be the single most useful fact 
 
 He came up off the ground floor at ten to seven with his coat still dark at the shoulders and put his case on the rail of the second desk, where the supervised tray lived, and Junia Pell was already in it.
 
-The tray was a shallow tray. He had spent fourteen days at a deep drawer under a lock and the change was like stepping out of a river into a room: a board on two trestles, a ledger, a stamp, a cup for a wet pen, and eleven things in it, none of which had a schedule either.
+The tray was a shallow tray. He had spent fourteen days at a deep drawer under a lock and the change was like stepping out of a river into a room: a board on two trestles, a ledger, a stamp, a cup for a wet pen, and seven things in it, none of which had a schedule either.
 
 "Thursday's still sitting there," Pell said.
 
@@ -120,7 +120,7 @@ Because the checks have an order, and the order is not the order you would choos
 
 So at eleven he went and asked for it, at the second desk, in front of the hall.
 
-Pell read the nine pages. Not the acts — she had been there for the acts; she had stood on the weir path in the dark while a boy was in the water. She read the *instrument*: the subject, the term, the jurisdiction, the route, the observer lines, the withdrawal note, the four recorded dissents, and the scope, word by word, and she took eleven minutes over it and stopped twice.
+Pell read the nine pages. Not the acts — she had been there for the acts; she had stood on the weir path in the dark while a boy was in the water. She read the *instrument*: the subject, the term, the jurisdiction, the route, the observer lines, the withdrawal note, the four recorded dissents, and the scope, word by word, and she took four minutes over it and stopped twice.
 
 "Stop at 'performed by the household branches of this district,'" she said at the second stop.
 
@@ -196,15 +196,15 @@ Then the tray went down to the ground-floor counter, because that is where a fil
 
 He had been sitting in that room for a fortnight. He had never once turned a page back.
 
-The clerk's finger went down the intake column to today's line, and stopped four lines above it, and Owen looked at the four lines above it because they were above his finger and he could not not look.
+The clerk's finger went down the intake column to today's line, and stopped three lines above it, and Owen looked at the three lines above it because they were above his finger and he could not not look.
 
 Three refusals. In the standard form. In the standard ink. Each one dated inside the two days between the ninth and the eleventh of a month in the autumn of last year, and each one initialled at the foot by an office and not by a man, and each one reading, in the whole of its words:
 
 *Refused. No supported district at the named place.*
 
-He had known they were there. He had read them on the first day of the month in a different volume of the same book and copied them into a notebook he bought at the ironmonger on Fetter Lane, and he had looked at them in Chapter one of his own life and had thought they were probably about a place, a bridge, a ferry, water, a name, and had gone up to the seal stair and read a standard about a person who cannot answer, and had spent the rest of a fortnight proving that thirteen people existed.
+He had known they were there. He had read them on the first day of the month in a different volume of the same book and copied them into a notebook he bought at the ironmonger on Fetter Lane, and he had looked at them on his first morning at that desk and had thought they were probably about a place, a bridge, a ferry, water, a name, and had gone up to the seal stair and read a standard about a person who cannot answer, and had spent the rest of a fortnight proving that thirteen people existed.
 
-And they were four lines above his finger, and he had been in the room every day, and nobody had said a word about them, because nobody was going to.
+And they were three lines above his finger, and he had been in the room every day, and nobody had said a word about them, because nobody was going to.
 
 The price of the amendment in Marguerite Bray's hall on the sixth day of the month was that he would not look. He had set it himself. He had set it out loud to two people in a warm room and one of them had asked him whether he could live with it and he had said yes.
 
@@ -228,7 +228,7 @@ Underneath the docket number the clerk had written out, in the small print the s
 
 *The standing of the Ninth Weir public crossing is restored as a duty which the district of Lower Lock performs, and as nothing else. The district is restored to supported standing for the purposes of district acts, and the suspension of district acts entered against the households of the district on the fourteenth day of the month is lifted from this hour. No grant is restored, and the grant of the Fetter Lane pump is not restored by this entry, and the suspension of that grant stands until its own review. The load-restriction suspension of the tenth day of the month is not affected, and is not superseded, and remains in force.*
 
-He read the fourth line eleven times.
+He read the fourth line three times.
 
 So the ward had its name back and could be licensed, continued and witnessed on a district act again as of ten past four on the fifteenth, which was nine days of frozen households ended by a piece of paper, and none of the three other lines said one word in its favour: the crossing was not safe, the crossing was not open, the crossing was not funded, and the crack in the west abutment was still five inches where a district engineer had measured it in the wet nine days ago with a rule and a lamp.
 

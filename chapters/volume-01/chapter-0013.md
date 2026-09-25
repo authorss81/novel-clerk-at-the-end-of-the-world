@@ -56,7 +56,7 @@ Owen stopped reading at the end of that and stood there.
 
 "Go on," said Marguerite Bray.
 
-"That is the whole of it. Four paragraphs. Four hundred and eleven words." He put the sheet down. "There is no fifth paragraph."
+"That is the whole of it. Four paragraphs. Two hundred and twenty-four words." He put the sheet down. "There is no fifth paragraph."
 
 "There is a good deal in it," said the clerk, "for a man who came in here with a form."
 
@@ -70,7 +70,7 @@ Nobody said anything. Marguerite Bray picked up the sheet and read the fourth pa
 
 "I have read it four times. I want to hear whether you are frightened of it, because you have a way of going very quiet when you are not."
 
-Owen had the notebook out by then, and he copied all four hundred and eleven words into it in his own square hand, with the date at the top, and the docket number, and the stamp. And then he came to the bottom of the last paragraph and stopped and did not write anything next to it, and shut the book, and the not-writing was the hardest single act of his month.
+Owen had the notebook out by then, and he copied all two hundred and twenty-four words into it in his own square hand, with the date at the top, and the docket number, and the stamp. And then he came to the bottom of the last paragraph and stopped and did not write anything next to it, and shut the book, and the not-writing was the hardest single act of his month.
 
 Because here was the thing, and he had worked it out on the Friday and had not been able to say it to anybody until this room.
 
@@ -86,9 +86,9 @@ The Glass Stair clerk had stopped pretending to work.
 
 "I know," said Owen. "I am not asking you to agree. I am asking you to have heard it."
 
-He read out the third paragraph again then, because it was the one nobody in the room had looked at, and it was nine words long and it was the only sentence in four hundred and eleven words that anybody would remember in a year.
+He read out the third paragraph again then, because it was the one nobody in the room had looked at, and it was the only sentence in two hundred and twenty-four words that anybody would remember in a year.
 
-"It does not mention the load restriction," he said. "It has the number of the return in it and the date of the return and the docket of the petition and the name of the crossing in paragraphs one, two and four, and in paragraph three it records that the Office has considered the load-restriction suspension of the tenth and that it is not affected. That is a sentence about a bridge in a document about a ward, and it is a sentence that costs the Office nothing, and it is the only sentence in four hundred and eleven words that anybody will remember."
+"It does not mention the load restriction," he said. "It has the number of the return in it and the date of the return and the docket of the petition and the name of the crossing in paragraphs one, two and four, and in paragraph three it records that the Office has considered the load-restriction suspension of the tenth and that it is not affected. That is a sentence about a bridge in a document about a ward, and it is a sentence that costs the Office nothing, and it is the only sentence in two hundred and twenty-four words that anybody will remember."
 
 "What does it mean?" said Marguerite.
 
@@ -104,11 +104,11 @@ They looked at him.
 
 ---
 
-The ward hall at half past six on a wet Saturday had twenty-eight people in it, which was a good number for a Saturday, and Owen Rusk stood at the end of the long table and read four hundred and eleven words out loud at the pace of a man reading a menu.
+The ward hall at half past six on a wet Saturday had twenty-eight people in it, which was a good number for a Saturday, and Owen Rusk stood at the end of the long table and read two hundred and twenty-four words out loud at the pace of a man reading a menu.
 
 He read it once, all of it. He read it a second time because Marguerite had asked for ninety minutes and there was only nine minutes of paper in it. He answered questions for the rest of the hour, standing, and answered them badly, and Ada corrected him four times, and each time he was glad to be corrected and each time he noticed that he was glad to be corrected.
 
-He got to the fourth paragraph eleven times. He did not get tired of it. He said it out loud in a hall in Lower Lock eleven times, in a good clear voice, with the date in the last week of the rain season in it, and by the ninth telling he had the words so exactly that he could hear them without hearing them, and by the eleventh he was hearing something else underneath them, which was the sound a document makes in a room where twenty-eight people have understood at the same moment that they are not going to be told anything for a week.
+He got to the fourth paragraph seven times. He did not get tired of it. He said it out loud in a hall in Lower Lock seven times, in a good clear voice, with the date in the last week of the rain season in it, and by the fifth telling he had the words so exactly that he could hear them without hearing them, and by the seventh he was hearing something else underneath them, which was the sound a document makes in a room where twenty-eight people have understood at the same moment that they are not going to be told anything for a week.
 
 Then Ada Rusk put her hand on the table.
 

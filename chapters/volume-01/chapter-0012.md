@@ -16,7 +16,7 @@ The second was the Glass Stair, where Owen went to look at the docket of his own
 
 The third was Nell. He did not go, because he had promised himself on Saturday night at a counter that he would not use her as a route into anything, and because a promise made to yourself at a counter in the rain is the only kind that has ever held for him.
 
-The fourth was Pell, and it took eleven minutes, and it was the answer.
+The fourth was Pell, and it took four minutes, and it was the answer.
 
 She was on the second desk at twenty past nine with the tray in front of her and the ink drying, and he put the docket stub down on the corner of it, and she read it, and then she read it again, and then she said the thing in a completely flat voice, the way a woman reads out a rule she has never had cause to argue with.
 
@@ -54,7 +54,7 @@ It had not stopped raining. It had been raining for twenty days in the way that 
 
 That was the part of the evening he had not been ready for. He had been ready for the water and the cold and being frightened, and he had not been ready for being handed a place.
 
-The crew was eight. Ada, Ferris on the bank with the log, Dory Anstruther with his collarbone still strapped and a face that had gone the colour of candle wax and who did not go in the water and did not complain about it and was extremely good at the top path, holding a coil. Ferrow in the channel with the hook. Tillet at the head of the stair with the chalk and the levels. Ilse Mern with the second lamp. And two of the nine who were not on the ward's return at all and had come because the channel was the channel.
+The crew was eight. Ada, Ferris on the bank with the log, Dory Anstruther with his collarbone still strapped and a face that had gone the colour of candle wax and who did not go in the water and did not complain about it and was extremely good at the top path, holding a coil. Ferrow in the channel with the hook. Tillet at the head of the stair with the chalk and the levels. Ilse Mern with the second lamp. And two more, who are not on the ward's return at all and had come because the channel is the channel.
 
 Owen called them out. He called the moment Ferrow's boots went under and the moment they came out, and the moment Ada had the pole in and the moment she had the bed of the channel, and he called Dory's name every time he turned, because Dory was standing on a wet path with a bad chest holding a rope he was not allowed to be useful with, and being called was the only thing in Owen's gift that a person on a bank can be given.
 
@@ -150,7 +150,7 @@ The man went. The clerk squared the counter.
 
 "That is the fourth one this quarter," she said, to nobody. "There is a rack behind you."
 
-Owen looked at the rack. There were eleven bundles in it, and he counted, because counting is cheaper than guessing, and there were eleven returns in a building that kept a drawer in which the district engineer wrote *two private persons*.
+Owen looked at the rack. There were seven returns in it, and he counted, because counting is cheaper than guessing, and there were seven returns in a building that kept a drawer in which the district engineer wrote *two private persons*.
 
 ---
 

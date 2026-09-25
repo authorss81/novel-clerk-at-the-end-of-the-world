@@ -16,21 +16,21 @@ It is called the Front Desk index and it is six volumes on a long table under a 
 
 He found the transfer's number in four minutes and read the card, and this is the whole of it:
 
-*Transfer entry, district to district. Received Mill Ward annex. Date received: 11th day, C.Y. 486. Originating office: County intake, Fetter Bend sub-table. Intake number: 461/F-B/9. Two leaves attached. Registry witnesses; no party from the originating district. Seal and receipt on the date of receiving.*
+*Transfer entry, district to district. Received Mill Ward annex. Date received: 11th day, C.Y. 486. Originating office: County intake, Fetter Bend sub-table. Intake number: 486/F-B/9. Two leaves attached. Registry witnesses; no party from the originating district. Seal and receipt on the date of receiving.*
 
 *County intake, Fetter Bend sub-table.* Not a district office. Not Docketford. A sub-table, two miles upriver, that takes in things from a stretch of river that has nine villages on it and no district of its own, and that files everything it receives under a single intake series with a year and a sub-table and a number, and that has never in ninety years issued a document anybody could name.
 
-Owen read the card eleven times, because he wanted to be sure, and then he went and got the intake register, and found that the intake register for 461/F-B/9 is in the third of the six volumes — a volume he had never had cause to open, because in nine years he had never had cause to open any volume, and a volume is not a thing anybody opens. It is a thing you *consult*, and the difference between a volume and a drawer is that anybody may consult a volume in a room with a door on it and a clerk in it, and nobody may open a drawer in a tray.
+Owen read the card six times, because he wanted to be sure, and then he went and got the intake register, and found that the intake register for 486/F-B/9 is in the third of the six volumes — a volume he had never had cause to open, because in nine years he had never had cause to open any volume, and a volume is not a thing anybody opens. It is a thing you *consult*, and the difference between a volume and a drawer is that anybody may consult a volume in a room with a door on it and a clerk in it, and nobody may open a drawer in a tray.
 
-The register is not indexed. You find your intake number in the day-book for the sub-table's intake year, which took him twenty minutes because the day-books are arranged by sub-table and Fetter Bend is fourth of six, and then you read forward. What he wanted was the **originating entry** — the thing that entered the sub-table's intake series, before it was forwarded to Docketford, because the originating entry is the first time anybody in the whole of this chain held a piece of paper about Lower Lock, and it would carry a name.
+The register is not indexed. You find your intake number in the day-book for the sub-table's intake year, which took him twenty minutes because the day-books are arranged by sub-table and Fetter Bend is fourth of six, and then you read back. The card had given him a day, the eleventh, and a day-book is kept by day, so the eleventh was where he started, and what he wanted was the **originating entry** — the thing that entered the sub-table's intake series before it was forwarded to Docketford, because the originating entry is the first time anybody in the whole of this chain held a piece of paper about Lower Lock, and it would carry a name.
 
-The day-book for the intake year, at the ninth of the month, said: *Made out at this sub-table: 1 no-local-record schedule, one sheet. Form 12-B presented at the counter, not received.*
+At the eleventh: *Received for intake: 1 receipt, signed, presented in duplicate, forwarded to Docketford district office, Mill Ward annex, with schedule and counterfoil.*
 
-At the tenth: *Form 12-B presented at the counter, twice. Not received.*
+He read back. One day, and nothing whatever in it, and then at the ninth: *Form 12-B presented at the counter, not received.*
 
-At the eleventh: *Received for intake: 1 receipt, signed, presented in duplicate, forwarded to Docketford district office, Mill Ward annex, with schedule and counterfoil. The schedule attached bears the date of the ninth.*
+Two entries, two days apart, one hand, and neither of them referring to the other. That is the way a day-book is kept and it is how it should be kept, and a man standing in front of one in a public room at a Sunday table is not supposed to be able to put them in a row. Owen Rusk put them in a row in about ninety seconds and then stood with his hands flat on the table and looked at the one day between them.
 
-Three days, three entries, one hand, and none of the three entries referred to any of the others. That is the way a day-book is kept and it is how it should be kept, and a man standing in front of one in a public room at a Sunday table is not supposed to be able to put them in a row. Owen Rusk put them in a row in about ninety seconds and then stood there with his hands on the table and looked at the ninth of the month, where an office had written down that a man had asked for something and had not received it, and eleven lines below, where the same office had written down that it had received a document from him, and had attached to that document a schedule dated the day he asked.
+There was nothing in it. No line, no note, no word of any kind, and a day-book does not print the reason a thing was not brought to a counter, because a day-book records what came in and not what a person wanted. Which meant that the day between the ninth and the eleventh was, on the page, indistinguishable from a day on which nobody came at all. He understood exactly how far that got him, and it was not far, because a man who had been turned away would look precisely the same as a man who had never come, and a record that cannot tell those two apart is not a record of what an office did. He caught himself beginning to fill it in — he had a shape in his head already — and stopped, because a man who fills a gap in somebody else's register with his own guess has stopped reading a record and started writing one.
 
 And the *presenter* column on a forwarded item is not a name. It is a household reference. Owen read it, and read it again, and then he sat back on a stool in a room with six volumes under a slope of glass on a Sunday morning, and felt the private pleasure of a man with a shelf in front of him arrive at him like cold water, because the column said:
 
@@ -43,7 +43,7 @@ He had the day-book open at the eleventh under his left hand and the index card 
 The card said *two leaves attached.* The day-book said *with schedule and counterfoil.* A leaf is an instrument with a scope of its own, and he had spent the better part of a night in a hall in a good coat learning that the annex in question had two of them and that they were never both called the schedule. A counterfoil is not a second leaf. A counterfoil is the office's own copy of the thing that was handed in.
 
 > **MARGIN NOTICE**
-> Subject: originating entry, county intake 461/F-B/9.
+> Subject: originating entry, county intake 486/F-B/9.
 > Present support: contested. Two records of what was attached.
 > Review interval of the originating entry: renewed twice. Not renewed a third time.
 > The notice reports no further matter.
@@ -60,10 +60,10 @@ And then Owen went back to the index, because he had a second question and the s
 
 The intake series for the Fetter Bend sub-table is one series, and it runs in a single unbroken column of numbers, and the transfer's number sits in the middle of it. He read them backwards, because the number before it and the number after it are the only two things in the Registry that are guaranteed to have been filed near the same piece of paper by the same person on the same day, and the intake year runs in a single unbroken column of numbers with no breaks in it anywhere.
 
-*461/F-B/7. —*
-*461/F-B/8. —*
-*461/F-B/9. Transfer entry, district to district. Mill Ward annex.*
-*461/F-B/10. District return. Received for intake.*
+*486/F-B/7. —*
+*486/F-B/8. —*
+*486/F-B/9. Transfer entry, district to district. Mill Ward annex.*
+*486/F-B/10. District return. Received for intake.*
 
 District return. Not a district return *of* anywhere. A district return received for intake from the same sub-table in the same intake year, four weeks after the transfer, and the card gave him the district on the card, because a card gives you the shape of a thing, and a district return has a district on it by definition.
 
@@ -81,7 +81,7 @@ He was careful about it, because he had been reading cards for an hour and he ha
 
 *Never opened* means: we have it, and we have never opened it, and somebody in an office thought that was worth saying.
 
-It had been written, and Owen understood that with a small cold place behind his sternum that he had been in exactly twice before, that it was dated twenty-six years ago and that it sat in an intake series next to a transfer that had destroyed his ward, and that in twenty-six years nobody had opened it, and that the phrase *never opened* had been typed by somebody who had wanted a third person in twenty-nine years to understand that it was a decision and not a failure of filing.
+It had been written, and Owen understood that with a small cold place behind his sternum that he had been in exactly twice before, that the return in front of him was for Alder Row, and that Alder Row had been officially closed in Concord Year 461, and that a district return for a ward nobody supported had been made out at a sub-table two miles upriver, received for intake, and sent on to Docketford four weeks later than the transfer that had destroyed his own ward, in one unbroken column with no breaks in it anywhere, and that the phrase *never opened* had been typed by somebody who had wanted whoever came after him to understand that it was a decision and not a failure of filing.
 
 He put his hand out towards the card and then he did the thing he had been doing for six days, which was to look at the number on the tab of a locked drawer in a tray two floors below and *not*.
 
@@ -93,7 +93,7 @@ The duty clerk at the counter had been reading a novel through the glass for an 
 
 "You want the intake register."
 
-"Yes. Intake 461/F-B/9, and the day-book it sits in."
+"Yes. Intake 486/F-B/9, and the day-book it sits in."
 
 "That is a county intake, not a district holding." She said it as information and not as an obstacle, which he was grateful for in a way he had not expected to be. "It is the third volume. I can fetch it for you, it will take a minute, or you can go back in and sit with it, except we close the room at four on a Sunday for the sweep and I will have to chase you out, and I do not want to chase anybody on a Sunday."
 
@@ -111,7 +111,7 @@ She stopped with her hand on the second drawer.
 
 "I know," said Owen. "That is the reason."
 
-So she wrote it, in the same book, in the same hand, in the same ink, on the line under Sunday the twentieth, and the line said: *Request. O. Rusk, tray. County intake 461/F-B/9 and day-book, vol. 3. Reason: comparison against District Return 487-LL.* And the clerk initialled it, and gave him the counterfoil, which is the copy that goes to the office and is not the copy he keeps, and told him that the office copy would be filed with the request and that a copy of the request would be sent to him in a week by the ordinary post because anybody may have a copy of anything he has asked for.
+So she wrote it, in the same book, in the same hand, in the same ink, on the line under Sunday the twentieth, and the line said: *Request. O. Rusk, tray. County intake 486/F-B/9 and day-book, vol. 3. Reason: comparison against District Return 487-LL.* And the clerk initialled it, and gave him the counterfoil, which is the copy that goes to the office and is not the copy he keeps, and told him that the office copy would be filed with the request and that a copy of the request would be sent to him in a week by the ordinary post because anybody may have a copy of anything he has asked for.
 
 "Thank you," said Owen.
 
@@ -121,7 +121,7 @@ So she wrote it, in the same book, in the same hand, in the same ink, on the lin
 
 He sat down on a stool in an empty hall with the register's counterfoil in one hand and the intake register open on the table in front of him, and he was fifty seconds into a very good afternoon — the intake register is the most beautiful document in Docketford, it is a day-book and it is kept without opinion, and a man can learn more about how a place runs by reading four pages of one than by reading a year of returns — and then he stopped, and looked at the line on the counter, and understood what he had done.
 
-He had done the thing that the ward's file had done. He had gone into a room and asked a public question, lawfully, in the correct form, and a public question in the correct form is written down, and the writing down is the price, and the price is that in eleven days a clerk in a district office will open a file that contains his name, his posting, and the fact that on the twentieth day of the month he asked to look at intake 461/F-B/9, which is the intake number of the document that removed the Ninth Weir from his ward.
+He had done the thing that the ward's file had done. He had gone into a room and asked a public question, lawfully, in the correct form, and a public question in the correct form is written down, and the writing down is the price, and the price is that in ten days a clerk in a district office will open a file that contains his name, his posting, and the fact that on the twentieth day of the month he asked to look at intake 486/F-B/9, which is the intake number of the document that removed the Ninth Weir from his ward.
 
 Which was on the level of the building. In the ground floor of it, in the tray he was trusted with, in a drawer with a black cord round the handle and a brass tab on the face, was a file with a name on it that somebody had typed the words *never opened* about, and the name of that ward was four streets from where he slept, and he had spent his whole life walking past the end of that street and thinking *that's just the end of that street*.
 
@@ -131,7 +131,7 @@ Owen Rusk had spent fourteen days frightened of an institution. He had a fortnig
 
 That was what it was like to be a line in a register. He had spent a month learning what a refusal in a register was worth to the person at the other end of it, and he had known — because it had been in the first volume of a book he had read on the first day of the month — that there were three of them inside a two-day window, in a standard form, in standard ink, initialled at the foot by an office and not by a man, and he had given them up on purpose on the sixth day of the month in a warm room, in front of two people, and the price had been that he would not look.
 
-And now he had looked, and what he had found was not the three refusals, which were still sitting in the same volume four lines above his own finger, and would be there for ever, and would never be explained. What he had found was that looking was free, and that being written down was the only cost, and that the cost was the same for everybody and was paid at the counter by whoever asked.
+And now he had looked, and what he had found was not the three refusals, which were still sitting in the same volume three lines above his own finger, and would be there for ever, and would never be explained. What he had found was that looking was free, and that being written down was the only cost, and that the cost was the same for everybody and was paid at the counter by whoever asked.
 
 He sat there for a long time.
 

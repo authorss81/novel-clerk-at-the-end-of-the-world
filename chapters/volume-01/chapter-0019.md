@@ -48,13 +48,13 @@ Then he said: "You are the assisting clerk."
 
 "Yes, sir."
 
-"Then you are not speaking in this review and you are not asked to, and if you have something to say you may say it in the ward meeting and it will be in a different file." He turned a page. "The ward's acts."
+"Then you are not speaking in this review, and by that I mean you are not arguing it. If I put you a question I will take your answer and put the question in the file with your answer under it, because a review that took an answer nobody could see would be worth nothing. If you have anything else to say you may say it in the ward meeting and it will be in a different file." He turned a page. "The ward's acts."
 
 He went through them, one at a time, with the ward's own log in front of him, and asked nothing about ability.
 
 That was the thing Owen noticed and wrote down afterwards and has never forgotten. He did not ask whether the ward could afford it. He did not ask whether the ward could do it in the winter. He did not ask whether the crew of nine were paid, or whether the marker would be set in February, or what happened if the river came up on a Thursday and six of the nine were on the mill's stone contract. He had a document in front of him that named a repair at four thousand one hundred and sixty pounds and declined the repair, and he did not ask a single question about money, because a review of a return is not an inquiry into solvency, and a man who had spent his whole life on solvency sat in that chair and did not ask.
 
-"Marker set the eighteenth and again this morning. Channel cleared on the night of the sixteenth, with a bar of silt and rubbish across it that was not there on the ninth, which the ward's watchman recorded. Pump primed on the eighth, ninth, tenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth and nineteenth days, and again on the twenty-first, and the prime of the twenty-second did not hold and was repeated at four the next morning, and since the twenty-first four households have been carrying water from the standpipe at the top of Fetter Lane." He looked up. "Is that accurate."
+"Marker set the eighteenth and again this morning. Channel cleared on the night of the sixteenth, with a bar of silt and rubbish across it that was not there on the ninth, which the ward's watchman recorded. Pump primed on the eighth, ninth, tenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth and twentieth days, and again on the twenty-first, and the prime of the twenty-second did not hold and was repeated at four the next morning, and since the twenty-first four households have been carrying water from the standpipe at the top of Fetter Lane." He looked up. "Is that accurate."
 
 "It is in the ward's log and the log has been produced."
 
@@ -76,7 +76,7 @@ He wrote for about a minute and a half, and then he turned the sheet round so th
 
 "A stability order under my Deputy Registrar's solvency authority closes or suspends the standing of the returns named in it. It does not suspend a duty. It cannot, because a duty is not a status: a status is a thing this office holds on the roll, and the order is about the roll, and a district that is suspended has lost its standing and has not lost its hands. A district may be suspended and may continue to perform, and the performance may be recorded, and the record stands, and the standing is a separate question that this office has already answered in a different instrument and is not answering again in this one." He put the sheet down. "That is the answer. It is the ward's answer as much as mine; the ward asked for it in the third clause of an amendment yesterday, and I am not going to pretend to a reviewing officer that I arrived at it independently, because a reviewing officer who takes a party's submission and returns it as his own finding has turned a submission into a decision, and that is the one thing this review is not."
 
-"Then what is the renewal?" said Owen.
+Owen had a question, and had been told in the first minute of the morning that he was not to ask it, and the reviewing officer answered it anyway, unasked, and looked at the clock on the wall while he did it.
 
 "Renewed **for review only**," said the reviewing officer, "on terms, and I am going to read the terms out because somebody will read them out in a hall in a fortnight and I would rather they were correct the first time."
 
@@ -86,7 +86,7 @@ He wrote for about a minute and a half, and then he turned the sheet round so th
 
 "Which means me," said Pell's voice from the second chair.
 
-"It means you," said the reviewing officer. "And it means Mr Voss. And I want to say this to both of you plainly, because I have read what you each wrote on the seventeenth and I have read the objection and I have read your answer to it, and the answer is better than the objection and I am not going to pretend otherwise." He looked at her. "You wrote that no statement you can make is capable of separating your interest from the outcome. That is correct, and it is the reason this instrument is renewed **for review** and not as a binding continuation, and it is the reason I can renew it at all, and if you had not written it I would have had to find some worse reason."
+"It means you," said the reviewing officer. "And it means Mr Voss. And I want to say this to both of you plainly, because I have read what you each wrote in the margins on the seventh and I have read the objection and I have read your answer to it, and the answer is better than the objection and I am not going to pretend otherwise." He looked at her. "You wrote that no statement you can make is capable of separating your interest from the outcome. That is correct, and it is the reason this instrument is renewed **for review** and not as a binding continuation, and it is the reason I can renew it at all, and if you had not written it I would have had to find some worse reason."
 
 Junia Pell said nothing. She had her hands flat on the table in front of her and she was looking at the clock, and Owen Rusk, who had spent a month learning to read people who were being careful with him, understood that she was not being careful with him and that this was the only time he had ever seen her with nothing to say.
 
@@ -112,7 +112,7 @@ It could not be the reviewing officer, who was not writing for a public file and
 
 It could have been a docket clerk, in a room, on a Friday, with two documents that belonged together and one of them about a bridge. It could have been an office that had spent four hundred and eighty-seven years putting things in drawers so that whoever came later would find both.
 
-He could not find the person and he wrote nothing down about it, not in the file and not in the notebook, and that decision took him about two seconds and it is the closest he has ever come in this book to understanding that some of the things in the Registry are not done by anybody.
+He could not find the person and he wrote nothing down about it, not in the file and not in the notebook, and that decision took him about two seconds and it is the closest he has ever come to understanding that some of the things in the Registry are not done by anybody.
 
 ---
 
@@ -122,9 +122,9 @@ The ward hall at half past seven on the Friday evening had the four new acts rea
 
 "Nothing to report is what you put in the book," said Bray, "and I am going to write it as *nothing to report* and not as anything else, and if that is not good enough for the district office then the district office may come and watch us do nothing to report at seven forty in the morning on a wet Friday."
 
-"Channel's clear. It was the bar again on the Wednesday night, which means it is coming off the mill's outfall twice a week and it did not used to, and I have written to the factor about it and he has written to me about it, and neither of us is going to say what the letter said."
+"Channel's clear. It was the bar again on the Wednesday night, and it is in the return twice now, on the sixteenth and on the twenty-third, which means it is coming off the mill's outfall twice a week and it did not used to, and I have written to the factor about it and he has written to me about it, and neither of us is going to say what the letter said."
 
-"Pump's going," said Ilse Mern, from the middle of the room. "Nine times since the fifteenth and once it didn't take and we did it again at four in the morning, and there are four houses on the standpipe still, and the Rennies are on the standpipe, and Cobb Rennie is on the standpipe because he is sixty-one and has the cough and there is nowhere else for him to be on a night, and I am not going to be asked about that in a room."
+"Pump's going," said Ilse Mern, from the middle of the room. "Nine times since the fifteenth and once it didn't take and we did it again at four in the morning, and there are four houses on the standpipe still, and the Rennies are on the standpipe, and Cobb Rennie is on the standpipe because he is fifty-eight and has the cough and there is nowhere else for him to be on a night, and I am not going to be asked about that in a room."
 
 Nobody asked her about it. Owen watched the room not ask her about it, and understood that this was a thing the room had learned to do in a month, and that he had not taught it, and that it had been taught by a hand pump and a roster on a slate.
 

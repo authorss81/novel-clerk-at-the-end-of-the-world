@@ -30,7 +30,7 @@ The ward hall at eight on the Sunday morning had a stove going and a table clear
 
 "Right."
 
-"The book has a column for what comes in and a column for what goes back out, and I have ruled the second one myself in nineteen fifty-one because a ward gets more paper than it sends, and everybody forgets to keep track of the paper that comes *back*, and paper that comes back is the paper that somebody has answered." She opened the ledger on the table with a brass weight on it, and turned it round, and put her own hand flat on the page, which is a thing she does instead of pointing. "Your fortnight. The ninth, the tenth, the eleventh, the twelfth, the thirteenth, the fourteenth."
+"The book has a column for what comes in and a column for what goes back out, and I have ruled the second one myself for thirty-six years, ever since I was twenty-five and somebody had to be the first one, because a ward gets more paper than it sends, and everybody forgets to keep track of the paper that comes *back*, and paper that comes back is the paper that somebody has answered." She opened the ledger on the table with a brass weight on it, and turned it round, and put her own hand flat on the page, which is a thing she does instead of pointing. "Your fortnight. The ninth, the tenth, the eleventh, the twelfth, the thirteenth, the fourteenth."
 
 The inward column was where he remembered it. Granary weights. A pump part. A rate notice. A widow's name. A roof notice with a different stamp, and then, near the bottom of the month, the entry he had read in the second week of the month in a good coat with his coat still streaming: *Received 14th day, C.Y. 486. One folded sheet, being the entry and its two leaves, sealed. Brought by T. Sarr of this ward, in person, at the door.*
 
@@ -56,7 +56,7 @@ She put the first one on the table face up. Owen had seen a form like it in a bo
 
 "It is all three of them. They are the same notice. Somebody wrote it three times." Bray turned the sheet over.
 
-And on the back of the first notice, in pencil, in the ruled-and-slanted hand of a woman who has kept a hand roll for fifty-one years and who has never in her life thrown away a piece of paper anybody sent to her, there were four words.
+And on the back of the first notice, in pencil, in the ruled-and-slanted hand of a woman who has kept a hand roll for thirty-six years and who has never in her life thrown away a piece of paper anybody sent to her, there were four words.
 
 *Ward public works — schedule wanted.*
 
@@ -90,6 +90,12 @@ So Owen Rusk told her the rest of it, standing at her table with a wet coat on, 
 
 "And then he went back a fourth time, on the eleventh, with a sheet. Sealed, signed, witnessed, with a schedule attached. The sub-table received it for intake and forwarded it the same day to the Docketford district office at the Mill Ward annex, and the counter there received it and stamped it on the eleventh, and entered it at the receiving register, and the schedule on the sheet is dated the ninth, and the ninth is the day of the first of the three refusals, and that is why it is the ninth." Owen put his hand flat on the table, on a piece of paper that was eleven months old and had been folded and unfolded by a man who could not answer a question about his own granddaughter. "He was not hiding a date, Mrs Bray. He was the only person in this business who had any idea what the date meant, and it meant *the day I asked and was refused*, and he wanted it in the document because it was the only piece of paper anybody had ever given him that said he had asked."
 
+And then he had to put his hand on the table again, because there was one more part and it was his own.
+
+On the Sunday before, he had had that day-book open in a public room under a slope of glass with his coat still on, and the ninth had been on the left-hand page and the eleventh on the right-hand page and the tenth empty between them, and he had looked straight at the empty day, and written the word *nothing* in his own book, and underlined it, and gone upriver to a woman with a basket. The two lines that filled it had been in the book the whole time, in a hand he had already read, on a page he had already turned, in a room with a door on it, on a Sunday morning, with nobody standing behind him.
+
+He had not been unable to get it. He had not been told no. He had read a page of somebody else's register properly and had gone away, and a week later a woman with a pencil had done the same reading in a worse light and had got the thing he had walked past, and the difference between the two of them was not the book.
+
 Marguerite Bray took her hand off the table and put it flat on the delivery book instead, and looked at the three grey sheets for a while, and then she said the thing that Owen had known was coming and had not known how to make smaller.
 
 "Right," she said. "Then you tell me what a district office is."
@@ -118,7 +124,7 @@ He got about four minutes in and a man at the back said, "So the date was right,
 
 "And you never found out," said Ada.
 
-"I gave up finding out on the sixth day of the month," said Owen, "in this room, on purpose, and I said out loud what I was paying and Ada asked me if I could live with it and I said yes. And I have been living with it for twenty days. And I want to say the other half of it, because a room that only hears one half of a thing is being done to as badly as the ward was in October." He turned round and put his hand on the table on a page of the delivery book, on nothing, on the wood. "If I had kept it, the Office would have corrected a date. That is what would have happened, in nine days, with a memorandum, and the memorandum would have said the schedule was amended to the date of receipt, and the three duties would have stayed in Mill Ward, and the thirteen names would have stayed on the second leaf, and I would have spent a year getting a date changed by two days in a month nobody will look at again. So I was right to give it up."
+"I gave up finding out on the sixth day of the month," said Owen, "in this room, on purpose, and I said out loud what I was paying and Ada asked me if I could live with it and I said yes. And I have been living with it for twenty-one days. And I want to say the other half of it, because a room that only hears one half of a thing is being done to as badly as the ward was in October." He turned round and put his hand on the table on a page of the delivery book, on nothing, on the wood. "If I had kept it, the Office would have corrected a date. That is what would have happened, in nine days, with a memorandum, and the memorandum would have said the schedule was amended to the date of receipt, and the three duties would have stayed in Mill Ward, and the thirteen names would have stayed on the second leaf, and I would have spent a year getting a date changed by two days in a month nobody will look at again. So I was right to give it up."
 
 "Then you have got it back and you are going to put it in."
 
@@ -126,11 +132,11 @@ He got about four minutes in and a man at the back said, "So the date was right,
 
 The room waited.
 
-"I have got it back," he said, "and I am not putting it back in, and I want the reason to be written in that book tonight, because it is the only interesting thing I have done this month and it is going to sound like cowardice. A charge withdrawn by the man who withdrew it cannot be re-entered by him. Not cannot *should* not — cannot. It is a rule about the man, and it is the only rule in this Office that exists for the protection of the person and not the document, and it is the rule that stops a clerk from re-opening a case for his own reasons in his own name in the fourth week of the month because the fourth week is when he found out he was right." He shut his hand. "And the charge that matters is scope, and scope is untouched by any of it, and I have said in a filing on a docket that the entry is validly made and the complaint is of its scope, and I am not going back upstairs to unwrite my own sentence because a woman kept a delivery book for fifty-one years."
+"I have got it back," he said, "and I am not putting it back in, and I want the reason to be written in that book tonight, because it is the only interesting thing I have done this month and it is going to sound like cowardice. A charge withdrawn by the man who withdrew it cannot be re-entered by him. Not cannot *should* not — cannot. It is a rule about the man, and it is the only rule in this Office that exists for the protection of the person and not the document, and it is the rule that stops a clerk from re-opening a case for his own reasons in his own name in the fourth week of the month because the fourth week is when he found out he was right." He shut his hand. "And the charge that matters is scope, and scope is untouched by any of it, and I have said in a filing on a docket that the entry is validly made and the complaint is of its scope, and I am not going back upstairs to unwrite my own sentence because a woman kept a delivery book for thirty-six years."
 
 Marguerite Bray had the pencil out by then and she put it on the table, and Owen understood what was happening, and he waited.
 
-Mr Bray wrote one line in the delivery book, in pencil, in her own hand, with the day and the hour, and then she put the pencil down and did not say anything at all, which was how she said it.
+Mrs Bray wrote one line in the delivery book, in pencil, with the day and the hour, and then she put the pencil down and did not say anything at all, and Owen understood that she had done exactly what he had asked and not one thing more.
 
 ---
 
@@ -160,7 +166,7 @@ District Return 487-LL, entered on the fifteenth, eight branches and a recorded 
 
 He did not have the pump grant. The grant stayed suspended and it is suspended this morning and it will be suspended in a month and it is not made whole anywhere inside the year.
 
-He did not have six protective returns. He had a list of four names on a page in a notebook, and none of the five parts, and the two that are not anybody's to pay for are the two that are missing, and a woman of seventy-one who is in a drawer in a ward hall and a woman of twenty-six who has written her interest down against herself and is not thanked for it by anybody including him.
+He did not have six protective returns. He had a list of four names on a page in a notebook, and three of the five parts, and the two that are not anybody's to pay for are the two that are missing, and a woman of seventy-one who is in a drawer in a ward hall and a woman of twenty-two who has written her interest down against herself and is not thanked for it by anybody including him.
 
 He did not have Cobb Rennie. He had a man who carried a child home at night because nobody else was going to, and who was not on anything, and who was the most independent person available for a document, and whose pension wants a record that places him at two rooms on Fetter Lane, and there is no such record, and there has not been for two years, and nothing filed in this case reaches him, and nothing filed in this case is going to.
 
@@ -170,8 +176,8 @@ And he had a date, in a piece of paper on a docket, in the last week of a season
 
 Down on the Fetter Lane side, four doors down from Marguerite Bray's front door, Nessa Kray came out at one o'clock in the rain and put her seed trays out on the boards in the correct order, and a woman she had never spoken to said good morning to her, and she said good morning back, and neither of them said anything else, and that was the whole of the twenty-sixth day of the month.
 
-On the ward's own book, in a hand Owen Rusk had not written and would not have permitted if he could, there was one line about a man who asked three times and was told no three times, and then there was one line about a sheet that came back signed, and then there was nothing for eleven months.
+On the ward's own book, in a hand Owen Rusk had not written and would not have permitted if he could, there were three lines for the twenty-seventh day of the month and nothing else in the column. The first said that a man had asked three times and been told no three times. The second said that a sheet had come back signed. The third was a sentence he had dictated and Marguerite Bray had set down exactly, about a charge that cannot be re-entered by the man who withdrew it, with the hour ruled under it and nothing else. And above all three, from the month before, in the same ruled hand and a different life: a folded sheet, being the entry and its two leaves, sealed, brought by T. Sarr of this ward, in person, at the door. Between that line and these three there was nothing at all for eleven months.
 
-He did not write anything under it. He had wanted to, for eleven days, and on the twenty-seventh day of the month he understood that the ward's book was not the place for it, and that the reason was not procedure, and that the reason was that Marguerite Bray had kept a delivery book for fifty-one years precisely so that a ward would have one thing in this city that nobody had to explain to anybody.
+He did not write anything under them. He had wanted to since the twentieth, when he had read a day-book in a public room and written *nothing* in his own book beside a day that was empty and gone upriver to a woman with a basket. On the twenty-seventh day he understood that the ward's book was not the place for it, and that the reason was not procedure, and that the reason was that Marguerite Bray had ruled a delivery book for thirty-six years precisely so that a ward would have one thing in this city that nobody had to explain to anybody.
 
 He put his notebook away at the bottom of the hill and went in to his dinner, and the crossing was still closed, and the pump still ran by hand on the worst nights, and eight pages said what the ward did and one page said who said no, and nobody in Docketford knew yet what the Registry had done to a man's mother in a flood-year quarter, in the same batch, in a different register, and the brass tab in the tray on the ground floor was still shut.

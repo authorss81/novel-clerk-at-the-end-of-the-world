@@ -1,6 +1,6 @@
 # Chapter 17 — Sixteen
 
-The corridor outside the Deputy Registrar's office on the second floor is eleven feet wide and it is the only place in the River Desk building where a man can stand still without looking idle, and at ten past nine on the morning of the twenty-third day of the month Owen Rusk was standing in it with a bundle of unrouteable post under his arm, because the tray has no schedule and a tray on a Wednesday is a queue of things that cannot be delivered, and eleven feet of corridor is where a man with a bundle stands.
+The corridor outside the Deputy Registrar's office on the second floor is ten feet wide and it is the only place in the River Desk building where a man can stand still without looking idle, and at ten past nine on the morning of the twenty-third day of the month Owen Rusk was standing in it with a bundle of unrouteable post under his arm, because the tray has no schedule and a tray on a Wednesday is a queue of things that cannot be delivered, and ten feet of corridor is where a man with a bundle stands.
 
 Halden Pike came out of the office with a hat under his arm and the door open behind him, and stopped.
 
@@ -46,11 +46,11 @@ Owen stood in the corridor and looked at the man.
 
 "I know you could."
 
-"It would do nothing," said Owen. "It would be worse than nothing. The moment that book is on a table in that room, a clerk in the district office has written a Registry clerk's name against a schedule, and the clerk is me, and the ward is mine, and the case in that room is mine, and I stop being a man who read a list out of a supervisor's mouth and I become the eleventh thing on it." He put his hand out, palm up, and did not raise his voice, because the corridor was eleven feet wide. "That is why I am not going to do it, sir, and I would like it noticed that I am saying this in a corridor to a man who is looking at the floor."
+"It would do nothing," said Owen. "It would be worse than nothing. The moment that book is on a table in that room, a clerk in the district office has written a Registry clerk's name against a schedule, and the clerk is me, and the ward is mine, and the case in that room is mine, and I stop being a man who read a list out of a supervisor's mouth and I become a name somebody has written down." He put his hand out, palm up, and did not raise his voice, because the corridor was ten feet wide. "That is why I am not going to do it, sir, and I would like it noticed that I am saying this in a corridor to a man who is looking at the floor."
 
 Pike looked at the floor for a moment longer and then up.
 
-"Noted," he said. "And it is the correct decision, and it is worth nothing, and I am going to sign on Friday at ten past four whether you put the book on the table or not."
+"Noted," he said. "And it is the correct decision, and it is worth nothing, and I am going to sign it this week whether you put the book on the table or not."
 
 "The instrument is drafted?"
 
@@ -90,7 +90,7 @@ Pell looked at the sheet for a while.
 
 "I want to be certain, because I want to say it and I would rather say it than have you notice it in six months." She put both hands flat on the board. "Writing that down makes me a participant. It is not a favour. From today I am a person who has an interest in the outcome of a stability order, and so is every person who reads a stability order, and so are you, and the difference is that I will have written mine down, and a person who has written their interest down is a person who can be challenged on it, and can be sustained, and can be sustained by herself, as of yesterday." She picked up the pen again. "You have done to me this afternoon exactly what I did to that return on the seventh day. I want you to notice it. And I want you to notice that neither of us is going to be thanked for it, and that I have decided not to mind, and that you may find that harder than I do."
 
-She wrote it for eleven minutes, in her square hand, and signed it, and dated it the twenty-third, and gave it to him.
+She wrote it for six minutes, in her square hand, and signed it, and dated it the twenty-third, and gave it to him.
 
 Owen read it standing there and had to stop halfway through.
 
@@ -128,7 +128,7 @@ Pell read Kray's page out. It was one sheet, one adult to a sheet, and the act r
 
 "I signed that page on the seventh day of the month at that table," said Kray, "and I did it because there were nine of us signing and I wanted this ward to have a name, and because I have been in this ward longer than anybody in the room has been alive and it has never once mattered whether I was on a piece of paper, and I have never needed anybody to agree that I am a woman who sells seed."
 
-She put her hand flat on the table, which she had learned from watching Marguerite Bray do it for sixty years.
+She put her hand flat on the table, which she had learned from watching Marguerite Bray do it for as long as she could remember.
 
 "And it turns out that is not what the paper says. The paper says I go out in the rain and maintain a crossing every week before two people, and I have not been within thirty yards of that bridge at any hour of any day since my husband died, and I could not tell you which of the nine posts is the one with the crack on it, and I have walked past the end of that path four times in my life and that was for a funeral." She looked round. "I thought a branch was a name. It is not a name. It is a thing you do, and I have not done that thing, and I am seventy-one, and I am not going to be asked twice a year by a stranger from some office whether I went out in the rain."
 

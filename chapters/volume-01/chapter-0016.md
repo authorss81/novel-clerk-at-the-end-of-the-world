@@ -4,9 +4,9 @@ The challenge came down at nine in the morning on the twenty-second day of the m
 
 It was four paragraphs and it had no name on it, and it had a docket number, and the docket number was the file number of the ward's return, which meant it had been raised *against* the instrument rather than in ignorance of it, by somebody who had read all nine pages and the two leaves and the countersignature and had then gone to the countersignature desk and written four paragraphs in the correct form on the correct day.
 
-*In the matter of District Return 487-LL. It is submitted that the second observer named in this return is an officer of the Registry of Continuant Works; that this Office is the district office before which the return is filed; that the Office is the office which received the transfer of the maintenance of the named work to the Mill Ward district return, of the eleventh day of C.Y. 486, being intake 461/F-B/9; and that the Office's interest in the filing succeeding is therefore not an interest separable from the outcome. It is further submitted that a separation of interest made by an officer of an interested office is a statement by that office, and cannot cure that interest. It is further submitted that the return should stand or fall upon the second observer alone. It is further submitted that no statement of the first observer's interest has been contradicted, and that nothing in this return answers the objection.*
+*In the matter of District Return 487-LL. It is submitted that the second observer named in this return is an officer of the Registry of Continuant Works; that this Office is the district office before which the return is filed; that the Office is the office which received the transfer of the maintenance of the named work to the Mill Ward district return, of the eleventh day of C.Y. 486, being intake 486/F-B/9; and that the Office's interest in the filing succeeding is therefore not an interest separable from the outcome. It is further submitted that a separation of interest made by an officer of an interested office is a statement by that office, and cannot cure that interest. It is further submitted that the return should stand or fall upon the second observer alone. It is further submitted that no statement of the first observer's interest has been contradicted, and that nothing in this return answers the objection.*
 
-There were eleven returns in a rack behind the Front Desk counter and a bundle in it that a man had handed in on a Thursday, and this was the twentieth day of the month and Owen had had four hundred and eleven words read to him in a hall, and now this was on the step.
+There were seven returns in a rack behind the Front Desk counter and one bundle on top of them that a man had handed in on a Thursday, and this was the twenty-second day of the month and Owen had had the district office's answer read to him in a hall three days before, and now this was on the step.
 
 It was correct.
 
@@ -86,7 +86,7 @@ Voss waited about two seconds.
 
 "And if I say no?"
 
-"Then there is one observer, and the return comes back, and the ward is frozen on Friday the twenty-eighth, and I will have to go up that hill and tell nine people that we got one of them as far as a second day and then could not keep it." Owen did not soften it. "That is the whole of it. I am asking you as a favour and not as an instruction, because you are not in this return as a favour, you are in it as the second observer of a document you read before you signed it, and if you would rather answer a reviewing officer than answer me then you may do that instead and I will put it in the file in the same words."
+"Then there is one observer, and the return comes back, and the ward is frozen on Friday the twenty-fifth, and I will have to go up that hill and tell nine people that we got one of them as far as a second day and then could not keep it." Owen did not soften it. "That is the whole of it. I am asking you as a favour and not as an instruction, because you are not in this return as a favour, you are in it as the second observer of a document you read before you signed it, and if you would rather answer a reviewing officer than answer me then you may do that instead and I will put it in the file in the same words."
 
 Voss looked at him for a long moment. Behind him, the queue was three people long and a woman at the end of it had a parcel she was holding wrong.
 
@@ -98,7 +98,7 @@ Voss looked at him for a long moment. Behind him, the queue was three people lon
 
 ---
 
-Owen wrote it down. He wrote down almost nothing else, and the almost nothing was this: that in eleven days he had gone up a hill and asked a man for a favour and got it, and that in the same eleven days he had gone to a woman on a copying floor and asked her to be examined and she had, and that neither of those things was in his power, and that the whole of what he had done that month was arrange for other people to be asked.
+Owen wrote it down. He wrote down almost nothing else, and the almost nothing was this: that in a fortnight he had gone up a hill and asked a man for a favour and got it, and that in the same fortnight he had gone to a woman on a copying floor and asked her to be examined and she had, and that neither of those things was in his power, and that the whole of what he had done that month was arrange for other people to be asked.
 
 Pell sustained it at half past three.
 
@@ -114,7 +114,7 @@ She had not defended herself. She had not argued that the challenge was wrong, a
 
 And she had done it first. Before Voss, before Owen, before the ward, before the counter at the annex. First, on the day, in her own hand.
 
-He went up and found her at the tray with the lamp not lit yet and the hall almost empty, and he stood at the end of the board and said:
+He went up and found her at the tray with her lamp lit and the hall thinning out around them, and he stood at the end of the board and said:
 
 "That was the correct thing to do."
 
@@ -128,13 +128,13 @@ He went up and found her at the tray with the lamp not lit yet and the hall almo
 
 "You've been at it all day like a man with a stone in his shoe and you have not once looked at your own notebook, and you have had it in your coat all day, and you have checked the clasp four times, and I know what is in it because I was on a wet step in the first week of the month and you told me what was in it out loud, and I have never told anybody and I am not going to, and there is no reason in the world for me to be standing near you this afternoon except that I know what is in a notebook and you are the only person in this building who keeps one."
 
-The hall was very quiet, and it was about four o'clock on a Tuesday in the third week of the rain season, and there were nineteen clerks in it, and Owen Rusk stood at the end of a trestle table and looked at a woman of twenty-two.
+The hall had gone quiet, and it was about half past four on a Tuesday in the third week of the rain season, and there were four people left in it, and Owen Rusk stood at the end of a trestle table and looked at a woman of twenty-two.
 
 "Thank you," he said.
 
 "Go and find out about the review."
 
-"I found it out at ten to five from the stub. It's adjourned to the twenty-fifth, because the observers are in question, and the twenty-fifth is the next day a reviewing officer is in, and I have three days, and in three days Pike has a Friday."
+"I found it out at twenty past four from the stub. It's adjourned to the twenty-fifth, because the observers are in question, and the twenty-fifth is the next day a reviewing officer is in, and I have three days, and in three days Pike has a Friday."
 
 "Yes," said Pell. "That is what I would have told you at five o'clock."
 

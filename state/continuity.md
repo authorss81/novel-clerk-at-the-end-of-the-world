@@ -10,6 +10,43 @@
 - Power is publicly witnessed fact. A written description never replaces the underlying act. The shared **common future** is the civic layer that lets separate local supports recognize and coordinate with one another; Civic Zero withdraws that layer without instantly erasing every local act.
 - The final answer is collective: local, household, community-refusal, personal, refusal, and protective returns within a bounded, recorded network activate Form Zero. Owen refuses the sole representative line. Hidden branches remain an acknowledged cost. Lound survives, loses unilateral office, and is not replaced by a new final enemy.
 
+## Volume 01 Canon Clarifications (established by `outline/volume-01.md` and `outline/batches/volume-01-batch-0001.md`)
+
+These are author-facing planning facts fixed before Chapter 1 is written. Characters do not know them in advance.
+
+### Named Persons Introduced in Volume 01
+
+- **Marguerite Bray**, 61, the unofficially recognized ward steward of Lower Lock. She keeps the ward's paper roll by hand because the Registry's roll is useless to her. She files the petition that puts Lower Lock on the Glass Stair docket in Chapter 9. She is not Owen's ally; she uses him and refuses to be his.
+- **Cobb Rennie**, 58, off the Registry roll for two years while living at the same address, unable to draw a pension because no record places him there. His pension is an unresolved thread carried through the volume.
+- **Tal Sarr**, Lower Lock resident, signed and had witnessed a receipt eleven months before the opening moving the ward's crossing maintenance into the Mill Ward return; authority covered his own household only. Drowned in the C.Y. 487 spring flood. **Dead before Chapter 1.**
+- **Ivy Sarr**, 12, Tal's granddaughter, lives with an aunt. One of the thirteen "no local record" entries. Tal had no authority over her.
+- **Dory Anstruther**, 19, roofer's apprentice and bridge-crew hand, one of the thirteen, injured in the Ninth Weir spillway in Chapter 8.
+- **Nessa Kray**, 71, seed stall. **Bram Tillet**, 46, ferry cook. **Ilse Mern**, 44, laundress. **Holm Ferris**, 58, night watch. The remaining entries are in the file and are not all named on the page.
+- **Marta Rusk** is Owen and Ada's mother. Died of fever after a medicine shortage during a flood-year closure; the Registry's delay in revising her residence status delayed priority medicine and left her burial disputed for eight months. Her name is now fixed as Marta.
+
+### Volume 01 Institutional Objects
+
+- **Stability Order 114** — Docketford's instrument closing Lower Lock. Defensible, not fraudulent, and carried into public appeal rather than quietly filed.
+- **The transfer entry** — a *receipt* of a claim, made in C.Y. 486 on Tal Sarr's signed and witnessed authority, assigning Lower Lock's crossing maintenance to a Mill Ward district return. It is a supported fact and cannot be corrected; it can only be challenged on **scope**.
+- **A continuance inquiry** — filed in the filer's name, public, suspends nothing, starts a visible docket.
+- **A petition for a hearing** — a request the Office cannot refuse without writing a reason. The cheapest lawful act in the volume and the ward's entry point.
+- **The unfiled correspondence tray** — Owen's reassignment posting. He may handle it and may not open the cord-brass-tabbed drawer inside it.
+- **ALDER ROW — 461** — a brass tab naming a Docketford ward officially closed in Concord Year 461, four streets from Owen's home, whose index card says *never opened*. The volume's closing question. Not opened in Volume 01.
+- **The Council countersignature standard** — issued by the Provisional Council and countersigned by the First Registrar; requires central countersignature of all local returns and states that no community return will be accepted after the present review. In force from Chapter 10. This is how Verity Lound is introduced: by circular, not in person.
+
+### Volume 01 Rules the Prose Must Not Violate
+
+- The central hinge of the volume is the difference between a claim to a **status** ("the crossing is open") and a claim to a **duty** ("we perform maintenance of a named public crossing; here is the act, here is the review date"). Owen must learn it, not stumble into it.
+- The Ninth Weir is load-restricted, closed to loads, and unsafe for the entire volume. The crossing hold preserves a legal status and an appeal window only.
+- Owen signs no continuation, certification, or hold before Chapter 46. He is a Copy Clerk, a petitioner, a co-petitioner, and an assisting clerk until then, and reaches Stage 1 only at the volume climax.
+- Owen perceives marginalia on thin or contradictory files he is already handling. A closed or held file returns silence, and the silence is information he cannot yet read. Do not give him a margin notice on a sealed record in Volume 01.
+- A household return is a set of separately consenting adult branches. Three Lower Lock households refuse to share a page with another adult's name, and that refusal is correct.
+- Six of the thirteen erased entries are children or people unable to answer. Protective returns require two unrelated living witnesses, a current care act, and a named appeal route, and Lower Lock has no structure for them. **This stays unresolved through Volume 01.**
+- Nothing restores the dead. Marta Rusk and Tal Sarr stay dead, and the correct record says so.
+- Pike's secret is that the withdrawal was signed to move people off marginal land before a flood that killed elsewhere. It surfaces publicly in Volume 01 and does not launder the harm.
+- The eight-person infancy sponsorship is not referenced, hinted at, or foreshadowed anywhere in Volume 01.
+- Kade, Sallow, Marr, Reed, the Census Guard, the Claim Market, the Free Counters, and the First Seal Subvault do not appear on stage in Volume 01.
+
 ## Rule Baseline
 
 - A supported fact requires a named subject, a performed act, at least two living observers with separable interests, a public scope, and renewal before its deadline. A filing also states jurisdiction, term, effect, and an appeal route.

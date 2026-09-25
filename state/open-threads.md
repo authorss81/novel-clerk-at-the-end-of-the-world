@@ -17,6 +17,13 @@ This file is author-facing planning. It is not a list of facts already known by 
 - Owen and Nell must work together while retaining their professional disagreement.
 - Ada must be allowed to negotiate Lower Lock’s future rather than becoming Owen’s protected ward.
 - Any crossing hold preserves a legal appeal window, not the physical safety or usability of the Ninth Weir.
+- The distinction between claiming a crossing’s **status** and claiming the ward’s **maintenance duty** is the hinge of the volume and must be taught, not assumed.
+- Owen’s first ten chapters must cost him: his posting, his standing in his own ward, the belief that accuracy is a defence, and one public document bearing his own hand inside the transfer’s foundation.
+- Nell must refuse to be Owen’s witness, advocate, or relief, and the refusal must hold for the rest of the volume.
+- Junia Pell must refuse Owen’s short-form attestation in Chapter 9 and remain under no obligation to him afterwards.
+- Six of the thirteen erased entries are children or people unable to answer. Lower Lock has no protective-return structure and this is **not** solved by the end of Volume 01.
+- Cobb Rennie’s pension, the four dissenting households’ separate branch, Dory Anstruther’s injury, and the four months of the ward’s granary reserve are open threads inside the volume.
+- Pike’s justification — the withdrawal that saved people elsewhere and hid its own cost — must surface without excusing it.
 
 ## Relationship and Character Payoffs
 

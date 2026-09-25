@@ -1,10 +1,10 @@
 # Current State
 
-Current phase: `phase-000-bootstrap`; review repairs applied; controller transition to `phase-001-outline` pending
+Current phase: `phase-001-outline`; Volume 01 outline and the Chapters 1–10 batch cards are complete; controller transition to `phase-002-batch-plan` pending
 
 Current volume: 1
 
-Current batch: 0
+Current batch: 0001 (planned, not written)
 
 Last completed chapter: none
 
@@ -33,8 +33,10 @@ Last batch summary: none
 
 ## Active Story Engine (Planning Only)
 
+- `outline/volume-01.md` fixes Volume 01 (Chapters 1–50, *The Unfiled Ward*): central pressure, midpoint reversal at approximately Chapter 25, climax in Chapters 46–48, concrete resolution in Chapters 49–50, and the next-volume question.
+- `outline/batches/volume-01-batch-0001.md` fixes Chapters 1–10 (*The Omission*): reversal at Chapter 5, climax at Chapter 9, aftermath at Chapter 10. It is planning only until the batch is written.
 - Volume 1 must secure a lawful local return for Lower Lock, challenge Halden Pike’s stability order, and let Ada negotiate her ward’s future.
-- The central mystery remains who can complete Form Zero without a single person answering for everyone else.
+- The central mystery remains who can complete Form Zero without a single person answering for everyone else. Owen’s first glimpse of Form Zero arrives in Chapter 10 as a clerk’s aside: it has no valid signature path.
 - Owen and Nell’s planned rupture over concealed information belongs to the middle volumes; it is not opening knowledge and must not be treated as a current event.
 - The final answer remains collective, with Lound surviving, losing unilateral office, and no new final enemy.
 

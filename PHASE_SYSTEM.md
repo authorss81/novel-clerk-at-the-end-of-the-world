@@ -146,7 +146,7 @@ The writer reads:
 - `state/open-threads.md`
 - relevant character and world files
 
-The writer does not need to read every previous chapter. The state and previous batch summaries are the long-term memory. Read the previous 20 chapters for immediate voice and continuity; extend to 30 when the model’s verified context budget safely allows it.
+The writer does not need to read every previous chapter. The state and previous batch summaries are the long-term memory. Read the previous 20 chapters for immediate voice and continuity; extend to 30 when the model’s verified context budget safely allows it. After a batch finishes, the writer creates exactly one next-phase prompt: either the next batch or the volume-close phase. This makes self-dispatch continue without pre-creating hundreds of phase files.
 
 The writer must write 10–20 complete chapters in order, with full scenes and natural prose. It updates the chapter summaries, continuity, and open-thread files as it works.
 

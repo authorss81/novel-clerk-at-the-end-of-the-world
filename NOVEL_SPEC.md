@@ -15,4 +15,4 @@ A records clerk discovers that reality ends whenever nobody completes the final 
 The final form is completed by an entire civilization rather than one clerk.
 
 ## Status
-Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
+Scaffold pushed. No novel prose has been generated yet. The bootstrap phase creates the bible, series outline, and ending outline. The following outline phase creates Volume 01 and the first batch cards; chapter prose begins only after that handoff.

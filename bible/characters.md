@@ -1,0 +1,200 @@
+# Character Bible
+
+## Relationship Policy
+
+The novel has one romantic arc: **Owen Rusk and Nell Arbour**. It begins in professional opposition, develops through repeated cooperation and conflict, and does not culminate in instant attraction, rescue, or a permanent separation followed by effortless reunion. The planned arc reaches a chosen marriage and a lasting partnership, but the relationship’s value does not depend on the ceremony.
+
+No other major romance receives comparable weight. Secondary relationships emphasize family, friendship, professional loyalty, community, and earned trust.
+
+---
+
+## Owen Rusk — Primary Protagonist
+
+- **Age at opening:** 32
+- **Home:** Lower Lock, Docketford
+- **Work:** Senior copy clerk, Registry River Desk
+- **Romance:** Nell Arbour, slow burn
+- **Voice and habits:** Exact, dry, observant. He keeps a sharpened pencil beside three dull ones, remembers faces better than names, and makes lists when frightened. He drinks bitter tea and resents waste, including his own.
+- **Physical baseline:** Lean, sleep-deprived, with old ink-stained cuts on his right fingers. He is not a fighter. He can run, climb archive ladders, and endure unpleasant fieldwork better than he can pretend he enjoys it.
+
+### Want, Need, Flaw, and Fear
+
+- **External want:** Save Lower Lock from a closure order, then gain enough legitimate authority to reopen every case that the Registry has concealed.
+- **Internal need:** Learn that trustworthy action includes sharing authority, admitting uncertainty, and allowing other people to complete work he could never safely finish alone.
+- **Flaw:** He turns competence into control. He overworks, conceals doubt, and makes unilateral decisions when delay frightens him.
+- **Fear:** Becoming a gatekeeper who decides whose life is valid.
+- **Counterflaw risk:** He is neither secretly noble nor naturally cynical. He notices exploitation, remembers low-level workers, and can learn. His bad choices should come from overcontrol, not incompetence.
+
+### Backstory
+
+Owen grew up in Lower Lock with his younger sister Ada. Their mother died of fever after a medicine shortage during a flood-year closure. The Registry’s delay in revising her residence status did not cause the fever, but it delayed her access to priority medicine and left her burial disputed for eight months. Owen entered the Registry because he wanted an institution that could not casually erase people like her.
+
+During a small closure in his infancy, no safe family roll could be found. Eight unrelated Registry employees jointly sponsored him: two copy clerks, a midwife, a sewer inspector, a seed merchant, a ferry cook, a stone setter, and a night archivist. Owen never learned this as a child. The record was sealed because no person had the right to claim sole custody.
+
+This makes his adult talent for holding voluntary common claims possible, but it does not give him rightful authority over anyone. Each sponsor’s continuing act contributes a separate thread to his distributed root claim; after a sponsor dies or leaves, a new willing custodian can renew the public duty but cannot inherit the sponsor’s identity or consent. Owen can carry those threads only while current custodians keep choosing the common case. It is a history of support, not a bloodline destiny.
+
+### Central Arc
+
+Owen begins by preserving the Registry’s authority because he believes accurate administration is safer than chaos. He repeatedly refuses help, lies to Nell to protect a plan, and treats family loyalty as permission to overrule Ada. Mid-series, his methods become indistinguishable from the officials he hates. He loses Nell’s trust, endangered an ally, and accepts a regional office he initially sees as proof that he has become powerful enough to fix the system.
+
+His final work is the opposite of self-sufficiency. He learns to delegate, publish mistakes, accept limits, and make a plan that remains usable when he is wrong. At Civic Zero, his greatest act is refusing the authority to answer for all.
+
+---
+
+## Nell Arbour — Primary Partner and Slow-Burn Romance
+
+- **Age at opening:** 35
+- **Home:** Arbour Kitchen in Docketford’s Mill Ward
+- **Work:** Former Registry examiner, now an independent claimant advocate
+- **Romance:** Owen Rusk, slow burn
+- **Physical baseline:** Wiry, usually ink-stained, with reduced feeling in her left hand after a poorly supported redaction case. She hides pain badly and refuses help even when the cost is obvious.
+- **Voice and habits:** Direct, unsentimental, funny without cruelty. She asks the person affected what they want before asking what the rule requires.
+
+Nell left the Registry after an early case forced her to choose between a literal roll and a child whose family had been dispersed by a flood. The Office avoided punishment by calling her decision procedural error, but the lesson shaped her career. She now helps people navigate proof, challenge bad rulings, and build local claims outside official channels.
+
+She opposes Owen because his precision can hide which person the system is treating as disposable. She admires his ability to find the detail that makes a case possible and resents that he assumes admiration means agreement. He envies her courage, resents her risk-taking, and eventually stops demanding that courage in one person.
+
+Their relationship progresses through:
+
+1. Professional familiarity and old disagreements.
+2. Cooperation in which each saves the other from a different failure.
+3. Attraction disclosed through practical choices, not a single confession.
+4. A rupture when Owen conceals a dangerous plan and treats Nell’s expertise as permission to bypass her.
+5. A difficult reconciliation built on changed procedures, not a promise that he is cured.
+6. A chosen long-term partnership tested by the final political conflict.
+
+Nell never becomes Owen’s reward for doing the right thing. She keeps her own cases, allies, disagreements, and final vote on Form Zero.
+
+---
+
+## Ada Rusk — Sister and Equal-Adulting Test
+
+- **Age at opening:** 24
+- **Home:** Lower Lock
+- **Work:** Bridge mechanic and crew leader
+- **Relationship to Owen:** Younger sister, close but strained by his habit of treating her as someone he failed to protect
+
+Ada is competent at river engineering and unwilling to become a protected symbol of Lower Lock. She wants her ward to possess a valid local return, but she rejects Owen’s plan to have the Registry absorb its maintenance debt. She also refuses to abandon Lower Lock for a safer place even after Owen secures a formal guarantee.
+
+Her arc forces Owen to distinguish care from control. She survives the series and ends the story maintaining an independent lower bridge under a local return that she negotiated herself.
+
+---
+
+## Halden Pike — First Procedural Antagonist
+
+- **Age:** 47
+- **Work:** Deputy Registrar for Docketford
+- **Opening role:** Owen’s supervisor and the official trying to close Lower Lock through a technically defensible stability order
+- **Want:** Keep Docketford solvent and prove that orderly closure is kinder than unmanaged existence
+- **Flaw:** He confuses harm prevented with consent obtained
+- **Secret:** He signed the first Lower Lock withdrawal to prevent flood deaths elsewhere. He knew the ward could not survive alone and hid that limitation in a favorable reading.
+
+Pike is an adversary, not a secret cosmic villain. After the first volume he becomes a reluctant source on redaction practice. His later testimony helps prove that the Office knowingly preferred controlled loss. He remains alive and must live under a settlement that gives Lower Lock the right to reject his assessments.
+
+---
+
+## Warden Oress Kade — Field Antagonist and Ethical Parallel
+
+- **Age:** 39
+- **Work:** Warden of the Census Guard
+- **Want:** Ensure no unstable district remains long enough to contaminate the central count
+- **Belief:** A person cannot consent while their mind and body are dissolving; therefore temporary suspension is humanitarian.
+- **Flaw:** She decides which losses count as acceptable before hearing whether the affected people choose deletion
+
+Kade physically confronts Owen more than once and never becomes romantically or ideologically intimate with him. She exposes the Registry’s hidden costs and saves Owen from his own contempt for her work. The climax of her arc occurs when her own guard receives a suspension order. She refuses to erase them and dismantles her command, accepting that mercy requires permission even when permission is difficult.
+
+---
+
+## Ansel Rive — Mentor, Reformer, and Authoritarian
+
+- **Age:** 58
+- **Work:** First Registrar
+- **Want:** Prevent another Blanking and preserve a single trustworthy version of public fact
+- **Flaw:** He governs through controlled disclosure, believing a society can survive only if someone withholds dangerous truths
+- **Relationship with Owen:** Recruits him as a protégé, then becomes the person most likely to corrupt him by treating secrecy as love
+
+Rive concealed the distributed nature of Form Zero and the scale of redactions. He did not invent Civic Zero and does not seek personal immortality. He intentionally used emergency amendments to keep unstable regions alive, producing authoritarian power as a side effect.
+
+Owen’s dislike of Rive is complicated because Rive is often right about immediate danger and wrong about who deserves a choice. Rive survives the final political defeat and is required to testify at the first public trial of the new system; he is not killed to make Owen’s position easier.
+
+---
+
+## Iven Sallow — Market Antagonist
+
+- **Age:** 46
+- **Work:** Claim broker, lender, and founder of the Sallow Continuity Bank
+- **Want:** Make human continuity financeable and become the person no city can cut off
+- **Flaw:** He believes every real freedom has a market price and treats consent as a commodity once someone has genuinely sold it
+- **Method:** Sells faster witness capacity, emergency custody, and legal membership through interlocking contracts. He never simply mind-controls anyone; he exploits desperation and real choices.
+
+Sallow is the series’ clearest personal villain, but defeating him does not solve structural poverty. His ledgers later reveal how many coercive deals were made possible by Registry deadlines. He is tried, survives, and cannot be restored to the industry he built.
+
+---
+
+## Chancellor Verity Lound — Final Antagonist
+
+- **Age:** 61
+- **Work:** Head of the Provisional Council
+- **Want:** Prevent Civic Zero from destroying Vespera and keep authority accountable to one clear decision-maker
+- **Belief:** A frightened civilization should prefer a ruler who can say yes, no, and take responsibility to a web of communities that may all refuse at the last moment
+- **Flaw:** Her desire for accountable leadership becomes indistinguishable from permanent government
+- **Method:** Revives the **Assumption Plan**: under a global emergency, the Chancellor may sign for absent, incapacitated, or unreachable people. It would make the old central seal accept a false completion of Form Zero while destroying its refusal rights.
+
+Lound is not secretly manipulating the apocalypse. She believes the apocalypse, wants to prevent it, and is willing to make all private consent revocable to do so. Her record shows competent emergency decisions and decisions that harmed people for decades. She is Owen’s ideological mirror: both believe a final accountable person may be necessary; Owen eventually learns to act without that certainty.
+
+Lound is present from Volume 1 as a remote institutional authority and becomes the principal on-stage opponent from Volume 8 onward. She survives Civic Zero, loses her office, and must live under rules that can refuse her. No later volume replaces her with a more powerful ruler, god, or machine.
+
+---
+
+## Junia Pell — Registry Successor Figure
+
+- **Age:** 22
+- **Work:** Junior copy clerk who begins beside Owen
+- **Want:** Become a competent public servant without becoming a custodian of other people’s lives
+- **Function:** She is faster, more willing to change procedure, and more willing to challenge Owen. Her development prevents Owen’s mentorship from becoming another version of institutional control.
+
+Pell refuses advancement when offered a post that would make her Owen’s deputy and later proves capable of running a decentralized clerk network. She remains a working clerk in the aftermath.
+
+---
+
+## Bettis Marr — Upland Commons Speaker
+
+- **Age:** 56
+- **Work:** Rotating speaker of the Upland grain compact
+- **Want:** Keep communal verification strong without allowing the Commons to claim permanent authority over its members
+- **Conflict with Owen:** She initially refuses his cases because she believes outsiders turn shared duty into personal testimony.
+
+Marr’s community becomes a model for a Common Table, but its internal exclusion of a dissenting household creates a Volume 9 crisis. Her correction is political and costly: the Commons must let members leave without losing access to shared stores.
+
+---
+
+## Tovan Reed — Free Counter Guide
+
+- **Age:** 29
+- **Work:** Caravan guide and disputed-route cartographer
+- **Want:** Keep mobile communities unclaimed by permanent maps
+- **Relationship with Owen:** Mutual fascination, political conflict, and eventual respect
+
+Reed proves that a community can intentionally leave an old record and establish a new return elsewhere. He refuses Owen’s offer of formal authority, serving as a recurring check on the assumption that settlement equals stability.
+
+---
+
+## Core Relationship Map
+
+- **Owen–Nell:** Professional opposition → earned trust → romance → rupture over secrecy → changed partnership → stable marriage or equivalent household.
+- **Owen–Ada:** Protective inequality → forced independence → sibling alliance based on equal competence.
+- **Owen–Ansel:** Mentor bond → institutional manipulation → painful but non-murderous break.
+- **Owen–Lound:** Idealized authority → ideological mirror → final contest over whether one answer may serve for all.
+- **Owen–Kade:** Mutual contempt → recognition of parallel responsibility → opposing settlements after she refuses unauthorized suspension.
+- **Owen–Pell:** Mentor impulse → correction when he projects his own path onto her → collegial trust.
+- **Nell–Ada:** Separate alliance; neither lets Owen speak for the other.
+
+## Ending Status
+
+- **Owen and Nell:** Remain together, each with independent work and an explicit right to refuse the other’s cases.
+- **Owen and Ada:** Resolved sibling equality; Lower Lock survives without Registry guardianship.
+- **Ansel Rive:** Alive, deprived of office, compelled to testify.
+- **Oress Kade:** Alive, disgraced from the command, acquitted of killing but charged with unlawful suspension.
+- **Iven Sallow:** Alive, imprisoned, and subject to restitution.
+- **Verity Lound:** Alive, removed from office, monitored by a public body she cannot command.
+- **Halden Pike:** Alive; required to participate in the registry of contested closures he once approved.

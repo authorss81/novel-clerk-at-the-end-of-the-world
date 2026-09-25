@@ -44,7 +44,7 @@ Owen Rusk had learned in six weeks that there is a particular way four people si
 
 "Read what."
 
-"All of it." She counted them off, and it was the same hand she had used on the Thursday night with the Council's circular, and it did not slow down. "The roster, which we have read because anybody may read it. The council's paper, which Mr Rusk read out in this room on Wednesday. The refusal column, which was read out in this room by a woman from a mill on a night a fortnight ago and never explained to us by anybody in that building. The hearing statement, which is four lines and three of them are mine. The thing about the route that the man with the clock said out loud this morning in a room with windows."
+"All of it." She counted them off, and it was the same hand she had used on the Thursday night with the Council's circular, and it did not slow down. "The roster, which we have read because anybody may read it. The schedule of the precedent, which was read out in this room in the granary by a man from the mill on a Wednesday night a fortnight and a bit ago and never explained to us by anybody in that building. The council's paper, which Mr Rusk read out in this room on Wednesday. The refusal column, which we have all had in our hands since the Saturday and which nobody has ever read out loud in a room, because it is a hundred and nine lines and it takes a woman with a free morning. The hearing statement, which is four lines and three of them are mine. The thing about the route that the man with the clock said out loud this morning in a room with windows."
 
 "Which is not fair," said Owen Rusk. "You were not in that room."
 
@@ -114,7 +114,7 @@ Owen Rusk stood at the end of the table and had been wrong in a room in front of
 
 "That is right. I withdraw it."
 
-"Thank you," said Wenna Sarr, and that was the whole of the exchange, and Ada Rusk looked at Owen for a second longer than she usually did, which was a thing about the batch's seventh day and nothing else.
+"Thank you," said Wenna Sarr, and that was the whole of the exchange, and Ada Rusk looked at Owen for a second longer than she usually did, which was a thing about the seventh day of the month and nothing else.
 
 "Mr Rusk is witnessing this," Ada said, to the room, "and not drafting it, and Mrs Bray is ruling it, and if either of them changes a word I will know, and Wenna has already caught one of them out once tonight so they are not doing well and I am not going to pretend they are."
 
@@ -128,7 +128,7 @@ He said it at about a quarter to eight, from the corner, without standing up, an
 
 "Say it again," she said, "louder, because if I have to ask you then it goes in the book wrong."
 
-Bram Tillet was forty-six and he is a ferry cook at Wexford Landing and he has cooked on the middle crossing since he was nineteen and he voted no on the seventh day of the month with a hand up and a reason he gave at the time in one sentence, and he is not a man who speaks in rooms.
+Bram Tillet was forty-six and had been a ferry cook at Wexford Landing since he was nineteen and he has cooked on the middle crossing since he was nineteen and he voted no on the seventh day of the month with a hand up and a reason he gave at the time in one sentence, and he is not a man who speaks in rooms.
 
 "No," he said, louder. "And I want the reason written down and I want it written down in the same breath as the no, because I have watched four people in this hall do a thing this month and the reason always arrives about a day late and by then everybody has agreed with it."
 
@@ -176,7 +176,7 @@ And then she said the last thing of the night, in the flat voice she uses for th
 
 At the door Ada Rusk stopped Owen with two fingers on his sleeve, the way she had done in the third week, and did not let go.
 
-"You will get a request from that office this afternoon," she said. "For the schedule. It came on the Wednesday. You carried it up the hill in your coat like a favour."
+"You will have to answer a request from that office," she said. "For the schedule. It came on the Wednesday. You carried it up the hill in your coat like a favour."
 
 "It came from the district office, in the correct form, with a day on it."
 

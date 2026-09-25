@@ -10,7 +10,7 @@ Owen Rusk was on the second floor with a tray of correspondence at ten to seven 
 
 "I can, and I am not going to, because a man who has come up a stair after a thing is a man who will be in the room, and I would rather have you in the room than have you guessing at it in a corridor." She broke the seal. It was two sheets and a covering, and the covering was the Council's own, and the seal was the Council's, and there was no name on it anywhere. There was a second signature at the foot of the second sheet in a small steady hand that was not the Registrar's, and Owen looked at it for about a second and a half and then deliberately did not look at it again.
 
-"It is the second one this year," said the seal-stair clerk. "The first came on the ninth day of the second month and named a closing date. Read it standing up and do not lean on my rail."
+"It is the second one this year," said the seal-stair clerk. "The first came on the fourteenth of the month and named a closing date. Read it standing up and do not lean on my rail."
 
 ---
 
@@ -24,7 +24,7 @@ Owen Rusk read sheet two three times and then stood on a stair in a Registry bui
 
 "**Requires watching**," he said.
 
-"It is the Council's own hand and it is not the Registrar's, and I have read that word on one document in nineteen years and it was on a paper about a district works schedule and it was the reason a bridge was load-restricted for a term and never repaired." She squared the sheets. "Read it as a compliment and it is a compliment. Read it as a sentence about what a thing may become and it is a sentence about what a thing may become, and I would put it on the wall of this building if I were permitted to put anything on the walls of this building, and I am not."
+"It is the Council's own hand and it is not the Registrar's, and I have read that word on one document in twenty years and it was on a paper about a district works schedule and it was the reason a district spent a term being careful with a load." She squared the sheets. "Read it as a compliment and it is a compliment. Read it as a sentence about what a thing may become and it is a sentence about what a thing may become, and I would put it on the wall of this building if I were permitted to put anything on the walls of this building, and I am not."
 
 "It names the review."
 
@@ -32,7 +32,7 @@ Owen Rusk read sheet two three times and then stood on a stair in a Registry bui
 
 ---
 
-He spent the rest of the morning and the whole of the afternoon on the second floor, and what he spent it on was watching a careful office become a carefuler one, and it is worth doing properly, because it is the least dramatic thing that will happen to anybody this week and the one that changes most.
+He spent the rest of the morning and the whole of the afternoon on the second floor, and what he spent it on was watching a careful office become a carefuler one, which is the least dramatic thing that will happen to anybody this week and the one that changes most.
 
 It happened in four small pieces and he saw all four.
 
@@ -94,7 +94,7 @@ She was at the end of the long table with a slate under her arm, and she had sai
 
 "The second half is that the Council has asked for three lists and every one of the three is a list this ward has just made one of." Ada Rusk counted them off on her fingers without any emphasis at all, which was worse than emphasis. "The roster. The ground of the second examination — which is Mr Rusk's, and which is in a book in the district office, and which is four hundred and forty-three years old and has never been amended and whose reasons are *right*, and I have read them and I am not going to pretend they are not right. And the disposition forms the office used in the quarter." She put her hand down. "Three lists. The ward made three lists this month without being asked to make one of them, and this morning a man from the capital wrote down that it wants all three. Mr Rusk, in six weeks I have not once been asked by anybody in that building what this ward *wants*, and this morning somebody wanted to know what this ward *does*, at the hours it does it, with the names on it, and put it in writing with a day on it, and that has not happened in my lifetime and my mother did the same week's work before me."
 
-Owen Rusk stood at the end of the long table in a ward hall and listened to a woman he had spent six weeks overruling be glad about something, and be frightened about the same thing, in the same breath, in the same voice, in front of thirty people, and both of the halves were correct, and he had spent the whole of the sixth week of the rain season working out that being right in a room and being useful in a room are two different products.
+Owen Rusk stood at the end of the long table in a ward hall and listened to a woman he had spent six weeks overruling be glad about something, and be frightened about the same thing, in the same breath, in the same voice, in front of thirty people, and both of the halves were correct, and he had been wrong about the first one for a month and had spent four days learning the difference.
 
 He had been right about the circular. He had said, in a stairwell, on a Sunday, that a document in the right room is the only thing in this city that cannot be quietly corrected.
 

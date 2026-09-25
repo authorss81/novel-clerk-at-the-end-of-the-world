@@ -82,7 +82,7 @@ Then there was a sixth line under the fifth, in the same hand, and it was not pa
 
 It was correct.
 
-Owen Rusk stood in a public waiting hall in Docketford and went through it clause by clause, the way he had gone through two hundred and twenty-four words in this building a fortnight ago, looking for the thing that was false, and he did not find it, and it took him about a minute and a half, and there were seven people in the hall by then and two of them were reading over his shoulder.
+Owen Rusk stood in a public waiting hall in Docketford and went through it clause by clause, the way he had gone through two hundred and twenty-four words in this building three weeks ago, looking for the thing that was false, and he did not find it, and it took him about a minute and a half, and there were seven people in the hall by then and two of them were reading over his shoulder.
 
 It was correct because a disposition genuinely is a decision. It was correct because a decision genuinely is entered with initials and a date. It was correct because this office genuinely does not keep a column of reasons, and genuinely is not required by anything in force in this district to keep one, and Owen had spent a fortnight in the record room two floors below the counters and had read the Schedule of Instruments in Force with his own eyes and there was nothing in it about reasons. And it was correct, and it was complete, and it was the whole of the Office's position, stated in five clauses, on one sheet, in ninety seconds of a careful man's morning.
 
@@ -126,7 +126,7 @@ Pell found him at the door at about half past ten with her coat still on.
 
 "I have understood that since about a third past nine this morning and I have had two hundred sheets of copying to think about it in."
 
-"Then here is the one thing I did not tell you on the thirty-third, and it is one thing and it is short." She looked back at the table, which had nine people around it and was going to have fifteen by noon. "There is a **schedule of duties** in the district office. It is on the board by the second counter. Anybody may read it, it is not a secret, and nobody reads it, because it is a list of what the building does to itself and a building is not interested in that. The name I told you about is on it, in a column, against a duty."
+"Then here is the one thing I did not tell you on the thirty-third, and it is one thing and it is short." She looked back at the table, which had nine people around it and was going to have fifteen by noon. "There is a **schedule of duties** in the district office. It is on the board by the second counter. Anybody may read it, it is not a secret, and nobody reads it, because it is a list of what the building does to itself and a building is not interested in that. The person I told you about is on it, in a column, against a duty."
 
 "And I am not going to go and read it."
 

@@ -90,15 +90,15 @@ Marguerite Bray came in at twenty-five past ten. She had walked, and it was rain
 
 It took nine minutes.
 
-She was asked for the matter number and gave it. She was asked for the subject and gave it in her own words and did not read it from anything. She was asked for the term and said she did not know what a term was and wanted to know, and the clerk explained it, and she wrote it down on the back of her hand, and then rubbed it out, and asked for it again, and wrote it in the box. She was asked for the week asked for, and she said the last week of the present rain season, in the week beginning the twenty-second and ending the twenty-eighth, and the clerk wrote it in, and stopped.
+She was asked for the matter number and gave it. She was asked for the subject and gave it in her own words and did not read it from anything. She was asked for the term and said she did not know what a term was and wanted to know, and the clerk explained it, and she wrote it down on the back of her hand, and then rubbed it out, and asked for it again, and wrote it in the box. She was asked for the week asked for, and she said the last week of the present rain season, in the week beginning the fifty-seventh and ending the sixty-third, and the clerk wrote it in, and stopped.
 
 "That is a week," he said. "Nobody in this building has ever written a week in that box."
 
 "Then it is a first," said Marguerite Bray.
 
-"**It is entered.**" The clerk stamped it, and squared it, and gave her the counterfoil, and then did the thing that a good clerk does and told her what it meant before she left the counter. "Madam, listen to me once, because you have walked into this building four times in your life and I would like this one to be a different one. It is entered. It is not granted. Entering is a clerk writing a line in a book under a day, and a clerk can be asked to strike it, and it costs nobody anything to strike it, and if you want it kept you have to be looked at. And the docket takes what you asked for unless somebody objects in writing within the period, and the period is a period of days and not a week, and I cannot tell you how many because it is not my column. And if nobody objects, then what you have is *a claim to be heard on a named week*, and the day itself is still somebody else's to pick, and the hour, and whether it happens in the rain in a building with a leaking roof in the last week of a season nobody has fixed the end of."
+"**It is entered.**" The clerk stamped it, and squared it, and gave her the counterfoil, and then did the thing that a good clerk does and told her what it meant before she left the counter. "Madam, listen to me once, because you have been in this building four times before today and I would like this one to be a different one. It is entered. It is not granted. Entering is a clerk writing a line in a book under a day, and a clerk can be asked to strike it, and it costs nobody anything to strike it, and if you want it kept you have to be looked at. And the docket takes what you asked for unless somebody objects in writing within the period, and the period is a period of days and not a week, and I cannot tell you how many because it is not my column. And if nobody objects, then what you have is *a claim to be heard on a named week*, and the day itself is still somebody else's to pick, and the hour, and whether it happens in the rain in a building with a leaking roof in the last week of a season nobody has fixed the end of."
 
-"I have been in this building four times in my life," said Marguerite Bray, "and I have been told on each occasion that a thing is not what I wanted. I would like it written on my copy that you told me before I left the counter rather than after, because on the twelfth of the month I had to ask somebody to read a receipt clause into plain words and it took me four times."
+"I have been in this building five times in my life," said Marguerite Bray, "and I have been told on each occasion that a thing is not what I wanted. I would like it written on my copy that you told me before I left the counter rather than after, because on the twelfth of the month I had to ask somebody to read a receipt clause into plain words and it took me four times."
 
 The clerk wrote it on the counterfoil, and initialled it, and gave it to her.
 
@@ -116,7 +116,7 @@ The clerk wrote it on the counterfoil, and initialled it, and gave it to her.
 
 Owen Rusk was at the end of the hall and then he was in the rain outside and then he was on a step, and the copy came out of the press and came down the stair in about four minutes, and it had a stamp on it, and the docket number was on it, and under the docket number the clerk on the seal stair had written out in the small print what the entry had done, and Owen stood on the step of the Glass Stair in the rain and read it in the ordinary way because he had learned in a month that the small print is where everything is.
 
-*Petition 487-GS-19. Application for a hearing entered by M. Bray, steward, in her own name and in her own words, this day. A week asked for: the fourth to the tenth day of the coming month, being a week and not a period. An objection may be made by any person or class of persons within the stated period. No date is fixed. No hour is fixed. No sitting is appointed.*
+*Petition 487-GS-19. Application for a hearing entered by M. Bray, steward, in her own name and in her own words, this day. A week asked for: the fifty-seventh to the sixty-third day, being a week and not a period. An objection may be made by any person or class of persons within the stated period. No date is fixed. No hour is fixed. No sitting is appointed.*
 
 No date. No hour. No sitting.
 
@@ -142,7 +142,7 @@ Arbour Kitchen at half past four on the Tuesday afternoon had six people in it a
 
 "You have come to tell me something that is in a queue by Wednesday morning," she said.
 
-"An application for a hearing was entered at eleven twenty-five this morning in the steward's name, in her own words, asking for a week and not a period."
+"An application for a hearing was entered at about half past ten this morning in the steward's name, in her own words, asking for a week and not a period."
 
 "And you were standing at the end of the hall."
 

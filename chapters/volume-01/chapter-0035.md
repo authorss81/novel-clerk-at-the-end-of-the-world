@@ -54,13 +54,13 @@ He put all four of the things he had on the table at once, and Ada Rusk looked a
 
 "Mr Rusk. You have just told thirty people that you know something. Stand up and say the rest of it, or sit down and say nothing, and if you sit down and say nothing then I am going to make you stand up and say the rest of it in about four minutes, and it is going to be worse, because by then I will have had time to think about it."
 
-"I wrote it in my book at a quarter past four this afternoon," said Owen Rusk, "in four lines, and there is nobody in this room I would rather read it for me than me, and that is the answer to the question I was asked in this room a fortnight ago, and I would like somebody to write down that I answered it that way."
+"I wrote it in my book at a quarter past four this afternoon," said Owen Rusk, "in four lines, and there is nobody in this room I would rather read it for me than me, and that is the answer to the question I was asked in this room a week ago, and I would like somebody to write down that I answered it that way."
 
 He put his hand on the page.
 
 "It says: *Alder Row — 461. A district return was made out for that place in the intake year 486, in the same month as the transfer, and was brought to this ward's door, and this ward was asked to witness it, and this ward refused. It was taken two miles upriver and received for intake as a number in a column, in the same unbroken column as the transfer, four weeks after the transfer. The office that received it did not examine it. It has never been examined. The drawer is shut and I did not go near it. I am writing this as a filing and not as a mystery and I do not know what it is yet.*"
 
-"That is four sentences too many," said Ada Rusk, "and you read them all in the same voice, and you did not do the thing I stopped you doing at twenty-four people in this room a fortnight ago, which is to choose."
+"That is four sentences too many," said Ada Rusk, "and you read them all in the same voice, and you did not do the thing I stopped you doing at twenty-four people in this room last Wednesday, which is to choose."
 
 "I read them word for word."
 
@@ -140,4 +140,4 @@ The index card said *never opened*, and the drawer said the same thing in a diff
 
 The door in Lower Lock was not on the card. The refusal was not on the card. A man of about fifty at a ward hall door at eight in the evening in the wet, saying that his name was his own, was not on the card and was not on any card anywhere in this city and never would be, and that was the second frightening thing of the day, and it was worse than the first, and he had not said it out loud in the hall because a hall of thirty people is not a place to say the second one in.
 
-At the bottom of the hill the standpipe was running and the granary said two weeks and the crossing was shut and the sixteen were still sixteen and the return came up the next morning and a woman in the hall had asked for nothing in six weeks except a sheet of her own hours, and a woman at a door a year and a bit ago had asked for two signatures and got a correct answer and a piece of paper back.
+At the bottom of the hill the lamp in the room at the back of the ward hall was still on, and the pump book said a fortnight and a bit, and the return came up the next morning, and a woman in that hall had asked for nothing in six weeks except a sheet of her own hours, and a man had stood at her door in the wet a year and a bit ago and asked her to sign that she had seen him, and she had said no, and it was correct, and he had carried the paper two miles upriver and put it on a table that takes things, and it was in a drawer in this city with a number on the outside of it and a card behind saying *never opened* in a hand that wanted whoever came after to understand that it was a decision and not a failure of filing.

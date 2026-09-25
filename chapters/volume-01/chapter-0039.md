@@ -8,7 +8,7 @@ Marguerite Bray wrote it in the pump book on the page where the figure lives, in
 
 It came out at **just over two weeks**.
 
-Two weeks and a bit had been the figure on the Thursday, and the difference between that and what was on the board on the Monday was a sixth of a bin and about three days, and nobody said anything about that at all, and Owen Rusk stood at the end of the long table with a folder of nothing under his arm and understood that this was the second time in nine days that a number in a pump book had fallen by an amount that nobody would have called a fall.
+Two weeks and a bit had been the figure on the Thursday, and the difference between that and what was on the board on the Monday was a sixth of a bin and about three days, and nobody said anything about that at all, and Owen Rusk stood at the end of the long table with a folder of nothing under his arm and understood that this was the second time in four days that a number in a pump book had fallen by an amount that nobody would have called a fall.
 
 "Nobody has asked me this," said Marguerite Bray, to the room, not to him, "and I am writing it down because if nobody asks me I will forget it in a month and then it will be a week and a bit, and I have been keeping this book for thirty-six years and the only thing I have ever been asked for by anybody in that building is a thing to be got out of it."
 
@@ -16,7 +16,7 @@ Two weeks and a bit had been the figure on the Thursday, and the difference betw
 
 They worked on the three documents on the Monday and the Tuesday, and the working was not writing. That is the part of it that nobody in Docketford has any way of understanding: four hours a day for two days, twenty-odd people in a hall, and not one of them at a desk.
 
-The three were: the **schedule of performed acts**, which is what the Council asked for; the **ward's statement in the petition**, which is what the hearing is about; and the ward's **answer to the three questions the Council asked**, which is a document nobody has ever had to write and which the ward could not have written a fortnight ago.
+The three were: the **schedule of performed acts**, which is what the Council asked for; the **ward's statement in the petition**, which is what the hearing is about; and the ward's **answer to the three questions the Council asked**, which is a document nobody has ever had to write and which the ward could not have written a month ago.
 
 And on the Monday morning, at about eleven, before anybody had done anything, Ada Rusk stood at the end of the long table and stopped the room, and said the thing that the whole of the sixth week of the rain season turns on, and she said it without raising her voice, and about twenty-two people were in the hall and heard all of it.
 
@@ -58,17 +58,17 @@ She said it standing at the end of the table and then she wrote it in, because s
 
 Marguerite Bray wrote it in the delivery book and read it back and made her put the word *ungrateful* in a different pencil because Ada had said it in a different voice.
 
-And the ward's answer to the Council's third question was the thing that made about nine people in the hall laugh on the Tuesday afternoon, in a room with no light in it, at eleven in the morning, which was not a thing Owen had expected to hear in six weeks.
+And the ward's answer to the Council's third question was the thing that made about nine people in the hall laugh on the Tuesday morning, in a room with the door shut, at about eleven, which was not a thing Owen had expected to hear in six weeks.
 
 "The Council asks the disposition forms used by the district office in the quarter, and the number of times each was used," Ada Rusk said. "We have got three."
 
 "Three," said somebody.
 
-"We have got three and we have kept them, and Mrs Bray has got two of them in a drawer behind a flyleaf where she has kept everything anybody has ever sent her for thirty-six years, and one of them is nailed to a post at the end of a path in letters big enough to read at forty feet, and one of them came back." She held up a sheet. "Three refusals in the same form from a county sub-table, one load notice under an engineer's finding, one rate notice that came back. Six documents, in six weeks, in a ward of two hundred and forty people, and every one of them is a thing somebody was told, and not one of them says why."
+"We have got three and we have kept them, and Mrs Bray has got two of them in a drawer behind a flyleaf where she has kept everything anybody has ever sent her for thirty-six years, and one of them is nailed to a post at the end of a path in letters big enough to read at forty feet, and there are two more in the same drawer and neither of the two is a disposition." She held up a sheet. "Three refusals in the same form from a county sub-table, one load notice under an engineer's finding, one rate notice that came back through the post in ten days. Five documents, in six weeks, in a ward of two hundred and forty people, and every one of them is a thing somebody was told, and not one of them says why."
 
 She put it down on the table.
 
-"And here is the line the district is going to send with them: *The district holds three. A district office in this county has held a hundred and nine in one quarter. The district does not know the reasons for the six it has seen. The district has asked seven questions in its own hall, one at a time, of persons who may be affected, and has not been answered, and records the office's position that a sub-table's refusals are not refusals of that office, and does not accept that position, and does not ask the Council to overrule it.*"
+"And here is the line the district is going to send with them: *The district holds three. A district office in this county has held a hundred and nine in one quarter. The district does not know the reasons for the five it has seen. The district has asked seven questions in its own hall, one at a time, of persons who may be affected, and has not been answered, and records the office's position that a sub-table's refusals are not refusals of that office, and does not accept that position, and does not ask the Council to overrule it.*"
 
 "Why don't we ask the Council to overrule it?" said Bram Tillet, from the wall, where he had been sitting for two days doing nothing and saying four sentences.
 
@@ -98,13 +98,13 @@ Nobody said anything. The stove ticked.
 
 "Thank you," said Marguerite Bray, and wrote it in the delivery book with the day and the hour under it, and read back what she had written, which was the number and not the answer, because an answer is not a fact about a ward and a number is, and she has known that since she was twenty-five.
 
-Then she said: "That is the first. There are six and I will ask them the same way and the same room, and anybody who wants to be here for one of them is welcome and anybody who does not is not obliged to be, and I am not going to chase anybody, and I would be obliged if nobody repeats what has been said in this room tonight to anybody in that building, and I am not able to prevent it and I am asking."
+Then she said: "That is the first. There are six and I will ask them the same way and the same room, and anybody who wants to be here for one of them is welcome and anybody who does not is not obliged to be, and I am not going to chase anybody, and I would be obliged if nobody repeats what has been said in this room this morning to anybody in that building, and I am not able to prevent it and I am asking."
 
 Twenty-six people said nothing, which Owen Rusk understood, standing at the end of the table, to be the whole of the answer.
 
 ---
 
-They filed it on the Tuesday afternoon, and the filing was a physical act in a hall and it took eleven minutes and there was no Registry in it at all.
+They filed it on the Tuesday afternoon, and the filing was a physical act in a hall and it took about nine minutes and there was no Registry in it at all.
 
 It is the ward's own roster, which is a sheet with a heading and columns under the heading, with a covering page added at the front. The covering page has four things on it: the name of the work, the interval, the two observers' names in their own hands, and a withdrawal right in Ada Rusk's capitals that says a person may take their own branch out of this schedule and the rest of it does not fall over, and that the schedule is performed whether the return does or not.
 
@@ -124,7 +124,7 @@ He got about four lines in and Marguerite Bray stopped him, because he had said 
 
 "I got it wrong."
 
-"You got it wrong the way you got the stranger's sentence wrong a fortnight ago, and I have stopped you twice now for the same fault and I am going to stop you twice more before this year is out." She let him go on. "From the top of that page again."
+"You got it wrong the way you got the stranger's sentence wrong the other week, and I have stopped you twice now for the same fault and I am going to stop you twice more before this year is out." She let him go on. "From the top of that page again."
 
 He got to the second page about a minute later and Marguerite Bray stopped him again, and this one was worse, because he had read *any person not of the district and not of this office may read this schedule* as *any person may read this schedule*, and the difference between those two is the whole of the third term Ada Rusk negotiated in a hall on the thirty-first of the month, and if it goes out wrong then a person who lives in this ward and is not in this schedule would have the right to read it, and one of those people is a woman who sold seed for forty-one years and is the reason three streets of this ward can still say their own names.
 
@@ -142,4 +142,4 @@ The pump grant was not restored. The crossing was not open. The sixteen were sti
 
 And on the Tuesday afternoon, in a hall in Lower Lock, in the ward's own book, in the ward's own words, a district had handed a document to the capital.
 
-And the thing Owen Rusk felt about it, at his own table, at about half past ten at night on the forty-ninth day of the month, was relief, and it was the wrong thing to feel about a ward's day, and it was the correct thing to feel about his own, and it was relief because for six weeks the whole of what he had been able to do was carry, and on the Tuesday afternoon in a hall in Lower Lock he had been handed a bundle and told he was the covering, and there was not one word in it in his hand.
+And the thing Owen Rusk felt about it, at his own table, at about half past ten at night on the fiftieth day of the month, was relief, and it was the wrong thing to feel about a ward's day, and it was the correct thing to feel about his own, and it was relief because for six weeks the whole of what he had been able to do was carry, and on the Tuesday afternoon in a hall in Lower Lock he had been handed a bundle and told he was the covering, and there was not one word in it in his hand.

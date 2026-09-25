@@ -1,8 +1,8 @@
 # Chapter 37 — Answer in Public
 
-The hall was fuller on the eighth day of a sheet than it had been on the first, and Owen Rusk had learned that this is not a thing a person arranges.
+The hall was fuller on the fourteenth day of a sheet than it had been on the first, and Owen Rusk had learned that this is not a thing a person arranges.
 
-On the first day a man read the sheet and went away. On the third, two people read it together. By the eighth there was a queue that anybody arriving at the Glass Stair counter walked into without meaning to, and about a third of the people in it came to the counter for something else, and stayed about four minutes longer than they meant to, and there was a habit forming of pointing.
+On the first day a man read the sheet and went away. On the third, two people read it together. By the fourteenth there was a queue that anybody arriving at the Glass Stair counter walked into without meaning to, and about a third of the people in it came to the counter for something else, and stayed about four minutes longer than they meant to, and there was a habit forming of pointing.
 
 He came in at half past ten on the Saturday morning of the forty-seventh day and stood at the table for about two minutes and then did the thing he had decided on the Thursday in a hall with thirty people in it, which was to stand at the side of it rather than behind it, and to say nothing to anybody who came to read it, and to let the queue find him.
 
@@ -56,7 +56,7 @@ Nobody said anything, and then the woman of about fifty at the back said: "Say t
 
 "Aye."
 
-"Because the wage is not funded," said Owen Rusk. "That is the whole of it. Four households and a man of fifty-eight and a girl of twelve are carrying water at four in the morning off a standpipe, and their names are on a roster in a hall in Lower Lock, and any person may read it, and I have been in that hall six weeks. And they are not being paid, and being on the sheet does not pay them, and being read by a stranger does not pay them, and the whole of what that hall has done this month is make a set of unpaid hours legible in a flood year. And you cannot be checked for a thing you are not paid for, and you cannot be examined for it either, and a district that is not paid for its duty is a district nobody can be obliged to do anything, and that is a sentence about this city and not about the Registry."
+"Because the wage is not funded," said Owen Rusk. "That is the whole of it. Four households and a man of fifty-eight are on a standpipe rota at four in the morning, and one of those four households has a girl of twelve in it, and their names are on a roster in a hall in Lower Lock, and any person may read it, and I have been in that hall six weeks. And they are not being paid, and being on the sheet does not pay them, and being read by a stranger does not pay them, and the whole of what that hall has done this month is make a set of unpaid hours legible in a flood year. And you cannot be checked for a thing you are not paid for, and you cannot be examined for it either, and a district that is not paid for its duty is a district nobody can be obliged to do anything, and that is a sentence about this city and not about the Registry."
 
 He stopped.
 
@@ -72,7 +72,7 @@ He stopped.
 
 "Which news?"
 
-"The one where a man put a thing on a table in here." The woman stood up. She was about fifty and she had a basket and she had come in on the Saturday morning to do something else entirely. "You've been standing next to that table eight days."
+"The one where a man put a thing on a table in here." The woman stood up. She was about fifty and she had a basket and she had come in on the Saturday morning to do something else entirely. "You've been standing next to that table a fortnight."
 
 "Since the thirty-third," said Owen Rusk.
 
@@ -88,7 +88,7 @@ Pell came in at about half past twelve, on a Saturday, in a wet coat, and stood 
 
 "Go on."
 
-"First. Read the first five clauses against the answer you got at the counter a week ago." She put her finger in the air about a foot from the paper. "Word for word. Same order. Same sheet, with a sixth clause and a line at the foot added by hand on Wednesday, and a different signature at the bottom, and the same five clauses in the same order in the same words as the one that came down on the forty-th in the same building to the same table. I have been in this Office three months and I have read about nine of these this quarter and that is not a coincidence, Rusk, that is a *form*. The thing that answered your comparison is a form with your sheet's date typed into the top of it. It went out on the Wednesday, before your district office request for the schedule had even reached the ward, which means it was written on the Tuesday, which means it was written on the Tuesday because somebody upstairs knew on the Monday that you were going to go on asking."
+"First. Read the first five clauses against the answer you got at the counter a week ago." She put her finger in the air about a foot from the paper. "Word for word. Same order. Same sheet, with a sixth clause and a line at the foot added by hand on Wednesday, and a different signature at the bottom, and the same five clauses in the same order in the same words as the one that came down on the forty-th in the same building to the same table. I have been in this Office three months and I have read about nine of these this quarter and that is not a coincidence, Rusk, that is a *form*. The thing that answered your comparison is a form with your sheet's date typed into the top of it. It was written before the district office had even asked the ward for its schedule, and it went out on the Wednesday, which means somebody upstairs knew on the Monday that you were going to go on asking, and that is the whole of what a form is."
 
 "And the name on the schedule of duties maintains the form."
 

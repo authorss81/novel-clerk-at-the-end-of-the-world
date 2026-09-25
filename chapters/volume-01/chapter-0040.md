@@ -30,7 +30,7 @@ He put the docket number on the counter and she had it open before he had finish
 
 "I did not think you did not." She looked up. "Mr Rusk, I am going to tell you the whole of what I am about to do before I do it, because you are a co-petitioner and you are about ten minutes away from an argument that it is not mine to do, and I would like to save you the argument.
 
-"The date is mine. Not yours, not the Deputy Registrar's, not the Council's. It is mine because I am the clerk of this docket and a day is chosen by whoever is at this table, and I choose it, and my initials go in the box at the bottom, and the box says the name of the officer who fixed the day. And I want you to sit with that for about four seconds before you say anything, because in about nine weeks somebody is going to come to this counter and ask me why the hearing of this matter was on that day and not on another one, and I will be able to answer, because it will be in the book, and it will be a day and not a season and not a period and not a week. And when they ask me, I will tell them a clerk chose it, in a room, out of a list of rooms, with two objections in front of her. And I will not be able to tell them what else was in the room that morning, and neither will you, and that is the price of the box and it is mine and not yours."
+"The date is mine. Not yours, not the Deputy Registrar's, not the Council's. It is mine because I am the clerk of this docket and a day is chosen by whoever is at this table, and I choose it, and my initials go in the box at the bottom, and the box says the name of the officer who fixed the day. And I want you to sit with that for about four seconds before you say anything, because in about four weeks somebody is going to come to this counter and ask me why the hearing of this matter was on that day and not on another one, and I will be able to answer, because it will be in the book, and it will be a day and not a season and not a period and not a week. And when they ask me, I will tell them a clerk chose it, in a room, out of a list of rooms, with two objections in front of her. And I will not be able to tell them what else was in the room that morning, and neither will you, and that is the price of the box and it is mine and not yours."
 
 Owen Rusk stood at a counter in a public appeal hall and understood, in about four seconds, that he had spent six weeks arguing that a date nobody can compute cannot be appealed against, and that he had been entirely right, and that he was now standing on the other side of a counter waiting for somebody to choose a day in front of him.
 
@@ -38,27 +38,27 @@ Owen Rusk stood at a counter in a public appeal hall and understood, in about fo
 
 She wrote for about two minutes and then she read it back to him before she initialled it, which is not procedure either.
 
-"The petition of Marguerite Bray, steward, entered the forty-third day of this month, asking for a hearing in the week of the twenty-second to the twenty-eighth. Two objections are on the file. The district office objects to the week and states five days on which it will sit. The district objects to the subject and asks that the hearing be confined. The date is fixed within the week asked for. Any party may object to the date within four days of this entry. The date is the twenty-fourth day of this month at ten of the clock in the morning, at this hall, in the long room, on petition 487-GS-19. **Stability Order 114 of the twenty-fourth day of the month last is set before it on the same docket and is to be heard on the same day and is not merged with it.**"
+"The petition of Marguerite Bray, steward, entered the forty-third day of this month, asking for a hearing in the week of the fifty-seventh to the sixty-third. Two objections are on the file. The district office objects to the week and states five days on which it will sit. The district objects to the subject and asks that the hearing be confined. The date is fixed within the week asked for. Any party may object to the date within four days of this entry. The date is the fifty-ninth day of this month at ten of the clock in the morning, at this hall, in the long room, on petition 487-GS-19. **Stability Order 114 of the twenty-fourth day of this month is set before it on the same docket and is to be heard on the same day and is not merged with it.**"
 
 He read the last line twice.
 
 "You have put the order on the docket."
 
-"The order is before this hearing by its own terms, Mr Rusk. The office asked for a hearing, and an appeal lies to this hall on application, and nobody applied for nine weeks, and I am not going to set a hearing on a petition and leave a signed order of a Deputy Registrar sitting in a drawer on another page of the same book." She squared the sheet. "And I am not merging them. They are two matters on one docket and they will be heard in one room on one day and they are two things, and the distinction will be the first thing said from that chair, and if anybody in the room confuses them I will stop them, because in a year somebody will read a transcript and think a ward's return and a solvency instrument were argued together, and they were not."
+"The order is before this hearing by its own terms, Mr Rusk. The office asked for a hearing, and an appeal lies to this hall on application, and nobody applied for four weeks, and I am not going to set a hearing on a petition and leave a signed order of a Deputy Registrar sitting in a drawer on another page of the same book." She squared the sheet. "And I am not merging them. They are two matters on one docket and they will be heard in one room on one day and they are two things, and the distinction will be the first thing said from that chair, and if anybody in the room confuses them I will stop them, because in a year somebody will read a transcript and think a ward's return and a solvency instrument were argued together, and they were not."
 
 "How long has the order been on the docket?"
 
-"Since the twenty-fifth of the month last. It is on a public docket. It is a matter with a number. It has been waiting for somebody with standing to ask, which is not a thing this hall can do and not a thing a clerk in the receiving office can do." She initialled the box. "And the application was made by the steward of the ward, in her own name, in her own words, on the Tuesday, and that is why there is a date, and if you had made it in the first week there would have been nothing on this table in nine weeks but a sheet of paper by a door."
+"Since the twenty-fifth of the month. It is on a public docket. It is a matter with a number. It has been waiting for somebody with standing to ask, which is not a thing this hall can do and not a thing a clerk in the receiving office can do." She initialled the box. "And the application was made by the steward of the ward, in her own name, in her own words, on the Tuesday, and that is why there is a date, and if you had made it in the first week there would have been nothing on this table now but a sheet of paper by a door."
 
 ---
 
 He walked back up the hill in the rain at half past three on the Wednesday afternoon and worked out the rest of it on the way, in pieces, the way he did everything now.
 
-The date was real. That was the first thing and it was almost a physical sensation, in the legs, the way a thing is when it has been a category for a month and then is a day. The twenty-fourth of the month, at ten in the morning, in the long room, at the Glass Stair, two miles and a river from a hall with a stove in it.
+The date was real. That was the first thing and it was almost a physical sensation, in the legs, the way a thing is when it has been a category for a month and then is a day. The fifty-ninth of the month, at ten in the morning, in the long room, at the Glass Stair, two miles and a river from a hall with a stove in it.
 
 The second thing was that a day can be wrong.
 
-A day in the last week of a season nobody has fixed the end of could not be missed and could not be wrong, and he had said that out loud in a hall in the third week of the month and had been listened to and had not been thanked. A day can be wrong. It can be rained out, it can be got wrong by a clerk choosing badly out of a list of rooms, it can be objected to in four days by a party who has a better one, and if it is got wrong then a district that has performed every Thursday for six weeks and a hundred and forty of whose hours are on a public roster will be standing in a hall in Docketford on a day when half of them cannot leave the ward because somebody chose the twenty-fourth out of a list.
+A day in the last week of a season nobody has fixed the end of could not be missed and could not be wrong, and he had said that out loud in a hall in the third week of the month and had been listened to and had not been thanked. A day can be wrong. It can be rained out, it can be got wrong by a clerk choosing badly out of a list of rooms, it can be objected to in four days by a party who has a better one, and if it is got wrong then a district that has performed every Thursday for six weeks and a hundred and forty of whose hours are on a public roster will be standing in a hall in Docketford on a day when half of them cannot leave the ward because somebody chose the fifty-ninth out of a list.
 
 And that was the price of it, and it was a price and not a fault, and Owen Rusk had spent six weeks insisting that a date nobody could compute was a wall, and had got his wall, and had discovered standing on the other side of it that the wall is what stops the date from being anybody's fault.
 
@@ -76,13 +76,13 @@ The ward was owed a receipt and had gone and got a hearing, and the hearing was 
 
 ---
 
-The Thursday was the ward's, and it went the way a Thursday goes, and Owen Rusk was in it and had nothing to do in it, and that is the best sentence in this chapter.
+The Thursday was the ward's, and it went the way a Thursday goes, and Owen Rusk was in it and had nothing to do in it.
 
 The marker went in at seven forty with three on the top path and two at the path end. The pump was primed at four and took. The channel was clear on the Wednesday night and the bar had not come back. The granary count was done in the bins on the Wednesday night and the write-up was the Thursday afternoon, two hours and ten minutes, and the figure on the board when it came out was **just over two weeks** for the second time running, and Marguerite Bray ruled the day under it, and nobody said anything about that either.
 
 The roster was read in public in the ward hall at ten past six in the evening, and Ada Rusk read it, and she read all of it including the standpipe rota and the four names on it and the man of fifty-eight, and when she came to the end she said:
 
-"And that is this week, and it is the same as last week, and it will be the same next week whatever anybody in Docketford decides about us on the twenty-fourth."
+"And that is this week, and it is the same as last week, and it will be the same next week whatever anybody in Docketford decides about us on the fifty-ninth."
 
 And then she read out the schedule.
 
@@ -90,31 +90,31 @@ She read all of it. She read the covering page and the four weeks of hours and t
 
 And at the back she came to the four blank pages and stopped.
 
-"Four pages," she said. "Four names, in Mrs Bray's hand, at the top of them, and nothing on any of them. They go to a Council in Concord Hall like that. Mr Tillet said no on Friday and gave his reason and the reason is in the book with the day on it. The three of us have had two days and we have not written on ours and nobody has chased us and nobody is going to."
+"Four pages," she said. "Four names, in Mrs Bray's hand, at the top of them, and nothing on any of them. They go to a Council in Concord Hall like that. Mr Tillet said no on Friday and gave his reason and the reason is in the book with the day on it. The three of us have had six days and we have not written on ours and nobody has chased us and nobody is going to."
 
 Nobody stood up in the hall.
 
-"Say something," Ada Rusk said. "Any of you. You have got two hundred and forty people in front of you and a hearing in eight days and four pages with your names on them, and if you would rather say it out loud than write it down then say it out loud, and Mrs Bray will rule it exactly and I will not argue with it."
+"Say something," Ada Rusk said. "Any of you. You have got two hundred and forty people in front of you and a hearing in a week and four pages with your names on them, and if you would rather say it out loud than write it down then say it out loud, and Mrs Bray will rule it exactly and I will not argue with it."
 
 And Wenna Sarr, from the wall by the door, with her basket at her feet, said:
 
 "The hearing is on what day."
 
-"The twenty-fourth," said Ada Rusk. "At ten in the morning, at the Glass Stair, in the long room, and it was fixed on Wednesday by a clerk with a list of rooms, and her initials are in the box, and she chose it, and she will be asked about it in a year and she will be able to answer."
+"The fifty-ninth," said Ada Rusk. "At ten in the morning, at the Glass Stair, in the long room, and it was fixed on Wednesday by a clerk with a list of rooms, and her initials are in the box, and she chose it, and she will be asked about it in a year and she will be able to answer."
 
 "Show me the day."
 
 Marguerite Bray turned the delivery book round and put it on the long table with the book open at the second column and the pencil on it and the day and the hour already ruled, and she had ruled it at about nine that morning while the marker was going in, because she is a woman who rules the day and the hour of everything, and Ada Rusk had asked her to on Friday night in front of twenty-two people, and she had said yes without a word.
 
-*Twenty-fourth day of this month. Hearing, Glass Stair, long room, ten of the clock. Fixed by the clerk of the docket and not by this ward.*
+*Fifty-ninth day of this month. Hearing, Glass Stair, long room, ten of the clock. Fixed by the clerk of the docket and not by this ward.*
 
 Wenna Sarr read it twice.
 
-"Twenty-fourth," she said. "The twenty-fourth is a Thursday."
+"Fifty-ninth," she said. "The fifty-ninth is a Thursday."
 
 Nobody had thought of that.
 
-Nobody in a hall in Lower Lock had thought of that for eight days, and Owen Rusk had done the arithmetic twice on a lane in the rain and had got it right, and Ada Rusk had read a date off a stub at the top of the hill and had written it in a letter without stopping, and it was a Thursday, and a Thursday is the day the marker goes in at seven forty and the pump is primed at four in the morning and the granary count is written up in the afternoon and the roster is read at ten past six in the evening, and it is the day the ward has performed every Thursday for six weeks, and it is the only day of the week on which anybody in this ward can be shown to have done anything at all.
+Nobody in a hall in Lower Lock had thought of that at any point in the nine days since the steward ruled the hour on her application, and Owen Rusk had done the arithmetic twice on a lane in the rain and had got it right, and Ada Rusk had read a date off a stub at the top of the hill and had written it in a letter without stopping, and it was a Thursday, and a Thursday is the day the marker goes in at seven forty and the pump is primed at four in the morning and the granary count is written up in the afternoon and the roster is read at ten past six in the evening, and it is the day the ward has performed every Thursday for six weeks, and it is the only day of the week on which anybody in this ward can be shown to have done anything at all.
 
 "That is the clerk's doing," said Ada Rusk, looking at the book.
 
@@ -138,17 +138,17 @@ She said *she* and Owen Rusk understood that she meant the woman at Coal Hill, a
 
 ---
 
-On the Friday morning of the fifty-third day of the month the order went on the docket.
+On the Friday morning of the fifty-third day of the month the file was made up.
 
-That is a phrase with nothing behind it — a piece of paper goes into a book and a number goes in a margin — and it took four minutes, and what made it matter was not the four minutes.
+The order had been on the docket since the twenty-fifth and had been set before the hearing since the Wednesday, and neither of those things was news, and the making-up of a file is a phrase with nothing behind it — a piece of paper goes into a folder and a number goes in a margin, and it took four minutes, and what made it matter was not the four minutes.
 
-Stability Order 114 of the twenty-fourth day of the month last, signed under the Deputy Registrar's solvency authority of Docketford, on sixteen named district returns of the quarter, Lower Lock sixth, suspending them together: on the docket of petition 487-GS-19, **set before the hearing on the same day, to be heard on the same day, and not merged with it**, with the district's schedule of performed acts attached to the file, and the sixteen names on it, and the sixteen were still sixteen.
+What was new on the Friday was the folder. Stability Order 114 of the twenty-fourth day of this month, signed under the Deputy Registrar's solvency authority of Docketford, on sixteen named district returns of the quarter, Lower Lock sixth, suspending them together, and the ward's own **schedule of performed acts** going in behind it, and the sixteen names on a sheet at the front of it, and the sixteen were still sixteen.
 
 Sixteen wards that had lost the same thing on the same afternoon for the same reason, and Ada Rusk had read the names out loud from the back of a countersignature slip in front of thirty people in the third week of the month, and every one of the sixteen was on a public docket, and one of them was Coal Hill, and there was a woman on a stone stair keeping a tide table who had just been asked to stand at the far end of a route in a hearing about one of the sixteen.
 
 Owen Rusk stood in the docket room while a woman of about forty wrote two lines and squared the paper and said, without any particular weight:
 
-"It is on. It has been on since the twenty-fifth and it is now before a date. The order is still an order and it suspends them and it is not merged with the hearing and it is going to be argued in that room by people and not by a clerk, because there is no such thing as a clerk arguing an order of a Deputy Registrar and anybody who tells you there is has been sold something." She looked up. "Are you going to enter yourself on this matter?"
+"It is on. It has been on since the twenty-fifth and it is now before a date, and the folder is made up, and the schedule you carried up on Wednesday is in it, which means that on Thursday a person from this hall is going to hand a Deputy Registrar's order to a clerk and a ward's own paper to the same clerk, and that is a Friday in a room and not a catastrophe." She looked up. "The order is still an order and it suspends them and it is not merged with the hearing and it is going to be argued in that room by people and not by a clerk, because there is no such thing as a clerk arguing an order of a Deputy Registrar and anybody who tells you there is has been sold something." She looked up again. "Are you going to enter yourself on this matter?"
 
 "I am a co-petitioner."
 
@@ -158,7 +158,7 @@ Owen Rusk stood in the docket room while a woman of about forty wrote two lines 
 
 "Then you enter as a co-petitioner and an assisting clerk, and there is a line on the form for it, and it is the only line on the form that is asking you anything, and it is asking you to describe yourself, and describing yourself is free, and nearly nobody in this building has ever done it." She turned the form round. "And do not describe yourself as anything with a seal in it."
 
-He entered himself and signed the entry box and nothing else, because there was nothing else on the card to sign, and the card was in the drawer where it lives, and the four forbidden lines were on it where they have been since the third week of the month, and the hearing is on the twenty-fourth and he will be in that room as a thing with a name on a line, and not as anything else, for as long as this thing runs.
+He entered himself and signed the entry box and nothing else, because there was nothing else on the card to sign, and the card was in the drawer where it lives, and the four forbidden lines were on it where they have been since the third week of the month, and the hearing is on the fifty-ninth and he will be in that room as a thing with a name on a line, and not as anything else, for as long as this thing runs.
 
 Then the return came up.
 
@@ -170,7 +170,7 @@ Nobody in that room said anything about the day of the hearing. It was on the do
 
 He got in at about ten that night and did not do the arithmetic, and he had a very good reason for not doing the arithmetic, which is that for the first time in six weeks he had got a thing he had wanted and it had turned out to be **boring**.
 
-A date is a date. The twenty-fourth of the month, at ten in the morning, in the long room, at the Glass Stair. It could be objected to in four days and it would not be. It is a day and it can be wrong and there is a clerk with initials in a box who chose it, and that is the whole of the machinery, and there is no more to find out about it tonight and probably none for a week.
+A date is a date. The fifty-ninth of the month, at ten in the morning, in the long room, at the Glass Stair. It could be objected to in four days and it would not be. It is a day and it can be wrong and there is a clerk with initials in a box who chose it, and that is the whole of the machinery, and there is no more to find out about it tonight and probably none for a week.
 
 And the only thing in him that responded to any of it was the fear.
 
@@ -178,15 +178,15 @@ It came up at about half past ten, sitting at the table with the plate on it and
 
 He sat with it for about a minute. He knew it well enough to be bored of it. And then he worked out, at about a quarter to eleven at night on the fifty-third day of the month of a rain season in Concord Year 487, that he would not trade the boring for it. Not the date, not the Thursday, not the four days in which anybody in the city could object to a day chosen by a clerk out of a list of rooms. He had been offered, in the last ten seconds of his thinking, the old fear back, on the ordinary terms, and it had cost him nothing to refuse it, and the reason it had cost him nothing was that the six weeks had bought him something and he had not been told what the purchase was until the thing arrived free.
 
-The pump grant was not restored. The crossing was closed to loads. The abutment was four thousand one hundred and sixty pounds and unfunded, and a notice at the weir path still invites any district that can do the job better to come and do the job. The crew's wage was four months in arrears and was written on a page of a ward's delivery book in two hands as the condition of agreeing to be read in public, and it was not funded. The granary said just over two weeks. Four households and a man of fifty-eight and a girl of twelve were on a standpipe rota in the dark. The sixteen were still sixteen and their order was on a docket with a date against it now, and the order was still an order.
+The pump grant was not restored. The crossing was closed to loads. The abutment was four thousand one hundred and sixty pounds and unfunded, and a notice at the weir path still invites any district that can do the job better to come and do the job. The crew's wage was four months in arrears and was written on a page of a ward's delivery book in two hands as the condition of agreeing to be read in public, and it was not funded. The granary said just over two weeks. Four households and a man of fifty-eight were on a standpipe rota in the dark, and one of those four households has a girl of twelve in it. The sixteen were still sixteen and their order was on a docket with a date against it now, and the order was still an order.
 
 The four dissenters held four blank pages with their names at the top of them, and three of them had not answered, and one of them had said no with his reason recorded, and all four of them were named in a document that was going to a Council in Concord Hall.
 
 The route had a name at the far end of it, conditionally, in a letter that had gone into the ward's own bag from the hall door on a Thursday afternoon, and if the woman at Coal Hill said no then the route was a piece of paper with an address on it again, and nobody would have to be told twice.
 
-And on the twenty-fourth of the month, at ten in the morning, in the long room, at the Glass Stair, in the last week of a rain season that has not ended, with the river up and the ward two weeks from the end of what it has to eat, there is going to be a hearing, and it is going to be argued by people: by a woman of sixty-one with a delivery book she has kept for thirty-six years, by a bridge mechanic who is one of the four who said no and is not a branch of the return, by a woman from a landing who keeps a tide table and is not an officer of anything, by a man of fifty-eight who is not on any roll in this city, and by eight people who have been on a standpipe in the dark for four months and have not been paid a shilling of it.
+And on the fifty-ninth of the month, at ten in the morning, in the long room, at the Glass Stair, in the last week of a rain season that has not ended, with the river up and the ward two weeks from the end of what it has to eat, there is going to be a hearing, and it is going to be argued by people: by a woman of sixty-one with a delivery book she has kept for thirty-six years, by a bridge mechanic who is one of the four who said no and is not a branch of the return, by a woman from a landing who keeps a tide table and is not an officer of anything, by a man of fifty-eight who is not on any roll in this city, and by the four households on the standpipe rota, who have carried water in the dark for four months and have not been paid a shilling of it.
 
-Owen Rusk sat at his own table and understood that he was not going to be useful in the room on the twenty-fourth in the way he had been useful for six weeks.
+Owen Rusk sat at his own table and understood that he was not going to be useful in the room on the fifty-ninth in the way he had been useful for six weeks.
 
 He was going to carry a bundle up a stair. He was going to read a document aloud in an ordinary voice, with his hand on the page, and to be stopped twice. He was going to witness a thing and not to draft a word of it. He was going to sit at a counter and describe himself as a co-petitioner and an assisting clerk, in a line, in a form, free, and correctly.
 

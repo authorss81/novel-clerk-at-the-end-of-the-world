@@ -166,7 +166,7 @@ Ada Rusk read it twice. She read it the way she read everything, which was slowl
 
 She put her own sheet on the table. It was in her capitals, and it was four lines, and there was no number in it at all.
 
-"**This ward was asked to lose its standing once, in a flood year, so that a bank could be cleared, and the bank was cleared. It is being asked a second time, in a form, by an office, and it is going to be asked a third time in a week by a man who has never been in this ward. Every time it is asked, the answer is the same, and the answer is always that somebody else clears the ground. This ward has stopped clearing ground. The four houses on Fetter Lane are on the standpipe at four in the morning and the crew's wage is four months in arrears and the crossing is shut to loads and the repair is four thousand one hundred and sixty pounds and unfunded, and that is what this ward is doing while the office asks it to do the fourth thing.**"
+"**This ward was asked to lose its standing once, in a flood year, so that a bank could be cleared, and the bank was cleared. It is being asked a second time, in a form, by an office, and it is going to be asked a third time, by an office, in a room, by a man who has never been in this ward. Every time it is asked, the answer is the same, and the answer is always that somebody else clears the ground. This ward has stopped clearing ground. The four houses on Fetter Lane are on the standpipe at four in the morning and the crew's wage is four months in arrears and the crossing is shut to loads and the repair is four thousand one hundred and sixty pounds and unfunded, and that is what this ward is doing while the office asks it to do the fourth thing.**"
 
 Nobody said anything for a moment, and the stove ticked.
 

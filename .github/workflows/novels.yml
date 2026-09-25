@@ -25,6 +25,7 @@ concurrency:
 env:
   OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
   GH_TOKEN: ${{ github.token }}
+  DISABLE_DIRECT_DISPATCH: "1"
   NOVEL_MODEL: opencode/space-bunny-free
   NOVEL_FALLBACK_MODELS: opencode/muse-spark-1.3-contributor-free,opencode/muse-spark-1.2-contributor-free,opencode/nemotron-3-ultra-free,opencode/nemotron-3.5-lightning-free,opencode/mimo-v2.6-flash-free,opencode/ling-3.0-flash-fin-free
 
@@ -86,3 +87,41 @@ jobs:
         run: opencode models | tee logs/models.log
       - name: Run next novel batch
         run: bash scripts/novel_runner.sh
+
+  retrigger:
+    needs: run-batch
+    if: ${{ always() && needs.run-batch.result != 'cancelled' && needs.run-batch.result != 'skipped' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check for incomplete phase
+        id: phase
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          tree="$(gh api "repos/${GITHUB_REPOSITORY}/git/trees/HEAD?recursive=1" --jq '.tree[].path')"
+          exists=false
+          while IFS= read -r prompt; do
+            [ -n "$prompt" ] || continue
+            phase_dir="${prompt%/PROMPT.md}"
+            if ! grep -qxF "$phase_dir/.done" <<< "$tree" && ! grep -qxF "$phase_dir/.blocked" <<< "$tree"; then
+              exists=true
+              break
+            fi
+          done < <(printf '%s\n' "$tree" | grep -E '^workspace/(phase-|volume-).+/PROMPT\.md$' || true)
+          echo "exists=$exists" >> "$GITHUB_OUTPUT"
+      - name: Re-dispatch next tick
+        if: steps.phase.outputs.exists == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          sleep 30
+          gh api -X POST \
+            -H "Accept: application/vnd.github+json" \
+            "repos/${GITHUB_REPOSITORY}/dispatches" \
+            -f event_type=novel_tick \
+            -f "client_payload[phase]=auto" \
+            -f "client_payload[reason]=retrigger" \
+            -f "client_payload[run_id]=${{ github.run_id }}"

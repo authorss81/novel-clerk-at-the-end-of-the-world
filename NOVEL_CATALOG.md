@@ -240,7 +240,7 @@ A marine salvage diver discovers that a drowned city contains transparent ships 
 
 **Length:** 740 chapters, 15 volumes of approximately 50 chapters.
 
-A records clerk discovers that the world ends whenever nobody completes the final government form. The apocalypse is bureaucratic, but the paperwork creates real monsters, closed roads, and altered memories.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, the world loses its supported future. The apocalypse is bureaucratic, but the paperwork creates real monsters, closed roads, and altered memories.
 
 **Power:** Record correction, procedural magic, classification, appeals.
 

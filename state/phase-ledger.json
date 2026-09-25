@@ -5,11 +5,11 @@
   "phases": [
     {
       "id": "phase-000-bootstrap",
-      "status": "planned",
+      "status": "running",
       "fallbackUsed": false,
       "range": null,
-      "attempts": 0,
-      "actualModel": null
+      "attempts": 1,
+      "actualModel": "opencode/space-bunny-free"
     }
   ]
 }

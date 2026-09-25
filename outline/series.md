@@ -7,11 +7,11 @@
 - **Volume count:** 15
 - **Protagonist:** Owen Rusk
 - **Romance:** One slow-burn relationship with Nell Arbour
-- **Final ruling:** Owen can make the central seal accept a coercive, apparently complete Form Zero by accepting a power no human being should hold. He refuses and lets the civilization complete a valid Common Return through its own returns.
+- **Final ruling:** Owen can combine Lound’s temporary institutional proxy authority with his community-selected transmission role to make the central seal accept a coercive, apparently complete Form Zero. He refuses the representative act and lets the civilization complete a valid, bounded Common Return through its own returns.
 
 ## One-Sentence Premise
 
-A records clerk discovers that reality ends whenever nobody completes the final government form, then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, reality loses its supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
 
 ## External and Internal Architecture
 
@@ -51,7 +51,7 @@ Form Zero was never intended to require one final representative. Its original d
 
 The Provisional Registry replaced this rule with an administratively convenient “one representative” model because local proof was slower, politically difficult, and incompatible with centralized rule. Chancellor Verity Lound later revived the old Assumption Plan as a safety valve. That plan can force a superficially complete form, but it destroys the refusal rights that make the return legitimate.
 
-Owen can inherit the “authorized representative” box because his own root claim was jointly sponsored by eight unrelated people rather than claimed by one household. His capacity is therefore a history of shared support, not a secret royal right. The distinction matters: the same fact that lets him hold the aggregate filing also requires him never to claim the people inside it.
+Owen can be tempted to inherit the “authorized representative” box because his own root claim was jointly sponsored by eight unrelated people rather than claimed by one household. This is a knowingly invalid technical possibility, not a lawful right or a secret royal inheritance. His capacity is a history of shared support, and the same fact that lets him hold the aggregate filing requires him never to claim the people inside it.
 
 The Blanking resulted from human centralization of fragile local proof. The world’s final law is intended to prevent that failure from recurring, not because paperwork is morally magic but because reciprocal public acts are part of how Vespera’s facts remain supported.
 
@@ -59,11 +59,11 @@ The Blanking resulted from human centralization of fragile local proof. The worl
 
 ### Final External Conflict
 
-At Civic Zero, the valid Common Return and Chancellor Verity Lound’s coercive Assumption return are transmitted at the same time. Lound’s filing claims to represent every absent, disabled, displaced, or unreachable person and offers immediate centralized stability. The old seal can accept it as a temporary emergency hold, but it is not a valid completion. Owen must invalidate the false return, protect the stored communities it conceals, and receive enough genuinely independent returns to activate Form Zero before the Provisional Mandate collapses.
+At Civic Zero, the valid Common Return and Chancellor Verity Lound’s coercive Assumption return are transmitted at the same time. Lound alone holds the institutional authority to invoke the Assumption Clause for every unfiled district while the Provisional Mandate is alive. Her filing claims to represent every absent, disabled, displaced, or unreachable person and offers immediate centralized stability. The old seal can accept it as a temporary emergency hold, but it is not a valid completion. Owen, chosen by participating communities only as a Custodian, must receive and transmit independently authorized returns, protect the stored communities the Assumption conceals, and help activate Form Zero without signing for anyone.
 
 ### Final Internal Choice
 
-Owen may sign as the sole custodian and make the Assumption return appear complete through a proxy. He refuses. He relinquishes the “authorized representative” line, accepts the risk that no single person will control the result, and helps assemble a valid return made from thousands of voluntary local acts.
+Owen may accept a role that would let him sign as the sole representative and make the Assumption return appear complete through a proxy. He refuses the representative act, not the work of receiving the aggregate. He relinquishes the “authorized representative” line, accepts the risk that no single person will control the result, and helps assemble a valid return made from thousands of voluntary local acts within a bounded, publicly recorded network.
 
 ### Final Emotional Answer
 
@@ -79,6 +79,7 @@ Owen’s need is not to be indispensable. It is to be part of a world where care
 - The Blanking archive is reopened, but lost people are recorded as lost rather than replaced with convenient versions.
 - A number of emergency holds fail permanently. The ending acknowledges irreversible loss and does not restore every person.
 - Ordinary recordkeeping continues. The result is a shared system, not the disappearance of forms.
+- The new order records the boundary of the final civic network and keeps an open route for hidden or unresolved Free Counter branches. Unrepresented communities are never silently absorbed into a household or representative claim; some remain a permanent cost.
 
 ## Major Antagonist Ladder
 
@@ -167,7 +168,7 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 - **Major turn:** A local inspection proves the missing names are not a clerical typo; a withdrawal order is deliberately isolating Lower Lock. Owen also finds his mother’s delayed status amendment in the same redacted batch, proving that a corrected record cannot give back the care or time the Office delayed.
 - **Midpoint reversal:** The ward can be saved only if the Registry acknowledges a local return it has spent years treating as nonbinding.
 - **Escalation:** Owen, Ada, and Nell’s neighborhood networks collect physical proof, confront flood conditions, and test the limits of a suspension.
-- **Climax:** Owen certifies a narrow Lower Lock return and a temporary crossing hold, forcing the official order into public appeal.
+- **Climax:** Owen certifies a narrow Lower Lock return and a temporary crossing hold. The hold preserves the legal crossing status and the appeal window only; it does not make the unsafe Ninth Weir safe, funded, repaired, or usable. The official order is forced into public appeal.
 - **Concrete resolution:** Lower Lock remains inhabited, Pike loses control of the file, Owen obtains an amended record for his mother without pretending it erases the past, and Owen becomes a Sealed Witness.
 - **New question:** Why does the Registry’s sealed archive contain a return from a neighborhood that officially ceased to exist?
 - **Power position:** Stage 0 to Stage 1.
@@ -191,9 +192,9 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 - **Central pressure:** The Upland Commons will not send a return unless the Registry accepts their rotating household proof and internal appeal process.
 - **Starting state:** Owen is an examiner whose license is tied to Docketford.
 - **Major turn:** Marr’s Commons has quietly maintained a valid local record for decades, proving Form Zero is not waiting for one national filing.
-- **Midpoint reversal:** A Upland household is expelled for refusing communal duty, showing that shared responsibility can become coercion.
+- **Midpoint reversal:** A Upland household refuses a compulsory duty, and the Commons threatens to exclude it from shared stores. Owen forces a temporary separate branch and keeps the household in the district, but the underlying right to leave is unsettled.
 - **Escalation:** Harvest logistics, local discipline, Owen’s attempts to translate two filing traditions, and Ansel Rive’s pressure on the Registry.
-- **Climax:** The Commons files a valid district return after protecting the dissenter’s right to leave, but agrees to a public audit of its duties.
+- **Climax:** The Commons files a valid district return after recording the dissenter’s separate branch and accepting a limited public audit of its duties. No one is expelled in this volume, but Marr still faces the political cost of letting that branch remain.
 - **Concrete resolution:** Local proof becomes legally arguable, not universally accepted; Owen earns the trust of a noncentral community.
 - **New question:** How many other communities are maintaining records the Registry never recognized?
 - **Power position:** Stage 2.
@@ -248,33 +249,33 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 - **Climax:** Owen and Nell use multiple independent returns to open the archive without destroying it. The original refusal clause is recovered.
 - **Concrete resolution:** The central mystery is substantially answered: Form Zero was designed against proxy authority. The missing problem is political, not magical.
 - **New question:** Will the Provisional Council accept a form that makes its own emergency rule unnecessary?
-- **Power position:** Stage 4 to Stage 5.
+- **Power position:** Stage 4. A provisional regional mandate foreshadows the Regional Steward qualification, but he has not accepted the office or its authority.
 - **Relationship position:** Owen discloses his origin and the cost of his ability. Nell chooses partnership without claiming to understand or own him.
 
 ### Volume 8 — The Provisional Year (Chapters 351–400, C.Y. 495)
 
 - **Central pressure:** Chancellor Lound’s Assumption campaign offers a simple way to avoid a gap, while independent returns are divided by faction.
-- **Starting state:** Owen is a Regional Steward with enough power to challenge policy and enough visibility to be used as a symbol.
+- **Starting state:** Owen is a Case Architect with a provisional regional mandate, enough power to challenge policy and enough visibility to be used as a symbol. Lound offers him a formal Regional Steward appointment, which he has not yet accepted.
 - **Major turn:** The Assumption Plan is not a hidden coup: it is the only proposal that has prevented several immediate collapses, and Lound has saved real lives with it.
-- **Midpoint reversal:** Owen accepts a Regional Steward appointment to secure a protected return route and unintentionally becomes the public face of a return hierarchy.
+- **Midpoint reversal:** Owen accepts the Regional Steward appointment to secure a protected return route and unintentionally becomes the public face of a return hierarchy.
 - **Escalation:** Civic meetings, local refusal, Censor defections, Sallow’s financial network, and Ada’s independent Lower Lock negotiations.
 - **Climax:** Owen refuses to endorse the hierarchy, releases the routes under his control, and loses his privileged appointment.
 - **Concrete resolution:** A broad coalition forms around voluntary returns, but it is too weak to guarantee every community’s consent.
 - **New question:** Can a coalition of people who distrust each other complete a form that requires trust without obedience?
-- **Power position:** Stage 5.
+- **Power position:** Stage 4 at the opening; Stage 5 is only a provisional appointment during the midpoint, and it ends when Owen refuses the hierarchy and loses the office.
 - **Relationship position:** Owen and Nell become engaged and define a boundary against making their relationship a political model.
 
 ### Volume 9 — Ten Thousand Tables (Chapters 401–450, C.Y. 496)
 
 - **Central pressure:** Independent communities need to turn local practices into interoperable Common Tables before the Assumption vote becomes irreversible.
-- **Starting state:** Owen has authority but no reliable network; each local group has its own vocabulary and fear.
-- **Major turn:** The Upland Commons, Free Counters, Docketford wards, and independent clinics can interoperate only if each retains the right to reject the aggregate.
+- **Starting state:** Owen has authority but no reliable network; each local group has its own vocabulary and fear. He no longer holds the Regional Steward office and carries only the learned qualification from that brief appointment.
+- **Major turn:** The Upland Commons, Free Counters, Docketford wards, and independent clinics can interoperate only if each retains the right to reject the aggregate. Junia Pell coordinates the independent clerks who make those translations work and publishes a correction without Owen’s approval.
 - **Midpoint reversal:** A successful table in one region produces a false positive that nearly validates a coerced return elsewhere.
-- **Escalation:** Training clerks, resolving local withdrawals, trade disputes, and Nell’s work with claimant groups.
-- **Climax:** Owen convenes a network of tables that can transmit disagreements as well as seals.
-- **Concrete resolution:** A large number of communities file valid preliminary returns, but several regions remain absent.
+- **Escalation:** Training clerks, resolving local withdrawals, trade disputes, Nell’s work with claimant groups, and Bettis Marr’s crisis when the Upland Commons excludes a household that refuses a new communal proof duty.
+- **Climax:** Owen convenes a network of tables that can transmit disagreements as well as seals. Marr makes the costly correction of letting the dissenter leave without losing access to shared stores, and the network keeps the departure on the record rather than treating it as betrayal.
+- **Concrete resolution:** A large number of communities file valid preliminary returns, but several regions remain absent. The Commons survives the crisis as a model only because Marr gives up the right to make departure a communal punishment.
 - **New question:** What happens to a person who refuses every table and still needs to remain alive?
-- **Power position:** Stage 5 to Stage 6.
+- **Power position:** Stage 5 qualification without the Regional Steward office, moving to Stage 6 through a distributed network.
 - **Relationship position:** Owen and Nell marry in Chapter 436 and discover that a shared household still requires separate authority and explicit refusal.
 
 ### Volume 10 — The Assumption (Chapters 451–500, C.Y. 497)
@@ -295,7 +296,7 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 - **Central pressure:** Communities must turn preliminary returns into final, revisable local obligations while keeping ordinary life functioning.
 - **Starting state:** The network is large but brittle; the Assumption return has a legal advantage.
 - **Major turn:** The final form is not a single vote but a set of local proofs: meals, repairs, schools, care work, and refusal rights.
-- **Midpoint reversal:** A successful Upland return exposes a Commons member’s coercion and proves that “voluntary” cannot be assumed from a public seal alone.
+- **Midpoint reversal:** A later Upland return exposes a different coerced consent inside a working commons and proves that “voluntary” cannot be assumed from a public seal alone; this is a systemic test after Marr’s Volume 9 correction, not a repeat of the household exclusion.
 - **Escalation:** Local emergency cases, seasonal travel, institutional work, and the practical cost of distributing the work.
 - **Climax:** Each major community files a final return, accepting the obligations it can actually perform.
 - **Concrete resolution:** A majority of inhabited regions are covered, but independent people, distant Free Counters, and some disabled claimants remain unresolved.
@@ -345,12 +346,12 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 ### Volume 15 — The Common Return (Chapters 693–740, C.Y. 500)
 
 - **Central pressure:** Civic Zero arrives while Lound’s Assumption return and the distributed Common Return race to become the final authority.
-- **Starting state:** Owen can complete the form by accepting the authorized-representative line. Refusing means trusting thousands of imperfect, voluntary acts.
+- **Starting state:** Owen can complete the form only by accepting the authorized-representative line. His community-selected Custodian role lets him receive and transmit returns, not sign for anyone. Refusing means trusting thousands of imperfect, voluntary acts inside a bounded, publicly recorded network.
 - **Major turn:** Lound activates the Assumption and returns begin to disappear into a single stable but coerced version.
-- **Midpoint reversal:** The first mass of independent returns fails because people believe the Aggregate requires them to agree. They withdraw, exposing the difference between a shared world and a uniform one.
+- **Midpoint reversal:** A central transmission attempt collapses the separate returns into a single uniform version of the record. Communities withdraw, a hospital chain loses a branch, and Owen must suspend transmission and record a gap rather than fill it by assumption. This consequential failure is distinct from the earlier misunderstanding about whether disagreement is allowed.
 - **Escalation:** Cached districts, road and hospital failures, local disagreement, and the irreversible loss of emergency holds that expire during the crisis.
-- **Climax:** Owen rejects the sole signature. Thousands of separate returns, including personal and refusal returns from people who reject collective authority, answer the same legal question: no person may answer for another. The aggregate activates as a valid Common Return at the final stroke. Lound’s coercive return loses the old mandate’s temporary support and collapses.
-- **Concrete resolution:** Some held communities and individuals are permanently lost, but current Vespera remains supported. Owen loses his privileged claim and cannot become a new central authority.
+- **Climax:** Owen rejects the sole signature. Thousands of separate returns, including personal and refusal returns from people who reject collective authority, answer the same legal question: no person may answer for another. The bounded aggregate activates as a valid Common Return at the final stroke. Lound’s coercive return loses the old mandate’s temporary support and collapses.
+- **Concrete resolution:** Some held communities, hidden branches, and individuals are permanently lost, but current Vespera remains supported. Owen loses his privileged claim and cannot become a new central authority; the surviving record names the network’s boundary instead of pretending it is universal.
 - **New question:** What will the new civic order do with the truth that survival was collective but uneven?
 - **Power position:** Stage 7 remains, but its final use is restraint.
 - **Relationship position:** Owen and Nell remain partners, returning to separate work and a shared life.
@@ -363,3 +364,5 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 - Do not turn the Upland Commons, Free Counters, or Registry into simple moral labels. Each must contain ordinary people, internal conflict, and successful work.
 - Do not delay every local resolution until the ending. Each volume closes its central promise and leaves a larger institutional question.
 - Do not introduce a new cosmic enemy in Volume 15. The final antagonist is Verity Lound, and the final pressure is the world’s own unsupported structure.
+- Never let a household return become a one-person proxy: adult branches consent and withdraw separately, and protective returns reserve the future refusal of children and people who cannot communicate.
+- Keep Form Zero’s completeness bounded and public. Hidden or unreachable branches are unresolved costs, not presumed consent, and the final record must show the network’s boundary.

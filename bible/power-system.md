@@ -70,7 +70,7 @@ The permanent consequence is the entry left in the public record, including diss
 - After 30 days, no supported living restoration is possible. The body or an unrecorded trace may continue in some cases, but it cannot be restored as the same recognized person; only a new community of living supporters can establish a new continuity.
 - An object can be held at its last supported condition for the same emergency period, but a held crumbling bridge does not become a new bridge.
 - A district return can be renewed if a local community assumes a defined duty and the renewal is ratified by the people affected.
-- A legal **cache** preserves the last supported record of a district, not a person’s consciousness. It can be renewed only while a living custodian, a current local act, and an appeal route continue to exist. A cache with no such support is an archive shell, not a living suspension.
+- A legal **cache** preserves the last supported record of a district, not a person’s consciousness. Its archive shell may continue to exist beyond a person-specific suspension limit while a living custodian, a current local act, and an appeal route continue to renew the shell. It never preserves consciousness, and any individual branch inside it is not restorable after the 30-day limit; an expired person branch is recorded as lost or unresolved, not carried as a recoverable person. A cache with no such support is an archive shell, not a living suspension.
 
 Deadlines prevent passive safety. A ruling always creates a new obligation before it expires.
 
@@ -86,11 +86,15 @@ No interface displays root claim as a number. Characters experience concrete eff
 
 ## 7. Personal, Protective, and Collective Returns
 
-A **personal return** is filed by one person for a defined place, relationship, or chosen household. It needs one independent living witness and one current act by the filer. A **refusal return** uses the same threshold and states that the filer declines representation while still accepting a limited set of reciprocal duties.
+A **personal return** is filed by one person for a defined place, relationship, or one-person branch. A household return is an aggregate of separately consenting adult branches: each adult performs a current act and keeps an individual withdrawal and departure right, and no adult signs for another. A household return needs one independent living witness for each branch it carries, in addition to the filer, so the two-observer threshold is met; one witness never speaks for the whole household. A **refusal return** uses the same threshold and states that the filer declines representation while still accepting a limited set of reciprocal duties.
 
 A **protective return** may be entered for a child or a person unable to communicate only when two unrelated living witnesses, a current care act, and a named local appeal route are present. It preserves the person’s status while the care situation exists; it cannot bind the person’s future consent, labor, identity, vote, or private relationships. A protective return must be reviewed every seven days.
 
 A **Common Table** may include many people and local duties. A member’s withdrawal removes that member’s branch immediately. It does not erase the table if the remaining members can replace the affected duty before the term ends. If they cannot, the table narrows its claim or expires. A community may leave the central aggregate without losing its own local return only if it files a **community refusal return** and continues the local acts named in that return. The central clerk must record the withdrawal rather than treating it as silence. If a community has no current return, refusal, or protective coverage, the aggregate must show a gap rather than fill it by assumption.
+
+### Bounded Completeness
+
+The central clerk cannot prove that every hidden person or mobile community exists. Form Zero therefore uses a bounded, public procedure rather than pretending to be a universal census. The received branch list, the boundary of the network, the public challenge notice, and the unresolved branches are all part of the record. A return may be valid within that boundary only when no proxy is used, every branch included in the aggregate is independently authorized, every other received branch is explicitly unresolved and outside the aggregate, and a live appeal route remains available. An unrecorded or unreachable branch is an explicit cost, never an assumed consent.
 
 ## 8. Jurisdiction Failure
 
@@ -208,6 +212,7 @@ Progression comes from case knowledge, voluntary trust, delegation, and the abil
 - **Capability:** Carry a compact mobile filing across regions, inspect sealed records under challenge, and maintain one district’s emergency claim while traveling.
 - **Acquisition:** A broad local network consents to hold him responsible, and he accepts at least one unresolved duty he cannot delegate.
 - **Cost:** He can be in only one district at a time. The mobile claim weakens if he is absent beyond seven days, forcing him to choose between people rather than solve both remotely.
+- **Appointment boundary:** The stage is a qualification and learned capacity. The title **Regional Steward** is a revocable local office; a qualification can remain after Owen loses that office, but it never grants continuing authority over a district.
 
 ### Stage 6 — Convene Clerk
 
@@ -217,9 +222,11 @@ Progression comes from case knowledge, voluntary trust, delegation, and the abil
 
 ### Stage 7 — Custodian of the Common Return
 
-- **Capability:** Receive every valid local return and transmit their combined status as the final filing. Before Civic Zero, he is the only living channel through which the aggregate can be delivered to the central seal. The seal can certify receipt, not consent.
-- **Acquisition:** The participating communities choose him despite having every reason not to centralize power.
+- **Capability:** Receive every valid local return within the declared bounded network and transmit their combined status as the final filing. Before Civic Zero, he is the only living channel through which the aggregate can be delivered to the central seal. The seal can certify receipt and the boundary of the claim, not consent or universal completeness.
+- **Acquisition:** The participating communities choose him despite having every reason not to centralize power. His title is a community-selected transmission role, not an office that owns the people inside the aggregate.
 - **Cost:** He can block the form but cannot complete it. Using emergency custody to replace an absent or refusing return creates a false return and causes immediate redactions in the affected region. After a valid activation, the local returns remain the source of authority and his special channel dissolves into ordinary clerk work.
+
+Lound’s authority is separate from Owen’s. Under the Assumption Clause, only the Chancellor holds the institutional power to invoke a proxy line for unfiled districts while the Provisional Mandate is alive. That line is knowingly invalid under Form Zero and can create only a temporary operational hold. Owen can receive and transmit authorized returns; he cannot sign for absent people, and he never inherits Lound’s proxy authority.
 
 Stage 7 is the narrative culmination because Owen’s final restraint is more important than his final spell.
 

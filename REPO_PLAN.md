@@ -100,7 +100,7 @@ novel-<repository>-writer
 
 Different repositories can run simultaneously. Two batches from the same repository cannot run simultaneously.
 
-The phase ledger is authoritative. It stores phase ID, status, attempts, base commit, result commit, actual model, fallback status, lease expiry, and next retry time. Marker files alone are not sufficient.
+The phase ledger is authoritative. It stores phase ID, status, attempts, base commit, result commit, actual model, fallback status, lease expiry, and next retry time. Marker files alone are not sufficient. The controller is the only authority allowed to change phase status; a writer may update story state but must leave the phase ledger untouched.
 
 ## Public Draft Issue
 

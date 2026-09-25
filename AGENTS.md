@@ -49,7 +49,7 @@ Do not load the entire manuscript into every prompt. Use rolling summaries and a
 
 Write chapters in order. Do not restart a completed chapter. If an output limit is reached, stop at a chapter boundary, save the completed chapters and state, mark the remaining batch as resumable, and continue in the next run.
 
-After the batch, update the batch summary, chapter summaries, continuity, open threads, character state, and phase ledger. Keep summaries compact and useful for the next batch. Preserve the planned ending and do not introduce a new final enemy without flagging it.
+After the batch, update the batch summary, chapter summaries, continuity, open threads, and character state. Leave `state/phase-ledger.json` to the workflow controller; only the controller may mark a phase running, deferred, done, or blocked. Keep summaries compact and useful for the next batch. Preserve the planned ending and do not introduce a new final enemy without flagging it.
 
 After completing a batch, inspect the current volume outline. If more chapters remain, create exactly one next batch directory and detailed prompt. If the volume is complete, create exactly one volume-close prompt. Do not create more than the next phase.
 

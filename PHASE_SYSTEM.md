@@ -133,6 +133,8 @@ workspace/volume-01/batch-0002
 workspace/volume-01/batch-0003
 ```
 
+The `PROMPT.md` inside a batch directory is the canonical execution prompt. A planning phase may prepare its chapter cards, but it must not also draft the batch or create a second prompt for the same chapter range.
+
 The writer reads:
 
 - `NOVEL_SPEC.md`
@@ -148,7 +150,7 @@ The writer reads:
 
 The writer does not need to read every previous chapter. The state and previous batch summaries are the long-term memory. Read the previous 20 chapters for immediate voice and continuity; extend to 30 when the model’s verified context budget safely allows it. After a batch finishes, the writer creates exactly one next-phase prompt: either the next batch or the volume-close phase. This makes self-dispatch continue without pre-creating hundreds of phase files.
 
-The writer must write 10–20 complete chapters in order, with full scenes and natural prose. It updates the chapter summaries, continuity, and open-thread files as it works.
+The writer must write 10–20 complete chapters in order, with full scenes and natural prose. It updates the chapter summaries, continuity, and open-thread files as it works. It must not edit `state/phase-ledger.json`; the controller alone claims, defers, completes, or blocks a phase.
 
 If the model output limit is reached, the phase must stop at a chapter boundary, commit the completed chapters and state, mark the remaining batch as resumable, and continue in the next run. It must never restart completed chapters.
 
@@ -164,7 +166,7 @@ After every batch:
 - Check that no chapter introduced an unapproved canon change.
 - Review prose quality and continuity.
 - Apply necessary fixes.
-- Update the phase ledger and batch summary.
+- Update the phase ledger and batch summary. The ledger update is a controller action recorded after the writer/reviewer/fix pass, not a writer instruction.
 
 ### Volume audit
 
@@ -184,7 +186,7 @@ A volume audit is a separate phase. It must not attempt to rewrite the entire vo
 
 After a successful batch phase, the workflow sends at most one new `repository_dispatch` event for the same novel.
 
-The selector chooses one explicit next batch by reading `state/phase-ledger.json`, not by scanning hundreds of marker files.
+The selector reads `state/phase-ledger.json` first and uses the workspace prompt/marker scan only to locate the named phase directory and recover a planning handoff. A phase marked done in the ledger is not selected again.
 
 A phase is identified by:
 

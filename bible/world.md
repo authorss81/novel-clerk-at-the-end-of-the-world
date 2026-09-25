@@ -60,16 +60,20 @@ The new Provisional Mandate created the **Registry of Continuant Works** and mad
 
 **Form Zero: The Common Return** was drafted in C.Y. 9. It is not a request for one ruler to remain in power. Its purpose is to end emergency rule and return authority to the people and communities who will be governed.
 
-A valid completion requires:
+A valid completion uses a **bounded completeness procedure**, not an impossible universal census. The form's duty is to offer a return to every functioning community and person who can be reached or who chooses to enter the civic network; it may never treat an unreachable place or a silent person as consenting.
 
-- A return from every functioning community. “Functioning” means that a place currently has a supported physical act, identifiable people, and a local way to contest or leave; central recognition is not required. A community that declines central transmission files a community refusal return rather than being assigned a representative.
-- A personal return, a refusal return, or a protective return for every person who does not belong to such a community. A person may refuse every collective authority and still file a return saying so.
-- A guarantee that no person, office, or sovereign may consent on another person’s behalf.
-- A custody plan for children, disabled people, displaced people, and anyone unable to complete a return themselves. Protective custody may act for immediate care but must preserve the person’s future right to refuse.
-- Public acceptance of duties as well as rights.
-- A public record of dissent, withdrawal, and the specific duty a community will perform before its return expires.
+Before final activation, the central clerk must:
 
-The central clerk may assemble the separate returns and transmit their aggregate, but cannot invent assent, fill absent returns, or convert a local refusal into permission. A local member may withdraw without taking the rest of the community with them, provided the remaining return either replaces that member’s duty or narrows its scope. The central seal can confirm that an aggregate arrived; it cannot turn arrival into consent.
+1. Publish the received branch list and a public challenge notice through Registry offices, ward meetings, river post, and recognized courier routes. The notice states that silence, absence, and an unreachable place are not consent.
+2. Classify each community or person presented to the network as an authorized branch—a local return, personal or refusal return, protective return, or community refusal—or as an explicitly unresolved branch. A household return is a set of separately consenting adult branches, each with an individual withdrawal and departure right; no adult signs for another.
+3. Receive confirmation from two independent local witness networks, each including at least one witness who did not carry the return, that no authorized branch inside the declared network has been knowingly omitted. This confirms the network's record; it does not prove the existence of every hidden person.
+4. Record the boundary of the network, every unresolved branch, and a live appeal route that remains open after activation. An unresolved branch is never filled by a proxy. It remains outside the aggregate and keeps whatever local support it can maintain.
+
+Protective coverage for children, disabled people, displaced people, and anyone unable to answer must be recorded as immediate care with a named custodian and appeal route. It is never a transfer of the person’s future consent, labor, identity, or vote.
+
+At the final stroke, a valid Common Return can activate when every branch included in the aggregate has an independently authorized return, refusal, or protective status; every other received branch is explicitly unresolved and outside the aggregate; no proxy is used; and the challenge and appeal routes remain open. The central seal records receipt and the boundary of the claim, not universal knowledge. A hidden Free Counter that never reaches the network is a final cost: it may keep itself supported, be lost, or later file without being claimed by the old order.
+
+This bounded procedure preserves the no-proxy rule while acknowledging that the Registry cannot safely inspect every person or mobile community. It does not turn silence into a return, make a central clerk omniscient, or assign a speaker to a community that refuses the aggregate.
 
 Form Zero may be assembled and reviewed before the deadline. It becomes the governing Common Return only at the last stroke of C.Y. 500, when the Provisional Mandate expires. Until that instant, a coercive emergency return can produce a temporary operational hold under the old mandate, but it is not a valid completion and cannot remain the final authority.
 

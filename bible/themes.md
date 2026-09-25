@@ -105,7 +105,7 @@ Mentorship is a relationship of power. Owen’s break with Ansel is not caused o
 
 The planned ending succeeds only if:
 
-1. Owen could make the central seal accept a coercive, apparently complete Form Zero by himself and chooses not to.
+1. Owen could combine Lound’s institutional proxy authority with his own transmission role to make the central seal accept a coercive, apparently complete Form Zero, and chooses not to.
 2. People can still refuse him and one another without being erased.
 3. The final form contains work established across many volumes.
 4. The result is less tidy than a single heroic solution but more humane than centralized survival.

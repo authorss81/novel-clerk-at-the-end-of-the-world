@@ -35,7 +35,7 @@ This makes his adult talent for holding voluntary common claims possible, but it
 
 ### Central Arc
 
-Owen begins by preserving the Registry’s authority because he believes accurate administration is safer than chaos. He repeatedly refuses help, lies to Nell to protect a plan, and treats family loyalty as permission to overrule Ada. Mid-series, his methods become indistinguishable from the officials he hates. He loses Nell’s trust, endangered an ally, and accepts a regional office he initially sees as proof that he has become powerful enough to fix the system.
+Owen begins by preserving the Registry’s authority because he believes accurate administration is safer than chaos. He repeatedly refuses help, lies to Nell to protect a plan, and treats family loyalty as permission to overrule Ada. Mid-series, his methods become indistinguishable from the officials he hates. He loses Nell’s trust, endangered an ally, and accepts a provisional regional office he initially sees as proof that he has become powerful enough to fix the system.
 
 His final work is the opposite of self-sufficiency. He learns to delegate, publish mistakes, accept limits, and make a plan that remains usable when he is wrong. At Civic Zero, his greatest act is refusing the authority to answer for all.
 
@@ -138,7 +138,7 @@ Sallow is the series’ clearest personal villain, but defeating him does not so
 - **Want:** Prevent Civic Zero from destroying Vespera and keep authority accountable to one clear decision-maker
 - **Belief:** A frightened civilization should prefer a ruler who can say yes, no, and take responsibility to a web of communities that may all refuse at the last moment
 - **Flaw:** Her desire for accountable leadership becomes indistinguishable from permanent government
-- **Method:** Revives the **Assumption Plan**: under a global emergency, the Chancellor may sign for absent, incapacitated, or unreachable people. It would make the old central seal accept a false completion of Form Zero while destroying its refusal rights.
+- **Method:** Revives the **Assumption Plan**: under a global emergency, the Chancellor may sign for absent, incapacitated, or unreachable people. This is Lound’s institutional authority, distinct from Owen’s community-selected transmission role. It would make the old central seal accept a knowingly invalid false completion of Form Zero, while the expiring mandate supplies only a temporary operational hold; it would also destroy refusal rights.
 
 Lound is not secretly manipulating the apocalypse. She believes the apocalypse, wants to prevent it, and is willing to make all private consent revocable to do so. Her record shows competent emergency decisions and decisions that harmed people for decades. She is Owen’s ideological mirror: both believe a final accountable person may be necessary; Owen eventually learns to act without that certainty.
 
@@ -153,7 +153,9 @@ Lound is present from Volume 1 as a remote institutional authority and becomes t
 - **Want:** Become a competent public servant without becoming a custodian of other people’s lives
 - **Function:** She is faster, more willing to change procedure, and more willing to challenge Owen. Her development prevents Owen’s mentorship from becoming another version of institutional control.
 
-Pell refuses advancement when offered a post that would make her Owen’s deputy and later proves capable of running a decentralized clerk network. She remains a working clerk in the aftermath.
+Pell’s first resistance appears in the opening volume: she refuses to copy Owen’s shortcut attestation, asks who consented to the ward’s inclusion, and accepts a lesser assignment rather than protect him from a bad decision. In Volume 9 she coordinates the independent clerks who translate local procedures into interoperable Common Tables, publishing corrections without Owen’s approval. Her milestone proves she is not waiting for permission to become an institutional successor.
+
+Pell refuses advancement when offered a post that would make her Owen’s deputy. In the aftermath she becomes the first rotating clerk-coordinator of the decentralized Registry network, chosen by local offices rather than appointed by Owen. She can publish refusals, coordinate standards, and open a review route, but she cannot represent a community that has not asked her. She remains a working clerk as well as a public successor figure.
 
 ---
 
@@ -181,7 +183,7 @@ Reed proves that a community can intentionally leave an old record and establish
 
 ## Core Relationship Map
 
-- **Owen–Nell:** Professional opposition → earned trust → romance → rupture over secrecy → changed partnership → stable marriage or equivalent household.
+- **Owen–Nell:** Professional opposition → earned trust → romance → rupture over secrecy → changed partnership → chosen marriage with separate authority and an explicit right to refuse each other’s cases.
 - **Owen–Ada:** Protective inequality → forced independence → sibling alliance based on equal competence.
 - **Owen–Ansel:** Mentor bond → institutional manipulation → painful but non-murderous break.
 - **Owen–Lound:** Idealized authority → ideological mirror → final contest over whether one answer may serve for all.
@@ -198,3 +200,4 @@ Reed proves that a community can intentionally leave an old record and establish
 - **Iven Sallow:** Alive, imprisoned, and subject to restitution.
 - **Verity Lound:** Alive, removed from office, monitored by a public body she cannot command.
 - **Halden Pike:** Alive; required to participate in the registry of contested closures he once approved.
+- **Junia Pell:** Alive and independent of Owen; the first rotating clerk-coordinator of the decentralized Registry network, with no authority to represent a community that has not asked her.

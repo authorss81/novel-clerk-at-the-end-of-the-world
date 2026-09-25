@@ -6,7 +6,7 @@ Use these forms consistently. Capitalize formal records, institutions, and named
 
 ### **A.C. / Concord Year**
 
-**A.C.** means **After Concord**, the official calendar counting from the year after the Blanking. The novel begins in **C.Y. 487** and ends at the end of **C.Y. 500**.
+**A.C.** means **After Concord**, the official calendar counting from the year after the Blanking. It is a calendar abbreviation, not a political faction or a second era of the world. The novel begins in **C.Y. 487** and ends at the end of **C.Y. 500**.
 
 Use **A.C.** only in older inscriptions if a scene requires historical flavor. Ordinary narration should prefer **Concord Year 487** or **C.Y. 487**.
 
@@ -38,9 +38,13 @@ Form Zero is not “the final form” in every sentence. Use **the Common Return
 
 ### **The Common Return**
 
-The collective act by which Vespera returns governing authority to its people and communities. It can only be completed by many valid returns that preserve the right to refuse representation.
+The collective act by which Vespera returns governing authority to its people and communities. It can only be completed by many valid returns that preserve the right to refuse representation. Its completeness is bounded by a public, recorded network and an open appeal route; it is not a claim that the Registry can see every hidden person.
 
 “Return” also means a local continuance filing. Keep the context clear.
+
+### **Aggregate**
+
+The public, combined view of separately authorized returns. An aggregate includes only independently authorized branches; it records the branches received, their scopes, and their refusals or unresolved status without absorbing unresolved branches into the claim. It is not a consensus, a census of all hidden people, or a proxy claim.
 
 ### **Assumption Plan**
 
@@ -52,15 +56,15 @@ The clause used to invoke the Assumption Plan. A coerced or overbroad use is a *
 
 ### **Authorized representative**
 
-The form field asking who may legally supply a return or answer for another. A witness may still testify to an act, but a witness is not an authorized representative. The final resolution proves that no single person may truthfully fill this field for all of Vespera.
+The form field asking who may legally supply a return or answer for another. A witness may still testify to an act, but a witness is not an authorized representative. Chancellor Lound may invoke the Assumption Clause as the institutional proxy for unfiled districts while the mandate is alive; Owen’s community-selected transmission role only receives and transmits independently authorized returns. The final resolution proves that no single person may truthfully fill this field for all of Vespera.
 
 ### **No-proxy rule**
 
-The original Form Zero condition: no person or institution may supply a return, consent, or governing choice for another without that person’s meaningful right to refuse. A protective return may cover immediate care while explicitly reserving future refusal.
+The original Form Zero condition: no person or institution may supply a return, consent, or governing choice for another without that person’s meaningful right to refuse. A protective return may cover immediate care while explicitly reserving future refusal. A household return is not an exception: each adult branch consents and withdraws separately.
 
 ### **Central seal**
 
-The Provisional Registry’s mechanism for confirming that an aggregate filing arrived. It is not a judge of truth, consent, or moral legitimacy. A coercive filing can receive a temporary operational hold from the expiring mandate, but only a valid Common Return can become the final authority.
+The Provisional Registry’s mechanism for confirming that an aggregate filing arrived and recording the boundary of the received network. It is not a judge of truth, consent, moral legitimacy, or universal completeness. A coercive filing can receive a temporary operational hold from the expiring mandate, but only a valid Common Return can become the final authority.
 
 ---
 
@@ -82,7 +86,11 @@ Do not use “continuance” as a vague synonym for memory.
 
 ### **Return**
 
-A formal statement carrying a supported fact forward. Types include a household return, ward return, district return, personal return, refusal return, protective return, and local return.
+A formal statement carrying a supported fact forward. Types include a household return, ward return, district return, personal return, refusal return, protective return, and local return. A return records the acts and limits of the people who make it; it never grants a filer authority over someone who did not consent to a branch.
+
+### **Household return**
+
+A local return made up of separately consenting adult branches. Each adult keeps an individual withdrawal and departure right, and a household filer cannot sign for another adult. A child or person unable to communicate is covered only by a protective return, never by a household proxy.
 
 ### **Roll**
 
@@ -178,7 +186,7 @@ A temporary hold on one change. A suspension preserves a current status; it does
 
 ### **Personal return**
 
-A return filed by one person for a defined place, relationship, or chosen household. It requires one independent living witness and one current act by the filer.
+A return filed by one person for a defined place, relationship, or one-person branch. It requires one independent living witness in addition to the filer, so the supported fact has two living observers, and one current act by the filer. A person may belong to a household, cooperative, caravan, or neighborhood, but that membership does not turn another adult into a subject of the filer’s consent.
 
 ### **Refusal return**
 
@@ -188,13 +196,17 @@ A personal return that states the filer declines representation by a larger auth
 
 A return filed for a child or person unable to communicate, supported by two unrelated witnesses, a current care act, and a seven-day review. It protects immediate care but never binds the person’s future consent, labor, identity, vote, or private relationships.
 
+### **Marriage**
+
+Owen and Nell choose a legal marriage during Volume 9. Marriage creates a shared household and ordinary duties, not a merged filing authority. Each partner keeps separate cases, separate consent, and an explicit right to refuse the other’s work.
+
 ### **Community refusal return**
 
 A local return stating that a community declines to join a central aggregate or accept an outside representative while still naming its local duties and appeal route. It preserves local coverage without granting the central clerk authority over the community.
 
 ### **Preservation cache**
 
-A legal archive shell that preserves a district’s last supported record while local custodians and acts continue. It does not preserve consciousness and cannot exceed the person-specific 14-day suspension and 30-day restoration limits.
+A legal archive shell that preserves a district’s last supported record while local custodians, current acts, and an appeal route continue. The shell may exist beyond a person-specific 14-day suspension or 30-day restoration limit, but it never preserves consciousness and never makes an expired person branch restorable. A person inside an expired branch is recorded as lost or unresolved, not carried as recoverable.
 
 ### **Counter-sign**
 

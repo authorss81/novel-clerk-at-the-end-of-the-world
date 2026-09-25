@@ -11,7 +11,7 @@
 
 ## One-Sentence Premise
 
-A records clerk discovers that reality ends whenever nobody completes the final government form, then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, reality loses its supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
 
 ## Elevator Pitch
 
@@ -71,9 +71,9 @@ No antagonist beyond this planned ladder should become the final enemy.
 
 ## Ending Contract
 
-At Civic Zero, Owen can accept a final emergency mandate that would preserve the world but make every citizen’s consent revocable only by the office holding them in existence. That would make a coercive filing appear complete to the old central seal, but it would not be a valid Common Return. He refuses. Instead, thousands of local returns—households, farms, mutual-aid kitchens, caravans, villages, free counters, and individual solitary claimants—file independently. Their separate acts aggregate into the completed Common Return.
+At Civic Zero, Chancellor Lound can invoke a final emergency mandate that would preserve the world but make every citizen’s consent revocable only by the office holding them in existence. Owen is tempted to lend that filing the authority of his transmission role and remove himself as the only authorized representative, which would make a coercive filing appear complete to the old central seal. It would be a knowingly invalid act, not a valid Common Return. He refuses. Instead, thousands of local returns—households, farms, mutual-aid kitchens, caravans, villages, free counters, and individual solitary claimants—file independently. A household return is a set of separately consenting adult branches, not one person signing for the others. Their separate acts aggregate into the completed Common Return.
 
-The final form is completed by the civilization, not by Owen’s handwriting. His final act is to remove himself as the only authorized representative.
+The final form is completed by the civilization, not by Owen’s handwriting. Its completeness is bounded and public: the network records every branch it receives, leaves hidden or unreachable branches explicitly unresolved instead of presuming consent, and keeps an appeal route open for them. Owen’s final act is to remove himself as the only authorized representative.
 
 ## Distinctiveness
 
@@ -89,7 +89,7 @@ The novel’s signature combination is:
 
 - Do not make all lies instantly fatal. A false record creates vulnerability and consequences, not arbitrary instant death.
 - Do not let paperwork create food, repair a bridge, cure disease, or produce a witness for free.
-- Do not allow Owen to inspect the whole Ledger or receive convenient secret functions.
+- Do not allow Owen to inspect the whole Glasshall Archive index or receive convenient secret functions.
 - Do not treat people who reject the Registry as villains by default.
 - Do not make the final answer “trust the good government” or “destroy all records.” Records remain useful after the final settlement, but no one institution owns the ability to define a person.
 - Do not resurrect the permanently lost. Emergency holds can preserve a supported state, but they cannot recreate a missing consciousness.

@@ -11,7 +11,7 @@
 
 ## One-Sentence Premise
 
-A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, reality loses its supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, Vespera loses its common supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
 
 ## Elevator Pitch
 
@@ -19,7 +19,7 @@ In Docketford, a road disappears, a dead woman receives a pension, and a neighbo
 
 Owen Rusk is good at noticing discrepancies and terrible at trusting anyone else to carry them. When a flood-damaged ward is scheduled for closure, he opens the final government form everyone has been taught to ignore: **Form Zero, the Common Return**. It governs the end of the Provisional Mandate in the year 500 and appears to have no valid signature path.
 
-Owen’s cases pull him from river offices to free settlements, erased salt roads, markets that sell legal belonging, and the secret archive beneath Concord Hall. Each victory preserves a street, household, institution, or person, while exposing another layer of the central lie: the Common Return was never meant to be signed by a master. It was designed to remain uncompletable by proxy.
+Owen’s cases pull him from river offices to free settlements, erased salt roads, markets that sell legal belonging, and the secret First Seal Subvault beneath Concord Hall. Each victory preserves a street, household, institution, or person, while exposing another layer of the central lie: the Common Return was never meant to be signed by a master. It was designed to remain uncompletable by proxy.
 
 ## Central Story Question
 
@@ -48,6 +48,8 @@ The story is not about paperwork creating arbitrary wishes. It is about real act
 
 A correction can preserve a road while leaving the flood that broke it. It can identify a stolen consent while leaving the thief free. It can save a person from erasure without curing the wound or finding the person responsible.
 
+The final apocalypse is a failure of the common future, not a single blast that erases every person. Local groups can keep isolated supports alive, but without a valid Common Return they cannot reliably recognize, inherit from, trade with, or coordinate across the wider civilization. The final form must therefore be physically delivered and publicly reviewable, not summoned by a hidden power.
+
 ## Mystery Engine
 
 The public mystery is practical: who can complete Form Zero?
@@ -64,14 +66,14 @@ The ladder does not consist of increasingly powerful monsters. It escalates thro
 2. A field commander removes unstable people and calls deletion mercy.
 3. A senior reformer hides amendments because he believes only centralized truth can prevent another Blanking.
 4. A market broker turns consent into transferable property.
-5. Chancellor Verity Lound offers permanent safety under one accountable authority.
+5. Chancellor Verity Lound offers centralized safety under one accountable authority: a finite succession hold that she believes can be made permanent.
 6. The final pressure comes from the structure itself: Form Zero rewards whoever can make every person appear to have consented.
 
 No antagonist beyond this planned ladder should become the final enemy.
 
 ## Ending Contract
 
-At Civic Zero, Chancellor Lound can invoke a final emergency mandate that would preserve the world but make every citizen’s consent revocable only by the office holding them in existence. Owen is tempted to lend that filing the authority of his transmission role and remove himself as the only authorized representative, which would make a coercive filing appear complete to the old central seal. It would be a knowingly invalid act, not a valid Common Return. He refuses. Instead, thousands of local returns—households, farms, mutual-aid kitchens, caravans, villages, free counters, and individual solitary claimants—file independently. A household return is a set of separately consenting adult branches, not one person signing for the others. Their separate acts aggregate into the completed Common Return.
+At Civic Zero, Chancellor Lound can invoke the Assumption Plan to place central infrastructure under a 30-day succession hold, making every citizen’s consent revocable by the office holding the emergency machinery. She believes a centralized custodian can turn that finite hold into a permanent continuation. Owen is tempted to lend the filing the authority of his transmission role and remove himself as the only authorized representative. Lound’s institutional mark can obtain the hold by itself; Owen’s pooled mark would make the coercive filing appear structurally complete to the old central seal and make it harder to challenge, though it cannot promote the hold to a valid final return. He refuses. Instead, thousands of local returns—households, farms, mutual-aid kitchens, caravans, villages, free counters, and individual solitary claimants—file independently through the human relay chain. A household return is a set of separately consenting adult branches, not one person signing for the others. Their separate acts aggregate into the completed Common Return.
 
 The final form is completed by the civilization, not by Owen’s handwriting. Its completeness is bounded and public: the network records every branch it receives, leaves hidden or unreachable branches explicitly unresolved instead of presuming consent, and keeps an appeal route open for them. Owen’s final act is to remove himself as the only authorized representative.
 

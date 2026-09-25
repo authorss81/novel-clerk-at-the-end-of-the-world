@@ -8,6 +8,7 @@ This file is author-facing planning. It is not a list of facts already known by 
 - What did the Registry conceal about the original distributed rule, the Blanking, and the Assumption Clause?
 - How did Owen’s eight-person infancy sponsorship become a distributed root claim, and what does it cost him to use it?
 - How can a bounded completeness procedure protect a real world while honestly recording the Free Counters and other branches it cannot see?
+- How do regional return bundles and late unresolved notices behave when the final window closes, especially when Lound’s 30-day succession hold tries to make absence look like consent?
 
 ## Immediate Volume 1 Promises
 

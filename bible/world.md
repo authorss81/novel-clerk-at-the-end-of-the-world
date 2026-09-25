@@ -23,9 +23,11 @@ The official calendar begins with the **Concord Year** after the **Blanking**, t
 The novel begins in **Concord Year 487 (C.Y. 487)**. The provisional emergency government expires at the end of **C.Y. 500**, an event the Registry calls **Civic Zero**. At that moment:
 
 1. The Provisional Mandate loses legal force.
-2. Public acts that depend on that mandate for their final authorization are withdrawn together.
+2. Its shared continuation layer is withdrawn: acts that are not independently maintained lose their common recognition, while isolated local acts may continue for a time.
 3. Existing facts begin failing faster than any local registry can repair them.
-4. Vespera reaches a final instant and has no supported future.
+4. Vespera has no shared supported future. The world does not vanish in one blast; it fragments into locally supported islands whose ability to recognize and coordinate with one another collapses.
+
+The distinction matters. A family can keep a meal, a clinic can keep a ward, and a bridge crew can keep a crossing if the living acts continue. What the emergency government supplied was the **common future**: the shared temporal authority that let separate communities recognize one another’s names, inherit obligations, trade across a river, and plan beyond the next local duty. Civic Zero withdraws that common layer, not every local act at once. Without a valid Common Return, isolated supports can endure, but they cannot reliably remain one Vespera.
 
 Civic Zero is thirteen years away at the opening. The far deadline prevents nonstop panic while local closures, missing returns, and redacted wards create immediate cases. The countdown becomes politically active as the series proceeds; it is not repeatedly extended by arbitrary tricks.
 
@@ -71,13 +73,19 @@ Before final activation, the central clerk must:
 
 Protective coverage for children, disabled people, displaced people, and anyone unable to answer must be recorded as immediate care with a named custodian and appeal route. It is never a transfer of the person’s future consent, labor, identity, or vote.
 
-At the final stroke, a valid Common Return can activate when every branch included in the aggregate has an independently authorized return, refusal, or protective status; every other received branch is explicitly unresolved and outside the aggregate; no proxy is used; and the challenge and appeal routes remain open. The central seal records receipt and the boundary of the claim, not universal knowledge. A hidden Free Counter that never reaches the network is a final cost: it may keep itself supported, be lost, or later file without being claimed by the old order.
+At the final stroke, a valid Common Return can activate when every branch included in the aggregate has an independently authorized return, refusal, or protective status; every other received branch is explicitly unresolved and outside the aggregate; no proxy is used; and the challenge and appeal routes remain open. The central seal is a **ministerial actuator**, not an all-knowing judge: it checks the recorded shape of the filing—branch marks, witness confirmations, public notice, declared boundary, and the declared representative line with its supporting marks—then actuates the common future if the recorded conditions are met. It cannot prove that an absent person secretly consented, and it cannot certify universal completeness. A concealed proxy can pass a first structural check and create a temporary hold, but a supported counter-entry can expose and narrow it.
+
+A hidden Free Counter that never reaches the network is a final cost: it may keep itself supported, be lost, or later file without being claimed by the old order. A branch outside the aggregate is not presumed to support the activated network, and its absence is part of the published boundary.
 
 This bounded procedure preserves the no-proxy rule while acknowledging that the Registry cannot safely inspect every person or mobile community. It does not turn silence into a return, make a central clerk omniscient, or assign a speaker to a community that refuses the aggregate.
 
-Form Zero may be assembled and reviewed before the deadline. It becomes the governing Common Return only at the last stroke of C.Y. 500, when the Provisional Mandate expires. Until that instant, a coercive emergency return can produce a temporary operational hold under the old mandate, but it is not a valid completion and cannot remain the final authority.
+### Last-Mile Return
 
-When Civic Zero arrives without a valid Common Return, Vespera does not transfer to another realm. It loses its supported future.
+Vespera has no instant worldwide signal. The final filing travels through a human relay chain of regional clerks, couriers, semaphore stations, river post, and rail carts. A branch must be sealed, witnessed, and physically delivered to a regional receiving table before the ordinary final window closes three days before Civic Zero. After that, a branch can still arrive as an unresolved notice, but it cannot be silently folded into the final aggregate. Concord Hall’s receiving tables hold pre-positioned bundles; Owen’s Custodian role reconciles and transmits those bundles, not thoughts, remote consent, or unrestricted truth.
+
+Form Zero may be assembled and reviewed before the deadline. It becomes the governing Common Return only at the last stroke of C.Y. 500, when the Provisional Mandate expires. The Mandate’s one-time transition clause can convert an accepted coercive emergency filing into a **30-day succession hold**: it can keep central roads, hospitals, waterworks, and archive shells at their last supported status while officials repeat emergency acts. The hold is a bridge, not a new mandate. A succession hold has a separate ledger status and cannot be promoted to a final return merely by adding Owen’s transmission mark; it would need a new filing with independently authorized branches. The hold does not create the common future, cannot answer for people, and cannot remain the final authority. Lound’s plan is built on the claim that a centralized succession can turn this finite hold into a permanent central return; the original Form Zero rejects that claim.
+
+When Civic Zero arrives without a valid Common Return, Vespera does not transfer to another realm. Its common future ends, and the remaining local supports become isolated, contested, and increasingly unable to renew one another.
 
 ## 6. Geography
 
@@ -89,7 +97,7 @@ Major locations include:
 
 - **Registry River Desk:** Owen’s workplace, a long copying hall with numbered desks and a central seal stair.
 - **Lower Lock:** Ada Rusk’s bridge ward, including informal homes, repair sheds, and residents missing from recent rolls.
-- **Glass Stair:** the Registry’s public appeal hall and archive entrance.
+- **Glass Stair:** the Registry’s public appeal hall and entrance to the surviving Docketford docket rooms. It is not the destroyed Glasshall Archive.
 - **Arbour Kitchen:** Nell Arbour’s claimant kitchen and neighborhood meeting place.
 - **The Ninth Weir:** a flood-damaged crossing whose condition becomes Owen’s first open case.
 
@@ -111,7 +119,7 @@ Mobile and lightly settled regions that reject central rolls. They use route log
 
 ### The Provisional Seat
 
-The old administrative heart called **Concord Hall**, a terraced city of hearings, seals, banks, and elite residences. Chancellor Verity Lound governs from here. Its polished procedures conceal the provisional government’s dependence on old emergency powers.
+The old administrative heart called **Concord Hall**, a terraced city of hearings, seals, banks, and elite residences. Chancellor Verity Lound governs from here. Beneath its lower terraces, the **First Seal Subvault** preserves a small cache assembled in C.Y. 9: the first surviving seal of Form Zero, its witness schedules, and selected pre-Blanking source fragments. It is distinct from the destroyed Glasshall Archive and contains no private override. The Hall’s polished procedures conceal the provisional government’s dependence on old emergency powers.
 
 ## 7. Major Institutions and Factions
 

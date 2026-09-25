@@ -4,7 +4,7 @@ This is the planned destination for the final volume. It is an author-facing pla
 
 ## 1. Final Premise Resolution
 
-The end of the world is not caused by a forgotten password or a single malicious clerk. The Provisional Mandate created a centralized support structure for public fact. When it expires without Form Zero, Vespera’s existing facts are no longer backed by a common authority that can carry them forward. The last moment ends because there is no supported next moment, not because an outside force eats the planet.
+The end of the world is not caused by a forgotten password or a single malicious clerk. The Provisional Mandate created a centralized support structure for public fact. When it expires without Form Zero, Vespera loses its **common future**: local meals, clinics, bridges, and family names may continue as isolated supports, but they can no longer reliably recognize, inherit from, trade with, or coordinate across one civilization. The last moment ends the shared continuation, not every person at once, and not because an outside force eats the planet.
 
 Form Zero was built to prevent that outcome. Its original rule is deliberately non-monarchical: no person may answer for another. The Registry’s later “authorized representative” language and Chancellor Verity Lound’s Assumption Plan are political reversions, not the original law.
 
@@ -42,28 +42,27 @@ This is why the final answer is collective but not unanimous in policy. Communit
 
 Chancellor Verity Lound is the final opponent. She activates the Assumption Plan from Concord Hall. Lound alone holds the institutional authority to invoke the proxy line for every unfiled district while the Provisional Mandate remains alive. She offers Owen a real choice:
 
-- Owen accepts the authorized-representative line, using his pooled root claim as a common channel and converting that channel into a proxy for every subject. Lound’s institutional signature and Owen’s community-selected transmission role would then be combined into one knowingly false completion. The old central seal accepts the Assumption as a coercive candidate and a temporary operational hold, but the act is a false return rather than a valid completion.
-- Lound’s central order keeps roads, hospitals, waterworks, and suspended settlements stable for an unknown future.
-- Consent becomes administratively revocable whenever a person cannot be consulted.
-- The world survives, but every future government decision can claim to have been made for the people it governs.
+- Owen accepts the authorized-representative line, using his pooled root claim as a common channel and converting that channel into a proxy for every subject. Lound’s institutional signature already gives her Assumption filing access to the **30-day succession hold** at the Mandate’s final transition. Owen’s community-selected transmission role would make the coercive filing appear structurally complete and harder to challenge, but it cannot promote the hold to a valid final return. The hold preserves central roads, hospitals, waterworks, and archive shells while named custodians repeat emergency acts; it cannot restore the common future.
+- Lound intends to turn that finite bridge into permanent central succession. For the interval in which it works, central infrastructure remains stable, but consent becomes administratively revocable whenever a person cannot be consulted.
+- Owen refuses. The alternative is not a guarantee that every isolated community will survive. It is a bounded common future assembled from people who can refuse one another and still remain part of a public world.
 
 Owen’s Custodian title is not a proxy office. Communities choose him to receive, record, and transmit their returns; he cannot sign for an absent person. Lound’s Assumption authority is institutional, temporary, and separate from that transmission role.
 
-Lound’s plan is not exposed as a secret alien plot. It is a coherent emergency response built from real rescues, real institutional knowledge, and a genuine moral error: she cannot accept a world in which survival depends on people freely choosing a future they might refuse.
+Lound’s plan is not exposed as a secret alien plot. It is a coherent emergency response built from real rescues, real institutional knowledge, and a genuine moral error: she cannot accept a world in which survival depends on people freely choosing a future they might refuse. She knows her hold is finite, but believes a sufficiently controlled state can convert it into a permanent one.
 
 ## 4. The Final External Conflict
 
 ### Opening Condition
 
-Civic Zero is hours away. Owen is Custodian of the Common Return and can receive the distributed filing, but he cannot sign for anyone inside it. The aggregate may be assembled before the final stroke, but it becomes authoritative only when the last stroke of C.Y. 500 arrives. The last regional returns are arriving, but a number of people lack a valid personal, refusal, or protective return, including independent households, Free Counter caravans, disabled claimants, and residents of emergency caches. Some hidden branches will never reach the network; their unresolved status must remain visible rather than being filled by Lound’s proxy.
+Civic Zero is hours away. Owen is Custodian of the Common Return and can receive the pre-positioned return bundles, but he cannot sign for anyone inside them. The aggregate may be assembled before the final stroke, but it becomes authoritative only when the last stroke of C.Y. 500 arrives. The ordinary final window closed three days ago; late branches can still arrive as unresolved notices, but they cannot be silently inserted into the completed aggregate. A number of people lack a valid personal, refusal, or protective return, including independent households, Free Counter caravans, disabled claimants, and residents of emergency caches. Some hidden branches will never reach the network; their unresolved status must remain visible rather than being filled by Lound’s proxy.
 
-Lound has prepared seven **Preservation Caches**. Each cache stores the last supported legal state of a district that could not be restored after a collapse. It is a legal archive shell, not a population waiting to be instantly revived: a cache shell can continue while a living custodian, a current local act, and an appeal route continue, but it never preserves consciousness. People inside the affected district remain subject to the 14-day suspension and 30-day restoration limits, and an expired person branch is recorded as lost or unresolved. Releasing or invalidating a cache without local repair can leave its people unfiling; leaving it under the Assumption makes the Chancellor’s custody permanent.
+Lound has prepared seven **Preservation Caches**. Each cache stores the last supported legal state of a district that could not be restored after a collapse. It is a legal archive shell, not a population waiting to be instantly revived: a cache shell can continue while a living custodian, a current local act, and an appeal route continue, but it never preserves consciousness. People inside the affected district remain subject to the 14-day suspension and 30-day restoration limits, and an expired person branch is recorded as lost or unresolved. Releasing or invalidating a cache without local repair can leave its people unfiling; leaving it under the Assumption makes the Chancellor’s 30-day hold the only source of central renewal, not a permanent right to custody.
 
 The final conflict has four linked fronts:
 
-1. **Civic transmission:** Owen must accept, reject, or annotate every local return without silently correcting dissent. The central seal may confirm receipt and the boundary of the received network, but it cannot certify consent or universal completeness.
+1. **Civic transmission:** Owen must accept, reject, or annotate every local return without silently correcting dissent. Return bundles move through regional receiving tables, and the central seal may confirm receipt, the declared representative line, and the boundary of the received network, but it cannot certify hidden consent or universal completeness.
 2. **Cache custody:** Local teams must decide whether to restore a held district, file a new return, accept a provisional suspension, or allow an irreversible loss.
-3. **The Assumption race:** Lound’s return is administratively complete enough to reach the central seal. It must be exposed as a false proxy before it becomes the final authority.
+3. **The Assumption race:** Lound’s return is administratively complete enough to receive a finite succession hold at the central seal. It must be exposed as a false proxy before its hold can be mistaken for the common future.
 4. **Public refusal:** People must be able to answer for themselves after years of being told that only the Clerk, the Chancellor, or the Registry can preserve the world.
 
 ## 5. Final Volume Beat Map
@@ -73,23 +72,23 @@ The final volume is 48 chapters, Chapters 693–740. The ranges below are dramat
 ### Chapters 693–700 — The Empty Line
 
 - Civic Zero approaches while the aggregate is incomplete.
-- Owen finds the authorized-representative line blank and learns that Lound’s institutional proxy and his own pooled claim could be combined to fill it. Either act would be a knowingly false completion; neither role is a lawful representative authority.
+- Owen finds the authorized-representative line blank and learns that Lound’s institutional proxy can obtain a 30-day succession hold at the final transition, while his pooled claim could make the filing appear structurally complete and harder to challenge. Either role would be a knowingly false use of representation; neither is a lawful representative authority.
 - Ada and Lower Lock file without his guaranty, proving that a local return can survive the protagonist’s absence.
-- Lound sends a public offer: sign now and receive a guaranteed government, or allow thousands of independent returns to race without a central safety net.
+- Lound sends a public offer: sign now and receive a centralized 30-day hold with the promise of permanent succession, or allow thousands of independent returns to travel through a fragile relay without a central safety net.
 - Owen refuses to test the offer by signing a partial page.
 
 ### Chapters 701–708 — The First Transmission
 
-- Early returns arrive from Docketford, the Upland Commons, Free Counters, independent clinics, and rural districts.
+- Early return bundles arrive by courier, river post, semaphore, and rail cart from Docketford, the Upland Commons, Free Counters, independent clinics, and rural districts.
 - An initial misunderstanding produces a handful of withdrawals: people hear the Aggregate and assume it requires one shared political answer. Nell explains that the form asks each claimant group to state the limits of its own representation, and the withdrawals are recorded as refusals rather than erased.
 - The first transmission is therefore a misunderstanding corrected by public language, not the volume’s consequential failure. It proves that disagreement can be recorded without collapsing the aggregate.
 - Owen’s marginalia shows “unanswered,” “withdrawn,” and “coerced” without identifying who is guilty.
-- Lound activates the Assumption return in three cache districts to demonstrate that her method prevents immediate failure.
+- Lound files an Assumption petition in three cache districts and uses pre-Civic Zero emergency suspensions to demonstrate that her method prevents immediate infrastructure failure. She cannot issue the 30-day succession hold until the final transition, and the suspended communities still cannot refuse their custodian.
 
 ### Chapters 709–716 — The Cached Districts and the Failed Aggregate
 
 - Owen travels with a small team to a cache held above a collapsed river junction.
-- A central transmission attempt collapses separate returns into a single uniform version of the record. Communities withdraw, a hospital chain loses a branch, and Owen must suspend transmission and record the gap rather than fill it by assumption. This is the consequential midpoint failure, distinct from the earlier misunderstanding about disagreement.
+- A central transmission attempt at the relay tables routes separate return bundles through a single standardized seal, collapsing them into one uniform version of the record. Communities withdraw, a hospital chain loses a branch, and Owen must suspend the relay and record the gap rather than fill it by assumption. This is the consequential midpoint failure, distinct from the earlier misunderstanding about disagreement.
 - The district’s residents were not absent; they were kept in a suspended legal state while their physical surroundings decayed.
 - A local person asks whether reopening the cache means they must return to a building that no longer exists. Owen cannot answer with a correction; he must listen and negotiate a new home.
 - Kade’s former guard helps maintain a route but refuses to reopen a second cache without the residents’ current answer.
@@ -99,13 +98,13 @@ The final volume is 48 chapters, Chapters 693–740. The ranges below are dramat
 
 - Owen, Nell, and Junia Pell reconstruct the chain of signature, consent, and jurisdiction in public.
 - Lound’s return is not false because she lied about every local fact. It is false because it represents people without a meaningful right to refuse.
-- The Registry’s own old seal confirms that the original Form Zero rejected proxy authority.
+- The Registry’s old seal confirms that the original Form Zero rejected proxy authority. The seal can confirm that rule from the surviving record, but it cannot certify that every hidden person consented to the new filing.
 - Sallow’s surviving ledgers show how the Assumption was normalized through ordinary contracts and emergency exceptions.
-- Lound invites Owen to co-sign the return under a “temporary” safeguard. He refuses because a temporary monopoly creates the same precedent as a permanent one.
+- Lound invites Owen to co-sign the return under a “temporary” safeguard. He refuses because a 30-day succession hold creates the same precedent as a permanent one when its renewal depends on one custodian’s consent.
 
 ### Chapters 725–732 — The Night of Separate Answers
 
-- After the failed uniform transmission, thousands of local returns arrive again, and communities choose whether to join the central channel at all. Those that withdraw are now making a recorded decision, not repeating the earlier misunderstanding: each files a community refusal return and keeps its own local duties alive.
+- After the failed uniform transmission, the regional tables reopen the pre-positioned return bundles, and communities choose whether to join the central channel at all. Those that withdraw are now making a recorded decision, not repeating the earlier misunderstanding: each files a community refusal return and keeps its own local duties alive.
 - The withdrawals are not a failure of the mission. They are evidence that people are acting rather than being counted.
 - Personal returns are filed by people who reject every collective authority, including local councils, the Registry, and Owen.
 - Common Tables amend their terms to make refusal practical: people can leave without losing food, water, or a place to sleep.
@@ -114,9 +113,9 @@ The final volume is 48 chapters, Chapters 693–740. The ranges below are dramat
 
 ### Chapters 733–736 — The Completion
 
-- In the final minutes, Lound activates the Assumption return. The old Provisional Mandate still supports her institutional emergency authority while the central seal accepts the filing as a coercive candidate, so roads and hospitals remain operational during the countdown. That support is borrowed from the expiring mandate, not created by the false return.
-- The central seal accepts the form, and the world briefly takes on a clean, single version: every person is represented, every district is stable, and every decision is attributed to the Chancellor. The false version begins to overwrite a few dependent entries—independent roads, private refusals, and newly named communities—but local witnesses and direct acts resist long enough for the final transmission to matter.
-- At the final stroke, Owen faces the authorized-representative line. He refuses to sign as proxy, crosses out his own authority, and transmits the independent returns. Lound’s institutional signature and Owen’s transmission role never merge: she invokes the Assumption, while he carries the communities’ authorized branches. The valid aggregate and Lound’s coercive filing reach the central seal together; the valid filing meets the original no-proxy condition and activates as the old mandate expires.
+- In the final minutes, Lound activates the Assumption return. The old Provisional Mandate still supports her institutional emergency authority, and at the final transition the central seal accepts her filing as a coercive candidate and issues the 30-day succession hold. Roads, hospitals, waterworks, and archive shells remain operational during the countdown. That support is borrowed from the expiring mandate, not created by Owen’s mark or the false return, and it cannot restore the common future.
+- The central seal accepts the form as a candidate, and the relay tables briefly take on a clean, single version: every person is represented, every district is stable, and every decision is attributed to the Chancellor. The false version begins to overwrite a few dependent entries—independent roads, private refusals, and newly named communities—but local witnesses and direct acts resist long enough for the final transmission to matter.
+- At the final stroke, Owen faces the authorized-representative line. He refuses to sign as proxy, crosses out his own authority, and transmits the pre-positioned independent returns through the human relay. Lound’s institutional signature and Owen’s transmission role never merge: she invokes the Assumption, while he carries the communities’ authorized branches. The valid aggregate and Lound’s coercive filing reach the central seal together; the valid filing meets the original no-proxy condition and actuates the common future as the old mandate expires.
 - The Assumption loses its borrowed support before it can complete the overwrite. Some already-failed entries and hidden branches remain lost, but no new person is erased by a valid return. Lound’s central seal remains visible in the historical entry, but she is no longer its owner.
 - The last missing answer is not a person’s signature. It is a collective refusal of proxy authority. Local returns, household returns, personal returns, refusal returns, and protective returns aggregate into a bounded Common Return whose boundary and unresolved branches remain public.
 
@@ -125,12 +124,12 @@ The final volume is 48 chapters, Chapters 693–740. The ranges below are dramat
 The epilogue deliberately spans **three months**, not one morning. Immediate survival comes before trials, institutional transition, and the final image.
 
 - **Chapters 737–738, first day and first week:** The Provisional Mandate ends. Vespera remains, but some people and districts held in failed caches do not return. Emergency holds that expired during the crisis cannot be restored, and the families of the lost receive their own returns rather than a substitute identity. Lound is detained under a warrant that prevents her from directing the emergency machinery; she is not executed or magically purified. Nell files her own final return, including her right to disagree with Owen, and gives her independent vote rather than serving as his witness or proxy.
-- **Chapter 739, first month:** Rive is compelled to testify about the concealed amendments. Kade’s own guard is protected as a living group rather than suspended; Kade accepts responsibility for the guard’s illegal suspensions, is acquitted of intentional killing, and is charged with unlawful suspension. Sallow is arrested, tried, and barred from restoring a witness monopoly; his contracts are opened to restitution. Pike must sign the contested ward records he once tried to close. The surviving original archive beneath Concord Hall is opened to local clerks and families; it preserves the old Form Zero seal, but not a private override. Local offices establish rotating review, public appeals, and no single suspension power as an interim arrangement. Junia Pell coordinates the independent clerk network that keeps those offices interoperable.
+- **Chapter 739, first month:** Rive is compelled to testify about the concealed amendments. Kade’s own guard is protected as a living group rather than suspended; Kade accepts responsibility for the guard’s illegal suspensions, is acquitted of intentional killing, and is charged with unlawful suspension. Sallow is arrested, tried, and barred from restoring a witness monopoly; his contracts are opened to restitution. Pike must sign the contested ward records he once tried to close. The **First Seal Subvault** beneath Concord Hall is opened to local clerks and families; it preserves the C.Y. 9 Form Zero seal, its witness schedules, and selected pre-Blanking source fragments, but not a private override. Local offices establish rotating review, public appeals, and no single suspension power as an interim arrangement. Junia Pell coordinates the independent clerk network that keeps those offices interoperable.
 - **Chapter 740, three months later:** The Registry reorganization is made durable, the boundary of the final civic network and its unresolved branches are published, and the new civic order accepts that survival was collective but uneven. Owen loses the legal privilege and sole transmission authority that made him Custodian, while retaining the earned capacity to carry a voluntary common filing if a community later chooses him. He returns to a desk, carrying a pencil and a fresh case. Nell returns to Arbour Kitchen. They remain partners, but neither is required to stand beside the other to remain real. The final image is a new mundane case on Owen’s desk: a footbridge washed out, a neighborhood disputing who may repair it, and a child asking whether a person can be both named and free. The answer is enacted in ordinary work, not declared by a cosmic system.
 
 ## 6. Owen’s Final Internal Choice
 
-Owen’s final temptation is not “save everyone or let everyone die.” The tempting choice is subtler: accept a role in which he can make every return appear valid because he is willing to answer for all. The role would save many lives immediately and guarantee that the world is governed by someone who never has to surrender authority.
+Owen’s final temptation is not “save everyone or let everyone die.” The tempting choice is subtler: accept a role in which he can make every return appear valid because he is willing to answer for all. The role would keep central infrastructure operating through a 30-day succession hold and could make a coercive plan look like a stable government. It would not restore the common future, and every future government decision could claim to have been made for the people it governs.
 
 He refuses to fill the line because he understands that a form completed by one person is another form of the Blanking. He chooses the risk of incomplete trust, argues for the refusal guarantee, and allows other people to decide without treating their decision as an obstacle to his protection.
 
@@ -197,7 +196,7 @@ The ending offers a world that can continue, not a world that has been made harm
 The final volume must show all of the following on the page:
 
 1. A concrete local case is solved by ordinary people before the final vote.
-2. Owen has a real opportunity to combine Lound’s institutional proxy authority with his community-selected transmission role and make the central seal accept a coercive, apparently complete form.
+2. Lound’s institutional mark can obtain a 30-day succession hold at Civic Zero, and Owen has a real opportunity to combine his community-selected transmission role with her proxy authority to make the coercive filing appear structurally complete and harder to challenge.
 3. He refuses without pretending the refusal is painless.
 4. Lound’s plan is understandable, effective in places, and morally unacceptable.
 5. People file different returns rather than a uniform mass signature.

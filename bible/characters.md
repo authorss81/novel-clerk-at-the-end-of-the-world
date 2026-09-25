@@ -135,12 +135,12 @@ Sallow is the series’ clearest personal villain, but defeating him does not so
 
 - **Age:** 61
 - **Work:** Head of the Provisional Council
-- **Want:** Prevent Civic Zero from destroying Vespera and keep authority accountable to one clear decision-maker
+- **Want:** Prevent Civic Zero from fragmenting Vespera and keep authority accountable to one clear decision-maker
 - **Belief:** A frightened civilization should prefer a ruler who can say yes, no, and take responsibility to a web of communities that may all refuse at the last moment
 - **Flaw:** Her desire for accountable leadership becomes indistinguishable from permanent government
-- **Method:** Revives the **Assumption Plan**: under a global emergency, the Chancellor may sign for absent, incapacitated, or unreachable people. This is Lound’s institutional authority, distinct from Owen’s community-selected transmission role. It would make the old central seal accept a knowingly invalid false completion of Form Zero, while the expiring mandate supplies only a temporary operational hold; it would also destroy refusal rights.
+- **Method:** Revives the **Assumption Plan**: under a global emergency, the Chancellor may sign for absent, incapacitated, or unreachable people. This is Lound’s institutional authority, distinct from Owen’s community-selected transmission role. Her institutional mark can obtain a 30-day succession hold at the Mandate’s final transition, keeping central infrastructure at its last supported status. Owen’s pooled transmission mark would make the coercive filing appear structurally complete and harder to challenge, but it cannot promote the hold to a valid final return. Lound believes she can turn that finite bridge into a permanent central continuation; the original Form Zero rejects the proxy and the hold cannot restore the common future. It would also make refusal rights revocable.
 
-Lound is not secretly manipulating the apocalypse. She believes the apocalypse, wants to prevent it, and is willing to make all private consent revocable to do so. Her record shows competent emergency decisions and decisions that harmed people for decades. She is Owen’s ideological mirror: both believe a final accountable person may be necessary; Owen eventually learns to act without that certainty.
+Lound is not secretly manipulating the apocalypse. She believes the apocalypse, wants to prevent it, and is willing to make all private consent revocable to do so. She knows the distinction between a temporary emergency bridge and a valid return, but has decided that a governed present is worth a permanent loss of refusal. Her record shows competent emergency decisions and decisions that harmed people for decades. She is Owen’s ideological mirror: both believe a final accountable person may be necessary; Owen eventually learns to act without that certainty.
 
 Lound is present from Volume 1 as a remote institutional authority and becomes the principal on-stage opponent from Volume 8 onward. She survives Civic Zero, loses her office, and must live under rules that can refuse her. No later volume replaces her with a more powerful ruler, god, or machine.
 

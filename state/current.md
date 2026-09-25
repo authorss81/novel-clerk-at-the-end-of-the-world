@@ -27,8 +27,8 @@ Last batch summary: none
 
 ## Long-Range Planning (Not Opening Knowledge)
 
-- Form Zero uses a bounded, public completeness procedure. Unknown or unreachable branches are recorded as unresolved, never presumed consent, and the final network records its boundary and appeal route.
-- Lound holds temporary institutional authority to invoke the Assumption Clause for unfiled districts. Owen’s Custodian role is community-selected and limited to receiving and transmitting authorized returns; it is not proxy authority.
+- Form Zero uses a bounded, public completeness procedure. Unknown or unreachable branches are recorded as unresolved, never presumed consent, and the final network records its boundary and appeal route. Return bundles travel through regional receiving tables; the ordinary final window closes three days before Civic Zero, and late branches remain appealable rather than being silently inserted.
+- Lound holds temporary institutional authority to invoke the Assumption Clause for unfiled districts; at the final transition, a false filing can obtain a 30-day succession hold but cannot restore the common future. Owen’s Custodian role is community-selected and limited to receiving and transmitting authorized returns; it is not proxy authority.
 - The planned final result leaves hidden branches as an acknowledged cost rather than pretending the Registry can see them.
 
 ## Active Story Engine (Planning Only)

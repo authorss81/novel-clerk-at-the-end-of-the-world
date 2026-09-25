@@ -16,7 +16,11 @@ The disaster in which the central Glasshall index failed and regions that truste
 
 ### **Glasshall Archive**
 
-The destroyed central archive in old Docketford. It is not a magical all-seeing library and should not be described as omniscient.
+The destroyed central archive in old Docketford. It attempted to replace local proof traditions with one comprehensive index and was the immediate institutional failure of the Blanking. It is not a magical all-seeing library and should not be described as omniscient.
+
+### **First Seal Subvault**
+
+A small surviving cache assembled beneath Concord Hall in C.Y. 9 from materials hidden before the Blanking. It preserves the first surviving seal of Form Zero, its witness schedules, and selected pre-Blanking source fragments. It is distinct from the destroyed Glasshall Archive, is not a private override, and cannot answer questions that the surviving records do not answer.
 
 ### **The Provisional Mandate**
 
@@ -24,7 +28,11 @@ The emergency authority created after the Blanking. It governs through the Provi
 
 ### **Civic Zero**
 
-The moment at the end of C.Y. 500 when the Provisional Mandate expires. Form Zero can be assembled and reviewed before then, but it becomes the governing Common Return only at the final activation stroke. If no valid filing is active, the current world loses its supported future. The term should remain exact and uncommon, not become a generic countdown phrase.
+The moment at the end of C.Y. 500 when the Provisional Mandate expires. Form Zero can be assembled and reviewed before then, but it becomes the governing Common Return only at the final activation stroke. If no valid filing is active, the current world loses its **common future**; local acts may continue as isolated supports, but they can no longer reliably coordinate as one civilization. The term should remain exact and uncommon, not become a generic countdown phrase.
+
+### **Common future**
+
+The shared temporal authority that lets separately supported local acts recognize one another, inherit obligations, trade, and coordinate beyond the next local duty. Civic Zero withdraws this common layer if no valid Common Return is active; it does not instantly erase every locally supported person or place. Isolated supports may endure, but they become vulnerable islands rather than one continuing Vespera.
 
 ---
 
@@ -48,11 +56,11 @@ The public, combined view of separately authorized returns. An aggregate include
 
 ### **Assumption Plan**
 
-Chancellor Verity Lound’s emergency proposal allowing the Chancellor to accept a return on behalf of absent, incapacitated, or unreachable people. It is not called the Evil Plan, Coup, or Final Seal by the characters.
+Chancellor Verity Lound’s emergency proposal allowing the Chancellor to accept a return on behalf of absent, incapacitated, or unreachable people. At the Mandate’s final transition, it can obtain a finite 30-day succession hold under the old emergency machinery, but that hold cannot create the common future or become a valid final authority. It is not called the Evil Plan, Coup, or Final Seal by the characters.
 
 ### **Assumption Clause**
 
-The clause used to invoke the Assumption Plan. A coerced or overbroad use is a **false return**.
+The clause used to invoke the Assumption Plan. A coerced or overbroad use is a **false return**. When the old central seal accepts the structural marks for a succession hold, it records a candidate and a deadline, not lawful consent or a permanent replacement for the Common Return.
 
 ### **Authorized representative**
 
@@ -64,7 +72,15 @@ The original Form Zero condition: no person or institution may supply a return, 
 
 ### **Central seal**
 
-The Provisional Registry’s mechanism for confirming that an aggregate filing arrived and recording the boundary of the received network. It is not a judge of truth, consent, moral legitimacy, or universal completeness. A coercive filing can receive a temporary operational hold from the expiring mandate, but only a valid Common Return can become the final authority.
+The Provisional Registry’s ministerial actuator. It checks the recorded shape of a filing—branch marks, witness confirmations, public notice, declared boundary, appeal route, and the declared representative line with its supporting marks—then records receipt and, when those recorded conditions are met, actuates the common future. It is not a judge of hidden truth, moral legitimacy, meaningful consent, or universal completeness. A concealed proxy can pass a first structural check and receive a 30-day succession hold, but a supported counter-entry can expose and narrow it; only a valid Common Return can become the final authority.
+
+### **30-day succession hold**
+
+A finite emergency bridge created when the central seal accepts a coercive Assumption filing under the Mandate’s one-time transition clause. It can preserve the last supported status of central roads, hospitals, waterworks, and archive shells while named custodians repeat emergency acts. It does not preserve consciousness, create the common future, or authorize a custodian to answer for another person. It has a separate ledger status and cannot be promoted to a final return merely by adding a transmission mark. At the end of the interval, the hold expires unless a valid return or a new lawful authority has replaced it.
+
+### **Return bundle**
+
+A sealed, witnessed set of local return pages, branch list, witness confirmations, and appeal route physically carried to a regional receiving table. Return bundles travel by courier, semaphore, river post, and rail cart; they are not thoughts or unrestricted remote authority. The ordinary final window closes three days before Civic Zero.
 
 ---
 
@@ -126,7 +142,7 @@ A challenge by an affected person or community. Appeals reopen scope, evidence, 
 
 ### **Glass Stair**
 
-The Registry’s public appeal hall in Docketford. Named for its old glazed roof.
+The Registry’s public appeal hall and entrance to the surviving Docketford docket rooms. Named for its old glazed roof. It is not the destroyed Glasshall Archive.
 
 ### **Black cord**
 
@@ -278,7 +294,7 @@ The central governing body led by Chancellor Verity Lound.
 
 ### **Concord Hall**
 
-The Provisional Council’s administrative and political center.
+The Provisional Council’s administrative and political center. Its lower terraces contain the **First Seal Subvault**, a C.Y. 9 cache of the first Form Zero seal and selected pre-Blanking source fragments, distinct from the destroyed Glasshall Archive.
 
 ### **Claim brokers**
 

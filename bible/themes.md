@@ -26,9 +26,9 @@ His final change is not an elimination of responsibility. He keeps the work, the
 
 ### Chancellor Verity Lound: One accountable hand
 
-A civilization facing extinction needs someone empowered to decide without delay. Compromise and consultation produce hesitation; frightened people need a clear place to appeal and a person capable of action. Lound’s solution may work better than voluntary returns in the first hours of catastrophe.
+A civilization facing fragmentation needs someone empowered to decide without delay. Compromise and consultation produce hesitation; frightened people need a clear place to appeal and a person capable of action. Lound’s solution can keep central infrastructure operating during a finite succession interval, and it may work better than voluntary returns in the first hours of catastrophe.
 
-Her failure is not indecision. It is that no accountable hand remains accountable if it can define every person’s consent and renew its own authority.
+Her failure is not indecision. It is that no accountable hand remains accountable if it can define every person’s consent and turn a temporary emergency bridge into permanent ownership.
 
 ### Owen Rusk: The perfect custodian
 
@@ -105,7 +105,7 @@ Mentorship is a relationship of power. Owen’s break with Ansel is not caused o
 
 The planned ending succeeds only if:
 
-1. Owen could combine Lound’s institutional proxy authority with his own transmission role to make the central seal accept a coercive, apparently complete Form Zero, and chooses not to.
+1. Lound’s institutional mark can obtain a finite succession hold, and Owen could combine it with his own transmission role to make the coercive Form Zero appear structurally complete and harder to challenge, but chooses not to.
 2. People can still refuse him and one another without being erased.
 3. The final form contains work established across many volumes.
 4. The result is less tidy than a single heroic solution but more humane than centralized survival.

@@ -7,11 +7,11 @@
 - **Volume count:** 15
 - **Protagonist:** Owen Rusk
 - **Romance:** One slow-burn relationship with Nell Arbour
-- **Final ruling:** Owen can combine Lound’s temporary institutional proxy authority with his community-selected transmission role to make the central seal accept a coercive, apparently complete Form Zero. He refuses the representative act and lets the civilization complete a valid, bounded Common Return through its own returns.
+- **Final ruling:** Lound’s institutional mark can obtain a finite 30-day succession hold at Civic Zero. Owen can add his pooled transmission role to make the coercive Form Zero appear structurally complete and harder to challenge, but he refuses the representative act and lets the civilization complete a valid, bounded Common Return through its own returns.
 
 ## One-Sentence Premise
 
-A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, reality loses its supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
+A records clerk discovers that when the Provisional Mandate expires without a valid Common Return, Vespera loses its common supported future; he then finds that the form hidden at the heart of civilization cannot legally be completed by one person, one office, or one hero.
 
 ## External and Internal Architecture
 
@@ -49,21 +49,27 @@ Why has the Registry spent nearly five centuries claiming that Form Zero is impo
 
 Form Zero was never intended to require one final representative. Its original distributed condition requires valid returns from autonomous communities and protected returns for independent individuals, while forbidding any authority to answer for another person.
 
-The Provisional Registry replaced this rule with an administratively convenient “one representative” model because local proof was slower, politically difficult, and incompatible with centralized rule. Chancellor Verity Lound later revived the old Assumption Plan as a safety valve. That plan can force a superficially complete form, but it destroys the refusal rights that make the return legitimate.
+The Provisional Registry replaced this rule with an administratively convenient “one representative” model because local proof was slower, politically difficult, and incompatible with centralized rule. Chancellor Verity Lound later revived the old Assumption Plan as a safety valve. That plan can force a superficially complete candidate and a finite succession hold, but it destroys the refusal rights that make the return legitimate and cannot restore the common future.
 
 Owen can be tempted to inherit the “authorized representative” box because his own root claim was jointly sponsored by eight unrelated people rather than claimed by one household. This is a knowingly invalid technical possibility, not a lawful right or a secret royal inheritance. His capacity is a history of shared support, and the same fact that lets him hold the aggregate filing requires him never to claim the people inside it.
 
 The Blanking resulted from human centralization of fragile local proof. The world’s final law is intended to prevent that failure from recurring, not because paperwork is morally magic but because reciprocal public acts are part of how Vespera’s facts remain supported.
 
+### Continuation Mechanics
+
+Civic Zero withdraws the **common future**, not every local act. A supported family, clinic, or bridge can continue as an island, but it cannot reliably recognize, inherit from, trade with, or coordinate across the wider civilization. Form Zero restores a bounded common layer through many independent returns. There is no instant worldwide signal: final return bundles travel through regional receiving tables by courier, semaphore, river post, and rail cart, with the ordinary final window closing three days before the deadline. Late branches remain unresolved and can use the post-activation appeal route.
+
+The central seal is a ministerial actuator. It checks recorded branch marks, witnesses, notice, boundary, and the declared representative line with its supporting marks, then actuates the common future if those recorded conditions are met. It cannot see hidden people or certify meaningful consent. A concealed proxy can briefly pass a structural check and receive a finite 30-day succession hold, but it cannot restore the common future and remains vulnerable to a supported counter-entry.
+
 ## Ending Foundation
 
 ### Final External Conflict
 
-At Civic Zero, the valid Common Return and Chancellor Verity Lound’s coercive Assumption return are transmitted at the same time. Lound alone holds the institutional authority to invoke the Assumption Clause for every unfiled district while the Provisional Mandate is alive. Her filing claims to represent every absent, disabled, displaced, or unreachable person and offers immediate centralized stability. The old seal can accept it as a temporary emergency hold, but it is not a valid completion. Owen, chosen by participating communities only as a Custodian, must receive and transmit independently authorized returns, protect the stored communities the Assumption conceals, and help activate Form Zero without signing for anyone.
+At Civic Zero, the valid Common Return and Chancellor Verity Lound’s coercive Assumption return are transmitted at the same time. Lound alone holds the institutional authority to invoke the Assumption Clause for every unfiled district while the Provisional Mandate is alive. Her filing claims to represent every absent, disabled, displaced, or unreachable person and offers a 30-day succession hold that keeps central roads, hospitals, waterworks, and archive shells operational while she intends to make the hold permanent. The old seal can accept it as a structurally complete emergency candidate, but it is not a valid completion and cannot restore the common future. Owen, chosen by participating communities only as a Custodian, must receive and transmit independently authorized returns, protect the stored communities the Assumption conceals, and help activate Form Zero without signing for anyone.
 
 ### Final Internal Choice
 
-Owen may accept a role that would let him sign as the sole representative and make the Assumption return appear complete through a proxy. He refuses the representative act, not the work of receiving the aggregate. He relinquishes the “authorized representative” line, accepts the risk that no single person will control the result, and helps assemble a valid return made from thousands of voluntary local acts within a bounded, publicly recorded network.
+Owen may accept a role that would let him sign as the sole representative and make Lound’s Assumption return appear complete through a proxy. Her institutional mark already obtains the 30-day succession hold; his mark would make the hold harder to expose and let central operators treat it as final for the interval, but it cannot make it valid. He refuses the representative act, not the work of receiving the aggregate. He relinquishes the “authorized representative” line, accepts the risk that no single person will control the result, and helps assemble a valid return made from thousands of voluntary local acts within a bounded, publicly recorded network.
 
 ### Final Emotional Answer
 
@@ -76,7 +82,7 @@ Owen’s need is not to be indispensable. It is to be part of a world where care
 - Autonomous communities and independent individuals can file, amend, and withdraw from Common Tables without being rendered unfiling.
 - The original local rights from Form Zero are restored and written into the new civic order.
 - Claim-broker contracts are audited; valid debts survive, coerced proof claims are dissolved, and restitution is contested in ordinary courts.
-- The Blanking archive is reopened, but lost people are recorded as lost rather than replaced with convenient versions.
+- The surviving First Seal Subvault and local records are reopened, but lost people are recorded as lost rather than replaced with convenient versions.
 - A number of emergency holds fail permanently. The ending acknowledges irreversible loss and does not restore every person.
 - Ordinary recordkeeping continues. The result is a shared system, not the disappearance of forms.
 - The new order records the boundary of the final civic network and keeps an open route for hidden or unresolved Free Counter branches. Unrepresented communities are never silently absorbed into a household or representative claim; some remain a permanent cost.
@@ -113,7 +119,7 @@ The stages are **Copy Clerk**, **Sealed Witness**, **Continuance Examiner**, **C
 - **Stage 3 → 4:** He coordinates many people and becomes responsible for deception he did not personally create.
 - **Stage 4 → 5:** He carries a mobile regional claim and must choose which crisis he can physically attend.
 - **Stage 5 → 6:** He creates a distributed Common Table and loses unilateral control over its members.
-- **Stage 6 → 7:** He can transmit the final form, but only independent people can complete it. The highest power is the ability to refuse completion.
+- **Stage 6 → 7:** He can receive pre-positioned return bundles and transmit the final form, but only independent people can complete it. The highest power is the ability to refuse completion.
 
 The costs are cumulative. Owen does not reset his personal history after a victory. By the final volume, he is tired, legally less privileged than before, and dependent on relationships and local returns rather than solitary authority.
 
@@ -347,11 +353,11 @@ Lound is his mirror: both believe a final accountable decision is necessary. The
 
 - **Central pressure:** Civic Zero arrives while Lound’s Assumption return and the distributed Common Return race to become the final authority.
 - **Starting state:** Owen can complete the form only by accepting the authorized-representative line. His community-selected Custodian role lets him receive and transmit returns, not sign for anyone. Refusing means trusting thousands of imperfect, voluntary acts inside a bounded, publicly recorded network.
-- **Major turn:** Lound activates the Assumption and returns begin to disappear into a single stable but coerced version.
-- **Midpoint reversal:** A central transmission attempt collapses the separate returns into a single uniform version of the record. Communities withdraw, a hospital chain loses a branch, and Owen must suspend transmission and record a gap rather than fill it by assumption. This consequential failure is distinct from the earlier misunderstanding about whether disagreement is allowed.
-- **Escalation:** Cached districts, road and hospital failures, local disagreement, and the irreversible loss of emergency holds that expire during the crisis.
-- **Climax:** Owen rejects the sole signature. Thousands of separate returns, including personal and refusal returns from people who reject collective authority, answer the same legal question: no person may answer for another. The bounded aggregate activates as a valid Common Return at the final stroke. Lound’s coercive return loses the old mandate’s temporary support and collapses.
-- **Concrete resolution:** Some held communities, hidden branches, and individuals are permanently lost, but current Vespera remains supported. Owen loses his privileged claim and cannot become a new central authority; the surviving record names the network’s boundary instead of pretending it is universal.
+- **Major turn:** At Civic Zero, Lound activates the Assumption and the single final-transition 30-day succession hold begins to make central routes and institutions stable, while separate returns begin to disappear into a single coerced version at the relay tables.
+- **Midpoint reversal:** A central transmission attempt collapses the separate return bundles into a single uniform version of the record. Communities withdraw, a hospital chain loses a branch, and Owen must suspend the relay and record a gap rather than fill it by assumption. This consequential failure is distinct from the earlier misunderstanding about whether disagreement is allowed.
+- **Escalation:** Cached districts, road and hospital failures, local disagreement, the ordinary final window closing three days before the stroke, and the irreversible loss of emergency holds that expire during the crisis.
+- **Climax:** Owen rejects the sole signature. Thousands of separate returns, including personal and refusal returns from people who reject collective authority, answer the same legal question: no person may answer for another. The bounded aggregate activates as a valid Common Return at the final stroke. Lound’s coercive return loses its borrowed support and cannot replace the common future.
+- **Concrete resolution:** Some held communities, hidden branches, and individuals are permanently lost, but current Vespera retains a bounded common future. Owen loses his privileged claim and cannot become a new central authority; the surviving record names the network’s boundary instead of pretending it is universal.
 - **New question:** What will the new civic order do with the truth that survival was collective but uneven?
 - **Power position:** Stage 7 remains, but its final use is restraint.
 - **Relationship position:** Owen and Nell remain partners, returning to separate work and a shared life.

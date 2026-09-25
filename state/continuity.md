@@ -7,7 +7,7 @@
 - Nell Arbour is the one slow-burn romance. Ada Rusk is Owen’s sister and an independent bridge mechanic. There is no harem structure.
 - The central mystery is who can complete Form Zero, the Common Return. The original rule forbids proxy authority; the current Registry has narrowed it, and Chancellor Verity Lound’s Assumption Plan is the coercive alternative.
 - Owen’s pooled infancy sponsorship creates a distributed root claim and makes him a possible transmission channel, never a rightful owner of other people’s consent.
-- Power is publicly witnessed fact. A written description never replaces the underlying act.
+- Power is publicly witnessed fact. A written description never replaces the underlying act. The shared **common future** is the civic layer that lets separate local supports recognize and coordinate with one another; Civic Zero withdraws that layer without instantly erasing every local act.
 - The final answer is collective: local, household, community-refusal, personal, refusal, and protective returns within a bounded, recorded network activate Form Zero. Owen refuses the sole representative line. Hidden branches remain an acknowledged cost. Lound survives, loses unilateral office, and is not replaced by a new final enemy.
 
 ## Rule Baseline
@@ -16,12 +16,15 @@
 - A protective return for a child or person unable to communicate requires two unrelated living witnesses, a current care act, and a named local appeal route. It covers immediate care only and never binds future consent, labor, identity, vote, or private relationships.
 - A household return is an aggregate of separately consenting adult branches. No adult signs for another; each branch has an individual withdrawal and departure right.
 - Form Zero uses a bounded completeness procedure: publish received branches, the network boundary, a challenge notice, and unresolved branches; use independent witnesses; keep an appeal route open. Unknown or unreachable people are not presumed consent.
+- The central seal is a ministerial actuator. It checks recorded branch marks, witnesses, notice, boundary, and the declared representative line, then actuates the common future when those recorded conditions are met. It cannot certify hidden truth, meaningful consent, or universal completeness. A concealed proxy can receive a finite hold but remains challengeable.
+- Final return bundles travel through regional receiving tables by courier, semaphore, river post, and rail cart. The ordinary final window closes three days before Civic Zero; late branches are logged as unresolved and can use the post-activation appeal route rather than being silently inserted.
 - A preservation cache preserves a district’s last supported legal record, not consciousness. Its archive shell may continue while a custodian, current local act, and appeal route renew it, but an individual person branch cannot be restored after the 30-day limit.
+- The destroyed Glasshall Archive is distinct from the First Seal Subvault beneath Concord Hall. The Subvault was assembled in C.Y. 9 and preserves the first surviving seal of Form Zero, its witness schedules, and selected pre-Blanking source fragments; it is not an omniscient archive or a private override.
 - A legal suspension preserves a status or an appeal window only. It does not make a bridge safe, a crossing usable, a hospital staffed, or a community fed.
 
 ## Ending Authority
 
-- Lound alone holds the institutional authority to invoke the Assumption Clause for unfiled districts while the Provisional Mandate is alive. Her proxy line is knowingly invalid under Form Zero and can create only a temporary operational hold.
+- Lound alone holds the institutional authority to invoke the Assumption Clause for unfiled districts while the Provisional Mandate is alive. At the final transition, her proxy line can obtain only a 30-day succession hold under the Mandate’s transition clause; it cannot restore the common future or remain final authority. Owen’s pooled mark could make the filing appear more complete and harder to challenge, but cannot promote the hold to a valid return.
 - Owen’s community-selected Custodian role receives, records, and transmits authorized returns. It does not let him sign for absent, sleeping, disabled, coerced, or refusing people.
 - The final Common Return is complete within a public bounded network and names what it could not know. Hidden branches remain an acknowledged cost, not an assumed representation.
 

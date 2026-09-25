@@ -3,15 +3,15 @@
 The four names had been in his notebook since the seventh day of the month in a column headed, in his own writing, *the far end*, and under that heading there were four lines, and beside two of the four lines he had written the word *priced*, which was a word he had taken from her mouth and had never given back.
 
 Elias Trant, millwright, above Wexford Landing.
-A holder of a tide table at Coal Hill. — *priced*
+A holder of a tide table at Coal Hill, and I have never once been told her name. — *priced*
 Ivet Sterne, ferry tally, Wexford Landing. — *priced*
 And the fourth, which he had never written a surname for, because she had not given him one and he had not asked and that had been a rule he had set for himself in a warm room.
 
-He got the ferry up to Mill Ward on the Wednesday afternoon and told himself on the boat that he was not going to Arbour Kitchen, and he was not, and that was fine, and he was going.
+He got the ferry up to Mill Ward on the Thursday afternoon of the thirty-first, three hours after he had been told in a ward hall to go and find a stranger, and told himself on the boat that he was not going to Arbour Kitchen, and he was not, and that was fine, and he was going.
 
 ---
 
-Arbour Kitchen at four in the afternoon on the thirtieth had nine people in it and a woman asleep on the bench by the stove with a folder on her knees, and Nell Arbour was at the back with her ledger open and her left hand held slightly away from her body in the way it had been held for six years, and she did not get up.
+Arbour Kitchen at four in the afternoon on the thirty-first had nine people in it and a woman asleep on the bench by the stove with a folder on her knees, and Nell Arbour was at the back with her ledger open and her left hand held slightly away from her body in the way it had been held for six years, and she did not get up.
 
 "You have not been to see me for four weeks," she said.
 
@@ -53,7 +53,7 @@ She squared the ledger.
 
 ---
 
-He asked badly at about eleven on the Thursday morning of the thirty-first, at a mill above Wexford Landing, and he asked badly because he had spent the whole of the ferry rehearsing a version in which he did not ask for anything, which is the standard way a man asks for everything.
+He asked badly at about eight on the Friday morning of the thirty-second, at a mill above Wexford Landing, and he asked badly because he had spent the whole of the ferry and most of the night rehearsing a version in which he did not ask for anything, which is the standard way a man asks for everything.
 
 Elias Trant was fifty-odd and had a millwright's hands and was in the middle of something when he came out, and Owen stood in the wet yard and got about four seconds in before the man said:
 
@@ -83,7 +83,7 @@ He put his hand on the mill door.
 
 ---
 
-Wexford Landing is a stone stair and a tide table nailed to a post and a woman who keeps the table in a hut at the top of it. She is not an officer of anything, has never been one, and is not on any list that Owen has ever seen.
+Wexford Landing is a stone stair and a tide table nailed to a post and a woman who keeps the table in a hut at the top of it. She is not an officer of anything, has never been one, and is not on any list that Owen has ever seen. She is also, and this is worth a paragraph because it has cost him four weeks of carrying four names in a column, not the woman at Coal Hill. Two tide tables. Two landings. Two women, both of them difficult, both of them used, and the only thing Owen had ever done about it was to write one of them down in a line and let the other one be understood, which is a thing a man does with a list and is precisely why nobody has ever thought to ask him about it.
 
 She had the ferry tally in front of her and a dozen crossings in it for the day and she wrote up the last while Owen stood in the door, and when she had finished she put the pen in the tin and said:
 
@@ -127,11 +127,11 @@ She put the list on the table in about forty seconds flat.
 
 "That is better than anything I could have written," said Owen, "and I have been writing things like it for four weeks."
 
-"I know. I have read your ward's return. A man on the boat had it. I read it because a woman I have had words with told me to read it and I read it because she is usually right and I usually do not do it." She took the list back. "Now. No."
+"I know. I have read your ward's return. A man on the boat had it. I read it because the woman at Coal Hill told me to read it, and she is the one I have had words with, and I read it because she is usually right and I usually do not do it." She took the list back. "Now. No."
 
 "Right."
 
-"Not yet," said Ivet Sterne. "That is not the same, and you have got until four o'clock tomorrow afternoon to find the difference in, so I will give it to you. Your ward has agreed to have its hours read by a stranger. Whose hours?"
+"Not yet," said Ivet Sterne. "That is not the same, and you have got until four o'clock this afternoon to find the difference in, so I will give it to you. Your ward has agreed to have its hours read by a stranger. Whose hours?"
 
 "The crew's. The pump. The standpipe rota. The granary count. Four houses and a man of fifty-eight on the standpipe."
 
@@ -143,21 +143,25 @@ She put the list on the table in about forty seconds flat.
 
 "It is not."
 
-"Then I will tell you what I have decided," said Ivet Sterne, "and I have not decided it yet, and I am going to go up the stair and think about it, and you are going to come back at four o'clock tomorrow with three answers, and if I like them I will come for one day, and one day is all of it, and I will write you the reason why it is one day in your book so that whoever asks me next year knows I said it out loud the first time."
+"Then I will tell you what I have decided," said Ivet Sterne, "and I have not decided it yet, and I am going to go up the stair and think about it, and you are going to come back at four o'clock this afternoon with three answers, and if I like them I will come for one day, and one day is all of it, and I will write you the reason why it is one day in your book so that whoever asks me next year knows I said it out loud the first time. And I am giving you five hours and not three days, and I want you to understand that the five hours is the answer to the question you are about to ask me, which is *why so soon*, and the answer is that a person who gives you three days is buying something, and I am not selling."
 
 ---
 
-He got the three answers on the landing at four o'clock in the rain on the Friday afternoon of the thirty-second, and he had the ferry up at seven in the morning and sat on the top step out of the wind for six hours with a notebook and a bad sandwich, which is a thing that a man who has asked a woman for a favour spends the day doing.
+He got the three answers on the landing at four o'clock in the rain on the Friday afternoon of the thirty-second, and he had come back on the mid-morning boat and sat on the top step out of the wind for the rest of the day with a notebook and a bad sandwich, which is a thing that a man who has asked a woman for a favour spends a day doing.
 
 **One.** What the wage was. The crew's wage, four months in arrears, not a fund and not a grant, an arrear, and the figure, which he said out loud on a landing because a person who will not say a number is a person who wants something.
 
-**Two.** Who had asked her. Not him. The ward. In writing, on the ward's paper, not the Registry's.
+**Two.** Who had asked her. Not him. The ward. In writing, on the ward's paper, not the Registry's. And this one nearly lost it, and he lost most of an hour on it, and the reason is worth putting down because it is the whole of what he has learned in a month: he had come up the hill with the answer ready, and the answer was a sentence he wanted to be able to say, and the sentence was *the ward has asked you*, and the ward had not asked her. The ward had agreed, in a hall, on the Thursday morning, in front of twenty-two people, to be read by a person from another district on a day of the ward's own choosing — and Marguerite Bray had ruled that minute into the delivery book in her own hand, with her name at the foot of it, and the day had not been named, and nobody had asked her yet, and a Registry man with an armful of answers could have said *asked* and been believed.
+
+What he said instead was: *the ward has agreed to it in a book, on Thursday, in a room with twenty-two people in it, and the line has her name at the bottom of it, and the day is not named and I am not going to name it, because a day named by a clerk in a Registry building is a day you were sent.*
+
+Ivet Sterne read his face for a second and then said, "That is the request. I will take the book and not a letter, and on the day somebody from that ward will hand it to me with both hands, and if it comes out of a coat like yours I will go home."
 
 **Three.** What happened after. Nothing yet, and the honest answer, which was the answer that nearly lost it: if it is not funded then the roster is a list of what people are owed and not a list of what they are paid for, and the room is going to know that by the second week, and the correct thing to do about it is for the ward to say so itself before somebody from a stranger's hall says it for them.
 
 Ivet Sterne listened to all three and then went and got a pencil and wrote four lines on the back of a ferry ticket and gave them to him, and this is the whole of them:
 
-*I will come on the thirty-eighth day of this month from first light to dark, to the pump, to the path, to the hall, and I will write what I saw in my own hand and give it to the ward and not to the office. One day. I will come again on any further day the ward itself names in writing, having asked me, and there is no day after that unless they write again. If the wage is not funded I will say so in my own line, in my own words, and I will not soften it, and the ward must not ask me to.*
+*I will come on the thirty-eighth day of this month from first light to dark, to the pump, to the path, to the hall, and I will write what I saw in my own hand and give it to the ward and not to the office. One day. On the day, a person of that ward hands me the delivery book with both hands, and if the paper comes out of a coat like yours I go home. I will come again on any further day the ward itself names in writing, having asked me, and there is no day after that unless they write again. If the wage is not funded I will say so in my own line, in my own words, and I will not soften it, and the ward must not ask me to.*
 
 Owen Rusk stood on a ferry landing in the rain with a piece of paper in his hand and understood that he had been given a better instrument than anything he had written in a month, by a person who owed him nothing, had met him once, and had spent nine minutes counting.
 
@@ -181,4 +185,4 @@ She put her left hand in her coat.
 
 "I know you would not. That is the part I have had for four weeks." She looked at the water, which was doing the thing it does in the fourth week. "You have found somebody with no stake in it. That is not what I would have found, and you did not ask me what I would have found, and I want you to notice that that is the first time in nine years that you wanted what I would have done less than you wanted the thing."
 
-Owen Rusk did not have an answer to that and did not manufacture one, and Nell Arbour got on the half past ferry and went down to her own afternoon, and the thing he took upriver with him, on a wet Friday in the fourth week of the rain season, was a ferry ticket with four lines on the back of it, and a return that came due that same day, and a ward that was about to set a marker at seven forty in the morning for the fifth consecutive week and to be read, on a day of its own choosing, by a woman who had told him to his face that being legible is not the same as being paid.
+Owen Rusk did not have an answer to that and did not manufacture one, and Nell Arbour got on the half past ferry and went down to her own afternoon, and the thing he took upriver with him, on a wet Friday in the fourth week of the rain season, was a ferry ticket with four lines on the back of it, and a return that had come due that same day, and a ward that had set a marker at seven forty that morning and would set it again on Thursday for the sixth week running, and was going to be read, on a day of its own choosing and on its own paper, by a woman who had told him to his face that being legible is not the same as being paid.

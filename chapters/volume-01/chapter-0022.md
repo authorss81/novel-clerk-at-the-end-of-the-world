@@ -6,7 +6,7 @@ A **schedule of a redacted batch** is a list of entry numbers and nothing else, 
 
 What it cannot do is tell him anything. He knew that. He had gone down there anyway, because the size of a thing is the first thing a man needs and everything after it is detail.
 
-The clerk brought it out in about four minutes, on a single sheet, initialled and dated and handed across the counter with the two fingers that clerks use to indicate that a thing is going away from them. Forty-one lines, numbered from one to forty-one in the officer's own hand, and against each line a **residence-status entry number** and nothing else. No names. No addresses. No quarter-by-quarter reason, because the ground is on the batch in the Redaction Register and repeating it forty-one times would make it longer and not truer.
+The clerk brought it out in about four minutes, on a single sheet, initialled and dated and handed across the counter with the two fingers that clerks use to indicate that a thing is going away from them. Forty-one lines, numbered from one to forty-one down the side in the officer's own hand — the numbers down the side being the lines and not the entries, and the entry numbers against them being in the order the officer had gone down the queue, which is not an order anybody chose and is the only order anybody had — and against each line a **residence-status entry number** and nothing else. No names. No addresses. No quarter-by-quarter reason, because the ground is on the batch in the Redaction Register and repeating it forty-one times would make it longer and not truer.
 
 Owen read it standing at the counter because there was nowhere to sit, and it took him about four minutes, and he did not copy it, and he did not take his notebook out in the room, which was the second time in two days that he had made himself do a thing he wanted and he was becoming aware that he was making a habit of refusing himself things and that a man who is always refusing himself things is a man who has begun to need a rule.
 
@@ -62,7 +62,11 @@ The third was a form 12-B, carried, unmarked, in the week of the eleventh of the
 
 Owen Rusk put the sheet down very carefully, squared it to the edge of the board, and sat there for the better part of a minute and a half without moving, and then he did the arithmetic, and the arithmetic was the worst thing that had happened to him since a boy had come out of a spillway alive on the second week of the month.
 
-Thirty-seven of the forty-one on that schedule were a stranger. Three of them were a form in a bag. One of the three was a **form 12-B** — which is the form a person presents at a county intake sub-table asking for a district consolidation schedule naming their district's public works — and it had been carried to a counter upriver in the week of the eleventh of a month in the fourth quarter of Concord Year 471 by somebody who was not the person it belonged to.
+Thirty-seven of the forty-one on that schedule were a stranger, and he never found out one single thing about one single one of them, and they are a stranger now and they will be a stranger at the end of the year. The other three were three pieces of paper he had handled inside nine years. Two of them were a quarterly roll notice going to a public counter on somebody's authority, which is a form that happens twice a quarter and is read out in ward halls four times a quarter. And the third was the form 12-B, and he had to be careful with the form 12-B, because it is exactly the kind of document a tired man at the end of a long day will help a document to say.
+
+And here is the part he had to stop and be careful about, because it is the part where a man who is tired makes a document say something it does not say.
+
+A residence status is not a form 12-B. A consolidation schedule is not a residence status. The 12-B was not one of the forty-one and never could have been, and the ground on the batch — *revision of residence status, flood quarter arrears* — has nothing on its face to do with it. The form 12-B is what a person presents at a county intake sub-table asking for a district consolidation schedule naming their district's public works, and it had gone out in the week of the eleventh of a month in the fourth quarter of Concord Year 471 against the same entry number, in the same bag, on the same carrier's authority, because a person whose address is in question cannot get to a counter twice and asks somebody else to take two pieces of paper in one walk.
 
 He had copied that line. Nine years ago, when he was twenty-three and in his second year on the desk, he had copied four hundred route lines in a week and had done the form 12-B line in the same pen and at the same speed as the rest, and had not looked at it twice.
 
@@ -76,7 +80,7 @@ He found Pell at the second desk at about half past two with the tray between th
 
 He said it straight, because he had learned in four weeks that she will not give you a courtesy and that the attempt to earn one costs a whole conversation.
 
-"I have a schedule of forty-one entries in my notebook as three numbers. Three. I did not copy the list. I went through nine years of route lists and found three of the forty-one numbers on them, and one of them is a form 12-B carried to a sub-table counter in the week of the eleventh in the fourth quarter of four hundred and seventy-one, and I copied that line myself when I was twenty-three."
+"I have a schedule of forty-one entries in my notebook as three numbers. Three. I did not copy the list. I went through nine years of route lists and found three of the forty-one numbers on them, and one of those three had a form 12-B carried against it to a sub-table counter in the week of the eleventh in the fourth quarter of four hundred and seventy-one, and I copied that line myself when I was twenty-three. And the 12-B is not one of the forty-one and is not about a residence status, and I want that written down in the right order so that nobody can use the second thing to get at the first."
 
 Pell did not say anything for a moment. Then she took the tray off the board and set it on the floor on her own side, which is what she does when she is going to say something she has said before.
 
@@ -122,7 +126,7 @@ She got up and picked the tray off the floor.
 
 He wrote it out that night, in the four lines, and then he read it and added the last line, which was the only speculative thing in the register and which he marked as speculation because that is what a register is for:
 
-*What I have: a batch of forty-one, one sitting, one officer, one interval throughout. A schedule of forty-one numbers, seen, not copied. Three of the forty numbers in my own hand from route lists, one of them a form 12-B carried in the week of the eleventh. The batch number, the officer's initials, the date struck. Nothing else. Nobody has asked anything. The Office has not explained anything and is not going to.*
+*What I have: a batch of forty-one, one sitting, one officer, one interval throughout. A schedule of forty-one numbers, seen, not copied. Three of the forty-one numbers I have handled inside nine years off route lists, carried against the same entry numbers in the week of the eleventh, one of them a form 12-B, which is not one of the forty-one and is not about a residence status. The batch number, the officer's initials, the date struck. Nothing else. Nobody has asked anything. The Office has not explained anything and is not going to.*
 
 *What I do not have: a name, an address, a person's face, a second day in the same row, or any instrument on this earth that would let one man see the other forty.*
 

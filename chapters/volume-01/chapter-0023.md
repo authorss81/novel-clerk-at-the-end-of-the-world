@@ -2,7 +2,7 @@
 
 The point of law had to be written down before ten in the morning, and writing it down took him until a quarter to ten, and the reason it took him until a quarter to ten was that he had it four different ways and every one of the four was a lie dressed as a question.
 
-*Whether the Registry may refuse a community return without publishing a schedule of its refusals.* That was the one. He wrote it at the top of a clean sheet and looked at it for about a minute and a half and could not decide whether it was a point of law or a pamphlet, and then he read Pike's Chapter 17 corridor back to himself — *there are districts in this county that have not come to this office with anything since the flood year* — and understood that if he wanted the Office's own record of its conduct then the *conduct* had to be the thing the point was about, because the Office will fight about a question it can answer and will concede a question it cannot.
+*Whether the Registry may refuse a community return without publishing a schedule of its refusals.* That was the one. He wrote it at the top of a clean sheet and looked at it for about a minute and a half and could not decide whether it was a point of law or a pamphlet, and then he read the corridor of the seventeenth day of the month back to himself — *there are districts in this county that have not come to this office with anything since the flood year* — and understood that if he wanted the Office's own record of its conduct then the *conduct* had to be the thing the point was about, because the Office will fight about a question it can answer and will concede a question it cannot.
 
 So the point was not *may the Registry honour a return*. The point was the smaller one, the duller one, the one that had a number in a volume somewhere if anybody had ever gone and looked for it.
 
@@ -56,7 +56,7 @@ He read it twice and said, out loud, in an empty record room, to a woman he did 
 
 "Nothing," said Owen. "I said it to myself. It is a good precedent and it is the wrong one for me and you have given it to me on purpose."
 
-"I have given it to you because you asked a point about refusals and a refusal is the first half of a precedent and the second half is what the office may do about a return, and you did not ask that half, and there is a reason not to ask for that half in a room with two people in it." She turned the page round. "Thirty-seven C is under the counter for two days and you may read it. Not take it out. Read it here. And I am going to tell you what the reason I gave you twelve A is, because you are going to spend two days working out whether you were obstructed, and you were not."
+"I have given it to you because you asked a point about refusals and a refusal is the first half of a precedent and the second half is what the office may do about a return, and you did not ask that half, and there is a reason not to ask for that half in a room with two people in it." She turned the page round. "Thirty-seven C is on the counter after the lunch hour and you may read it. Not take it out. Read it here, and take as long as you want over it, because there is nobody behind you in this room at two o'clock on a Wednesday. And I am going to tell you what the reason I gave you twelve A is, because you are going to spend the rest of this afternoon working out whether you were obstructed, and you were not."
 
 "Go on."
 
@@ -64,11 +64,11 @@ He read it twice and said, out loud, in an empty record room, to a woman he did 
 
 ---
 
-He read 37/C on the Thursday morning, on the second day, at a table in a room two floors below the counters with the volume open in front of him and a chair he was not supposed to bring up from the floor.
+He read 37/C at ten past two on the Wednesday afternoon, the same afternoon, at a table in a room two floors below the counters with the volume open in front of him and a chair he was not supposed to bring up from the floor.
 
 It is two hundred and nine words long.
 
-He had expected — he had not known what he had expected, and he found the having-not-known-it the most interesting thing about the morning — he had expected four pages, or a schedule, or a memorandum with a finding at the end of it.
+He had expected — he had not known what he had expected, and he found the having-not-known-it the most interesting thing about the afternoon — he had expected four pages, or a schedule, or a memorandum with a finding at the end of it.
 
 It is two hundred and nine words and it is one paragraph and it is written in the hand of the compiler, which is a small upright hand that does not hurry and does not editorialise, and he read it, and then he read it again, and then a third time over a period of about forty minutes with three bad cups of water, and then a fourth time at the copying floor that evening with a sheet of paper and a sharp pencil he had had to sharpen because it was the pencil he had not sharpened in a month and it was blunt.
 
@@ -92,9 +92,9 @@ The first three are the ward's. A roll — the ward has one, in Marguerite Bray'
 
 The fourth is not the ward's.
 
-He sat in the copying hall on the second floor at half past six in the evening of the thirtieth day of the month with a clean sheet in front of him and did the work of the afternoon properly, in the order the Office keeps things in, which is the only order in which anything in this building can be examined.
+He sat in the copying hall on the second floor at half past six in the evening of the thirtieth day of the month with a clean sheet in front of him and wrote the precedent out properly, in the order the Office keeps things in, which is the only order in which anything in this building can be examined.
 
-**What the precedent does not do.** It does not say that the Registry is obliged to honour a return. There is no *must* in it anywhere. Owen went back to the volume on the Friday morning and read it a fifth time with a pencil in his hand to look for one, and there is not one, and there is not one anywhere in the two hundred and nine words, and the absence of a *must* in a document of this kind is not an oversight, it is the architecture.
+**What the precedent does not do.** It does not say that the Registry is obliged to honour a return. There is no *must* in it anywhere. Owen asked for the volume a second time on the Friday morning and read 37/C a fifth time with a pencil in his hand to look for one, and there is not one, and there is not one anywhere in the two hundred and nine words, and the absence of a *must* in a document of this kind is not an oversight, it is the architecture.
 
 **What the precedent does do.** It records what the Registry has done before, four times over, in one place, in one instrument, and the fourth ground of the four is a schedule of the office's refusals for the quarter, published.
 
@@ -118,12 +118,12 @@ He wrote four lines in the register and stopped, and then wrote a fifth, which h
 
 ---
 
-He did not go up the hill and tell the ward. He read the precedent four times and he went to work and he did a hundred and forty sheets of comparison and he went home, and he did not tell Pell, and he told nobody at all, and on the Wednesday evening he went upriver with a sheet of copying paper in his coat with the schedule of the Coldwater matter on it in his own square hand, because a schedule is a list of numbers and dates and a ward's acts, and it is the sort of thing a man takes to a hall, and he had carried it up the hill in the inside pocket on the left and he was going to leave it on the table and go away and let it be read.
+He did not go up the hill and tell the ward. He read the precedent four times and he went to work and he did a hundred and forty sheets of comparison between four o'clock and half past seven and he did not tell Pell, and he told nobody at all, and at half past seven on the Wednesday evening he went up the hill on the footpath with a sheet of copying paper in his coat with the schedule of the Coldwater matter on it in his own square hand, because a schedule is a list of numbers and dates and a ward's acts, and it is the sort of thing a man takes to a hall, and he had carried it up the hill in the inside pocket on the left and he was going to leave it on the table and go away and let it be read.
 
 He stood in the doorway of the ward hall at half past eight on the thirtieth day of the month and gave it to Marguerite Bray and explained in about ninety seconds what it was, and she read it standing up, which takes longer than sitting down, and she said one sentence, which was *that is somebody's good week*, and gave it back to him, and then, after Owen had put his hand on the door frame and was about to leave, said the second sentence, which was:
 
 "Leave it out on the table tonight and do not take it up at seven forty tomorrow, and go home and sleep, and let Ada find it, because I have been in this ward thirty-six years and I know which of the two of you is going to be able to use it and it is not the one with the Registry's card."
 
-And on the Wednesday night, while Owen Rusk walked down the hill with his hands in his coat pockets and the sheet of copying paper still in his coat, Marguerite Bray read a schedule of a precedent case aloud in a granary to a dozen people at the double count, because a man from the mill had asked what the paper was and she had handed it to him, and he had read the second column out loud because it is a column of dates and hours and a column of dates and hours can be read aloud to anybody at all.
+And on the Wednesday night, while Owen Rusk walked down the hill with his hands in his coat pockets and nothing whatever in the inside pocket on the left, because he had done as he was told, Marguerite Bray read a schedule of a precedent case aloud in a granary to a dozen people at the double count, because a man from the mill had asked what the paper was and she had handed it to him, and he had read the second column out loud because it is a column of dates and hours and a column of dates and hours can be read aloud to anybody at all.
 
 And by the Thursday morning the ward knew.

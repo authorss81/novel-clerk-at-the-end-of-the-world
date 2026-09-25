@@ -7,7 +7,7 @@ It was a sheet of copying paper with a heading on it and five lines under the he
 *Marker — Thursday and Friday, seven forty, two at the top path, three at the path end.*
 *Channel clearance — Wednesday night, after the mill silts down.*
 *Pump prime — Thursday, four in the morning, and again if it fails.*
-*Granary double count — Thursday night, bins against the book.*
+*Granary double count — Wednesday night, bins against the book, written up Thursday afternoon.*
 *Standpipe rota — carried.*
 
 Then, in the space underneath, in Ada Rusk's capitals, two words: **third week.**
@@ -68,7 +68,7 @@ A quarter's arrears. A backlog. The condition of an office in a flood year, when
 
 Forty-one entries. Struck in one sitting. Struck by an officer whose initials were on the line.
 
-And he knew the initials, because he had known them for four weeks, and he had watched the man put a flat hand on a table in a ward hall and make a room stop talking, and had heard him say *every district I stabilise is a district that does not drown somewhere else*, and had refused a lateral posting at better pay on the strength of it.
+And he knew the initials, because he had known the man behind them for four weeks, and had watched him put a flat hand on a table in a ward hall and make a room stop talking, and had heard him say *every district I stabilize is a district that does not drown somewhere else*, and had refused a lateral posting at better pay on the strength of him.
 
 H.L.P.
 
@@ -92,7 +92,7 @@ Owen did not say anything for a few seconds.
 
 "Right," said Owen.
 
-"And you will have to give your name to have it produced. That goes in the production note and the production note is kept. You are not asking for a thing for the ward. You are not asking as an assisting clerk. You are asking as the person named in entry one of batch 471/Q4/19, and the moment you say that sentence out loud to a person in this building it does not stop being true, and there is no form on which either of us could take it back."
+"And you will have to give your name to have it produced. That goes in the production note and the production note is kept. You are not asking for a thing for the ward. You are not asking as an assisting clerk. You are asking as the person named in entry nine of batch 471/Q4/19, and the moment you say that sentence out loud to a person in this building it does not stop being true, and there is no form on which either of us could take it back."
 
 "I understand," said Owen Rusk.
 
@@ -100,7 +100,7 @@ Owen did not say anything for a few seconds.
 
 ---
 
-He asked for it in the request register, in his own name, in the correct form, with the number and the volume and the reason, and he put the reason down as *person named in entry 1 of redaction batch 471/Q4/19*, and the counter clerk wrote it out without a change of expression and initialled it and gave him the counterfoil, which is the copy that goes to the office, and told him that his own copy would be posted to him in a week by the ordinary post because anybody may have a copy of anything he has asked for.
+He asked for it in the request register, in his own name, in the correct form, with the number and the volume and the reason, and he put the reason down as *person named in entry 9 of redaction batch 471/Q4/19*, and the counter clerk wrote it out without a change of expression and initialled it and gave him the counterfoil, which is the copy that goes to the office, and told him that his own copy would be posted to him in a week by the ordinary post because anybody may have a copy of anything he has asked for.
 
 A request is not a filing. A filing is a thing somebody can answer and this is a thing somebody can only note, and he wrote that on the counterfoil as well, in his own hand, before he put it in his pocket, because in a year he was going to want to have written it down somewhere.
 
@@ -116,7 +116,7 @@ A clerk stood at the door. It was a young man and he had a sheet and a pencil an
 
 The first column was a number. The second column was a number. The third was a number of days.
 
-Forty-one rows. Entry number, residence-status entry number, days pending.
+Forty-one rows. Entry number, residence-status entry number, days pending. The rows were in the order the officer had gone down the queue, and not in the order of the numbers, and the first row was therefore not entry one, and Owen understood what that was in about a second and did not enjoy understanding it.
 
 Owen read the first row.
 
@@ -156,7 +156,7 @@ He read the other forty rows, standing up, at the pace of a man reading a menu, 
 
 He did not copy it.
 
-He stood there and made himself want to and then did not do it, and the reason, which he wrote down that night in the notebook he has never called anything else, was the reason from the Sunday in the index room with the county intake register: a page of a redacted batch in a sewn notebook with a bad clasp makes the notebook a document that contains a redacted batch, and from that day it cannot be lent and cannot be read on a table in a hall and cannot be handed to a counter clerk, and it is a shorter step from a notebook to a search than people who have never done it imagine.
+He stood there and made himself want to and then did not do it, and the reason, which he wrote down that night in the notebook he had already told a woman in a hall was a register, was the reason from the Sunday in the index room with the county intake register: a page of a redacted batch in a sewn notebook with a bad clasp makes the notebook a document that contains a redacted batch, and from that day it cannot be lent and cannot be read on a table in a hall and cannot be handed to a counter clerk, and it is a shorter step from a notebook to a search than people who have never done it imagine.
 
 So he wrote down three things and nothing else, and squared his chair under the table, and went out past the clerk at the door at ten to three, and the clerk wrote the hour down, and did not look at him, and said nothing at all, which was the single most decent thing that happened to Owen Rusk that month.
 
@@ -164,7 +164,7 @@ So he wrote down three things and nothing else, and squared his chair under the 
 
 He did not tell the ward. He want to be exact about that, because it was a decision and not an accident, and because a decision that gets made by accident is not a decision.
 
-He did not tell Pell. He did not tell the ward because Ada Rusk would have understood it in about four seconds and would have said something true about it, and he had spent four weeks discovering that when Ada says something true about it she is usually right and it is usually expensive, and he did not tell the ward because on the Thursday of that week the ward had to renew a return for the sixth time in three weeks, and a room does not need to know that the man who keeps their paper tray in the middle of it has found out what the Office did to his mother in a flood-year quarter, and there was no version of telling them in which the telling was for them.
+He did not tell Pell. He did not tell the ward because Ada Rusk would have understood it in about four seconds and would have said something true about it, and he had spent four weeks discovering that when Ada says something true about it she is usually right and it is usually expensive, and he did not tell the ward because on the Friday of that week the ward had to renew a return for the second time in a fortnight, and a renewal is a Friday in this office whatever the ward would rather it was, and a room does not need to know that the man who keeps their paper tray in the middle of it has found out what the Office did to his mother in a flood-year quarter, and there was no version of telling them in which the telling was for them.
 
 He told nobody in the Office. He told nobody anywhere. He went up to the copying floor at four and compared ninety-one sheets and got through them, and at half past five he put the tray card in the drawer it lives in, and the tray had seven things in it, none of which had a schedule, and one of which was a folded letter addressed to a name he had copied four hundred times a quarter for nine years and which came, immediately, without any difficulty at all, into his head, and he wrote it out on the routing slip, and got it right, first time, in under a second.
 
@@ -186,7 +186,7 @@ And then he went home upriver to a room where there was nothing on the table but
 
 It is that the notebook is a copy of his attention and that a copy of his attention is a thing that can be searched.
 
-*Batch 471/Q4/19. Struck the 12th, fourth quarter, C.Y. 471. Forty-one entries, eleven days each, one sitting, one officer, ground: revision of residence status, flood quarter arrears. Three things and no names. I am the only living person named in the first entry. I have been one since I was sixteen and I did not know it was a fact with a number on it.*
+*Batch 471/Q4/19. Struck the 12th, fourth quarter, C.Y. 471. Forty-one entries, eleven days each, one sitting, one officer, ground: revision of residence status, flood quarter arrears. Three things and no names. I am the only living person named in entry nine, and entry nine is the first row because that is the order he went down the queue in, and I have not decided yet whether that is a comfort and I do not think it is. I have been one since I was sixteen and I did not know it was a fact with a number on it.*
 
 *Eleven days is not the fever. Eleven days is when she was not at her address and a person who is not at an address does not get the medicine and cannot be buried by her own people. She was buried in March and the dispute ran eight months and the correct number for that is eight months and it is not eleven days and I am not going to be the sort of man who swaps them.*
 

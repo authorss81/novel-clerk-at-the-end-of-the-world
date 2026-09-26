@@ -36,7 +36,7 @@ He turned it over and read it and sat down.
 
 Nobody said anything for a few seconds. There is a stove in that hall and it ticked.
 
-"The third one is new," said Ada Rusk. "The first three weeks of the season I have been the sister who brings a paper. I have decided I would like to be the district that asks for a number about itself before it is written, because there is a fourth column on that board now and it went up on the seventh of this month and it took an afternoon and it cost the county nothing, and it is the first thing anybody in this city has put on a public board in my lifetime and I am not going to be the district that complains about it afterwards."
+"The third one is new," said Ada Rusk. "The first three weeks of the season I have been the sister who brings a paper. I have decided I would like to be the district that asks for a number about itself before it is written, because there is a fourth column on that board now and it went up on the ninth of this month and it took the woman who keeps the board forty minutes, and it cost the county nothing, and it is the first thing anybody in this city has put on a public board in my lifetime and I am not going to be the district that complains about it afterwards."
 
 "You want to be a row on a board," said Owen Rusk.
 
@@ -50,7 +50,7 @@ Nobody said anything for a few seconds. There is a stove in that hall and it tic
 
 She had it worked out and it took her about four minutes and she did it in the flat voice she uses for a roster.
 
-"Everyone in this county now knows your name and nobody in this county knew it on the seventh of this month," said Ada Rusk. "You put a column on a board that a man from this ward's own boiler-room stood in front of on the Friday, and Cobb Rennie is a man of fifty-eight and he stood in front of it and asked what the eleven was, and he is going to be asked that again by people who are not him. And you are the officer of the record of the district returns of this district. That is not a thing anybody voted for. It is a thing you are.
+"Everyone in this county now knows your name and nobody in this county knew it on the seventh of this month," said Ada Rusk. "You put a column on a board that a man from this ward's own boiler-room stood in front of on the Saturday, and Cobb Rennie is a man of fifty-eight and he stood in front of it and asked what the eleven was, and he is going to be asked that again by people who are not him. And you are the officer of the record of the district returns of this district. That is not a thing anybody voted for. It is a thing you are.
 
 "So on the twenty-first of this month there is going to be a room with a stone in it and about a dozen people in it, and there is going to be a slate and a man of sixty from the count, and there is going to be a woman from Concord Hall or there is not going to be anybody from Concord Hall, and either way the room is a room in which the officer of the record of this district's returns is standing up, holding the only book anybody in it can check anybody else's book against.
 
@@ -106,13 +106,13 @@ He did not open the notebook that does not go on a table. He wrote one line on t
 
 ---
 
-The schedule was wired up on the Wednesday morning, and it was the eighth day of the month, a Wednesday, and the woman who maintains the board had a ladder out and there were about nine people at the frame, and Owen Rusk was one of them, and he read the fifth column, which is the printing shop's hand, and which was the printing that tells you when a place is coming, and it took him about four seconds.
+The schedule was wired up on the Wednesday morning of the ninth, and the woman who maintains the board had a ladder out and there were about nine people at the frame, and Owen Rusk was one of them, and he read the fifth column, which is the printing shop's hand, and which was the printing that tells you when a place is coming, and it took him about four seconds.
 
 **Third week. Lower Lock.**
 
 The third week of the season is the week of the fifteenth of the month, and the day-book, which had been up since the first working day, had four lines on it and would not have five until somebody did something in a room.
 
-**Owen Rusk stood at a board in a field behind the tanneries for about two minutes and did not say anything, and Ada Rusk came down the hill on the Friday morning to look at it and read it in about the time it takes to read a menu, and said one word.**
+**Owen Rusk stood at a board in a field behind the tanneries for about two minutes and did not say anything, and Ada Rusk came down the hill on the Thursday morning to look at it and read it in about the time it takes to read a menu, and said one word.**
 
 "Twenty-first," she said.
 
@@ -134,7 +134,7 @@ She looked at the board for a while.
 
 Owen Rusk said it shorter.
 
-He walked up Fetter Lane at about ten past ten in the morning on the eighteenth of the month with four words in his mouth and the eleven-day notice running out behind him, because the season's notice had been out since the first and there is nothing on any form in this county that says when it stops, and the day-book is a week and not a day, and the fourth row was eleven doors and a figure, and he was going to be in a room on the twenty-first of the month with a stone in it and he was not going to be permitted to speak.
+He walked up Fetter Lane at about ten past ten in the morning on the seventeenth of the month with four words in his mouth and the eleven-day notice running out behind him, because the season's notice had been out since the first and there is nothing on any form in this county that says when it stops, and the day-book is a week and not a day, and the fourth row was eleven doors and a figure, and he was going to be in a room on the twenty-first of the month with a stone in it and he was not going to be permitted to speak.
 
 At the top of the lane there were two notices on a post. The first was four thousand one hundred and sixty pounds and the words *any district able to perform the repair is invited to perform it*, and it had been up in the weather since the spring, and the second was the counting season's notice with eleven names on it, and neither of them had changed, and he read the first one because he always read the first one, and did not read the second one at all, because he has read it nine times and could say it.
 

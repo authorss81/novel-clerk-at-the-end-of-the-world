@@ -8,7 +8,7 @@ She was cold and she was pleased about it and she would not have either of them 
 
 He carried it. She let him.
 
-The man of about fifty said four words to him in three days. He said them on the Thursday morning at the door of the long room, and they were *she wanted to come*, and Owen Rusk said thank you, and neither of them said anything else to each other at any point in the following eighteen months, and he never learned the man's name, and there is no form anywhere in this county on which a man sitting outside a room is asked one.
+The man of about fifty said four words to him in three days. He said them on the Thursday morning at the door of the long room, and they were *she wanted to come*, and Owen Rusk said thank you, and neither of them said anything else to each other at any point for the rest of that day, and he did not learn the man's name, and there is no form anywhere in this county on which a man sitting outside a room is asked one.
 
 ---
 
@@ -20,7 +20,7 @@ Warden Kade came in at about five to ten and did not sit at the front and did no
 
 **HARK HOLM. A count correction of the Concord Year 484. A challenge to the currency of the instrument. The applicant: Owen Rusk, Continuance Examiner of the Count, Docketford district.**
 
-The officer was the same woman and she had no district in the matter and she had a slate and no coat, and she had read the challenge on the Monday and had taken about four minutes over it, and she began by putting it face down.
+The officer was the same woman who had examined his application on the third of this month, and she had no district in the matter and no coat, and she had read the challenge on the Monday and had taken about four minutes over it, and she began by putting it face down.
 
 "Before I hear anything, applicant. I am going to do the thing I did to you on the third of this month, and I am going to do it in front of thirty people, and you are going to answer it in the same words you used with me, and if you use different words I am going to stop you."
 
@@ -62,7 +62,7 @@ He stood at the side of the table with the plain stone on it and he said it in a
 
 "**I want it found that the eleven households that went off that reach on the fifteenth of the Concord Year 484 are not in this challenge, cannot be in this challenge, and are not affected by whatever I say this morning.** A reconciliation is a statement about premises. I have examined a correction with a schedule of premises attached to it and a figure in a box, and there is no box on that form anywhere for the number of people on a reach. There is no figure in this county for those eleven. I have looked. And the reason the reason column on the public board is a figure is not laziness and is not policy — it is that the form is made for a machine that reconciles four hundred districts, and the machine does not need to know why a place has four doors.
 
-"And I have spent a week in this season being pleased with myself about a fourth column. I want it entered that the fourth column is a column of figures, and that I asked for it, and that it cost the county nothing, and that on the seventh day of this month I said in a field in front of about thirty people that it was not a remedy and I did not know what it was. **I know now what it is. It is a column that can be printed and cannot be filled. And this morning is the first time in this season that anybody in a room has wanted a figure out of it, and it is the figure I have been the most proud of and it is not in it.**"
+"And I have spent a week in this season being pleased with myself about a fourth column. I want it entered that the fourth column is a column of figures, and that I asked for it, and that it cost the county nothing, and that on the twelfth day of this month I said in a field in front of about thirty people that it was not a remedy and I did not know what it was. **I know now what it is. It is a column that can be printed and cannot be filled. And this morning is the first time in this season that anybody in a room has wanted a figure out of it, and it is the figure I have been the most proud of and it is not in it.**"
 
 Then the officer determined, and the determination took about four minutes to read out and he wrote it all down afterwards in a register that leaves the building and has never been read by anybody but him.
 
@@ -84,7 +84,7 @@ And Warden Kade said, from the chair against the wall, before the officer had go
 
 "Ma'am —"
 
-"Listen to me for ninety seconds and then I will answer the applicant for as long as he wants and I will do it in the ordinary voice and I will not do it once." She had not got up. "That is the reason the form is what it is. Every person in this room has understood that the reason the reason box is a figure is that the machine does not need to know why a place has four doors. It is not that. It is that **the second a room has a good part in it, the good part becomes the test, and the test has to live somewhere, and if it lives in a warden then in four years a different warden will be asked whether a wall in 488 counts, and she will have to be able to say, and I will not be here, and whoever is will be twenty-nine and will be certain of herself in a way I was in 484 and she will be wrong about a different reach and there will be nobody in the building to say no to her because the good part was in the room in 491.**
+"Listen to me for ninety seconds and then I will answer the applicant for as long as he wants and I will do it in the ordinary voice and I will not do it once." She had not got up. "That is the reason the form is what it is. Every person in this room has understood that the reason the reason box is a figure is that the machine does not need to know why a place has four doors. It is not that. It is that **the second a room has a good part in it, the good part becomes the test, and the test has to live somewhere, and if it lives in a warden then in four years a different warden will be asked whether a wall in 484 counts, and she will have to be able to say, and I will not be here, and whoever is will be twenty-nine and will be certain of herself in a way I was in 484 and she will be wrong about a different reach and there will be nobody in the building to say no to her because the good part was in the room in 492.**
 
 "So you may say in this room that the four households came off a count and there was a wall where there was not one. You may not say that it was the right thing to do, and I will not say it either, and I am the only person in this room who could and that is the whole of what I have got."
 
@@ -96,7 +96,7 @@ She got up out of the chair by the side wall, where she had been sitting for an 
 
 "I asked a man in a hall on Saturday what I wanted," she said, "and I have not slept since Saturday either, and I will say what I said, and I would like it said in a room with high windows, because this is the only room in this county where anybody has ever said anything about a reach.
 
-"**It was not the four.** It was never going to be the four. I have been four for four years and I am seventy-nine and there is nothing to put back. **It was the eleven.** I want the eleven in a column somewhere that is kept, beside the four, so that in a hundred years there is a book that says there were fifteen people on that reach and four of them came off the count and eleven did not, and I do not care in the slightest what anybody does with the four.
+"**It was not the four.** It was never going to be the four. I have been four for four years and I am seventy-nine and there is nothing to put back. **It was the eleven.** I want the eleven in a column somewhere that is kept, beside the four, so that in a hundred years there is a book that says there were eleven households on that reach and that four of them came off the count and that seven of them were never in it, and I do not care in the slightest what anybody does with the four.
 
 "And I am not asking the warden to be blamed and I am not asking her to be praised and I want it entered that I have not asked her for either, and that I have not asked her for anything at all, because a person who comes into a room to say *you are a monster* or a person who comes into a room to say *you are a saint* is doing it about themselves, and I have been in this room for an hour and a half and I have watched about thirty people look at her and I have counted them and I would like it entered that I counted them."
 

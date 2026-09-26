@@ -1,12 +1,12 @@
 # Chapter 65 — Three Holds, and a Fourth
 
-The standing extract at Cutter's Fields has four hundred and six rows in it and it is renewed on the first working day of every season by a person in the count room at the Glass Stair, and on the Saturday morning of the twenty-sixth day of the month the woman who maintains the board took eleven minutes off it with a scraper and did it herself, and nobody had asked her to and she told Owen Rusk about it afterwards in the voice she uses for a price.
+The standing extract at Cutter's Fields has four hundred and six rows in it and it is renewed on the first working day of every season by a person in the count room at the Glass Stair, and on the Saturday morning of the twenty-sixth day of the month the woman who maintains the board took twenty minutes off it with a scraper and did it herself, and nobody had asked her to and she told Owen Rusk about it afterwards in the voice she uses for a price.
 
 "There," she said. "**Four. Four.** And then a new line under it in the printing hand, because I do not have a printing hand and I got the man at the second counter to cut me a strip, and it says *season of 488: no figure entered, and no correction of 488 exists.* And I will tell you what the strip is, because you are going to stand there and work it out and I would rather hand it to you. It is not a column. It is four words and a stop. **I have been doing that board nine years and I have never taken anything off it and I did not know I was allowed to.**"
 
 "You are allowed to. The determination is a determination and it is in the file."
 
-"Yes," she said, "and the file is two floors up and the board is here, and I do not have a file, and I have a scraper." She put the scraper in the bucket with the nails in it. "Eleven minutes. Nine years. I have wanted to take something off that board since the second week of the month and I would not have done it on my own and I would not have done it for you either, because you are an officer and officers ask, and that is not the same."
+"Yes," she said, "and the file is two floors up and the board is here, and I do not have a file, and I have a scraper." She put the scraper in the bucket with the nails in it. "Twenty minutes. Nine years. I have wanted to take something off that board since the second week of the month and I would not have done it on my own and I would not have done it for you either, because you are an officer and officers ask, and that is not the same."
 
 ---
 

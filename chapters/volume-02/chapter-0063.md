@@ -64,7 +64,7 @@ He lodged it at the Glass Stair at twenty past nine on the Monday morning of the
 
 The twenty-fourth of the month was a Thursday.
 
-Owen Rusk stood at the counter of a public room in a building he had worked in for eight years and worked out three things in about ninety seconds, and the first of them was that the twenty-fourth was inside the seven-day period and he had four days.
+Owen Rusk stood at the counter of a public room in a building he had worked in for eight years and worked out three things in about ninety seconds, and the first of them was that the twenty-fourth was inside the seven-day period, which did not expire until the twenty-eighth, and that nobody had a right to use it, and that he had three days.
 
 The second of them took longer.
 

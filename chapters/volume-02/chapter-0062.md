@@ -44,21 +44,21 @@ Wexford Landing is a stone quay and four houses with doors in a book and about e
 
 That was the first thing he saw and it took him about four minutes standing on the boards at the top of the slip, and it is the shape of every settlement on that board in one picture. The four premises of record are the four nearest the water: a chandler's, a house, a house, and the hall, which is a stone room with a stove in it and a long table and a shelf of ledgers that is not a premises because it has no draw and draws nothing and a book is not a building. The rest of the landing is above the tide line on ground that is not a street of record because there has never been any need for it to be one, and the people who live in those houses are on a roll in a hall in a building a mile away, and the roll has them, and the count does not ask the roll.
 
-There is a tide table nailed to a post at the head of the slip in a frame with a glass in it. Owen Rusk looked at it for a moment and then looked at it deliberately away, because he had been warned about it, and because the woman who keeps it was standing four feet off with a slate under her arm and had told him where to put his bag in the first nine seconds of his life and would not be thanked for it.
+There is a tide table nailed to a post at the head of the slip in a frame with a glass in it. Owen Rusk looked at it for a moment and then looked at it deliberately away, because he had been warned about it, and because the woman who keeps it was standing four feet off and had told him where to put his bag in the first nine seconds of his life and would not be thanked for it.
 
-The woman who keeps the tide table is Ivet Sterne. She keeps the day's ferry tally in a book in the hut at the top of the stone stair, and she is not an officer of anything, and Owen Rusk had been told in a kitchen nine months ago that he was not to tell anybody she sent him, and so he said nothing about her at all, and she said nothing about him, and the whole of that took about a second and a half and neither of them enjoyed it.
+The woman who keeps the tide table is Ivet Sterne. She keeps the day's ferry tally in a book in the hut at the top of the stone stair, and she is not an officer of anything, and the one day she gave this ward last year she gave it in writing and gave the writing to the ward and not to the office, on the condition she stated out loud, and there is therefore nothing about her on any paper in his building and there never will be, and so he said nothing about her at all, and she said nothing about him, and the whole of that took about a second and a half and neither of them enjoyed it.
 
 She said one thing that was work, which was that there was no tea, and Owen Rusk said that was all right, and she said it was not all right, it was that there had been tea in March of the year before last and there was not going to be any this time because there was nobody in the hall to make it and the woman in the hall was seventy-nine and did not make tea for strangers any more, and had not said so, and had got up and let them in.
 
 ---
 
-She was in the chair at the head of the table with a blanket over her knees in a room with the stove going, and there was a book open in front of her with a pen in the spine of it, and it was a day-book of the landing, in her own hand, with the day and the hour against each line and the names against the lines, and it was the fourth of May, the nineteenth, and Owen Rusk read it upside down from the doorway in about four seconds and understood that she was three days behind.
+She was in the chair at the head of the table with a blanket over her knees in a room with the stove going, and there was a book open in front of her with a pen in the spine of it, and it was a day-book of the landing, in her own hand, with the day and the hour against each line and the names against the lines, and the last line in it was the sixteenth day of the first month of this year, and Owen Rusk read it upside down from the doorway in about four seconds and understood that she was three days behind.
 
 "Mrs Varn," said Owen Rusk.
 
 "Elda Varn," she said. "And you have come up a river to ask me a question, and I would like you to sit down before you do it, because whichever office you are from has never once asked me anything and I have had a very long life of being asked things by people who were standing up."
 
-He sat down. There were two other people in the room and neither of them spoke for the whole of it, and afterwards he worked out that they were a man of about fifty who had come in out of the weather and a woman of about thirty-five who had a slate, and that the woman of thirty-five was the one who had let them in and had gone out again and had shut the door behind her on her way to the tide table, and that he had been in a room with the two women who keep the two tide tables on one reach and had not found out, and had not asked, and was not going to.
+He sat down. There were two other people in the room and neither of them spoke for the whole of it, and afterwards he worked out that they were a man of about fifty who had come in out of the weather and a woman of about thirty-five who was the one who had let them in and had gone out again and had shut the door behind her on her way back down to the tide table at the head of the slip, and that he had spent an hour in a room with the woman who keeps that table and had not found out one thing about her, and had not asked, and was not going to.
 
 "Warden Kade has sent me," said Owen Rusk.
 
@@ -72,7 +72,7 @@ She put the pen down in the spine of the book.
 
 He had four questions on a slip in his coat and he read two of them out loud before he gave up on the rest, and the second one was *what did you want*, and he had written it in the wrong words and she told him so.
 
-"You have written *what did you want*, and that is a question about a person, and you are a person from a building, and a person from a building cannot ask a person what they wanted in 1886 and expect an answer that is any use." She looked at him. "I know what you have come about. I have known since Wednesday when the girl with the boat told me a man from the district office was going up on Friday and did not say which landing. Hark Holm is the only landing anybody from a count has been to in four years and it is the only one I will talk about, so ask me about Hark Holm and I will answer, and I will answer the whole thing, and I have been waiting four years to answer the whole thing and nobody has ever put a question in front of me that it was the answer to."
+"You have written *what did you want*, and that is a question about a person, and you are a person from a building, and a person from a building cannot ask a person what they wanted in the Concord Year 488 and expect an answer that is any use." She looked at him. "I know what you have come about. I have known since Wednesday when the girl with the boat told me a man from the district office was going up on Friday and did not say which landing. Hark Holm is the only landing anybody from a count has been to in four years and it is the only one I will talk about, so ask me about Hark Holm and I will answer, and I will answer the whole thing, and I have been waiting four years to answer the whole thing and nobody has ever put a question in front of me that it was the answer to."
 
 Owen Rusk put the slip in his coat.
 
@@ -108,7 +108,7 @@ The man at the door was the one who said it, and he said it in about four words 
 
 "Yes," said Elda Varn, when Owen Rusk had said nothing for about a minute. "And the four are the four. There was my brother at the end of the slip, and there was a young man and his wife with a child, and there was me, and there were four households and I will not tell you how many people were in the four households because I have never counted them and neither has anybody else and that is the beginning of the answer.
 
-"**There were eleven households on that reach that stayed on the count and eleven households on that reach that went off it, and the four of us were the only four of them that a warden ever came to and asked anything at all, and we are the only four anybody has ever written about, and I have had four years to get used to that and I have not managed it.**
+"**There were eleven households on that reach. Four of us were on the count and the other seven were not on anything at all, and when the four came off the count on the fourth day of that month the count for that reach was four and the seven were not in it and never had been, and the four of us were the only four of them a warden ever came to and asked anything at all, and we are the only four anybody has ever written about, and I have had four years to get used to that and I have not managed it.**
 
 "The bank came down the whole reach on the fifteenth. It came down about eleven miles of it in about an hour. I was on the ferry, because I was the ferry's book, and I did not see any of it, and I have never seen any of it, and I have asked twice in writing and the answer came in eleven weeks both times and the answer is the same, which is that the premises are recorded as struck and the premises are the count.
 
@@ -116,11 +116,11 @@ The man at the door was the one who said it, and he said it in about four words 
 
 She put her hand flat on the table, which is a thing people do, and which had never once in this ward meant comfort.
 
-"That is what I wanted," said Elda Varn. "**Not to go back on it. To have the other figure written down somewhere. Eleven. Beside the four, or under it, or in a column with a heading I could point at. Eleven and four in the same place at the same time, in ink, on something that is kept.** Because as long as there is only the four, then in a hundred years there is a book in a building in this city that says four people lived on a slip at Hark Holm and a warden struck them and it worked, and there is no number anywhere in this county for the eleven, and the eleven will have happened to nobody."
+"That is what I wanted," said Elda Varn. "**Not to go back on it. To have the other figure written down somewhere. Eleven. Beside the four, or under it, or in a column with a heading I could point at. Eleven and four in the same place at the same time, in ink, on something that is kept.** Because as long as there is only the four, then in a hundred years there is a book in a building in this city that says four households lived on a slip at Hark Holm and a warden struck them and it worked, and there is no number anywhere in this county for the seven that were never in it, and the seven will have happened to nobody."
 
 She sat back.
 
-"That is what I wanted," she said, "for four years, and there is no box on the form for it. You are the first man out of that building to come up a river to ask me anything at all and I want you to understand that I have had your ear for eleven minutes and I have been waiting four years for it, and I am not going to waste it on being angry at you, because you have not done anything to me. You have written a column of reasons onto a board in a field. I heard about that. The girl with the boat heard about it and told four people at a post and one of them was a woman with a kiln forty minutes off the water.
+"That is what I wanted," she said, "for four years, and there is no box on the form for it. You are the first man out of that building to come up a river to ask me anything at all and I want you to understand that I have had your ear for the best part of an hour and I have been waiting four years for it, and I am not going to waste it on being angry at you, because you have not done anything to me. You have written a column of reasons onto a board in a field. I heard about that. The girl with the boat heard about it and told four people at a post and one of them was a woman with a kiln forty minutes off the water.
 
 "So here is the whole of what I have, and then you may write it down and take it down the river, and I would like you to do both."
 
@@ -128,7 +128,7 @@ She sat back.
 
 **My name is Elda Varn. I was one of the four households at Hark Holm in the Concord Year 484 and I was on the slip and I was seventy-five years old and the warden came in March and asked me questions and I could not answer them, and the four of us came off the count of that settlement for that season on the fourth of that month, eleven days before the low bank came down on the fifteenth, and four households that were not on the count rebuilt the slip in about eleven days out of the ferry timber, and there was nothing on the count that said the wall was there, and on the fifteenth of that month the bank came down the whole reach.**
 
-**I do not know how many were on the eleven. Nobody has told me and I have asked twice in writing and I have been told in eleven weeks that the premises are recorded as struck and the premises are the count.**
+**I do not know how many people were in the eleven households. Nobody has told me and I have asked twice in writing and I have been given the same answer both times, which is that the premises are recorded as struck and the premises are the count.**
 
 **I want the number of the eleven written down beside the number of the four somewhere that is kept, and I do not want to be put back on anything, and I do not want money, and there is a dog I want to say one more thing about and then I will let you go up the river.**
 
@@ -160,7 +160,7 @@ He wrote the name down, then, in his own hand, in the register he does not put o
 
 ---
 
-The boat came back at four o'clock on the Saturday the nineteenth of the month and he had six hours of daylight on the water and did not use any of it, and the slip at Nether Sill went past at about a quarter past two with the water up and the mill going and nobody on the water at all, and eleven people were in those two rooms at the top of that mill and the correction against them was dated the twelfth of the month and the thirty days from the suspension ran out on the twentieth day of this month, three days ago, and he had known that arithmetic for a fortnight and had not said it to anybody and was not going to say it on a river in a boat in front of a girl of seventeen.
+The boat came back at four o'clock on the Saturday the nineteenth of the month and he had six hours of daylight on the water and did not use any of it, and the slip at Nether Sill went past at about a quarter past two with the water up and the mill going and nobody on the water at all, and eleven people were in those two rooms at the top of that mill and the correction against them was dated the twelfth of the month and the thirty days from the suspension were due to run out on the twentieth day of this month, which is tomorrow, and he had known that arithmetic for a fortnight and had not said it to anybody and was not going to say it on a river in a boat in front of a girl of seventeen.
 
 He had a slip in his coat with a woman's name on it and about nine lines under it and there was no box in this county for any of it.
 

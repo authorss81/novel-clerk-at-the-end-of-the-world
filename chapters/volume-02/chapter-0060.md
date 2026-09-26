@@ -18,9 +18,9 @@ Then he signed it, and it went up the stair, and it came back on the Monday afte
 
 The woman who maintains the board has been doing it for nine years and she does it on a Wednesday morning with a ladder and a bucket of nails and a piece of chalk, and her name is not on the board and she has asked twice in other districts to have it off and got it off twice, and Owen Rusk has never once asked her what it is and did not ask her on the Tuesday of the eighth day either, and he had spent a week and a half learning that there are questions you do not ask because the answer is not yours.
 
-She did not want to know why. That was the thing he had not expected. She looked at the four lines of his request, and at the four columns he had drawn out for her on the back of a sheet, and she said:
+She did not want to know why. That was the thing he had not expected. She looked at the four lines of his request, and at the column he had drawn out for her on the back of a sheet, and she said:
 
-"**Four columns is a lot for a board that is nine feet.**" And then: "I will do it. It is my board. I have been putting what the count gives me on it for nine years and nobody has ever asked me for a fourth column and I have wondered about it every season and I have never said so, because it is not a thing a person says out loud to a counting ground."
+"**Five columns is a lot for a board that is nine feet.**" And then: "I will do it. It is my board. I have been putting what the count gives me on it for nine years and nobody has ever asked me for a reason against a settlement's name and I have wondered about it every season and I have never said so, because it is not a thing a person says out loud to a counting ground."
 
 "It is a thing somebody can say out loud to a counting ground," said Owen Rusk.
 
@@ -28,21 +28,21 @@ She did not want to know why. That was the thing he had not expected. She looked
 
 ---
 
-The board had four columns on the Wednesday morning of the ninth day and it took about forty minutes to wire up, and it is worth setting out what it looked like, because the whole of the argument of the season is in it and it is a sheet of paper nailed to a frame.
+The board had five columns on the Wednesday morning of the ninth day and it took about forty minutes to wire up, and it is worth setting out what it looked like, because the whole of the argument of the season is in it and it is a sheet of paper nailed to a frame.
 
 **SCHEDULE OF SETTLEMENTS TO BE RECONCILED. DOCKETFORD DISTRICT. Season of the Concord Year 488. The week of the season in which each settlement falls to be reconciled is given in the fifth column and is given in advance. The day is entered on the day-book when the line is earned.**
 
-*Week 1. Nether Sill. 486. Premises of record, nine. **Reason: four.***
-*Week 1. Wexford Landing. 479. Four. Four.*
-*Week 2. Gallants Reach. 479. Six. Six.*
-*Week 3. Lower Lock. 486. **Eleven. Reason: eleven.***
-*Week 3. Marl Dykes. 481. Two. Two.*
-*Week 4. Quill Bank. 486. Nine. Nine.*
-*Week 4. Rush Halt. 486. Seven. Seven.*
-*Week 5. Witherow. 479. Three. Three.*
-*Week 5. Ossery. 486. Eleven. Eleven.*
-*Week 6. Otter Stair. 486. Nine. Nine.*
-*Week 6. Ashlocks. 486. Six. Six.*
+*Nether Sill. 486. Premises of record, nine. **Reason: four.** Week 1.*
+*Wexford Landing. 479. Four. Four. Week 1.*
+*Gallants Reach. 479. Six. Six. Week 2.*
+*Lower Lock. 486. **Eleven. Reason: eleven.** Week 3.*
+*Marl Dykes. 481. Two. Two. Week 3.*
+*Quill Bank. 486. Nine. Nine. Week 4.*
+*Rush Halt. 486. Seven. Seven. Week 4.*
+*Witherow. 479. Three. Three. Week 5.*
+*Ossery. 486. Eleven. Eleven. Week 5.*
+*Otter Stair. 486. Nine. Nine. Week 6.*
+*Ashlocks. 486. Six. Six. Week 6.*
 
 And then, under the Nether Sill row, on a strip of paper the size of a hand wired to the frame with a loop of tarred cord, the notice of the correction itself, which is what an examiner reads out:
 
@@ -112,7 +112,7 @@ Marguerite Bray ruled it. She ruled the day and the hour and she ruled the name 
 
 She did it on the Wednesday night and it is in the delivery book in her own hand and it is the ninth line of the ward's answer to the Count and it is the only one of the nine that is not a schedule of what the ward has done:
 
-**This district was entered on the published schedule of settlements to be reconciled on the seventy-seventh day of the month before, posted for notice in advance of the season, and a fourth column was added to that schedule on the seventh day of the Concord Year 488 by a clerk of this district who had no authority to add one, and the figure given against this district in the reason column is eleven. This district returned eleven premises of record on the seventy-sixth day of the month before and the return was correct. This district is not suspended and no person in this district has been asked anything by the count and no water has been taken from this district's main. This district has performed every act in its return every week for twelve weeks and the roster is read aloud on Thursdays at ten past six and anybody may come. The Count wants premises. The paper of this district says four words. The four words are not premises. This district performs and is not counted and says so itself, in this hand, and does not intend to stop.**
+**This district was entered on the published schedule of settlements to be reconciled on the seventy-seventh day of the month before, posted for notice in advance of the season, and a fourth column was added to that schedule on the ninth day of the Concord Year 488 by a clerk of this district who had no authority to add one, and the figure given against this district in the reason column is eleven. This district returned eleven premises of record on the seventy-sixth day of the month before and the return was correct. This district is not suspended and no person in this district has been asked anything by the count and no water has been taken from this district's main. This district has performed every act in its return every week for twelve weeks and the roster is read aloud on Thursdays at ten past six and anybody may come. The Count wants premises. The paper of this district says four words. The four words are not premises. This district performs and is not counted and says so itself, in this hand, and does not intend to stop.**
 
 ---
 
@@ -170,7 +170,7 @@ So Docketford district is reported short by seven. Kade said that in a field in 
 
 **The reading was at about four in the afternoon on the twelfth, at the board, and no count correction has ever been read out in this district before, and it took eleven minutes.**
 
-It is not a ceremony and it was not announced, and there is a line in the counting rules that says the reconciliation of a settlement may be read out by the officer of the record of the district returns, and there has never been a reason for anybody to use it. The man who maintains the board put a stool out at about ten past three. The woman with the slate wired the strip on and went and stood at the tent door. About thirty people came, which is a great many, and fourteen of them were from Lower Lock, because Ada Rusk had told the hall on the Wednesday night that the reading was on the board, and had said, in the ordinary voice, that anybody who wanted to come and hear a number read out could come and hear a number read out.
+It is not a ceremony and it was not announced, and there is a line in the counting rules that says the reconciliation of a settlement may be read out by the officer of the record of the district returns, and there has never been a reason for anybody to use it. The woman who maintains the board put a stool out at about ten past three. The woman with the slate wired the strip on and went and stood at the tent door. About thirty people came, which is a great many, and fourteen of them were from Lower Lock, because Ada Rusk had told the hall on the Wednesday night that the reading was on the board, and had said, in the ordinary voice, that anybody who wanted to come and hear a number read out could come and hear a number read out.
 
 There was nobody from Nether Sill. Two hours upriver, and the season's notice carries a line about enquiries at the count room at the Glass Stair, and it is not a notice that a person is to be told something, and telling them would be a service, and the form does not provide for a service. Owen Rusk looked at the thirty people at about five past four and worked out that the eleven households on a silted bend had not been told that the thing done to them on the ninetieth day of the month before was going to be read out in a field this afternoon, and that the apparatus for telling them was a boat and a girl of seventeen who takes people up for money, and that there was no form in which he could put *tell them*.
 
@@ -206,7 +206,7 @@ Warden Kade was at the west gate with the case shut behind her and the stone in 
 
 Nobody said anything, because about nine of them had heard her say a version of it in a hall and it is not a new sentence in this district.
 
-"I want it ruled that he asked for it anyway," she said, and she was not looking at Owen Rusk, she was looking at the fourth column on the frame. "I want it ruled in the book in Fetter Lane in my hand on Monday night, and I want it to say that on the seventh day of the Concord Year 488 my brother put a fourth column on a public board in a field, that nothing required it, that he told us it was not a remedy before he asked for it, that he asked for it anyway, and that the eleven is against us and is correct. And I want it ruled that nobody in that hall is to go up to that board this week and stand in front of it looking pleased."
+"I want it ruled that he asked for it anyway," she said, and she was not looking at Owen Rusk, she was looking at the fourth column on the frame. "I want it ruled in the book in Fetter Lane in my hand on Monday night, and I want it to say that on the ninth day of the Concord Year 488 my brother put a fourth column on a public board in a field, that nothing required it, that he told us it was not a remedy before he asked for it, that he asked for it anyway, and that the eleven is against us and is correct. And I want it ruled that nobody in that hall is to go up to that board this week and stand in front of it looking pleased."
 
 "Sully says you'll want looking pleased about," said a man at the back.
 

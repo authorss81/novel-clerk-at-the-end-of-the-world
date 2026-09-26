@@ -32,7 +32,7 @@ The fourth row was **Lower Lock, 486, eleven.**
 
 Eleven. That is the number of premises of record the county carries for Lower Lock, and it is the correct number, and it is the number on the Return of Premises that came down to the ward on Thursday, and it is the number Ada Rusk filled in on the Friday in a slate hand with two households in one building and one household that is a pitch and has no door.
 
-Owen Rusk stood at about two paces from a board in a field behind the tanneries at about a quarter past nine in the morning on the seventy-first day of a season that does not open for eleven days, and read the fact that the largest settlement in his own life was on a list of eleven places that did not answer, and that nobody in the seven weeks of the case had ever thought to write a sentence about it, because the case had been about whether the ward was a place and the answer had turned out to be yes.
+Owen Rusk stood at about two paces from a board in a field behind the tanneries at about a quarter past nine in the morning on the seventy-seventh day of a season that does not open for eleven days, and read the fact that the largest settlement in his own life was on a list of eleven places that did not answer, and that nobody in the seven weeks of the case had ever thought to write a sentence about it, because the case had been about whether the ward was a place and the answer had turned out to be yes.
 
 ---
 

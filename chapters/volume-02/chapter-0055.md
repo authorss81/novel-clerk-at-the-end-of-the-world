@@ -114,7 +114,7 @@ The woman was about sixty and the cart was a good cart and the pump was a good p
 
 "Is Ossery on that."
 
-"It is. Third row. Eleven premises of record and the year before last."
+"It is. Ninth row. Eleven premises of record and the year before last."
 
 "Then tell the Warden I have brought the pump."
 

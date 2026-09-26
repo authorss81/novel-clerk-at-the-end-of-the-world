@@ -598,3 +598,118 @@ An independent review of the close pass confirmed the substance of the audit and
 **And the stale table is gone.** The review found it worse than the close pass had described: it carried not only invented titles and two merged chapters but **day and weekday ranges that drift from the corrected calendar**, so a maintainer who fixed only the titles would have left the ranges wrong. **It has been rewritten against §1 of the index** — all fifty prose titles, Chapters 12, 13, 17 and 18 restored to four chapters, day and weekday ranges brought into line — and the two tables now agree with the prose and with each other. Verified: fifty rows, zero title mismatches against the chapter headings, zero day-range mismatches between the two tables, and the Day-1-is-Tuesday arithmetic holds for all fifty rows.
 
 **What this pass did not do.** It wrote no new prose, invented no fact, and changed no planned plot. It corrected four numbers and one quotation in the existing fifty chapters, all of them the close pass's own findings, and it did not extend the technique of the two lost names to a third. **The prohibitions in finding 4 and in §5.3 of the index are untouched and remain absolute.**
+
+---
+
+## VOLUME 02 — CANON, BATCH 0001
+
+Chapters 51–60, *The Season Opens*. C.Y. 487 Days 70–91, through the twelfth day of the first month of C.Y. 488. **Binding for Batch 0002 and, where it touches a Volume 01 fact, for every later chapter.** Volume 01's canon is unchanged and is governed by `state/volume-01-index.md`.
+
+### The calendar, fixed on the page
+
+**Day 1 of C.Y. 487 was a Tuesday.** Day 70 is a **Monday**; Day 71 a Tuesday; **Day 73 a Thursday; Day 77 a Monday; Day 80 a Thursday; Day 84 a Monday; Day 85 a Tuesday; Day 90 a Sunday; Day 91 a Monday.** The year turns on a Tuesday. **C.Y. 488 Days 1 and 8 are Tuesdays, Day 7 a Monday, Day 11 a Friday, Day 12 a Saturday.** Chapter map: **51** Day 70 · **52** Days 71–72 · **53** Days 73–76 · **54** Days 77–79 · **55** Days 80–84 · **56** Days 85–89 · **57** Day 90 · **58** Day 91 and 488 Day 1 · **59** 488 Days 2–6 · **60** 488 Days 7–12.
+
+### The four instruments of this volume, kept apart from each other and from Volume 01's
+
+1. **The Count** — the annual count of draws, premises of record and works maintained. Published. Docketford's water, its maintenance fund and the right of households to be witnessed at an address all come out of it.
+2. **The schedule of settlements to be reconciled** — a public list of **eleven** settlements in Docketford district, **printed on the twenty-eighth day of the month before the season and posted at Cutter's Fields on Day 77, in advance of the season**, before anybody had surveyed anything. The quota of **eleven** was set at Concord Hall on the same day and is posted whether or not the settlements are known to the person who sets it.
+3. **The emergency suspension of fourteen days** — person-level, per person, with a date and a care act named. **Thirty days** from the suspension before no supported living restoration is possible, and no office in this county can move either figure.
+4. **The count correction** — made by the Provincial Counting Office and attested by the Warden, with a **schedule of premises attached**, a **date**, and a **reason, and the reason is a figure** because a figure is the only thing that can be written in a column that has to mean the same thing in Concord Hall as in a field.
+
+**None of these is a reopening of anything in Volume 01 and none is a Stability Order.** Stability Order 114 is a local instrument on sixteen named returns, is in public appeal, is not withdrawn, and **the sixteen are sixteen**; the Count is a regional act on draws. **Neither can move a line on the other. A ward on one list is not on the other, and a ward on both is not on them twice.** This is the volume's central confusion and it is stated in public in Chapter 60.
+
+### The eleven settlements, and their order on the board — FIXED
+
+**Nether Sill (9, 486) · Wexford Landing (4, 479) · Gallants Reach (6, 479) · Lower Lock (11, 486) · Marl Dykes (2, 481) · Quill Bank (9, 486) · Rush Halt (7, 486) · Witherow (3, 479) · Ossery (11, 486) · Otter Stair (9, 486) · Ashlocks (6, 486).** Figures are premises of record; years are the year of the last reconciliation. **Lower Lock is the fourth row and has the second-largest figure on the board, and it is one of only two settlements on the list inside the town.** **Ashlocks is the eleventh name and is on the list because its premises were returned late in the month of rain by a man who apologised in writing** — a place on a schedule of unreconciled settlements for being too well organised.
+
+**Chapter 55 was repaired in this pass.** It read *Ossery is third row*; Ossery carries eleven premises of record, the fourth row is Lower Lock with eleven, and the third figure on the published schedule is six. **The line now reads Ninth row**, and nothing else in the chapter depends on the row number. **If a later chapter transcribes the board, it must use the order above.** No other row is numbered anywhere in Chapters 51–60.
+
+**Geography, fixed.** Nine of the eleven are outside the town: **four upriver above Fetter Bend** (Nether Sill, Wexford Landing, and two others on that reach), **one off the water entirely up a cart track — Ossery, forty minutes from the nearest water** — and **four on the flat above the weirs**. The two inside the town are Lower Lock and Ashlocks. **The Mill Road at Nether Sill is a bend off the same reach as Coal Hill, two hours upriver.**
+
+### The other documents of the count, and the fourth column
+
+- **The count sheet** of a settlement is a public document, one page, four columns, the last reconciliation, and it is the county's only description of the place.
+- **The schedule of premises of record for this district** is a bound book kept in the district office, four columns — number, place, street or lane, date of entry — **and a copy stands on a public stand in the count room at the Glass Stair, last revised in the Concord Year 402, readable in the room and not removable from it.** **The Mill Road at Nether Sill is in the public copy with nine premises against it** — two dwelling-houses and a shop, a barn, and six dwelling-houses — and the nine are not in the county's current figure. **Nobody yet knows in which book the nine went.** The current book is in a room Owen has never been in.
+- **The schedule of draws** is in the same building, **one floor below the counting clerk**, and **Owen has not opened it.** It is the door to Batches 0002 and 0003 and he walked away from it in Chapter 58 and again in Chapter 60.
+- **The day-book of the count** is posted on the first working day of the season and added to daily, with the quota at the head. **Quota: eleven.** A settlement reconciled before the season opens is carried onto it with the date. **On the twelfth it carries four lines: Nether Sill, Wexford Landing, Gallants Reach, Marl Dykes.**
+- **The notice of a count correction** is a strip the size of a hand, wired to the frame, carrying the date, the reason, the premises recorded, the premises produced, the premises struck by name, the effect on the draw, and the appeal route.
+- **The fourth column — the reason — was added on the seventh day at the request of the Continuance Examiner**, under item fourteen, on a form with **no authority in it**: *I have no authority for it. I am asking as the officer who has examined this correction.* It was **granted in pencil, with no condition and no note, by a hand that is not any clerk's hand in the building.** It is **the first time in this county that a reason has been printed against a settlement's name.**
+- **Ten of the eleven reasons are the premises column written twice.** The eleventh is **4** — four premises produced of nine recorded. The reason for this is not a secret and not a policy: **there is no reason yet.** The uncorrected settlements have not been reconciled, and a reason is made at the end of the fourteen by a warden in a box the size of her hand.
+- **A standing extract at the foot of the frame**, renewed every season and kept for a hundred and forty years, **PLACES STRUCK FROM THE COUNT OF THIS DISTRICT. Place. Year of the correction. Premises struck. Reason.** Four hundred and six rows. **The year 461 is in the third row from the bottom and the place in it is a ward officially closed in that year.** **Owen read the heading and one row and stopped.**
+- **Places struck to protect a number, and the finding that some of them were not failing, is Batches 0002–0003's work and is not paid in Batch 0001.** The only thing this batch pays is that **the reasons are the Water Office's and not the Guard's**, and that a man from the Water Office read the third column in October and asked about a **draw** — **the draw for Coal Hill**.
+
+### The four instruments of Volume 01, and where they stand
+
+- **The crossing is closed to loads** and the Day 10 load restriction is untouched. **The repair is £4,160 and unfunded and the notice at the weir path is up in the weather.**
+- **The certification expired at the hour of the seal on Day 70** and the preservation fell with it. **The Day 10 appeal window is closed** — expired, not refused, and in no register of contested closures. **The Day 14 roll entry stands unamended.**
+- **Stability Order 114 is in public appeal, not withdrawn, sixteen returns, Lower Lock sixth.**
+- **The five lines** were ruled into the ward's delivery book on Day 71 with the day and the hour, and under them that no person in the room is under any of them. **The five are: Cobb Rennie's pension; six persons who cannot be asked at three of five parts; four pages; the £4,160; the receipt.** Four stand exactly where they stood. **The receipt was disposed of on the fourth day of the last month under item nine and can now never be paid at all.**
+- **Marta Rusk's record is amended and nothing was returned**, and Volume 02 does not touch it.
+- **The twenty-one is not restaged.** Owen is not on it and is not asked to be.
+
+### Owen's position at the end of Batch 0001
+
+**Stage 2 — Continuance Examiner of the Count, Docketford district, entered the fourth day of C.Y. 488**, on a supervised case and a review record **the office says is thin and which he recorded himself as thin**.
+
+**The card, in full.** May examine a reconciliation. May enter a challenge and be heard. **Holds up to three, each a real responsibility toward a named claimant. A hold is an answerability and preserves nothing** — it keeps one matter open and answerable and gives one person a name to go to, and it preserves no water and no figure and no suspension. A hold may be given up by the holder at any time and may be withdrawn by the office at any time. **A hold may not be transferred to any other officer without the written agreement of the claimant** — the only sentence in the Registry's instruments that says so, and the fifth part of a requirements sheet a ward hall has been filling in by hand since the third week of the month of rain, and **not a cure of anything**.
+
+**The limits, given in full on the first morning.** An examiner may challenge arithmetic, procedure and the currency of any paper a reconciliation rests upon. **An examiner may not examine the schedule, may not examine a choice of places, and may not put a word in the reason column.** Owen's third active problem is the first problem he was ever given.
+
+**The supervised case and the review record.** One challenge: **the count sheet of Gallants Reach, made out in the Concord Year 479, never closed because the Count of 480 was suspended, carried into 481 and carried forward in every season since.** Sustained. **The settlement returned to the schedule of settlements to be reconciled** — six premises, eleven households, in the second week of the season. **No change in any draw, in any fund, or in the standing of any household.** He entered **Yes** in the box asking whether the applicant has an interest in the matter, in his own hand, on the first morning, and the examining officer wrote the word *thin* into the third box herself. **Four hundred applicants; that box filled in twice; the first of the two is dead.**
+
+**The three claimants, as written.**
+1. **Ivy Sarr**, of two rooms in Fetter Lane, a person who cannot be asked. Matter: the care of the claimant, and the standing of that care in the Count. **This is his Volume 01 named duty and the register will not carry a person twice under two heads; nobody chose it and nobody planned it. It is not a cure.** His own words on the form: *She is not known to this office. No person in her household is to be asked to be named.*
+2. **Mavis Rudge**, of Witherow, who can be asked. Matter: a request for a review of the reconciliation of Witherow. **She wants the review and does not want to win it** — the first document in the history of Witherow in which a person of Witherow is named as having asked this county for anything. It will be heard in the second week of the season and the file will say *review requested, heard, reconciliation sustained, no current local act shown.*
+3. **Ned Callow**, of Quill Bank, who can be asked. Matter: a request that an officer of the Registry be present at the reconciliation of Quill Bank. **Refused, with the reason Owen gave Kade, and Callow thanked him for it.** Owen's own finding at a counter: **a principle which is only ever a reason somebody is not in a room is not a principle, it is a form.**
+
+### The review route, in full, and why it closed
+
+A reconciliation may be reviewed. A review is requested by **a person of the district**; the request must **show a current local act performed by the settlement**, this season, at a place of their own choosing, recorded, and not an act claimed for them from two miles away; it is heard before **an officer of the count having no district in the matter**; it must be requested **within seven days** of the reconciliation, running from the hour the stone goes down; and the requester **is named on it, and the name goes on a public file.**
+
+**The window for Nether Sill ran from a quarter past eleven on Day 90 to a quarter past eleven on the seventh of the first month, and it closed unused.** Owen is a person of Lower Lock. Hanna Roe and Neve Searle would not put a name on a page, both correctly, and **Kade's own line is that the reason there is no review at Nether Sill is that two people who cannot read very well declined to put their names on a piece of paper, and they were not frightened, and nobody has done anything to them.** The sluice is a current local act performed by the settlement and is the best answer to that clause in the district. **The door was locked from the inside.**
+
+### The two people who will not be named, and why it is not pride
+
+**Hanna Roe**, fifty-four, keeps the sluice at the head of the cut at Nether Sill and has opened it twice a day for twenty-six years. The column she refuses is the second, which wants the person who performs the act: *nobody has ever come and told me I was the reason.* She has never been named, has been offered a place on a return twice, and has taken neither.
+
+**Neve Searle**, twenty-six, works the mill and has had her father in a chair by a window since the ninth week of the rain season. She entered **none** in the fourth column of the form, in her own hand, with Kade writing it: **it is not a gap, it is a sentence about a person in a chair by a window, and it will be on a public file, and whoever reads it in a hundred years will know there was a man there and nobody was keeping anything for him.** *I would like that on the file more than I would like the water.*
+
+**Prue Hallam**, seventeen, pilots the survey boat and does the market road. **Maud Tray** brought a fire pump on a cart for Ossery unasked, and Kade turned the draw round in ninety seconds with a rule nobody had thought to use. **T. Vance**, counting clerk at a sub-table, wrote the C.Y. 486 margin note at Nether Sill and has never been asked what he thought he was doing.
+
+### Warden Oress Kade, on the page
+
+Thirty-nine. Nineteen seasons, eleven districts. Constituted the Concord Year 351, reconstituted twice, answers to the Provisional Mandate and to no local office; the device is a stacked stone. **She is correct, disciplined, frequently right, and not Owen's ally, and she is not softened before Chapter 90.**
+
+- **She does the second settlement, never the first**, because a warden who goes first is told what the settlement wants to hear, and she has been told twice and both times it cost somebody a district that did not know it had been represented.
+- **She is the only person in the service who writes the figure and the only one not allowed to write anything else.**
+- **She is candid to the point of self-indictment and refuses to pretend.** She wanted the reasons printed and had wanted it for nineteen years and had never said it to an officer of the Registry before Chapter 58, and she still does not know what to do with it and will not pretend to.
+- **She cannot amend a schedule; she may return it and may not amend it.** Four letters, three answered in eleven weeks correctly, one return, the same eleven back with a date four days later. **She will not write a fifth.** *I could not tell you where my number would come from.*
+- **She has a private list, nine seasons, of the settlements she was right about.** Ten of the eleven say *held*; **one says *wrong and I knew*, and she will not say which until the season is done.**
+- **She has been wrong seventeen times and she counts.**
+- **Hark Holm, the Concord Year 484, four households, eleven days before the low bank came down.** Named flatly, as a season she worked, not confessed. It worked; it is the best thing she has ever done. **She does not know how many died and never counted them, because the form has a schedule of premises and a figure for a reason and no box for the number of people in eleven households on a reach**, and she has asked twice in four years and been told in eleven weeks that the matter is closed because the premises are recorded as struck and the premises are the count. **One of the four is alive: a woman of about seventy-nine, at Wexford Landing, not one of the four premises there, the fifth house on a reach, who keeps the book at the hall, and who asked whether the warden had remembered the dog.** She told Owen her name on the night of Day 91 because she would like there to be one person in the Registry who knows it.
+- **She will not read a letter from Owen until the season is done**, and has had four letters this week, two from men who want her to say the schedule is a mistake.
+- **She does not know who wrote the schedule and will not guess.**
+
+### Standing prohibitions for the rest of Volume 02
+
+- **The brass tab is inherited shut. The drawer is not opened. No chapter names the man of Alder Row.** The count schedules are published and that is a different door, and in Chapter 60 that door is a fourth column in a standing extract with a hundred and forty years of rows in it, and **Owen read the heading and one row and stopped, and no later chapter may have him read it.**
+- **The six protective returns stay at three of five parts. No custodian is bought or assigned. The word *custodian* is not written beside Ada Rusk, Bram Tillet, Ilse Mern or Cobb Rennie** and was not written in Chapters 58–60.
+- **Cobb Rennie's pension is uncured.** He is a draw at an address with no record. Naming him in a public column is worth less than money and more than nothing and he said so himself at the board.
+- **Nothing funds the £4,160, restores the pump grant, pays the crew's wage, or opens the crossing to loads. The granary was empty on the fourth of the month and is at a fortnight on meal put in against a paper that is not money.** The ward performs and is not counted and says so itself, in Bray's book, in Ada's hand.
+- **The two lost names are untouched. No perception beat, no symptom, no notice by anybody, no third name, and no other character senses anything.** Neither name occurs in Chapters 51–60.
+- **Marginalia is not used in this volume.** No panel, no margin notice, no silence, no status reported to Owen by a page. Where a page seems to speak in Chapters 51–60 it is a document and somebody read it.
+- **There is no seventh renewal of District Return 487-LL**, and the renewals stay at six, for review and never binding.
+- **Hester Lund's sixth condition stays withheld.** The quarrel at **Wexford Landing and Coal Hill** is inherited and spoken about once, in Chapter 60, and is **not resolved**; the two tide tables are two and the two women are never merged. **Owen does not go up the Coal Hill landing and Kade has told him she would find out.**
+- **Nell Arbour is not available and does not become available.** She works alongside him, is useful to him, says nothing about the difference, and no attraction is disclosed. She came to the reading in Chapter 60 and they spoke eleven words and none of them were about any of it.
+- **Ada Rusk is his sister and is not a branch of the return and never was.** The ward's instrument is not reopened by this volume.
+- **The scope clause is not restaged or reworded.** *Duty, and no status.* Four words.
+- **No first name is given to any Docketford or Glass Stair officer.** The district officer, the seal-stair clerk, the counting clerk at the second counter, the two countersignature desk hands, the Glass Stair counter clerks, the **examining officer from Concord Hall**, the **woman who maintains the board**, the **woman of about thirty with a slate** and the **man of sixty** all stay institutions with hands. **Kade is the first named official in the series since Pike** and that remains deliberate.
+- **No new final enemy.** Kade is Volume 02's opponent and is on the ladder at rung two. Lound is offstage.
+
+### Volume 02 Batch 0001 — length
+
+**Chapters 58, 59 and 60 run at 6,082 / 6,985 / 7,190 words**, against a house band of roughly 3,400–5,000 and Volume 01's 3,000–4,600. **They are not padded; every scene is load-bearing and every beat in the batch cards is present.** A review pass may trim. The places where a cut costs least: Chapter 59's account of the receipt's disposal and the public-stand book can each lose about a paragraph; Chapter 60's account of the day-book's arithmetic and of Cobb Rennie at the board can each lose about a paragraph. **The following must not be cut:** Kade's *wrong and I knew*, Hark Holm, the reason column's fourth line in the request form, Mavis Rudge's *I asked and the answer was no*, Ned Callow's *the first thing anybody from the Registry has ever offered me is a reason why they cannot come*, Ada's *visibility is not remedy*, Cobb Rennie's *what a number is not a number of*, and the closing refusal to read the fourth column.
+
+### One continuity repair made in this pass, and it is the only one
+
+`chapter-0055.md` read *Ossery is third row*, which contradicts the fourth row being Lower Lock with eleven and the third figure being six. **Repaired to Ninth row.** Two smaller date slips in Chapters 51 and 54 were repaired at the same time so that the schedule's posting date is consistent across the three chapters: Chapter 51's notice now says the schedule *has been printed and is posted for notice at Cutter's Fields, in advance of the season*, and Chapter 54's *seventy-first day* is corrected to **seventy-seventh**. **No other prose was touched.**

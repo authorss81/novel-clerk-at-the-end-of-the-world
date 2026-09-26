@@ -30,19 +30,19 @@ She did not want to know why. That was the thing he had not expected. She looked
 
 The board had four columns on the Wednesday morning of the ninth day and it took about forty minutes to wire up, and it is worth setting out what it looked like, because the whole of the argument of the season is in it and it is a sheet of paper nailed to a frame.
 
-**SCHEDULE OF SETTLEMENTS TO BE RECONCILED. DOCKETFORD DISTRICT. Season of the Concord Year 488.**
+**SCHEDULE OF SETTLEMENTS TO BE RECONCILED. DOCKETFORD DISTRICT. Season of the Concord Year 488. The week of the season in which each settlement falls to be reconciled is given in the fifth column and is given in advance. The day is entered on the day-book when the line is earned.**
 
-*Nether Sill. 486. Premises of record, nine. **Reason: four.***
-*Wexford Landing. 479. Four. Four.*
-*Gallants Reach. 479. Six. Six.*
-*Lower Lock. 486. **Eleven. Reason: eleven.***
-*Marl Dykes. 481. Two. Two.*
-*Quill Bank. 486. Nine. Nine.*
-*Rush Halt. 486. Seven. Seven.*
-*Witherow. 479. Three. Three.*
-*Ossery. 486. Eleven. Eleven.*
-*Otter Stair. 486. Nine. Nine.*
-*Ashlocks. 486. Six. Six.*
+*Week 1. Nether Sill. 486. Premises of record, nine. **Reason: four.***
+*Week 1. Wexford Landing. 479. Four. Four.*
+*Week 2. Gallants Reach. 479. Six. Six.*
+*Week 3. Lower Lock. 486. **Eleven. Reason: eleven.***
+*Week 3. Marl Dykes. 481. Two. Two.*
+*Week 4. Quill Bank. 486. Nine. Nine.*
+*Week 4. Rush Halt. 486. Seven. Seven.*
+*Week 5. Witherow. 479. Three. Three.*
+*Week 5. Ossery. 486. Eleven. Eleven.*
+*Week 6. Otter Stair. 486. Nine. Nine.*
+*Week 6. Ashlocks. 486. Six. Six.*
 
 And then, under the Nether Sill row, on a strip of paper the size of a hand wired to the frame with a loop of tarred cord, the notice of the correction itself, which is what an examiner reads out:
 

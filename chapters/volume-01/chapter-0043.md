@@ -12,13 +12,15 @@ A **protective return** may be entered for a child, or for a person who cannot a
 
 **Three.** A named local appeal route, with a person at the far end of it.
 
-**Four.** A **custodian** — a named place at which the thing is kept, and a named person who keeps it, and a power in the office to replace that person.
+**Four.** A **named place** at which the thing is kept.
 
-**Five.** Nothing. There is no fifth. There are four, and the sheet says four, and there is a fifth thing on the sheet about review and a sixth about the reservation of consent, and the four are the four.
+**Five.** A **named person** who keeps it, and a power in the office to put somebody else in that place without asking the ward.
+
+There is nothing at the head of that sheet and nothing at the foot of it that is one of the five. The seven-day review is printed above the five and the reservation of consent is printed below them, and both of those are conditions of the instrument and not things that have to be true before one can be entered, and the sheet prints the whole of it in the same type, because a person reads a thing in the order it is numbered and not in the order it is ranked. The five are the five. A man arrives with a notebook and four blanks in it and finds five on the sheet, and the whole of the difference between the two numbers is that a place and a person are two lines and one word, and everybody who has ever used that word has meant both of them at once.
 
 "Three," said Ada Rusk.
 
-"Three of the four," said Owen Rusk, "and it has been three of the four since the third week of the month and the three are the two witnesses and the care act. The route went into the return on the forty-eighth with a name at the far end of it, conditionally, and the condition is not met yet and I am not going to tell the room that it is met."
+"Three of the five," said Owen Rusk, "and it has been three of the five since the third week of the month and the three are the two witnesses, the care act and the route, and the route is the one I am going to be exact about. It went into the return on the forty-eighth with a name at the far end of it, conditionally, and the condition is not met yet and I am not going to tell the room that it is met."
 
 "Which leaves the custodian," said Ada Rusk.
 
@@ -112,7 +114,7 @@ She asked him on the Wednesday night, at about nine, in the room at the back, wi
 
 "Go on."
 
-"You cannot be the custodian. You are not a Registry officer and you are not paid and there is no power in you to be replaced, so the fourth part of the requirements is not you. You cannot be a witness. You live in this ward and a witness to a return is a person who does not live in the thing, and you have said so yourself to two different people in two different weeks. So there is nothing in you for it.
+"You cannot be the custodian. You are not a Registry officer and you are not paid and there is no power in you to be replaced, so the fourth part of the requirements is not you and the fifth one is not you either. You cannot be a witness. You live in this ward and a witness to a return is a person who does not live in the thing, and you have said so yourself to two different people in two different weeks. So there is nothing in you for it.
 
 "There is one thing left and I want it said in a room and not in a corridor, because it is not a small thing to ask and you will want to get up and go to the end of the lane. **You are the person who will be on the page and be answerable for it.** Not the office of it. The person. You would be the one it comes back to."
 

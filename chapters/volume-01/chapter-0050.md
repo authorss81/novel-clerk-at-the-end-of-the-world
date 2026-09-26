@@ -132,7 +132,7 @@ The Office's answer about the forty-one is on a table by a door in a public hall
 
 Six children and non-responders have three of five parts and two of them are functions this city has never paid for. Four thousand one hundred and sixty pounds. Four months of a wage. A receipt promised on the nineteenth of the month, on a day to be named and an hour to be named, that was never given, and that is standing on a spike on the ground floor of this building with a heading on it.
 
-And the name of a man of fifty-one who carries bundles up a stair and puts them on a ledge and says nothing, who has done it for ten years from the water gate at the upriver end, whose name Owen Rusk copied about four times a week for six years out of the third column of a weekly post sheet, and who went on the sixty-fifth day of this month, and who is not VANE, H., and is not anybody, and is not written in his register, and is not on this file, and is not to be told.
+And the name of a man of fifty-one who carries bundles up a stair and puts them on a ledge and says nothing, who has done it for ten years from the water gate at the upriver end, whose name Owen Rusk copied about four times a week for six years out of the third column of a weekly post sheet, and who went on the sixty-fifth day of this month, and who is not anybody, and is not written in his register, and is not on this file, and is not to be told.
 
 ---
 
@@ -162,4 +162,4 @@ The cord was cold. The brass was cold. The card behind it said five words in a f
 
 Above him on the second floor a press went, and somewhere in the building a clerk said a number out loud to a person at a counter, and the building went on with two hundred sheets of correspondence that cannot be routed, and the season had ended, and the granary was at a fortnight and a bit and the writing-up would be on Thursday afternoon, and on Thursday morning at seven forty there would be three people on a path above a second bend putting a marker in the rain for the eighth week running.
 
-Owen Rusk took his hand off the cord, and went back up the stairs, and sat down at a desk he no longer wanted, at about ten minutes to three, with about an hour left on a certification and a list of five lines and a tray, and did not write the name of a man of fifty-one down anywhere at all.
+Owen Rusk took his hand off the cord, and went back up the stairs, and sat down at a desk he no longer wanted, at about ten minutes to three, with about forty minutes left on a certification and a list of five lines and a tray, and did not write the name of a man of fifty-one down anywhere at all.

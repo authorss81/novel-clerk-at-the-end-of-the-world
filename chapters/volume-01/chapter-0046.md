@@ -1,6 +1,6 @@
 # Chapter 46 — The Certification
 
-He asked the question on the Saturday morning of the sixty-first day of the month at about ten past nine, standing at the bottom of the seal stair, and he asked it badly on purpose, which is the first time in seven weeks he has done anything badly on purpose and the only reason is that he had four days to work out that he did not know how to ask it well.
+He asked the question on the Saturday morning of the sixty-first day of the month at about ten past nine, standing at the bottom of the seal stair, and he asked it badly on purpose, which is the first time in seven weeks he has done anything badly on purpose and the only reason is that he had had one night to work out that he did not know how to ask it well, and had got nowhere in it, and the certification itself is not signed until the Monday.
 
 The question was this. A copy clerk of the River Desk may enter a filing on a supervised tray and may cover papers going up the stair and may sign the entry of himself on a matter as a party, and may not sign a continuation, a certification, a suspension or a hold, and those four words are on the card in his drawer in this building and have been since the third week of the month.
 
@@ -42,7 +42,7 @@ She went down and came back up with a volume and put it on the ledge of the stai
 
 ---
 
-They put it in the long room at half past eleven on the Saturday morning, because that is the room that has the high windows and because a room that has the high windows is a room in which a thing like this can be looked at.
+They put it in the long room at about half past three on the Monday afternoon, two days after he had asked the question, because that is the room that has the high windows and because a room that has the high windows is a room in which a thing like this can be looked at.
 
 The reviewing officer read the form from the top without being asked to and then asked Owen Rusk the whole of the question, in front of everybody, which is the correct procedure and which Owen had not expected and which cost him about four seconds of standing still.
 
@@ -68,7 +68,7 @@ And Owen Rusk stood in a room with high windows and had to write down, in his ow
 
 He wrote:
 
-*On the fifty-fourth day of the month the river came up and I carried a bucket from the bottom of Bell Row in the dark between four and six in the morning. On the fifty-ninth I was in this room and I put a question to the Deputy Registrar and it was answered on the record. On the sixtieth I carried a bundle up this stair. I have not signed any instrument in this matter and I am not signing one as an officer. I have a private book that leaves this building and it is not a copy of anything in it.*
+*On the fifty-fourth day of the month the river came up and I carried a bucket from the bottom of Bell Row in the dark between four and six in the morning, and that is outside the seven days this sheet asks for, and I have put it down anyway, because a sheet that asks for seven is not a sheet that asks a man to stop counting. On the fifty-ninth I was in this room and I put a question to the Deputy Registrar and it was answered on the record. On the sixtieth I carried a bundle up this stair. I have not signed any instrument in this matter and I am not signing one as an officer. I have a private book that leaves this building and it is not a copy of anything in it.*
 
 He read it back to the room, at the pace of a man reading a menu, and Ada Rusk stopped him once — on the second sentence — because he had said *a question* where the sentence said *a question about the withdrawal of the district's return in the Concord Year 474*, and the difference is nine words and the nine words are the entire case.
 
@@ -144,7 +144,9 @@ Owen Rusk read the five lines out in a room with high windows and did not put th
 
 He signed.
 
-One line, in his own hand, as a person, without a seal, on a form on the third landing, in front of a room with high windows, and it is the first line he has been allowed to sign since the card was drawn and it is not a continuation and not a certification of somebody else's work and not a suspension and not a hold, and the four forbidden lines on the card were not touched, because this is a different line on a different page and it says a person and not an office.
+One line, in his own hand, as a person, without a seal, on a form on the third landing, in front of a room with high windows, and it is the first line he has been allowed to sign since the card was drawn. It is not a continuation, and it is not a suspension, and it is not a hold. It is a certification, and the card says *a certification*, and nobody in this room has pretended for one second that the word on the card is a different word from the word on this form.
+
+The answer to the card is on the second page of this form, in a box he filled in himself about four seconds ago, and it is not clever and it is not a way round anything. **This one has no office in it.** The four lines on the card are the four an officer signs, and there is no officer in this room and there is not going to be one, and a person of the district may make a certification and may not examine one, and he may not examine this, and he is not going to try, and the box says so in his own hand.
 
 The clerk on the press weighed it, which nobody had asked her to do, and stamped it, and said: "That is a good weight for a return bundle," in the flat voice of a person who has pressed four hundred thousand sheets.
 
@@ -158,7 +160,7 @@ And then, in the same voice, to the room:
 
 ---
 
-He got up the hill at about half past four on the Saturday afternoon and sat on the wall at the bottom of Fetter Lane for about ten minutes in the wet, and what he felt was relief.
+He got up the hill at about half past four on the Monday afternoon and sat on the wall at the bottom of Fetter Lane for about ten minutes in the wet, and what he felt was relief.
 
 It was a physical thing. It came up out of his chest about two minutes after he sat down and it was the first time in seven weeks that anything had come up out of his chest that was not a fear, and it went on for about four minutes, and it was a relief so complete and so undignified that he laughed out loud once on a wet wall in the rain by a river with a shut crossing above him.
 

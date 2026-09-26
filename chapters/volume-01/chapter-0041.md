@@ -78,7 +78,7 @@ It is a smaller word. It is the word a man uses when the person who wrote the sh
 
 "**The seed stall is gone,**" he said. "Do not make it smaller because you are standing next to me."
 
-Nessa Kray was at the end of the table in a wet apron with her arms folded, and she had not spoken in a hall in a month, and she had walked away from a branch of this ward's own return in front of twenty-six people and had never said a word about it since, and she said this one and then she sat down.
+Nessa Kray was at the end of the table in a wet apron with her arms folded, and she had not spoken in a hall in a month, and she had walked away from a branch of this ward's own return in front of about thirty people and had never said a word about it since, and she said this one and then she sat down.
 
 "Read the next bit," she said.
 

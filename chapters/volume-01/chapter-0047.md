@@ -6,9 +6,9 @@ That is the whole of the finding and it took four days to arrive at it and about
 
 A copy clerk holds things in general. That is what a copying floor is: a man at a desk who is handed a thing and is trusted with it in the abstract, and the abstraction is a professional skill, and it is why a building full of clerks can hold a district's entire record in a room with a leaking roof without anybody noticing that anything in it has changed.
 
-He could not do that any more, and the reason he could not do it was on the second page of a form in a file and had been on the second page of a form in a file since Saturday afternoon: *the person making this certification carries the part that is not resolved, and the part that is not resolved is a list.*
+He could not do that any more, and the reason he could not do it was on the second page of a form in a file and had been on the second page of a form in a file since Monday afternoon: *the person making this certification carries the part that is not resolved, and the part that is not resolved is a list.*
 
-And the list was five lines long, and it had been five lines long since Saturday, and on Tuesday morning it came into the copying floor in the most ordinary way in the world, which is that it came in through the ordinary work.
+And the list was five lines long, and it had been five lines long since Monday, and on Tuesday morning it came into the copying floor in the most ordinary way in the world, which is that it came in through the ordinary work.
 
 ---
 
@@ -24,7 +24,7 @@ And the first line of the list came into his head at that moment, entire, with a
 
 The smell is oiled cloth. That is the whole of it. It is not a metaphor and it is not clever. Cobb Rennie keeps an oiled coat on a hook behind his door because he has walked a child of twelve home every night in the dark for four months and a coat that has been in that river basin four times a week does not last a season unless it is oiled, and the smell of it is in the room at the back of the ward hall on a Tuesday evening, and it is in Owen Rusk's head at ten past nine on a Tuesday morning in a building four hundred yards from that hall, and it is the smell of a man who is owed a pension and who is not going to get it and who is on nobody's list but this one.
 
-The detail does not aggregate. That is what he had not understood on Saturday.
+The detail does not aggregate. That is what he had not understood on Monday.
 
 A list of five is a thing a man can hold. Five is a number and a number is a thing you can put in a box and look at on a bad day. But the moment the person holding it starts doing the ordinary work of his ordinary day, the five stops being five and becomes five *particulars*, and a particular is not a number, and a particular has a smell and a weight and a sound and does not add to anything.
 
@@ -36,7 +36,7 @@ Owen Rusk stood at the end of the second desk with a returned notice in his hand
 
 The second one came at about half past ten and it came as a weight.
 
-It is the **roster board**. The ward keeps a copy of the roster at the weir path, hung on two nails under a tin, and Wil Pomfret is the person who carries it up and hangs it and brings it in again in the wet, and it is one of the six duties on the return now, and one of the six names on the instrument sealed on Saturday, and Owen Rusk has never seen the board.
+It is the **roster board**. The ward keeps a copy of the roster at the weir path, hung on two nails under a tin, and Wil Pomfret is the person who carries it up and hangs it and brings it in again in the wet, and it is one of the six duties on the return now, and one of the six names on the instrument sealed on Monday, and Owen Rusk has never seen the board.
 
 It weighs nine pounds dry.
 
@@ -48,7 +48,7 @@ And a wet board is where Ivy Sarr would be, if she were a branch, if there were 
 
 Three of the five required parts exist. Two of them are Registry functions and this city has never paid for either of them. The word *custodian* is not written beside any of the four people in that ward who could be asked, and it is not going to be written beside any of them, and the number five hours a week is on a page in a ward hall in a steward's ruled hand with the day and the hour under it, and it is a number on a page and not a gap, and a number on a page in a ward hall two miles upriver does not put anybody in a protected return.
 
-Owen Rusk stood at the end of the second desk at about half past ten on the Tuesday morning and understood that **being legible is not the same as being owed anything**, and that a woman of sixty-one had said a version of it in a hall on Monday with a stove going, and that he had heard it, and that hearing it was not the same as carrying it, and that carrying it was what he had signed for on Saturday and what he was going to be doing at about this time every morning for as long as anybody in this city cared to let him.
+Owen Rusk stood at the end of the second desk at about half past ten on the Tuesday morning and understood that **being legible is not the same as being owed anything**, and that a woman of sixty-one had said a version of it in a hall on the Friday with a stove going, and that he had heard it, and that hearing it was not the same as carrying it, and that carrying it was what he had signed for on Monday and what he was going to be doing at about this time every morning for as long as anybody in this city cared to let him.
 
 ---
 
@@ -74,7 +74,7 @@ Four thousand one hundred and sixty pounds, and the wage is four months in arrea
 
 He wrote the number on the back of a sheet and then, about four seconds later, did the thing he has been not doing for seven weeks and did anyway, and picked up a pencil and put the other four in a column under it, and then stopped with the pencil on the paper.
 
-Because a column of five numbers is a list, and a list of five is a thing a man can hold, and he had signed on Saturday for the part that is not a list.
+Because a column of five numbers is a list, and a list of five is a thing a man can hold, and he had signed on Monday for the part that is not a list.
 
 He put the pencil down and put the sheet in the tray drawer and did not write it in the register, and the reason he did not write it in the register is that a register is a thing a man leaves the building with, and this is a thing he leaves the building with every morning whether he writes it down or not.
 
@@ -122,7 +122,7 @@ He got it out of the big book. That is what the big book is for; that is the ent
 
 **HIRAM CRAY. Fifty-one. Water gate, upriver end. Thirty years in the post, ten of them on that gate. Carries bundles up a stair, puts them on a ledge, says nothing.**
 
-He read it twice. And then he read the sentence that describes the work, because the work is the part that is a fact and the name is the part that is a person, and he had been told on Saturday in a room with high windows that the part that is not resolved is a list, and a list of particulars does not aggregate, and a particular is a name and a piece of work.
+He read it twice. And then he read the sentence that describes the work, because the work is the part that is a fact and the name is the part that is a person, and he had been told on Monday in a room with high windows that the part that is not resolved is a list, and a list of particulars does not aggregate, and a particular is a name and a piece of work.
 
 Then he copied the post sheet into the big book in his own hand, all four columns, and the third column on the Wednesday line he copied as it stood, which is to say he copied the space.
 
@@ -146,7 +146,7 @@ What it actually is, he worked out in a lane, in about ninety seconds, standing 
 
 It is the ordinary Tuesday texture of a thing that cannot be put down.
 
-A list of five particulars arrives, and the particulars do not aggregate, and you cannot hold them in general, so you hold them one at a time and each one is a smell or a weight or a pitch of voice or a number, and the day does not stop. The day is a day. There are two hundred and forty sheets on the tray. The press is cold. A copy clerk of the River Desk, of the district named in a return he certified on Saturday, holds one active preservation, and a preservation does not stop the ordinary work, and the ordinary work is the reason the person holding it is the person holding it.
+A list of five particulars arrives, and the particulars do not aggregate, and you cannot hold them in general, so you hold them one at a time and each one is a smell or a weight or a pitch of voice or a number, and the day does not stop. The day is a day. There are two hundred and forty sheets on the tray. The press is cold. A copy clerk of the River Desk, of the district named in a return he certified on Monday, holds one active preservation, and a preservation does not stop the ordinary work, and the ordinary work is the reason the person holding it is the person holding it.
 
 And the thing he can least put down is a name.
 

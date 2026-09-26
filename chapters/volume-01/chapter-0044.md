@@ -78,7 +78,7 @@ The second person at the far end of the ward's route came in at about a quarter 
 
 Hester Lund has kept the tide table at Coal Hill for nineteen years and is not an officer of anything and holds no office and has no seal. She was on the public roll of a district that is one of the sixteen named in Stability Order 114, and she was going to be asked about that in the afternoon.
 
-"A standing in the room with a document on the table in front of it," she said, when Marguerite Bray asked her, in four words, in front of a clerk, which was the whole of it.
+"A standing in the room with a document on the table in front of it," she said, when Marguerite Bray asked her, in fifteen words, in front of a clerk, which was the whole of it.
 
 "That is a person who will say what the district did," said the chair, "and is not a witness to the return and signs nothing the district performs."
 
@@ -140,7 +140,7 @@ He stood up as a co-petitioner and said that first, because the clerk of the doc
 
 "The file does not record the twenty-two. Twenty-two people were drowned in the same flood on ground that was not cleared. The Deputy Registrar has told this room why, in a hall, in front of forty people, and the reason is that the instrument is about a place and there is no column in it for them.
 
-"My question is this. **Did you read your own file the way this office reads every file, in the way that was favourable to you, and sign it?**"
+"My question is this. **Did you read your own file the way this office reads every file, in the way that was favourable to you, and did you hide them inside a favourable reading, and sign it?**"
 
 There was no noise at all in the long room.
 
@@ -178,7 +178,7 @@ And the deputy registrar of this district had signed the first of them, in the f
 
 So there were two people in that office this morning who had each stood at a table and said a number, and neither of them knew that the other's number was the same, and the only person in the room who knew both was a copy clerk who was not a witness to anything.
 
-He stood at the back of a hall and worked out what it was, in about four seconds, standing up, in the way he had learned to do it in the seventh week, and it was nothing. It was a coincidence of a number. Forty-one residence statuses struck in one sitting in a flood quarter and forty-one dispositions in a refusal column in a quarter nine years later are not one practice, they are not connected, they were done by two different people for two different reasons, and Chapter thirty of the first month of this case said so on the page in a hall in front of thirty people, and it is the truest thing in this file and it is the only thing in this file that is neither a document nor a person.
+He stood at the back of a hall and worked out what it was, in about four seconds, standing up, in the way he had learned to do it in the seventh week, and it was nothing. It was a coincidence of a number. Forty-one residence statuses struck in one sitting in a flood quarter and forty-one dispositions in a refusal column in a quarter nine years later are not one practice, they are not connected, they were done by two different people for two different reasons, and it is in his own book in his own hand and has been since the thirty-ninth day of the month, when he did the arithmetic at half past six in the evening and told nobody, and it is the truest thing in the case and the only thing in it that is neither a document nor a person, and it is in no file in this city, because a man does not file the answer to his own arithmetic.
 
 And he wanted it to be something. That was the part he would not have admitted to anybody in a hall. He wanted two numbers to be one practice so badly that for about four seconds in a long room with high windows he was not thinking about the twenty-two at all.
 

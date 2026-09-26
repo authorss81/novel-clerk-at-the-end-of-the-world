@@ -110,9 +110,9 @@ He wrote it in his own hand, which is a cook's hand and not a clerk's, and he wr
 
 It said:
 
-*I am offered a separate branch of District Return 487-LL and I refuse it. My reason is the one I gave in this hall on the fortysixth day of the month and it is the same reason today. Being read by somebody who can stop is not the same as being read by somebody who can stay, and a branch is for ever and a Thursday is one day, and I will not be on a page in a document that has nobody at the end of it who can stay. This is a refusal and it is not a request to be put back into anything. It is dated today. It is in my own hand. Do not ask me again.*
+*I am offered a separate branch of District Return 487-LL and I refuse it. My reason is the one I gave in this hall on the forty-sixth day of the month and it is the same reason today. Being read by somebody who can stop is not the same as being read by somebody who can stay, and a branch is for ever and a Thursday is one day, and I will not be on a page in a document that has nobody at the end of it who can stay. This is a refusal and it is not a request to be put back into anything. It is dated today. It is in my own hand. Do not ask me again.*
 
-Marguerite Bray read it back to the room in her own voice and ruled it with the day and the hour, and then she ruled the ward's answer to it, which was one line, in her own hand, and which read: *The offer stands and the refusal is recorded and neither of them is withdrawn by the other, and the ward has not asked the district office to name anybody.*
+Marguerite Bray read it back to the room in her own voice and ruled it with the day and the hour, and then she ruled the ward's answer to it, which was one line, in her own hand, and which read: *The offer stands and the refusal is recorded and neither of them is withdrawn by the other, and the ward has not asked the district office to name anybody, and the day this ward named as the limit was the day of the hearing, and the ward has not closed an offer on the morning after it, and there is no instrument in this city that closes a page a ward has ruled.*
 
 "Rule that nobody is to be asked," said Ada Rusk, "and rule it in capitals, because in about three weeks somebody in a good mood is going to try."
 

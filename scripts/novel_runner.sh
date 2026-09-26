@@ -22,13 +22,27 @@ if [ -z "${OPENCODE_API_KEY:-}" ]; then
 fi
 
 phase_dir=""
+retired_changed=false
 while IFS= read -r prompt_file; do
   candidate="$(dirname "$prompt_file")"
+  if [ -f "$candidate/.retired" ]; then
+    continue
+  fi
+  if grep -qi '^Retired .*phase' "$prompt_file"; then
+    touch "$candidate/.retired"
+    retired_changed=true
+    continue
+  fi
   if [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
     phase_dir="$candidate"
     break
   fi
 done < <(find workspace -name PROMPT.md -type f | sort)
+if [ "$retired_changed" = true ]; then
+  git add workspace
+  git commit -m "novel: retire obsolete planning phases" >/dev/null
+  git push origin HEAD
+fi
 
 if [ -z "$phase_dir" ]; then
   echo "No incomplete phase found"
@@ -152,7 +166,7 @@ has_other_incomplete_phase() {
   local candidate
   while IFS= read -r prompt_file; do
     candidate="$(dirname "$prompt_file")"
-    if [ "$candidate" != "$phase_dir" ] && [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
+    if [ "$candidate" != "$phase_dir" ] && [ ! -f "$candidate/.retired" ] && [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
       return 0
     fi
   done < <(find workspace -name PROMPT.md -type f | sort)

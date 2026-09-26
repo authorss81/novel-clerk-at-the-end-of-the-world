@@ -4,7 +4,7 @@ The schedule for the season of the Concord Year 489 has ten settlements on it.
 
 That is the sentence, and it is the whole of the surprise, and it was not a surprise to anybody except about nine people standing at a frame behind the tanneries on the Friday morning of the last day of the second month of the Concord Year 488, because the season's schedule had gone up on the Wednesday in the printing and had been on the frame ever since and the county does not read a board twice.
 
-Owen Rusk had read it on the Wednesday. What he had done on the Wednesday was stand underneath it at about ten past three and read the bottom sheet, which was his own, and the top one was eleven inches above his eye line and he had read the heading of it and the first two rows and had gone and stood and looked at his own notice instead, which is a thing he has been doing since the ninth day of the month of the first month, and which is his whole character and which is not a fault anybody can correct.
+Owen Rusk had read it on the Wednesday. What he had done on the Wednesday was stand underneath it at about ten past four and read the bottom sheet, which was his own, and the top one was eleven inches above his eye line and he had read the heading of it and the first two rows and had gone and stood and looked at his own notice instead, which is a thing he has been doing since the ninth day of the month of the first month, and which is his whole character and which is not a fault anybody can correct.
 
 He went back on the Friday and read it properly, standing up, from the top, the way he reads everything, and the woman who maintains the board was on the ladder with the scraper and the bucket and he asked her to leave it alone for four minutes, which she did without asking why, because people ask him to do that about four times a season.
 
@@ -80,9 +80,9 @@ He read the tenth row once more before he left. *District Office, Fetter Bend. 4
 
 ---
 
-He got back up the hill at about one and did the tray and was on it at a quarter past six, and on the Saturday morning of the first day of the third month of the Concord Year 488 he was in two rooms in Fetter Lane with the lamp out and the district return for the season of 489 in front of him, and he had had it since the Monday, and he had not looked at the top right corner of it for a week.
+He got back up the hill at about three and did the tray and was on it at a quarter past six, and on the Saturday morning of the first day of the third month of the Concord Year 488 he was in two rooms in Fetter Lane with the lamp out and the district return for the season of 489 in front of him, and he had had it since the Monday, and he had not looked at the top right corner of it for a week.
 
-He had looked at the top right corner of about four hundred forms in nine years. It is where the date and the receiving office go and the receiving office's hand, and it is the part of a form that tells you what happened to the form, and there is nothing on it that anybody has ever asked him about and there is never anything on it, and he had not looked at it on the Monday because the Monday had a determination in it and a survey notice in it and a form about a mill in his hand that he could not undo.
+He had looked at the top right corner of about four hundred forms in nine years. It is where the date and the receiving office go and the receiving office's hand, and it is the part of a form that tells you what happened to the form, and there is nothing on it that anybody has ever asked him about and there is never anything on it, and he had not looked at it on the Monday because the Monday had a survey notice in it and a return that had come back with two lines on it and a form about a mill in his hand that he could not undo.
 
 The receiving office of the count room is stamped in the top right corner, and beside the stamp there is a tick.
 

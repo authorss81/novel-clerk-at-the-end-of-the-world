@@ -64,7 +64,7 @@ He signed it as Owen Rusk, of Fetter Lane.
 
 ---
 
-**DISTRICT OFFICE, DOCKETFORD. Statement of the district office concerning the district of Lower Lock, made by the officer of the record of the district returns. Not a return. Not a claim. Not an instrument. A hold and a challenge and an appeal are not made out of it and it is none of them. The third day of the third month of the Concord Year 488.**
+**DISTRICT OFFICE, DOCKETFORD. Statement of the district office concerning the district of Lower Lock, made by the officer of the record of the district returns. Not a return. Not a claim. Not an instrument. A hold and a challenge and an appeal are not made out of it and it is none of them. The fourth day of the third month of the Concord Year 488.**
 
 **One. This district performs and is not counted and does not intend to stop. The paper of this district says four words and the four words are *Duty, and no status*, and the four words have not been reworded by anybody.**
 

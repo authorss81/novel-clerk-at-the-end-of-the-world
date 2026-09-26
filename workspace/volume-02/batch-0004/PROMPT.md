@@ -76,6 +76,18 @@ Owen Rusk is a **Stage 2 Continuance Examiner of the Count, Docketford district*
 
 **And keep all seven apart from Volume 01's four:** the spring engineering notice, the C.Y. 486 transfer receipt, the Day 10 load-restriction suspension, **Stability Order 114** — plus Redaction Batch 471/Q4/19 and Precedent 37/C. **Stability Order 114 is a local instrument on sixteen named returns, in public appeal, not withdrawn, the sixteen are sixteen, Lower Lock is sixth, and the Count is a regional act on draws. Neither can move a line on the other and nothing in this batch touches either.**
 
+### The order of the frame at the west gate, and it is settled
+
+Batch 0003's last pass found that three chapters had described the frame at the west gate of Cutter's Fields in three different orders, and it settled **one order, which is binding and which no chapter in this batch may rearrange.** From the top of the frame down:
+
+1. **The schedule of settlements to be reconciled for the season of 489** — up since the twenty-eighth of the second month, ten settlements, five columns, fourth and fifth empty on all ten, the tenth row a building.
+2. **The count of the ninth day of the second month** — qualified, nine of eleven, not reconciled: Lower Lock, Ossery.
+3. **The suspension of the Warden of the Census Guard** — one loop of tarred cord, a page long, the reason on it is not a figure.
+4. **The notice of the twenty-sixth, at the bottom** — survey of settlements of record, suspended, nine persons affected, the reason not given and no form in this county provides for one, and at the foot of it in a smaller type four lines and a date, in the form a warden writes suspensions in.
+5. **Wired up on the seventh of the third month by the woman who maintains it, without being asked:** a strip the size of a receipt, and a single sheet with a number and a month and initials and four words on it and five clauses under the four words.
+
+**Any sheet this batch puts on that frame must be given one of these five positions by name. Chapter 89 certifies the count of 489 and its certification is the season's first appearance on that frame; where it goes is the prose's decision and it must not be put on top of a sheet that is already there.**
+
 ### The three hours of the ward's week, and the material position, and it is all of it unfunded
 
 The marker goes up on the Thursday and the Friday at seven forty. The channel goes on the Wednesday night, because the channel is a Wednesday. **The pump is primed at four in the morning on the Thursday by two people**, one of whom is a household with a girl of twelve in it. The roster is read at ten past six on the Thursday, after which Owen may not say anything that is not a fact about a document. **The crew is nine. The wage is four months in arrears and is the WARD crew's wage and may not be migrated to the district office or the second desk.** The crossing is closed to loads and to vehicles above four tons and has been since the tenth day of the month of rain; the repair is **four thousand one hundred and sixty pounds** and is unfunded and the notice at the weir path inviting any district able to perform it is in the weather and has brought no district. **The Fetter Lane pump grant is suspended and not extinguished.** The granary has been open and empty since the seventh day of the second month, **nobody bought anything, and nobody is going to buy anything in this batch either**; the figure is **nothing**, ruled into the delivery book in Marguerite Bray's own hand with the day and the hour, and it is **nothing for the fifth week running** by the end of this batch. **The ward's paper says four words and the four words are *Duty, and no status*, and they have not been reworded by anybody.**

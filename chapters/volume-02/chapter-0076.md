@@ -74,7 +74,7 @@ Junia Pell was at the end of the second desk at about eleven and she had not rea
 
 ---
 
-He read the notice out in the ward hall on the Tuesday evening of the twenty-seventh, at ten past six, because the roster is read at ten past six on a Thursday and this was not a Thursday and the hall was told it was not a Thursday and about thirty people came anyway. He read the whole of it. He read the schedule. He read the ninth line, that nine persons are affected and that the reason is not given and no form in this county provides for one. He read the foot, and he read it the way he reads things, from the top, and he did not comment on it, and about eleven people in that room worked out on their own that the last line of it is the form Warden Kade wrote in a field three weeks ago, and nobody said so, and one of the people who worked it out was Cobb Rennie and Cobb Rennie said nothing at the time and said it out loud about nine days later in a different place.
+He read the notice out in the ward hall on the Tuesday evening of the twenty-seventh, at ten past six, because the roster is read at ten past six on a Thursday and this was not a Thursday and the hall was told it was not a Thursday and about thirty people came anyway. He read the whole of it. He read the schedule. He read the ninth line, that nine persons are affected and that the reason is not given and no form in this county provides for one. He read the foot, and he read it the way he reads things, from the top, and he did not comment on it, and about eleven people in that room worked out on their own that the last line of it is the form Warden Kade wrote in a field on the ninth of the month, and nobody said so, and one of the people who worked it out was Cobb Rennie and Cobb Rennie said nothing at the time and said it out loud about nine days later in a different place.
 
 Ada Rusk was at the wall, and she had her arms folded, and she waited until he had finished before she said anything, and what she said was four sentences and she said them in the voice she uses for a roster.
 
@@ -104,7 +104,7 @@ He went down to the field on the Wednesday morning of the twenty-eighth and the 
 
 **Two sheets went onto one frame in Docketford district on the twenty-eighth day of the second month of the Concord Year 488, and a woman who is not on the board and has asked for no name for nine years wired up both of them, and one of them is the work of a man who wrote a sentence in a column and the other one is what has come of it, and they are about eleven inches apart and about six hours and a half apart and neither of them is about a person.**
 
-Above it was the count of the ninth. Under it was Kade's sheet, with one loop of cord and a page long reason that is not a figure.
+Above it was the count of the ninth, and under the count was Kade's own sheet, with one loop of cord and a page long reason that is not a figure, and the notice went on at the bottom of the frame under that, which is where it still is.
 
 **Three documents on a frame, and two of them are reasons that are not figures, and there is not one of them about a person, and every one of them cost something.**
 

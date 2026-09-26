@@ -48,7 +48,7 @@ About thirty people were standing about and reading it as it went up, which is t
 
 **Two sheets went up in about forty minutes, and one of them is the answer to a column that cannot be filled, and the other one is the answer to a question, and between them they are the whole of what this season has produced, and not one person is on either of them.**
 
-Then Cobb Rennie asked the warden whether she was going to do anything about the list, in a field, in front of about thirty people, in the ordinary voice, and Owen Rusk was about eight feet off with his hands behind his back and did not go closer. Warden Kade had come down the hill at about a quarter to ten on the Friday, alone again, without a case and without a slate, for the second time in a fortnight, and she had been standing at the frame since the schedule went up on the twenty-eighth and had not said anything to anybody, and it is in this county a considerable thing to stand at a public board for nine days and say nothing.
+Then Cobb Rennie asked the warden whether she was going to do anything about the list, in a field, in front of about thirty people, in the ordinary voice, and Owen Rusk was about eight feet off with his hands behind his back and did not go closer. Warden Kade had come down the hill at about a quarter to ten on the Friday, alone again, without a case and without a slate, and she had been at the frame since the schedule went up on the twenty-eighth, and she had said nothing to anybody since the Thursday, and it is in this county a considerable thing for a warden to stand at a public board for eight days and say nothing.
 
 "**No,**" said Warden Kade.
 
@@ -106,15 +106,15 @@ And Owen Rusk stood about eight feet off with his hands behind his back and did 
 
 ---
 
-The frame at the west gate of Cutter's Fields, on the Friday morning of the seventh day of the third month of the Concord Year 488, in the order it stood, was this.
+The frame at the west gate of Cutter's Fields, on the Friday morning of the seventh day of the third month of the Concord Year 488, from the top of it down, was this.
+
+*The schedule for the season of 489, up since the twenty-eighth of the second month. Ten settlements. Five columns. The fourth column, headed authorised draw, empty on all ten. The fifth column, headed year of last survey, empty on all ten. The tenth row is a building.*
 
 *The count of the ninth day of the second month. Qualified. Nine of eleven. Not reconciled: Lower Lock. Ossery.*
 
 *The suspension of the Warden. One loop of cord. A page long, and the reason on it is not a figure.*
 
-*The notice of the twenty-sixth. Survey of settlements of record. Suspended. Nine persons affected. The reason is not given and no form in this county provides for one. And at the foot of it, in a smaller type, four lines and a date, in the form a warden writes suspensions in.*
-
-*The schedule for the season of 489. Ten settlements. Five columns. The fourth column, headed authorised draw, empty on all ten. The fifth column, headed year of last survey, empty on all ten. The tenth row is a building.*
+*The notice of the twenty-sixth, at the bottom. Survey of settlements of record. Suspended. Nine persons affected. The reason is not given and no form in this county provides for one. And at the foot of it, in a smaller type, four lines and a date, in the form a warden writes suspensions in.*
 
 *And, wired up that morning by the woman who maintains the board: a strip the size of a receipt saying that the suspension continues, that figures are carried forward, and that the fifth column will be completed in the season of 490 from the returns of district offices and of water offices. And a single sheet with a number and a month and initials and four words on it, and five clauses under the four words, being the district's own answer to a question a woman of sixty-one asked in her own name about a column.*
 

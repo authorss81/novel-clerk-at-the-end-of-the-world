@@ -159,11 +159,25 @@ has_other_incomplete_phase() {
   return 1
 }
 
+next_continuation_dir() {
+  local candidate="workspace/continuation/next"
+  if [ -f "$candidate/.done" ] || [ -f "$candidate/.blocked" ]; then
+    local n=1
+    while :; do
+      candidate="$(printf 'workspace/continuation/next-%04d' "$n")"
+      [ -e "$candidate" ] || break
+      n=$((n + 1))
+    done
+  fi
+  printf '%s\n' "$candidate"
+}
+
 ensure_next_phase() {
   if has_other_incomplete_phase; then
     return 0
   fi
-  local continuation_dir="workspace/continuation/next"
+  local continuation_dir
+  continuation_dir="$(next_continuation_dir)"
   mkdir -p "$continuation_dir"
   cat > "$continuation_dir/PROMPT.md" <<EOF
 Continue the novel after the completed phase $phase_id.

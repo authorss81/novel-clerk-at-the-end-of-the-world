@@ -38,6 +38,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - name: Install OpenCode
         run: curl -fsSL https://opencode.ai/install | bash
@@ -78,6 +79,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - name: Install OpenCode
         run: curl -fsSL https://opencode.ai/install | bash
@@ -94,25 +96,59 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Check for incomplete phase
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Check phase state
         id: phase
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          tree="$(gh api "repos/${GITHUB_REPOSITORY}/git/trees/HEAD?recursive=1" --jq '.tree[].path')"
           exists=false
+          has_done=false
+          has_blocked=false
           while IFS= read -r prompt; do
             [ -n "$prompt" ] || continue
-            phase_dir="${prompt%/PROMPT.md}"
-            if ! grep -qxF "$phase_dir/.done" <<< "$tree" && ! grep -qxF "$phase_dir/.blocked" <<< "$tree"; then
-              exists=true
-              break
+            phase_dir="$(dirname "$prompt")"
+            if [ -f "$phase_dir/.blocked" ]; then
+              has_blocked=true
             fi
-          done < <(printf '%s\n' "$tree" | grep -E '^workspace/(phase-|volume-).+/PROMPT\.md$' || true)
+            if [ ! -f "$phase_dir/.done" ] && [ ! -f "$phase_dir/.blocked" ]; then
+              exists=true
+            fi
+          done < <(find workspace -name PROMPT.md -type f | sort)
+          if find workspace -type f -name .done -print -quit | grep -q .; then
+            has_done=true
+          fi
+          if find workspace -type f -name .blocked -print -quit | grep -q .; then
+            has_blocked=true
+          fi
           echo "exists=$exists" >> "$GITHUB_OUTPUT"
+          echo "has_done=$has_done" >> "$GITHUB_OUTPUT"
+          echo "has_blocked=$has_blocked" >> "$GITHUB_OUTPUT"
+      - name: Seed continuation phase
+        id: seed
+        if: steps.phase.outputs.exists != 'true' && steps.phase.outputs.has_done == 'true' && steps.phase.outputs.has_blocked != 'true'
+        run: |
+          set -euo pipefail
+          continuation_dir="workspace/continuation/next"
+          if [ -f "$continuation_dir/PROMPT.md" ]; then
+            echo "created=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          mkdir -p "$continuation_dir"
+          cat > "$continuation_dir/PROMPT.md" <<'EOF'
+          Continue the novel from the last completed phase. Read NOVEL_SPEC.md, the series outline and ending, the relevant volume outline, state/current.md, the rolling summaries, and the previous 20 chapters. If the current volume is complete, plan the next volume and write its first 10 to 20 chapter batch. Otherwise write the next planned batch. Do not stop at an outline. Update manuscript state files and create exactly one next phase prompt before marking this phase done. Do not edit controller, workflow, agent, or dispatcher files.
+          EOF
+          git config user.name "novel-fleet-bot"
+          git config user.email "novel-fleet-bot@users.noreply.github.com"
+          git add "$continuation_dir/PROMPT.md"
+          git commit -m "novel: seed continuation phase"
+          git push origin HEAD:main
+          echo "created=true" >> "$GITHUB_OUTPUT"
       - name: Re-dispatch next tick
-        if: steps.phase.outputs.exists == 'true'
+        if: steps.phase.outputs.exists == 'true' || steps.seed.outputs.created == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

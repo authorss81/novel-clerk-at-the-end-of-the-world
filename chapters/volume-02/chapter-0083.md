@@ -85,7 +85,7 @@ He put the tray down on the shelf and stood with his back to the door, because O
 
 Pike came and looked at the book on the desk, and then at the foolscap that was not there any more because it was in the back cover, and he did not open the book, and he worked out in about a second and a half that the back cover was where it was.
 
-"**Then you have done it,**" he said.
+"Then you have done it," he said.
 
 "I have."
 
@@ -99,13 +99,13 @@ Owen Rusk did not make anything of it.
 
 "The Office has no view on it," he said. "It has been put to me in writing and in a form and the form is correct. A district may survey its own book at any time it likes and nothing in force stops it."
 
-"That is not because the Office thinks it is proper," said Pike. "**That is because the Office has never had to have a view on it, and there is a difference, and you have not worked out which side of that sentence you are standing on and I have not either.**"
+"That is not because the Office thinks it is proper," said Pike. "That is because the Office has never had to have a view on it, and there is a difference, and you have not worked out which side of that sentence you are standing on and I have not either."
 
 "A date is a fact about a room," said Owen Rusk. "That is all a date is. Once it is in a column it stops being a fact about a room and starts being a fact about a place, and there is nobody in this county who can tell the two apart afterwards, and that is not a scandal, it is a filing."
 
 Pike looked at him for about three seconds, which from a man who is quick with a tray is a considerable thing.
 
-"**You have been in this building nine years and that is the first sentence anybody has said in it that I have not had a better version of,**" he said. "And I am going to tell you the better version now and then we are going to stand here and not say anything else about it for the rest of the season."
+"You have been in this building nine years and that is the first sentence anybody has said in it that I have not had a better version of," he said. "And I am going to tell you the better version now and then we are going to stand here and not say anything else about it for the rest of the season."
 
 "All right."
 
@@ -119,13 +119,13 @@ The bulb on the flex buzzed.
 
 "I did the ordinary thing because if I had asked him you would have known I knew."
 
-"Yes," said Halden Pike. "**Which is the same sentence twice and both halves of it are yours.**"
+"Yes," said Halden Pike. "Which is the same sentence twice and both halves of it are yours."
 
 He put his hand on the shelf.
 
 "And you asked him not to be named, and he has not been named, and I have never known his name, and you are the deputy registrar of this district and you have a water office in your district and you could have had his name out of that room in about a fortnight by asking a person in a corridor, and you asked him for it in a field in front of thirty people and you asked him to be quiet about it."
 
-"**I asked him in a field in front of about thirty people, on a Sunday, in the cold, because a question asked in a room is a conversation and a question asked in a field is a record,**" said Pike. "**And he said no, and the no was correct, and I have never asked him again, and that is the whole of my interest in the man of fifty-five, and I am not going to tell you his name and you are not going to ask me and if you do ask me I will say no at a counter, because that is where a person says no in this county.**"
+"I asked him in a field in front of about thirty people, on a Sunday, in the cold, because a question asked in a room is a conversation and a question asked in a field is a record," said Pike. "**And he said no, and the no was correct, and I have never asked him again, and that is the whole of my interest in the man of fifty-five, and I am not going to tell you his name and you are not going to ask me and if you do ask me I will say no at a counter, because that is where a person says no in this county.**"
 
 "I am not going to ask you."
 
@@ -143,7 +143,7 @@ Owen Rusk came down off the second floor at about five and Junia Pell was at the
 
 "Yes."
 
-"**And there is a sheet of foolscap in the back of a book that has been on that shelf since the Concord Year 348.**"
+"And there is a sheet of foolscap in the back of a book that has been on that shelf since the Concord Year 348."
 
 Owen Rusk stopped in the middle of the floor of the second floor of the district office of Docketford.
 
@@ -157,10 +157,10 @@ Owen Rusk stopped in the middle of the floor of the second floor of the district
 
 The bulb on the flex buzzed on the second floor above them.
 
-"**That is not a comfort,**" said Junia Pell. "I want to be exact, because you are about to go and be pleased with yourself for about four minutes. It is not a comfort. It is a district that has decided, in the only quiet way available to it, to be the district that nobody can look at, and to get there by being right twice, and about four years from now a person in Concord Hall is going to read two documents in this district's file that have your name on them and they are going to be about a challenge and a cure, and they are four weeks apart, and the one that cured it will not say why."
+"That is not a comfort," said Junia Pell. "I want to be exact, because you are about to go and be pleased with yourself for about four minutes. It is not a comfort. It is a district that has decided, in the only quiet way available to it, to be the district that nobody can look at, and to get there by being right twice, and about four years from now a person in Concord Hall is going to read two documents in this district's file that have your name on them and they are going to be about a challenge and a cure, and they are four weeks apart, and the one that cured it will not say why."
 
 She picked the correspondence back up.
 
-"I am not going to be thanked for that either," she said. "**Put it on the same page as everything else on it this season.**"
+"I am not going to be thanked for that either," she said. "Put it on the same page as everything else on it this season."
 
 He went and did the tray and it was on at a quarter past six and it was empty, and had been since about nine, and a sheet of foolscap with ten identical dates on it was in the back of a book on a shelf that has been on a shelf since the Concord Year 348, and the fifth column of the district return for the season of 489 was still empty on all ten, and it is going to be empty in June, and in June of the season of 490 it is going to be full of a year a man in a water office with a bad knee put there honestly, and about a year after that somebody in this building is going to find that out and is going to be the man in the room, and he already knows whose hand it is.

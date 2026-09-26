@@ -8,7 +8,7 @@ Owen Rusk got down there at about half past nine and stood at the rail with his 
 
 Marguerite Bray was in the ward hall on the Saturday at about half past eight and she had counted the granary on the Wednesday night and written it up on the Thursday bin by bin in a lamp, and she read the figure out in the hall before anybody else said anything, because that is the order they work in.
 
-"**Nothing,**" she said. "**The eleventh bin is nothing and the tenth is nothing and the fourth is nothing and the figure is nothing for the seventh week running and I have written the day and the hour against it and I have not shortened it and the writing up took about two hours and six minutes and I am sixty-one and I did it in a lamp because I do it in a lamp.**"
+"Nothing," she said. "**The eleventh bin is nothing and the tenth is nothing and the fourth is nothing and the figure is nothing for the seventh week running and I have written the day and the hour against it and I have not shortened it and the writing up took about two hours and six minutes and I am sixty-one and I did it in a lamp because I do it in a lamp.**"
 
 Nobody said anything. There have been no meals into that building since the seventh day of the second month and there is not going to be one, and the figure is nothing, and the decision not to buy was made on the first of the second month by a woman in this hall and it was correct.
 
@@ -22,15 +22,15 @@ Cobb Rennie said, "**Two years and one month,**" and did not say anything else, 
 
 Then they went up the hill in about four groups and Ada Rusk came last and walked with Owen Rusk and said one thing and then did not say another thing for a quarter of a mile.
 
-"**The second of my four terms is not performed and I am not going to say it at the gate this morning, and I have said it twelve times in a hall, and it is on a board behind a tannery as a list of ten places and there is no figure about this district on it, and that is the ninth time that has happened to a term of mine and it is going to happen again next season and the one after.**"
+"**The second of my four terms is not performed and I am not going to say it at the gate this morning, and I have said it thirteen times in a hall, and it is on a board behind a tannery as a list of ten places and there is no figure about this district on it, and that is the ninth time that has happened to a term of mine and it is going to happen again next season and the one after.**"
 
 "I know."
 
-"**You are not going to write to her.**"
+"You are not going to write to her."
 
 "No."
 
-"**Good,**" said Ada Rusk. "**I am not asking you to. I want it recorded that I was not asking you and that I have thought about it and that I decided not to, and the reason I decided not to is that if I ask a man not to write a letter, then the not-writing is mine, and I do not want it in a book of mine that I told my brother not to do a thing that a woman in a field told him not to do.**" She quickened up about four steps and then let him catch up, which is a thing their mother did. "**And that is all I have. Come and stand where you can see the bottom of it.**"
+"Good," said Ada Rusk. "**I am not asking you to. I want it recorded that I was not asking you and that I have thought about it and that I decided not to, and the reason I decided not to is that if I ask a man not to write a letter, then the not-writing is mine, and I do not want it in a book of mine that I told my brother not to do a thing that a woman in a field told him not to do.**" She quickened up about four steps and then let him catch up, which is a thing their mother did. "And that is all I have. Come and stand where you can see the bottom of it."
 
 ---
 
@@ -50,17 +50,17 @@ The frame at the west gate of Cutter's Fields, on the Saturday morning of the tw
 
 Cobb Rennie read the certification out, from the top, in about two minutes, the way he reads a price, and he read the second line twice.
 
-"**Premises of record certified for this district for this season: none. No person was in any settlement of record in this district in the season of 489 and no figure of this season is certified.**" He put his hand flat on the frame an inch off the paper. "**And that is the first time in this county that a count has said out loud that it did not go anywhere, and it took an officer of the count in this city nine years in this office and a settlement with eleven doors on a printed list to make a body admit it in its own voice, and it is correct, and I am not going to be thanked, and I would like it noticed that I have read that line four times and I am going to read it on Monday as well.**"
+"Premises of record certified for this district for this season: none. No person was in any settlement of record in this district in the season of 489 and no figure of this season is certified." He put his hand flat on the frame an inch off the paper. "**And that is the first time in this county that a count has said out loud that it did not go anywhere, and it took an officer of the count in this city nine years in this office and a settlement with eleven doors on a printed list to make a body admit it in its own voice, and it is correct, and I am not going to be thanked, and I would like it noticed that I have read that line four times and I am going to read it on Monday as well.**"
 
 Then he read the schedule, and he read the fourth column and the fifth column together, because the fourth and the fifth are the same two words in a different order.
 
-"**No. No. No. No. No. No. No. No. No. No.**" He counted them. "**And then yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes.** Ten of one and ten of the other, in a field, on a board, in the cold, and it is the first schedule anybody in this city has ever printed about places that were not looked at, and there are a hundred and forty years of count records behind me in a building two miles up the hill and not one of them has a column in it that says no.
+"**No. No. No. No. No. No. No. No. No. No.**" He counted them. "**And then yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes.** Ten of one and ten of the other, in a field, on a board, in the cold, and it is the first schedule anybody in this city has ever printed about places that were not looked at, and there are a hundred and forty years of count records behind me in a building two miles up the hill and not one of them has a column in it that says no."
 
-"**And there is not one word of why on it, and the Warden has told us in a field yesterday that she is not going to write one on the back and not going to write one in a second hand and not going to write one at the foot in a smaller type, and I asked her for one yesterday and she said no and I told her I was not going to press it, and I am not going to press it, and I have been owed a pension for two years and one month and I know exactly what a reason that is and I am not going to stand here and tell anybody it is like mine.**"
+"**And there is not one word of why on it, and the Warden has told us in a field yesterday that she is not going to write one on the back and not going to write one in a second hand and not going to write one at the foot in a smaller type, and I asked her for one yesterday and she said no and I told her I would not press it, and I am not going to press it, and I have been owed a pension for two years and one month and I know exactly what a reason that is and standing here and telling anybody it is like mine is not a thing I am going to do.**"
 
 Somebody at the back said, "**What is it then.**"
 
-"**It is a village, in this county, with a chapel, and I have not been to it and I am not going to in this season,**" said Cobb Rennie, "**and I would like that to be the end of it.**"
+"It is a village, in this county, with a chapel, and I have not been to it and it will not be this season," said Cobb Rennie, "and I would like that to be the end of it."
 
 ---
 
@@ -80,33 +80,33 @@ Nobody said anything.
 
 "So it is a list of places nobody went to look at," said Owen Rusk, from about eight feet off, and it is a sentence and not a fact about a document, and it is the first time in about a year that he has said a whole sentence in a field that was not a reading, and Ada Rusk turned round and looked at him for it.
 
-"**Yes,**" she said, "**and it is the first list in this city's record of places nobody went to look at, and it is itself a list of places nobody went to look at. That is not a thing that has been fixed. That is a thing that has been printed.**"
+"Yes," she said, "and it is the first list in this city's record of places nobody went to look at, and it is itself a list of places nobody went to look at. That is not a thing that has been fixed. That is a thing that has been printed."
 
 She put her hands down at her sides.
 
 "**And I am the eleventh door on it. This ward performed on the Thursday and the Friday and the Wednesday night and at four in the morning and it is not counted, and we are on the list, and I have been on a list about which nobody in this county can do anything since the twenty-eighth of the month before last. The list is printed. The list is legible. Anybody who can read a column can read it, and about thirty of us are reading it, and a man in a building in another city two hundred miles up a river is going to read it in October, and he made the ten rows out of a pencil, and there is no column on any of it that says this ward asked to be reconciled on the tenth day of this month and was told, in front of about twenty-two people in its own hall, that there is no form in this county on which a ward may ask for anything.**"
 
-"**And I am not going to stand in this field and ask anybody to make one.**"
+"And I am not going to stand in this field and ask anybody to make one."
 
 ---
 
 Warden Kade was at the frame. She had come down the hill at about a quarter to ten on the Saturday, alone, without a case and without a slate, and she had not said a word to anybody in about twenty minutes, and she is a person who has stood in front of a public board in a field in this county for nineteen seasons and about four of those seasons she has stood at one for two days.
 
-"**Ma’am. I asked you that yesterday in this field in front of nine people and you said no, and I am asking you again this morning in front of about thirty, and I would like the answer to be the same one.**"
+"Ma’am. I asked you that yesterday in this field in front of nine people and you said no, and I am asking you again this morning in front of about thirty, and I would like the answer to be the same one."
 
-"**No,**" said Warden Kade. "**Not that I have been told, and nobody is required to tell me. It is an act of operations and is not a finding, and it may be reviewed by the office, and it ends when the office ends it and not before, and the office has not ended it, and I am going to be standing in exactly this state in June.**"
+"No," said Warden Kade. "**Not that I have been told, and nobody is required to tell me. It is an act of operations and is not a finding, and it may be reviewed by the office, and it ends when the office ends it and not before, and the office has not ended it, and I am going to be standing in exactly this state in June.**"
 
 "You could end it yourself."
 
-"**I could end it in about four seconds and I have thought about it on a boat twice this month, and the reason I do not is on that frame above your head and it was there on the ninth, and it is a page long and it is not a figure, and the day I put it back the way it was, is the day nothing anybody ever puts on a suspension again will be a reason that is not a figure.**" She looked at the certification at the bottom of the frame. "**And I have signed a count this season with nothing on it but arithmetic and a list, and I have written no reason on the back of it and I am not going to, and that is the same discipline and it is nineteen seasons old and it is the only thing I have that anybody in Concord Hall cannot take off me in four years.**"
+"**I could end it in about four seconds and I have thought about it on a boat twice this month, and the reason I do not is on that frame above your head and it was there on the ninth, and it is a page long and it is not a figure, and the day I put it back the way it was, is the day nothing anybody ever puts on a suspension again will be a reason that is not a figure.**" She looked at the certification at the bottom of the frame. "**And I have signed a count this season with nothing on it but arithmetic and a list, and I have written no reason on the back of it and I never will, and that is the same discipline and it is nineteen seasons old and it is the only thing I have that anybody in Concord Hall cannot take off me in four years.**"
 
 Then she said one thing to Owen Rusk and it was about forty words and it was in a field in front of about thirty people and there was no letter in it and it was not an alliance and it was not the beginning of one.
 
-"**Your determination was correct and it was the correct answer to the question you were asked and it is going to cost you more than it has cost me, and I told you that in a field on the twenty-ninth of the month before last and I would say it again to anybody who asked me this morning. And I have not thanked you, and I am not going to, and you have not asked me for anything, and I have noticed that, and noticing it is not the same as anything and I would like it noticed that I have said so.**"
+"**Your determination was correct and it was the correct answer to the question you were asked and it is going to cost you more than it has cost me, and I told you that in a field on the twenty-ninth of the month before last and I would say it again to anybody who asked me this morning. And I have not thanked you and I do not intend to, and you have not asked me for anything, and I have noticed that, and noticing it is not the same as anything and I would like it noticed that I have said so.**"
 
 "Yes," said Owen Rusk.
 
-"**Then we are two people who have said *yes* in a field,**" said Warden Kade, "**and somebody is going to read one day that this district and this service agreed about a piece of paper, and I would like it on the record that what we agreed about was a piece of paper and that neither of us has looked at a place.**"
+"Then we are two people who have said *yes* in a field," said Warden Kade, "and somebody is going to read one day that this district and this service agreed about a piece of paper, and I would like it on the record that what we agreed about was a piece of paper and that neither of us has looked at a place."
 
 ---
 
@@ -132,7 +132,7 @@ The certification says, in the second line, that no figure of premises of record
 
 **And not one person in Docketford district is any worse off than they were on the seventh of the second month: nobody struck, nothing off a household, a draw to no main. Not one person's water moved in the season of 489, and the reason is not that it is a good thing, and the reason is that the count is a count of draws and premises of record and works maintained and not a count of people, and nothing on that frame is a count of people.**
 
-**The crossing at Fetter Lane is shut to loads. The repair is four thousand one hundred and sixty pounds and is unfunded and the notice at the weir path is in the weather and has brought no district. The crew is nine and their wage is four months in arrears and is the crew's wage and is not the district's. The granary has been open and empty since the seventh day of the second month and the figure is nothing for the fifth week running. The Fetter Lane pump grant is suspended and not extinguished and the pump is primed by hand at four in the morning on the Thursday by two people. The six persons in this ward whom it cannot ask are six persons and are at three of five parts, and the word is not written beside anybody's name and is not going to be. Cobb Rennie's pension is two years and one month and is uncured. Stability Order 114 is on a docket at the Glass Stair in public appeal and has not been withdrawn and the sixteen are sixteen and Lower Lock is sixth and none of it moved this season. The field verification of premises of record in this district is suspended and the reason is not given and no form in this county provides for one and the four ruled lines under the survey round are still empty and nobody has signed them.**
+**The crossing at Fetter Lane is shut to loads. The repair is four thousand one hundred and sixty pounds and is unfunded and the notice at the weir path is in the weather and has brought no district. The crew is nine and their wage is four months in arrears and is the crew's wage and is not the district's. The granary has been open and empty since the seventh day of the second month and the figure is nothing for the seventh week running. The Fetter Lane pump grant is suspended and not extinguished and the pump is primed by hand at four in the morning on the Thursday by two people. The six persons in this ward whom it cannot ask are six persons and are at three of five parts, and the word is not written beside anybody's name and is not going to be. Cobb Rennie's pension is two years and one month and is uncured. Stability Order 114 is on a docket at the Glass Stair in public appeal and has not been withdrawn and the sixteen are sixteen and Lower Lock is sixth and none of it moved this season. The field verification of premises of record in this district is suspended and the reason is not given and no form in this county provides for one and the four ruled lines under the survey round are still empty and nobody has signed them.**
 
 **And it is not the man who wrote the figures who is paying. He is in a room across the cut with a bad knee and a pigeonhole wall with forms in eleven colours in it, and about a hundred and ninety-four lines on a form he answered honestly in good faith in a fortnight he did not charge anybody for, and he put not known against about ninety of them, and he is going to find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, and nobody is going to tell him in advance, and the reason nobody is going to tell him in advance is that a kindness and a conversation are the same act and the only difference is whether anybody writes it down afterwards, and Owen Rusk worked that out in a corridor in the last week of the second month and decided not to, and it was the correct decision and it cost him the thing he is not going to get back.**
 

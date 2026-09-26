@@ -26,7 +26,7 @@ Cobb Rennie was on the Fetter side of the barrier with a length of wood and a bi
 
 "I hear it."
 
-"**Because there is a thing people do,**" said Cobb Rennie, "**which is to keep a notice up as though the weather might bring somebody. And the weather is not going to bring anybody. What is going to happen is that one day that notice will be so old that the ink will be gone on the second line, and then somebody is going to write a new one, because the repair has not been done, and the new one will be a better notice than the old one and the wall will look cared for.**"
+"Because there is a thing people do," said Cobb Rennie, "**which is to keep a notice up as though the weather might bring somebody. And the weather is not going to bring anybody. What is going to happen is that one day that notice will be so old that the ink will be gone on the second line, and then somebody is going to write a new one, because the repair has not been done, and the new one will be a better notice than the old one and the wall will look cared for.**"
 
 He wrote a number on the board and rubbed half of it out with his sleeve.
 
@@ -34,17 +34,17 @@ He wrote a number on the board and rubbed half of it out with his sleeve.
 
 "Which thing."
 
-"**What it is for,**" said Cobb Rennie, and he said it the way he asks the price of something. "**I know what the crossing does. I have watched a great many things go over it and I have watched one thing not go over it and that is the only one I think about. I would like to know what four thousand one hundred and sixty pounds is for, because that is a figure and figures are supposed to be about a thing, and every figure I have read this season has been about nothing that anybody could stand in front of and look at.**"
+"What it is for," said Cobb Rennie, and he said it the way he asks the price of something. "**I know what the crossing does. I have watched a great many things go over it and I have watched one thing not go over it and that is the only one I think about. I would like to know what four thousand one hundred and sixty pounds is for, because that is a figure and figures are supposed to be about a thing, and every figure I have read this season has been about nothing that anybody could stand in front of and look at.**"
 
 Owen Rusk stood in about four inches of water on a shut crossing and thought about it for longer than he meant to.
 
-"**It is for the timber and the piles and the hands,**" he said. "**It is a figure of works maintained and works maintained is a thing the Count is a count of, and it is the only figure I have ever seen that is about a repair and a repair is a real thing with a real cost, and there is a notice on a post at the top of that lane with that figure on it, and it has been there since the flood.**"
+"It is for the timber and the piles and the hands," he said. "**It is a figure of works maintained and works maintained is a thing the Count is a count of, and it is the only figure I have ever seen that is about a repair and a repair is a real thing with a real cost, and there is a notice on a post at the top of that lane with that figure on it, and it has been there since the flood.**"
 
-"**Yes,**" said Cobb Rennie, "**and I have read it, and I have walked past it, and I have read the line under it about any district able to perform the repair, and I have wanted somebody to come for about four months, and nobody is coming, and I have worked out that the notice is not for a district. It is for a person who wants to know that we asked.**"
+"Yes," said Cobb Rennie, "**and I have read it, and I have walked past it, and I have read the line under it about any district able to perform the repair, and I have wanted somebody to come for about four months, and nobody is coming, and I have worked out that the notice is not for a district. It is for a person who wants to know that we asked.**"
 
 "That is what it is for."
 
-"**Then it did its job,**" said Cobb Rennie, "**and I am not going to take it down, and I would like it noticed that I said that out loud at the barrier, and that it is the first good thing I have had to say about a figure since the month of rain, and I am not going to be thanked for it, and there is nothing to thank.**"
+"Then it did its job," said Cobb Rennie, "**and I am not going to take it down, and I would like it noticed that I said that out loud at the barrier, and that it is the first good thing I have had to say about a figure since the month of rain, and I am not going to be thanked for it, and there is nothing to thank.**"
 
 He went along the weir path to the pump house, which is a brick hut about the size of a small boat with a hand pump inside it and a stone trough and a green door that has to be shouldered.
 
@@ -74,15 +74,15 @@ Owen Rusk had stood in it in the first month of the year. He did not stand in it
 
 Ada Rusk was in the doorway with a lamp she had not lit.
 
-"**You did not go in it.**"
+"You did not go in it."
 
 "No."
 
-"**Good,**" said Ada Rusk. "**I want to say that it is not you. It is that there are nine other people in this county who could come and look at it and none of them will, and the only one of the nine who is going to is the one who already knows what is in it, and that is a thing about this county and not about you, and I have said that sentence in a hall twice and I am saying it in a granary with a lamp in my hand and it is the same sentence.**"
+"Good," said Ada Rusk. "**I want to say that it is not you. It is that there are nine other people in this county who could come and look at it and none of them will, and the only one of the nine who is going to is the one who already knows what is in it, and that is a thing about this county and not about you, and I have said that sentence in a hall twice and I am saying it in a granary with a lamp in my hand and it is the same sentence.**"
 
 "The pitch is a pitch," said Owen Rusk.
 
-"**The pitch is a pitch and it is a pitch with about nine feet of silt on it and the silt came off the flats in the month of rain and the flats are where the marker is, and the marker is the only figure anybody in this ward produces that anybody can check by standing in the wrong place.**" She put the lamp down on the sill. "**And nobody in this county is going to print a column that says how deep the silt is at the bottom of our granary, and if somebody did, the figure would be the only one in the count that a person could go and look at, and there is not one column in the whole of this season's paperwork that anybody could go and look at. Not one. I have been trying all season to think of one and I have got the marker and the marker is ours.**"
+"The pitch is a pitch and it is a pitch with about nine feet of silt on it and the silt came off the flats in the month of rain and the flats are where the marker is, and the marker is the only figure anybody in this ward produces that anybody can check by standing in the wrong place." She put the lamp down on the sill. "**And nobody in this county is going to print a column that says how deep the silt is at the bottom of our granary, and if somebody did, the figure would be the only one in the count that a person could go and look at, and there is not one column in the whole of this season's paperwork that anybody could go and look at. Not one. I have been trying all season to think of one and I have got the marker and the marker is ours.**"
 
 ---
 
@@ -102,17 +102,17 @@ He worked the middle section for about two hours and got about nine feet of it d
 
 It came up about four hundred gallons of silt in about eleven minutes and settled in the bucket as fine as flour and Ada Rusk had it carted away to the flats in a barrow in the week of the flood because that is where the ward puts what comes out of its own channel, and putting it back on the flats where it came from is the single most expensive thing anybody in this ward has ever done and nobody has ever costed it.
 
-"**A mill two hours up a river got NONE on a form in the district's own hand in the second month,**" said Owen Rusk, without meaning to, and about nine people in a drain heard it.
+"A mill two hours up a river got NONE on a form in the district's own hand in the second month," said Owen Rusk, without meaning to, and about nine people in a drain heard it.
 
 Nobody answered him and he did not finish the sentence, and after about four minutes Bram Tillet said, without stopping work, "**We put it back where it came from.**"
 
 "Yes," said Owen Rusk.
 
-"**Then you have got two things in a season that are in a form in a building and one of them is us, and ours is not in a building, and I would like it noted that that is the whole of what I have got to say about it and I am not going to say it again.**"
+"Then you have got two things in a season that are in a form in a building and one of them is us, and ours is not in a building, and I would like it noted that that is the whole of what I have got to say about it and I am not going to say it again."
 
 At about half past eleven Ada Rusk came down the bank with a lantern and stood at the top of the ladder and did not come down, and she said one thing.
 
-"**You are going to ask me at the end of the week whether you have been in the way this season and I am going to tell you that the answer is yes on Thursdays and no on Wednesdays, and I have had it ready since the second of the month.**"
+"You are going to ask me at the end of the week whether you have been in the way this season and I am going to tell you that the answer is yes on Thursdays and no on Wednesdays, and I have had it ready since the second of the month."
 
 "I have not been in the way on a Wednesday in my life," said Owen Rusk.
 
@@ -136,9 +136,9 @@ They came out of the channel at about ten past two on the Wednesday morning in t
 
 Bram Tillet is forty-one and is one of the four names the word is not written beside, and he does not talk in the channel and does not talk at the pump either, and what he says at the pump is *hold that* and *let go*, and it is the only work in this county that nobody has ever found a column for.
 
-**The two are Bram Tillet and Ivy Sarr.**
+**The two are Bram Tillet and the household in the two rooms in Fetter Lane.**
 
-Ivy Sarr is twelve. She is the household that the fourth day of the fourth month of last year was about, and she is one of the six persons in this ward whom it cannot ask, and she is on a rota for a standpipe at four in the morning because the rota is what the ward has instead of a person who can be asked, and **there is no person in this ward who keeps anything for anybody, and the word for that is not written beside anybody's name and is not going to be.**
+Ivy Sarr is twelve. She is the household that the fourth day of the fourth month of last year was about, and she is one of the six persons in this ward whom it cannot ask, and she is on the rota for a standpipe at four in the morning because the rota is what the ward has instead of a person who can be asked, and the rota takes a name and hers is the name in it that is free at four in the morning, and **there is no person in this ward who keeps anything for anybody, and the word for that is not written beside anybody's name and is not going to be.**
 
 She is about four foot ten and she is in a coat belonging to somebody about twice her size and she can lift the bucket of priming water on her own, which took her about a year to manage and which she does not mention.
 
@@ -148,18 +148,18 @@ The first stroke at about four minutes past four brought up the water that was s
 
 At about half past four they came out and Ivy Sarr had the bucket and it was full and she put it down on the trough and then sat on the step with it, in the cold, and did not say anything, and he said goodnight to her and she said goodnight, and then she said:
 
-"**You stand out there a lot.**"
+"You stand out there a lot."
 
 "I do."
 
-"**Bram says you are not allowed to be in it and Bram is wrong and I am not going to say he is wrong out loud because he is forty-one.**"
+"Bram says you are not allowed to be in it and Bram is wrong and I am not going to say he is wrong out loud because he is forty-one."
 
-"**You may tell him you said it and you may not tell him I heard it,**" said Owen Rusk, "and that is a rule and not a joke, and I will keep it."
+"You may tell him you said it and you may not tell him I heard it," said Owen Rusk, "and that is a rule and not a joke, and I will keep it."
 
-"Okay," said Ivy Sarr, and stood up, and then, as though it were the ordinary end of an ordinary night, and it was: "**The bins are empty again and there is not going to be anything in them on Thursday either.**"
+"Okay," said Ivy Sarr, and stood up, and then, as though it were the ordinary end of an ordinary night, and it was: "The bins are empty again and there is not going to be anything in them on Thursday either."
 
 "I know."
 
-"**That is all right,**" she said, "because the trays are not stopped," and she went up the lane with the empty bucket in one hand at a quarter to five in the morning, without a lamp, because the lane knows the way and she has been going up it in the dark since she was ten.
+"That is all right," she said, "because the trays are not stopped," and she went up the lane with the empty bucket in one hand at a quarter to five in the morning, without a lamp, because the lane knows the way and she has been going up it in the dark since she was ten.
 
 The marker goes up on the Thursday and on the Friday at seven forty. It is a post and a board and it is not a notice of anything, it is a board with the depth of the water on the flats written on it in chalk every week, and there is no form in this county for it and no office has ever heard of it and about nine people walk down the lane at half past seven to read it, and it is a figure about a place, written by a person who was at the place, and **it is the only figure about a place in this ward that anybody can check by looking at the thing it is a figure of.** Ada Rusk had said that sentence in this ward's granary on the Tuesday and in this ward's hall on the Monday before, and Owen Rusk had heard both of them and had not understood either until he was standing in front of a board on the Friday morning of the twenty-first with a bit of chalk in his hand and a girl of twelve coming down the lane behind him, and he put the chalk down and went up the hill, and he did not go down the lane again that week, and nobody noticed.

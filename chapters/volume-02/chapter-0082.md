@@ -6,7 +6,7 @@ He went up the hill on the Wednesday morning of the twelfth day of the third mon
 
 "All right."
 
-"You may examine arithmetic, procedure, and the currency of any paper a reconciliation rests upon. You may not examine the schedule. You may not examine a choice of places. You may not put a word in the reason column. That is the standing and it has not moved and it is not going to move because of what you did on the twenty-fifth." She squared the sheet on the counter. "**And there is a new thing and it came down on Sunday the ninth, three days ago, and it is a note and not a rule, and you are going to be annoyed by it and you are entitled to be.**"
+"You may examine arithmetic, procedure, and the currency of any paper a reconciliation rests upon. You may not examine the schedule. You may not examine a choice of places. You may not put a word in the reason column. That is the standing and it has not moved and it is not going to move because of what you did on the twenty-fifth." She squared the sheet on the counter. "And there is a new thing and it came down on Sunday the ninth, three days ago, and it is a note and not a rule, and you are going to be annoyed by it and you are entitled to be."
 
 "Go on."
 
@@ -24,13 +24,13 @@ He read the first note again, which was the one that had gone down in the first 
 
 "I know that," said the counting clerk.
 
-"**And nobody has told the man of fifty-five to this day that his answer is going into a column as a year somebody looked at something, and he is going to find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, and I worked out in about ninety seconds on the Monday morning in the last week of the month before last why I was not going to tell him, and the reason is in his own head and it is one sentence and I am not going to say it at a counter.**" He put his hand flat on the counter, about four inches from hers, and did not go closer. "**And the second note came down on the Monday after I was sustained, and it is correct, and it is going to hand me the best procedural win of my working life, and it is four lines and it is unsigned.**"
+"**And nobody has told the man of fifty-five to this day that his answer is going into a column as a year somebody looked at something, and he is going to find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, and I worked out in about ninety seconds on the Monday morning in the last week of the month before last why I was not going to tell him, and the reason is in his own head and it is one sentence and I am not going to say it at a counter.**" He put his hand flat on the counter, about four inches from hers, and did not go closer. "And the second note came down on the Monday after I was sustained, and it is correct, and it is going to hand me the best procedural win of my working life, and it is four lines and it is unsigned."
 
-"Then say what it is," said the counting clerk. "**You have had it in your mouth for about a minute.**"
+"Then say what it is," said the counting clerk. "You have had it in your mouth for about a minute."
 
-"**It is the same building being careful, twice, about two different things. And I want it noticed that I have said *the same building* twice in about ninety seconds and that I have not called it anything at all.**"
+"It is the same building being careful, twice, about two different things. And I want it noticed that I have said *the same building* twice in about ninety seconds and that I have not called it anything at all."
 
-"Noticed," said the counting clerk. "**And I am not going to write it down, because a thing said at a counter is a record and a thing written down is a document, and there is a difference, and this counter is the whole of it.**"
+"Noticed," said the counting clerk. "And I am not going to write it down, because a thing said at a counter is a record and a thing written down is a document, and there is a difference, and this counter is the whole of it."
 
 "I have worked out what it is."
 
@@ -62,7 +62,7 @@ He stood in the corridor and got about as far as the shape of it and then made h
 
 **He is not going to be one of the safe ones by accident. He is going to be one of the safe ones on purpose, in about four years, and by then there will be no form anywhere on which a person can ask him whether he had it on purpose or whether he had it because he was frightened, and he will not remember which, and that is the whole of what the third limb is and it was given to him for nothing by a woman with a slate who told him to his face that she was the only person in this county who would say it and had just said it.**
 
-None of that was a comfort. He had gone into that corridor expecting to be told he was safe and what he was told was that he was going to be safe, and that the price of being safe is a number of people in a county who are not looked at, and that he had chosen the number by being right, and that in about four years he would not be able to tell anybody which number he had chosen.
+None of that was a comfort. He had gone into that corridor expecting to be told he was safe and what he was told was that he was going to be safe, and that the price of being safe is a number of people in a county who are not looked at, and that he had chosen the number by being right, and that he would never afterwards be able to tell anybody which number he had chosen.
 
 He went and did the tray at a quarter past six and there was nothing on it.
 
@@ -88,7 +88,7 @@ There is an eleventh row and he read it and then read it again, and then he put 
 
 He copied the rest of it out and then he copied out the third column for 484 and 486 and set the three years in a line, and he did it in pencil, and he was careful, because this is the only arithmetic he is going to be permitted to bring into a room in his life.
 
-**Nine of the ten have not moved. Four, six, seven, nine, six, nine, three, eleven, eleven. The same figure, in the same row, on the board of the season before last, and on the board of the season before that, and on the printed schedule that went up in the last week of the month before last, and on the district return in the drawer behind him, which is his.**
+**Nine of the ten rows on that board have not moved. Four, six, seven, nine, six, nine, three, eleven, eleven. The same figure, in the same row, on the board of the season before last, and on the board of the season before that, and on the printed schedule that went up in the last week of the month before last, and on the district return in the drawer behind him, which is his.**
 
 **The one that moved is Marl Dykes, and it did not move in a room, it moved in an arithmetic.**
 
@@ -98,19 +98,19 @@ It is not a scandal. It is the plainest arithmetic in the county and it is the r
 
 **The second column moves and the third column does not.** A settlement is put on a schedule when its year of last reconciliation goes stale, and the year is the only thing that moves, and it moves by arithmetic, at a desk, once a year, in the ordinary way. The figure of premises of record is what a person would have to go and look at in order to change, and nobody goes, and so the figure stands, and stands, and stands, and a count of a settlement nobody goes to costs nothing at all.
 
-**And the count of this district is a count of ten figures, of which nine have not changed since the season before last and the tenth is a building two miles up this hill, and the year beside each of them is what puts them on a list, and the two columns are printed eleven inches apart on the same sheet and they are about the same size and one of them is a life and the other one is a stamp, and the county has never once had to decide which one it was counting.**
+**And the count of this district is a count of ten figures, and it is not the ten he has just been reading, because one of those is not on the list and the list carries one that was never on the board, and of the ten on the return nine have not changed since the season before last and the tenth is a building with six doors against it, and the year beside each of them is what puts them on a list, and the two columns are printed eleven inches apart on the same sheet and they are about the same size and one of them is a life and the other one is a stamp, and the county has never once had to decide which one it was counting.**
 
-Then he went and got the schedule of the survey round, which is printed at the foot of the notice of the twenty-sixth in a smaller type and a different hand and is in the district file as well, and he laid it out beside the third column of the schedule of the twenty-eighth of the second month, and it took him about six minutes, and it is the sum of the season.
+Then he went and got the schedule of the survey round, which is printed at the foot of the notice of the twenty-sixth in a smaller type and a different hand and is in the district file as well, and he laid it out beside the third column of the district's own book, which is the column the schedule of the twenty-eighth of the second month was printed out of and is the only column in this building that Marl Dykes is still in, and it took him about six minutes, and it is the sum of the season.
 
-**Rush Halt. The fourth. Seven on the round. Seven on the schedule.**
-**Otter Stair. The ninth. Nine on the round. Nine on the schedule.**
-**Ashlocks. The fifteenth. Six on the round. Six on the schedule.**
-**Marl Dykes. The nineteenth. Two on the round. Two on the schedule.**
-**Ossery. No date. No figure on the round. Eleven on the schedule.**
+**Rush Halt. The fourth. Seven on the round. Seven in the book.**
+**Otter Stair. The ninth. Nine on the round. Nine in the book.**
+**Ashlocks. The fifteenth. Six on the round. Six in the book.**
+**Marl Dykes. The nineteenth. Two on the round. Two in the book, and Marl Dykes is not on the schedule and the round is not a list of the places on the schedule, and a man walked into a place on the nineteenth of a month that is not on the printed list and nobody sent him.**
+**Ossery. No date. No figure on the round. Eleven in the book.**
 
 He stood at the shelf and looked at five lines of arithmetic for a while.
 
-**Four figures that a person looked at, and four figures that a book already had, and they are the same figures.** Not approximately. The same. A man with a chain and a rule and a book walked into four yards in this district in the second month of this year and wrote down, at four gates, four numbers, and every one of the four numbers is the number that was in the district's book before he arrived, and there is no column in this county that will ever say that, and there never will be, because the column would have to be headed *did the looking change anything*, and the answer is no, four times, and a man who spent his season's work confirming a book in four yards is the best vindication of a practice anybody in this county could want and the worst possible news about the practice, and both of those are the same fact and the fact is true.
+**Four figures that a person looked at, and four figures that a book already had, and they are the same figures.** Not approximately. The same. A man with a chain and a rule and a book walked into four yards in this district in the second month of this year and wrote down, at four gates, four numbers, and every one of the four numbers is the number that was in the district's book before he arrived, and there is no column in this county that will ever say that, and there never will be, because the column would have to be headed *did the looking change anything*, and the answer is no, four times, and a man who spent his season's work confirming a book in four yards is the best vindication of a practice anybody in this county could want and the worst possible news about the practice, and both of those are the same fact and the fact is true. **And the fourth of those four is not on the schedule, and the round has a line against it anyway, and the column the round was kept in does not ask whether the place is one anybody has to go to.**
 
 **And the fifth line says eleven, and eleven is a figure from the Concord Year 486 that a clerk typed out of a book, and it is in the same ink on the same form, four lines away from four numbers a person put his hand on.**
 
@@ -128,11 +128,11 @@ And then, because he writes things down and because he has been caught twice in 
 
 He put the sheet away and asked the counting clerk one question, and it was a real question and it was the only one he had come for.
 
-"**If I put that in, and it is heard, and the Office answers it — which of the two answers is the one they have already decided to give.**"
+"If I put that in, and it is heard, and the Office answers it — which of the two answers is the one they have already decided to give."
 
 She did not pretend to think about it.
 
-"**They will print that they counted none.** They will not produce the figures, because there are no figures, and because the return is on your own file with a note on it in my building's hand that says no verification took place, and because a body that has been asked to produce figures it does not have and then produces them anyway is a body that has been asked the wrong question by a man who did not think about it." She put the pencil down. "**And they are right to. And you know they are right to, and you are going to go and tell somebody you knew, and I would like it noticed that you worked out which answer was coming before you had finished your second cup of water.**"
+"**They will print that they counted none.** They will not produce the figures, because there are no figures, and because the return is on your own file with a note on it in my building's hand that says no verification took place, and because a body that has been asked to produce figures it does not have and then produces them anyway is a body that has been asked the wrong question by a man who did not think about it." She put the pencil down. "And they are right to. And you know they are right to, and you are going to go and tell somebody you knew, and I would like it noticed that you worked out which answer was coming before you had finished your second cup of water."
 
 "Yes," said Owen Rusk.
 
@@ -144,11 +144,11 @@ Then he said, "**I want the print.**"
 
 "You want the print."
 
-"**If they print that they counted none, then this district is not counted this season, and it is on a printed list, and there is no place on the list that says the district was not counted, because the list is of settlements, and a district is not a settlement, and nobody has ever made a list that says that.**"
+"If they print that they counted none, then this district is not counted this season, and it is on a printed list, and there is no place on the list that says the district was not counted, because the list is of settlements, and a district is not a settlement, and nobody has ever made a list that says that."
 
 "That is not an instrument," said the counting clerk.
 
-"No," said Owen Rusk. "**It is not an instrument. It is the fourth thing.**"
+"No," said Owen Rusk. "It is not an instrument. It is the fourth thing."
 
 ---
 

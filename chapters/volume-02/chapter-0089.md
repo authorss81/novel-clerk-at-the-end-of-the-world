@@ -6,17 +6,17 @@ A strip of paper the size of a receipt came down at ten minutes to nine on the F
 
 "She has known since Wednesday," said Owen Rusk.
 
-"**She has known since the twenty-fourth, which is the morning after it was sustained, and she elected it in about four minutes, and I am the only person in this county who knows that and I am telling you because in about four years I would like there to be one sentence in a file that says the Office did not take four days to choose the truth.**"
+"**She has known since the twenty-fourth, which is the morning after it was sustained, and she elected it in about four minutes, and I am the only person in this county who knows that and I am telling you because in four years I would like there to be one sentence in a file that says the Office did not take four days to choose the truth.**"
 
 ---
 
 The long room at the Glass Stair holds about nine people and has four high windows and he was in the gap in the rail at a quarter to nine on the Friday morning of the twenty-eighth day of the third month, and the woman of about fifty with a slate and no coat had her folder shut on her knees, which she has never once had open in front of him.
 
-"**I am not conducting a hearing,**" she said. "**There is nobody here to hear. I am going to make a determination in a public room at ten minutes to nine in the morning because a certification goes up at ten and a determination ought to be made in front of whoever turns up, and about nine people have turned up, and two of them are yours.**"
+"I am not conducting a hearing," she said. "There is nobody here to hear. I am going to make a determination in a public room at ten minutes to nine in the morning because a certification goes up at ten and a determination ought to be made in front of whoever turns up, and about nine people have turned up, and two of them are yours."
 
 She opened the folder.
 
-"**The determination is four lines and I am going to read it and then I am going to tell you the two things in it that are mine and the one in it that is not.**"
+"The determination is four lines and I am going to read it and then I am going to tell you the two things in it that are mine and the one in it that is not."
 
 **DETERMINATION. In the matter of the count of the season of the Concord Year 489 for Docketford district. Upon a challenge sustained on the twenty-third day of the third month of the Concord Year 488 on the ground of arithmetic, and upon the election by the Office of the second of the two reliefs asked for. The Office has elected not to produce the figures of premises of record counted for this district in this season. It is determined that the count of this season for this district be certified as a count in which no figure of premises of record is certified, and that there be printed and attached to the certification a schedule of the settlements named in the schedule of settlements to be reconciled for this season which have not been reconciled in it and which are unresolved at the certification, being the ten settlements named in the schedule printed on the twenty-eighth day of the second month of the Concord Year 488, no settlement being added to that schedule and none removed from it. Determined at the count room at the Glass Stair on the twenty-eighth day of the third month of the Concord Year 488, in a public room, before about nine persons.**
 
@@ -26,7 +26,7 @@ She opened the folder.
 
 "And the second."
 
-"**The second is that there is no reason on any part of this, and there is no column for one, and I am not going to supply one, and if the Office's strip of paper and my certification and this determination are read together in about four years by anybody, they will find that a district in this county was reported as having counted nothing, and there will be nothing whatever in this county that says why that was so.**" She shut the folder. "**And I would like the two people in this room who belong to me to understand that I have thought about that for two days and I have decided it is the correct way round, and I am not asking either of you to agree with me and I am not going to be thanked for deciding it.**"
+"**The second is that there is no reason on any part of this, and there is no column for one, and none is going to be supplied by me, and if the Office's strip of paper and my certification and this determination are read together by anybody at all in four years, they will find that a district in this county was reported as having counted nothing, and there will be nothing whatever in this county that says why that was so.**" She shut the folder. "And I would like the two people in this room who belong to me to understand that I have thought about that for two days and I have decided it is the correct way round, and I am not asking either of you to agree with me and I am not going to be thanked for deciding it."
 
 "And the one that is not yours," said Owen Rusk.
 
@@ -34,11 +34,11 @@ She opened the folder.
 
 She stood up. There were about nine people in the room and about four of them work in offices in this city.
 
-"**Then I will make it plain in here rather than in a field, because a field is where people agree, and I would rather there were nine of you who heard it in a room.**" She did not raise her voice. "**A schedule of settlements not reconciled is the only instrument in this season that is made entirely out of facts about places and contains not one word about why, and that is not because I have been careful. That is because the question *why* has no column, and it has never had a column, and the reason it has never had a column is that there has never before been a document in this county that anybody in this county could read and check. For a hundred and forty years every count instrument has been a statement about figures, and a figure does not want a reason, because a figure is either right or it is not.**"
+"Then I will make it plain in here rather than in a field, because a field is where people agree, and I would rather there were nine of you who heard it in a room." She did not raise her voice. "**A schedule of settlements not reconciled is the only instrument in this season that is made entirely out of facts about places and contains not one word about why, and that is not because I have been careful. That is because the question *why* has no column, and it has never had a column, and the reason it has never had a column is that there has never before been a document in this county that anybody in this county could read and check. For a hundred and forty years every count instrument has been a statement about figures, and a figure does not want a reason, because a figure is either right or it is not.**"
 
 "A schedule of places is not figures," said Owen Rusk.
 
-"**A schedule of places is not figures,**" said the officer of the count, "**and that is the whole difficulty and I am going to hand it to a Warden in about an hour and I am not going to be able to do anything about it, and I have determined that it be done, and I have determined that it be done because it is true, and I am going to say one more thing about it and then I am going to stop, and I am not going to say the thing again in four years.**"
+"A schedule of places is not figures," said the officer of the count, "**and that is the whole difficulty and I am going to hand it to a Warden in about an hour and I will not be able to do anything about it, and I have determined that it be done, and I have determined that it be done because it is true, and I am going to say one more thing about it and then I am going to stop, and that is the last time the thing is said in four years.**"
 
 She did not stop.
 
@@ -85,11 +85,11 @@ Then the schedule, and it is five columns, and about twenty people in a field in
 
 And Cobb Rennie said, "Ma'am. Is there a reason."
 
-"**No,**" said Warden Kade.
+"No," said Warden Kade.
 
-"**There is not one word on that sheet about why and there is a box on the other instrument and the reason in it is always a figure, and I have read about nine of them, and I am not going to say that I want one about this. I want it noticed that I asked and I am not going to press it.**"
+"**There is not one word on that sheet about why and there is a box on the other instrument and the reason in it is always a figure, and I have read about nine of them, and wanting one about this is not a thing I am going to say. I want it noticed that I asked and I am not going to press it.**"
 
-"**I know what you are not going to press,**" said Warden Kade. "**And I am going to answer the question you did not ask, in a field, in front of twenty people, and then I am not going to speak about it again this season.**"
+"I know what you are not going to press," said Warden Kade. "And I am going to answer the question you did not ask, in a field, in front of twenty people, and then I am not going to speak about it again this season."
 
 She did not raise her voice and she did not soften and she did not turn round from the frame.
 
@@ -97,17 +97,17 @@ She did not raise her voice and she did not soften and she did not turn round fr
 
 She turned round then, and she looked at about twenty people, and there was a woman of about thirty with a slate at the rail and there was Ada Rusk ten feet off with her hands behind her back and there was Owen Rusk about eight feet off with his hands behind his back, and there is no form in this county on which two people at eight feet and ten feet can be said to be standing in the same way.
 
-"**Now the second thing, and I have given it out in a field in the last week of the month before last and I am giving it out again, because a schedule of places is not a count and I want about twenty people to have it before they go home.**" She turned and pointed at the top of the frame without touching it. "**Nothing up there has changed. The schedule of settlements to be reconciled is the schedule that was printed in the last week of the month before last and it is not amended, and I may return it and I may not amend it, and I have returned one in nineteen seasons and it came back with the same names on it four days later. The suspension I put in my own hand in a field on the ninth is an act of operations and not a finding, and nobody has reviewed it, and it ends when the office ends it and not before, and I am going to be standing in exactly this state in June.**"
+"Now the second thing, and I have given it out in a field in the last week of the month before last and I am giving it out again, because a schedule of places is not a count and I want about twenty people to have it before they go home." She turned and pointed at the top of the frame without touching it. "**Nothing up there has changed. The schedule of settlements to be reconciled is the schedule that was printed in the last week of the month before last and it is not amended, and I may return it and I may not amend it, and I have returned one in nineteen seasons and it came back with the same names on it four days later. The suspension I put in my own hand in a field on the ninth is an act of operations and not a finding, and nobody has reviewed it, and it ends when the office ends it and not before, and I am going to be standing in exactly this state in June.**"
 
 "And the notice underneath it," said Cobb Rennie.
 
 "**The notice underneath it is not mine and it is not signed and it does not need to be, and it says nine persons are affected and does not say who, and the four ruled lines at the foot of it are still empty, and they are still the shape of a form I wrote in a field on the ninth, and they are still empty, and nobody is going to fill them in, and I would like about twenty people in this field to know that I have not filled them in and I have not asked anybody to.**"
 
-"And the last thing, and it is the only other thing I am going to say. Nobody at the district office signed the schedule. I know that because I asked, and I did not ask the district office, I asked a clerk, and a clerk told me at a counter, and I am going to say one day in one room why that is a different thing and I am not going to say it today."
+"And the last thing, and it is the only other thing I am going to say. Nobody at the district office signed the schedule. I know that because I asked, and I did not ask the district office, I asked a clerk, and a clerk told me at a counter, and I am going to say one day in one room why that is a different thing and today is not the day for it."
 
 "And you have not been to any of the ten," said Cobb Rennie.
 
-"**I have not been to one of the ten and I am certifying that ten named places were not reconciled, and I did not look at them, and nobody looked at them, and that is what the schedule says, and I am the hand of it.**" She put her hands behind her back. "**A person can be wrong in a form. I have signed nine of these in a season and I have written none of the reasons, and I have said that before today in a field and I am saying it again because today I have signed one that says something about ten places instead of about a figure, and the thing about a form is that it does not know the difference between the two, and neither will anybody who reads it.**"
+"I have not been to one of the ten and I am certifying that ten named places were not reconciled, and I did not look at them, and nobody looked at them, and that is what the schedule says, and I am the hand of it." She put her hands behind her back. "**A person can be wrong in a form. I have signed nine of these in a season and I have written none of the reasons, and I have said that before today in a field and I am saying it again because today I have signed one that says something about ten places instead of about a figure, and the thing about a form is that it does not know the difference between the two, and neither will anybody who reads it.**"
 
 Nobody said anything. Then the woman of about thirty with a slate uncrossed her arms and said, at the rail, in the ordinary voice, "**I have eleven settlements on my round sheet for this season and I have a mark against the ones I have been to, and I have written on my own sheet, this morning, at about half past seven, that the ten places on this list are the ten places the district office named, and that is a different sentence from the one on the sheet and my sheet is not a public document and I have shown it to nobody. I am a clerk of the Census Guard and it goes in the case.**" She put her slate back under her arm. "**That is all. It goes in the case and it is not a finding and nobody is to write it down anywhere.**"
 
@@ -121,27 +121,27 @@ Then she said one thing, and it was four seconds long.
 
 Marguerite Bray was at the back with the delivery book under her arm, having come up the hill after the roster had been read the night before, with about four people, and she said the sentence she says.
 
-"**It goes in the book tonight and not on the day, and the day it goes in is not the day it was read out, and both days are in the book.**"
+"It goes in the book tonight and not on the day, and the day it goes in is not the day it was read out, and both days are in the book."
 
 ---
 
 The woman who maintains the board had the ladder out by a quarter past ten, and the certification went up after the count, and she put it and the schedule attached to it on at the bottom of the frame, under the strip of paper the size of a receipt and under the district's own answer to a steward, and she was about twenty minutes on the ladder and she came down and stood back twice.
 
-"**I have maintained that frame for nine years and I have never once asked anybody what goes on it and I have never once taken anything off it, and I put two sheets on it in the last week of the month before last that nobody sent me, and I have not been thanked for either of those and I am not going to be thanked for this one.**"
+"**I have maintained that frame for nine years and I have never once asked anybody what goes on it and I have never once taken anything off it, and I put two sheets on it in the last week of the month before last that nobody sent me, and I have not been thanked for either of those and nobody is going to be thanked for this one either.**"
 
 Somebody at the back said, from about four feet off, "**It is going underneath everything.**"
 
-"**It is going underneath everything,**" she said, "**because I am not going to put a sheet over a sheet on the last morning of a season, and because the count of a season has gone at the top of that frame for as long as I have been on it, and this one is at the bottom, under a strip of paper the size of a receipt and under a district's own answer to a woman of sixty-one, and that is my doing and not the count's, and I would like the field to notice that I have made a decision about a frame this morning and I have not been asked to make it and there is no form in this county on which I could have been asked and none on which I could have been told no.**"
+"It is going underneath everything," she said, "**because I am not going to put a sheet over a sheet on the last morning of a season, and because the count of a season has gone at the top of that frame for as long as I have been on it, and this one is at the bottom, under a strip of paper the size of a receipt and under a district's own answer to a woman of sixty-one, and that is my doing and not the count's, and I would like the field to notice that I have made a decision about a frame this morning and I have not been asked to make it and there is no form in this county on which I could have been asked and none on which I could have been told no.**"
 
 Then she said the thing she said about the fourth position in the last week of the month before last, in the voice she uses for a price, and nobody wanted it.
 
-"**And I have had my hands on that ladder all morning and about twenty people have stood underneath it and read what was on it, and I have not been thanked, and there is nothing on that frame to thank anybody for, and a thank you is a receipt and this is not a receipt.**"
+"And I have had my hands on that ladder all morning and about twenty people have stood underneath it and read what was on it, and I have not been thanked, and there is nothing on that frame to thank anybody for, and a thank you is a receipt and this is not a receipt."
 
 ---
 
 Owen Rusk did not go and look at the frame after about half past ten. He went up the hill and did the tray and it was on at a quarter past one, and it was empty, and it had been empty since the first of the month.
 
-**The count of the season of 489 for Docketford district is certified, qualified, and short, and there is no figure of premises of record on it for the first time in the record of this county, and the arithmetic that put it there is his and the arithmetic is in his own hand on the back of a sheet from a tide table and is in a determination in a file in Concord Hall and is nowhere else, and the file has got two documents in it with his name at the foot of them and a third one that says he prepared a list of ten places.**
+**The count of the season of 489 for Docketford district is certified, qualified, and short, and there is no figure of premises of record on it for the first time in the record of this county, and the arithmetic that put it there is his and the arithmetic is in his own hand on the back of a sheet from a tide table and is in a determination in a file in Concord Hall and is nowhere else, and the file has got three documents in it with his name at the foot of them and a fourth that says he prepared a list of ten places, and the fourth went in about an hour ago with the date on it.**
 
 **And a fourth column in a schedule printed by a building in another city is a figure that somebody walked into a yard and took, and a fifth column in a district's own return is a figure a clerk typed out of a book, and both of them are on the same form in the same ink, and there is no column in this county for which of them a person was in, and there is no column in this county for the fact that a man in a building wrote a list of ten places for a Warden to sign without going to any of them, and there is not going to be one.**
 

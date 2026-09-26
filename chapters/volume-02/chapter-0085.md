@@ -2,11 +2,11 @@
 
 She caught him at the top of the lane on the Thursday morning of the twentieth day of the third month at about eleven, on his way up to the building, and she did not slow down.
 
-"**Hall. This evening. After the roster. About thirty will come and I have not asked them to and I have not asked any of them to stay.**"
+"Hall. This evening. After the roster. About thirty will come and I have not asked them to and I have not asked any of them to stay."
 
 "I will be there."
 
-"You will be at the back." She said it without stopping either. "**You are going to sit at the back and you are not going to say one word, and I am telling you now so that you cannot stand in a hall in four years and say that nobody told you.**"
+"You will be at the back." She said it without stopping either. "You are going to sit at the back and you are not going to say one word, and I am telling you now so that you cannot stand in a hall in four years and say that nobody told you."
 
 "Ada—"
 
@@ -18,7 +18,7 @@ He went and did his tray and it was on at a quarter past six and there was nothi
 
 Ada Rusk had a sheet of the ward's own paper in her own capitals and had had it in her hand since before anybody came down, and she did not read it out from the sheet, because a hall is not a document and a document is not a hall.
 
-"**I am going to read out eight things this ward will not accept in exchange for being reconciled, and then I am going to read out three things it will, and I am going to read the three out last and not because they are better.**"
+"I am going to read out eight things this ward will not accept in exchange for being reconciled, and then I am going to read out three things it will, and I am going to read the three out last and not because they are better."
 
 The hall was quiet in the way a hall is quiet when about thirty people have decided to be quiet.
 
@@ -34,11 +34,11 @@ Somebody at the back said, "**That is yours.**"
 
 Bram Tillet, who is forty-one, and who is one of the four names the word is not written beside, and who does not usually speak in a hall unless the roster is being read, said:
 
-"**Say what is behind the third one.**"
+"Say what is behind the third one."
 
 "I have said it."
 
-"**You have said the shape of it. Say what is behind it, because there is a person in this room who has been going to the district office since the month of rain about the pump, and she is not going to be able to come after Thursday, and I would like this hall to hear one sentence about her.**"
+"You have said the shape of it. Say what is behind it, because there is a person in this room who has been going to the district office since the month of rain about the pump, and she is not going to be able to come after Thursday, and I would like this hall to hear one sentence about her."
 
 Ada Rusk did not use the wall voice and she did not use the other one either.
 
@@ -58,9 +58,9 @@ Nobody said anything at that one. The hall knew what the six were. About five pe
 
 Cobb Rennie said, quietly, "**Read the fifth again.**"
 
-"**You have heard it twice this week, Cobb.**"
+"You have heard it twice this week, Cobb."
 
-"**I have heard it eleven times in two years and I would like it read the eleventh time out loud, and it is not for me, it is for the rest of us in this hall who are on the list of the six and who are not going to say so.**"
+"I have heard it eleven times in two years and I would like it read the eleventh time out loud, and it is not for me, it is for the rest of us in this hall who are on the list of the six and who are not going to say so."
 
 And Ada Rusk read the fifth one again, in the same voice, and did not look at anybody while she did it, and that is the whole of what she did about it.
 
@@ -68,11 +68,11 @@ And Ada Rusk read the fifth one again, in the same voice, and did not look at an
 
 She turned the sheet over and put it face down on the table.
 
-"**And that is eight. And the eight are longer than the three, and I have been told by a person in this hall in the last two years that the list of what a place will not accept being longer than the list of what it will is a sign of a difficult place, and it is not, it is a sign of a place that knows what it is, and I have nine years of knowing what it is and I am not going to soften it for a hall.**"
+"**And that is eight. And the eight are longer than the three, and I have been told by a person in this hall in the last two years that the list of what a place will not accept being longer than the list of what it will is a sign of a difficult place, and it is not, it is a sign of a place that knows what it is, and I have nine years of knowing what it is and it is not going to be softened for a hall.**"
 
 ---
 
-"**The three.**"
+"The three."
 
 "**One. A person at a door in this ward, who can be asked a question, and who writes the answer down as it was given and not as it ought to have been given.**"
 
@@ -82,13 +82,13 @@ She turned the sheet over and put it face down on the table.
 
 She stood in the middle of the floor and about thirty people looked at her and the stove ticked twice.
 
-"**I am not going to say the thing you are all waiting for me to say. I said it in a hall in the first month and I said it at the gate on the seventh of the month and I have said it twice and I am not going to say it a third time, and the reason I am not going to say it a third time is that you are all quite capable of saying it yourselves and I am not going to be the person in this hall who keeps saying it until it stops meaning anything at all.**"
+"**I am not going to say the thing you are all waiting for me to say. I said it in a hall in the first month and I said it at the gate on the seventh of the month and I have said it twice and a third time is not going to happen, and the reason is that you are all quite capable of saying it yourselves and the person in this hall who keeps saying it until it stops meaning anything is not going to be me at all.**"
 
 Then she said the thing about the statement, and it took her about nine seconds and it was the reason the eight were on the sheet.
 
 "**There is a document in the district's record about this ward. It was entered on the fourth day of this month, in the district's own hand, with a man's name at the foot of it, and it is four paragraphs long and it is the truest thing any office has ever written about us, and Ivy read it off the sheet in this hall and asked whether it opened the crossing and was told no and said right.**"
 
-"**And we are not going to use it as a return.**"
+"And we are not going to use it as a return."
 
 ---
 
@@ -96,31 +96,31 @@ Owen Rusk did not move at the back of that hall, and what he was doing for about
 
 Ada Rusk did not turn round.
 
-"**A return is a thing a person signs about their own premises. That is the whole of what a return is, and it is the only place in this county where a person is on a piece of paper saying *this is what I am and this is what I have* without somebody else choosing it.**"
+"A return is a thing a person signs about their own premises. That is the whole of what a return is, and it is the only place in this county where a person is on a piece of paper saying *this is what I am and this is what I have* without somebody else choosing it."
 
 "**And on the fourth of this month the answer this ward gives to a count sheet became a document that a man from the district office wrote, and the moment it did that it stopped being our answer and it became the district office's account of us, and I have looked for an argument against that for nine days and I have not got one. And I want the hall to hear what that is, because it is the fourth of the eight and I have been round the other way to say it.** It is Marl Dykes. It is a ward that has an officer. It is a place that has got a man in a building who keeps facts about it, and the man is a good man, and he did it because his sister asked him to in a hall and she had the objection ready for nine days and asked anyway, and **none of that matters, and none of it is the point, and the point is that in about four years the district office's account of Lower Lock will be the truest document anybody has, and it will be a document about us, and the person who wrote it is a person with a file on himself.**"
 
-"**So it stays in the drawer. It is correct. It is the right four paragraphs. I am not going to pretend it is not.**"
+"So it stays in the drawer. It is correct. It is the right four paragraphs. I am not going to pretend it is not."
 
 ---
 
 Then she turned round, and she looked at the back of the hall, and this is the part of the night the ward had actually been doing for a fortnight.
 
-"**And I am going to say the other thing now, and it is the reason I asked him to be at the back, and I want Marguerite to have her pen out.**"
+"And I am going to say the other thing now, and it is the reason I asked him to be at the back, and I want Marguerite to have her pen out."
 
 Marguerite Bray had her pen out before the sentence finished, and she did not write anything, and everybody in that hall knew the rule they work by, which is that a thing is read back twice before it goes in.
 
-"**This ward is not going to ask Owen Rusk for anything.**"
+"This ward is not going to ask Owen Rusk for anything."
 
 Cobb Rennie put his head up. "**Now?**"
 
-"**Not tonight, and not in this season, and not in any season I am standing in this hall for.**" Ada Rusk said it to about thirty people and she did not use the wall voice, because this was not the wall. "**And I am saying the reason out loud now while he is in the room, because the reason is not a slight, and I will not have it ruled as one, and I would like it written in this book in my words.**"
+"Not tonight, and not in this season, and not in any season I am standing in this hall for." Ada Rusk said it to about thirty people and she did not use the wall voice, because this was not the wall. "And I am saying the reason out loud now while he is in the room, because the reason is not a slight, and I will not have it ruled as one, and I would like it written in this book in my words."
 
 "**The first of the eight is that we will not accept a return made by another office. And he is another office. And he wrote the best document anybody in this county has ever written about us, and he is not on the side of this ward and he has never once been on the side of this ward, and if I asked him for one thing in this hall tonight he would do it.**"
 
 Nobody said anything.
 
-"**And then in about four years there would be two documents in a district file in one season with a man's name at the foot of them, and one of them would be about this ward and one of them would be for this ward. And a ward that has had a document done for it has got an officer. And I am not going to be the reason a place in Fetter Lane has an officer, and I do not say that about him, and I have not said one word about him to this hall tonight except what is in the eight.**"
+"**And then a district file in one season would have had two documents in it with a man's name at the foot of them, and one of them would be about this ward and one of them would be for this ward. And a ward that has had a document done for it has got an officer. And I am not going to be the reason a place in Fetter Lane has an officer, and I do not say that about him, and I have not said one word about him to this hall tonight except what is in the eight.**"
 
 She put both hands flat on the table.
 
@@ -142,21 +142,21 @@ Nobody thanked anybody. Owen Rusk sat at the back of a ward hall for about forty
 
 On his way out Marguerite Bray caught him at the door with the delivery book shut under her arm, which she does not do, because the book is not a thing she carries while people are still in a room.
 
-"**You did not say one word,**" she said.
+"You did not say one word," she said.
 
 "No."
 
-"**I have ruled that a steward reads anything read back to her twice, and it is a stricter rule than the third clause, and I have read back the words *the officer was not asked for anything* three times in my own head tonight and it is the same three times and it is going to stay that way.**" She shifted the book. "**I am going to say one thing to you and I am not going to put it in the book, because it is mine and not the ward's, and if I put it in the book it is the ward's.**"
+"I have ruled that a steward reads anything read back to her twice, and it is a stricter rule than the third clause, and I have read back the words *the officer was not asked for anything* three times in my own head tonight and it is the same three times and it is going to stay that way." She shifted the book. "**I am going to say one thing to you and it is not going in the book, because it is mine and not the ward's, and if I put it in the book it is the ward's.**"
 
 "All right."
 
-"**In about two years you are going to be the best-informed man in this county,**" said Marguerite Bray, "**and you are going to be a stranger in every room in it, and I have watched two men get there in my time and one of them died of it and one of them moved away, and neither of them was a bad man and neither of them was thanked and neither of them was wrong.**" She opened the door. "**And in about four years somebody in a building is going to ask you why a ward of eleven doors has not been reconciled, and you are going to have to say that the ward would not accept anything, and the ward will be right, and you will be right, and neither of those is going to be a reason, and there is no column.**"
+"In about two years you are going to be the best-informed man in this county," said Marguerite Bray, "and you are going to be a stranger in every room in it, and I have watched two men get there in my time and one of them died of it and one of them moved away, and neither of them was a bad man and neither of them was thanked and neither of them was wrong." She opened the door. "**And somebody in a building is going to ask you in four years why a ward of eleven doors has not been reconciled, and you are going to have to say that the ward would not accept anything, and the ward will be right, and you will be right, and neither of those is going to be a reason, and there is no column.**"
 
 ---
 
 The Friday morning of the twenty-first day of the third month he was at the end of the second desk at about a quarter to nine with the ward's sheet in front of him, and it was addressed to the district office of Docketford and not to a person, and it had the eight and the three on it in Marguerite Bray's hand with the day and the hour under them, and it had come down the lane in Ruth Mapp's bag at about eleven the night before, and Ada Rusk had sent it.
 
-"You are going to do the ordinary thing with that," she had said, at the door, in about nine words. "**It is addressed to your office. It is not addressed to you. I am not asking you for anything and you are not doing anything for us and you are entering a paper that arrived.**"
+"You are going to do the ordinary thing with that," she had said, at the door, in about nine words. "It is addressed to your office. It is not addressed to you. I am not asking you for anything and you are not doing anything for us and you are entering a paper that arrived."
 
 "What is the ordinary thing."
 
@@ -176,8 +176,8 @@ He did go down the lane on the Saturday morning, at about eleven, on his own, an
 
 "Go on."
 
-"**In a hall it was a room and about thirty people and a book. In a lane it is this. If that paper goes into a return of this ward, then in about four years the district office's account of us is the only account of us there is, and the account is true, and it is true because a man in a building wrote it, and a ward that has a true account of itself written by somebody else has been given an officer and has not been asked.**" She set the bucket down in the yard. "**And there is another thing and it is smaller and I am only going to say it once. Every one of the eight on that sheet is something I want. Every one. I want the pump grant back and I want the crossing open and I want a figure about this district on a board in this county before I see it anywhere else, and I have wanted all eight since the month of rain. I have said in a hall that we will not accept them in exchange, and that is true, and it is also true that we would take all eight of them for nothing, tonight, from a person who did not want anything, and I have not said that in a hall because in a hall it sounds like saying the ward wants a thing.**"
+"**In a hall it was a room and about thirty people and a book. In a lane it is this. If that paper goes into a return of this ward, then the district office's account of us is the only account of us there is, and the account is true, and it is true because a man in a building wrote it, and a ward that has a true account of itself written by somebody else has been given an officer and has not been asked.**" She set the bucket down in the yard. "**And there is another thing and it is smaller and I am only going to say it once. Every one of the eight on that sheet is something I want. Every one. I want the pump grant back and I want the crossing open and I want a figure about this district on a board in this county before I see it anywhere else, and I have wanted all eight since the month of rain. I have said in a hall that we will not accept them in exchange, and that is true, and it is also true that we would take all eight of them for nothing, tonight, from a person who did not want anything, and I have not said that in a hall because in a hall it sounds like saying the ward wants a thing.**"
 
 "And in a lane?"
 
-"**In a lane it is the truth and it is mine and you may do what you like with it,**" said Ada Rusk, "**and you will do nothing with it, and I know that, and I have known it since the first month, and I am telling you a thing I do not need to tell you, and you may put that in a file of your own if you have a file.**"
+"In a lane it is the truth and it is mine and you may do what you like with it," said Ada Rusk, "and you will do nothing with it, and I know that, and I have known it since the first month, and I am telling you a thing I do not need to tell you, and you may put that in a file of your own if you have a file."

@@ -6,7 +6,7 @@ He had the choice because the other twenty or so sheets in the district tray on 
 
 Nobody in that hall was asked to sign anything. That was the first thing he said and he said it in the ordinary voice.
 
-"**Nothing on the table is going to be signed by anybody in this room tonight, including me, and I am going to say four things and then I am going to sit down, and it is not a fifth thing, and I know that it is going to sound like a fifth thing.**"
+"Nothing on the table is going to be signed by anybody in this room tonight, including me, and I am going to say four things and then I am going to sit down, and it is not a fifth thing, and I know that it is going to sound like a fifth thing."
 
 Ada Rusk was at the wall with her arms folded and said nothing, which is what the wall is for.
 
@@ -18,7 +18,7 @@ The first paper was the notice of the twenty-sixth day of the second month. He h
 
 *Field verification of premises of record in this district is suspended… Nine persons are affected in this district. The reason is not given and no form in this county provides for one.*
 
-"Nine persons in four hundred," said Owen Rusk. "**And the four lines under the survey round on that sheet are still empty, and there is still no name on it, and the date on it is still the twenty-sixth, and the Office has not taken it down and has not filled it in, and that is not going to change in June.**"
+"Nine persons in four hundred," said Owen Rusk. "And the four lines under the survey round on that sheet are still empty, and there is still no name on it, and the date on it is still the twenty-sixth, and the Office has not taken it down and has not filled it in, and that is not going to change in June."
 
 He put the return down and put his finger on the first of the two notes, which is the one that came back on the Tuesday the thirteenth and is four lines long and is the ordinaryest thing an office has ever written to a district.
 
@@ -44,7 +44,7 @@ Then he put the third paper down, and it was the district return for the season 
 
 And the fourth paper was the schedule for the season of 489, the printed one, that had been on a frame behind the tanneries for ten days and was on a post at the head of Fetter Lane and had ten settlements on it in five columns and the fourth and the fifth empty on all ten and the tenth row a building, and he did not read it out. He put it on the table face up and left it there, and about nine people in that hall could read it and the rest of them knew it by the shape of it, and the hall did what a hall does with a printed sheet that has been on a post for eight days, which is nothing at all, which is the entire point of a public document.
 
-"**I have brought four papers and I have read them out and I have not been asked a question about any of them, and that is because there is nothing on any of the four that a person can do anything with.**"
+"I have brought four papers and I have read them out and I have not been asked a question about any of them, and that is because there is nothing on any of the four that a person can do anything with."
 
 ---
 
@@ -58,17 +58,17 @@ Then he set out the ways of looking at them, and it took him about eleven minute
 
 Cobb Rennie said, from the back, "And in about a year somebody will have a year in a column that says somebody looked at something."
 
-"Yes," said Owen Rusk. "**And it will be a better-protected piece of paper than the truth, because it will be dated and signed, and the truth is not either of those things.**"
+"Yes," said Owen Rusk. "And it will be a better-protected piece of paper than the truth, because it will be dated and signed, and the truth is not either of those things."
 
 A man at the back, who is about sixty and has been coming to that hall since the flood, said, "**So who is it we write to.**"
 
 "You write to this office," said Owen Rusk.
 
-"That is what you are," said the man. "**That is not an answer to the question. We have been trying to write to this office since the seventh of the month of rain. We have had a form back with four words on it and a number on it.**"
+"That is what you are," said the man. "That is not an answer to the question. We have been trying to write to this office since the seventh of the month of rain. We have had a form back with four words on it and a number on it."
 
 "Then that is the answer to the question, and it is the correct one, and I have read you the four words and the five clauses under them in this hall on the sixth of this month and about thirty of you heard them, and one of the five clauses is that a disposition is a decision and a decision is entered with the initials of an officer and the day of its making, and the initials were not mine and the day was the sixth and it is in a drawer in this building and it is in a frame behind a tannery with a number and a month on it, and if anybody in this hall wants the number it is on the frame and I will not say it here."
 
-"**I have read it,**" said the man. "**I want somebody to put their name on something.**"
+"I have read it," said the man. "I want somebody to put their name on something."
 
 Nobody answered him, and Owen Rusk understood, standing at the front of a ward hall with a flattened folder in his hands, that there was a sixth way of looking at four pieces of paper and he had not said it out loud, and that the sixth way was not a way of looking at the papers at all.
 
@@ -80,13 +80,13 @@ He did not say the sixth way out loud, and that was the correct thing to do, and
 
 He put his hands flat on the table for a second and then took them off it again.
 
-"**Those are four ways of looking at four pieces of paper and none of them is a way out, and I have not pretended otherwise, and I have not got a fifth, and if I had a fifth I would not have come down here tonight.**"
+"Those are four ways of looking at four pieces of paper and none of them is a way out, and I have not pretended otherwise, and I have not got a fifth, and if I had a fifth I would not have come down here tonight."
 
 ---
 
 Ada Rusk spoke for the first time since about half past seven and it was about four sentences long and she said them in the voice she uses for a roster.
 
-"**I am going to ask for something to be entered in a record and I am going to say the request out loud first, and I want it heard that I am asking and not Owen.**"
+"I am going to ask for something to be entered in a record and I am going to say the request out loud first, and I want it heard that I am asking and not Owen."
 
 Marguerite Bray had her pen out. She had had it out since about half past six, which she did not mention and would not have mentioned.
 
@@ -102,7 +102,7 @@ He said the rest of it. It took him about forty seconds and it was the correct a
 
 He stopped. He had about four seconds and he used them, and what he said in them was not to anybody.
 
-"**And the bar is up anyway. The Warden may reconcile a settlement on a day she names and she has named none, and I asked her for a day in the first month of this year and she refused me and she was right twice.**"
+"And the bar is up anyway. The Warden may reconcile a settlement on a day she names and she has named none, and I asked her for a day in the first month of this year and she refused me and she was right twice."
 
 "So that is the answer," said Ada Rusk.
 
@@ -118,7 +118,7 @@ Cobb Rennie said, quietly, to nobody, "**Third building.**"
 
 "I heard it," said Owen Rusk.
 
-"**I said it to nobody. I have been saying it to nobody all season and I have got very good at it and it is the only thing I have got.**"
+"I said it to nobody. I have been saying it to nobody all season and I have got very good at it and it is the only thing I have got."
 
 ---
 
@@ -138,7 +138,7 @@ Nobody thanked anybody, and nobody has thanked anybody in that hall in nine year
 
 Then Ada Rusk said the thing that was in the ward's book from the first month of the year, in about four seconds, and it was not about the record.
 
-"**And none of those four is any use to us, and I want that said while the paper is still warm, because in about four years somebody is going to read that this ward asked to be reconciled and is going to assume that asking was the hard part.**" She unfolded her arms. "**We did not ask to be counted. We asked because there is a column in this season with nothing in it and a schedule with our name on the third line and nobody has been to us since the ninth of the month before last, and in about four years the reason for that will be a piece of paper and I would like the piece of paper to have one line in it that says we asked and were told there was nothing to ask with.**"
+"And none of those four is any use to us, and I want that said while the paper is still warm, because in about four years somebody is going to read that this ward asked to be reconciled and is going to assume that asking was the hard part." She unfolded her arms. "**We did not ask to be counted. We asked because there is a column in this season with nothing in it and a schedule with our name on the third line and nobody has been to us since the ninth of the month before last, and in about four years the reason for that will be a piece of paper and I would like the piece of paper to have one line in it that says we asked and were told there was nothing to ask with.**"
 
 She looked round the hall.
 
@@ -146,7 +146,7 @@ She looked round the hall.
 
 Somebody said, "**Then what is it for.**"
 
-"**It is for the marking on it,**" said Ada Rusk. "**The marker goes up on the Thursday and on the Friday at seven forty and there is a figure on it and a person wrote that figure because they had been at the flats and looked at the water, and anybody who walks down this lane can go and look at the flats and see whether the figure is right. That is the only figure anybody in this ward produces that anybody can check. And I have understood something about that this season and I am not going to say it out loud at half past eight on a Monday evening, and Cobb can have it when he has earned it, and Marguerite can rule it when it comes.**"
+"It is for the marking on it," said Ada Rusk. "**The marker goes up on the Thursday and on the Friday at seven forty and there is a figure on it and a person wrote that figure because they had been at the flats and looked at the water, and anybody who walks down this lane can go and look at the flats and see whether the figure is right. That is the only figure anybody in this ward produces that anybody can check. And I have understood something about that this season and I am not going to say it out loud at half past eight on a Monday evening, and Cobb can have it when he has earned it, and Marguerite can rule it when it comes.**"
 
 "**And the crossing is shut to loads on Thursday at seven forty and it has been shut since the month of rain and the repair is four thousand one hundred and sixty pounds and it is unfunded, and the pump goes at four in the morning on Thursday by Bram and by a household with a girl of twelve in it, and the marker goes up on Thursday and on Friday, and the channel is done on Wednesday night because the channel is a Wednesday, and none of the four of those things is a reconciliation and all four of them are going to happen.**"
 
@@ -156,7 +156,7 @@ Cobb Rennie said, "**And the granary's been empty five weeks and a bit.**"
 
 Nobody said anything for about four seconds.
 
-"**Thursday, then,**" said Ada Rusk, "at seven forty, at the marker," and that was the end of it, and about nine people in the hall stood up at about a quarter to nine, and Ivy Sarr was at the end of the long table with a tray of seed trays in front of her and did not get up, and Owen Rusk carried the four papers back up the hill in the flattened folder with both hands and did the tray, and the tray was on at a quarter past nine and had been on since about nine with nothing on it from anywhere, and it is the same tray it has been on every evening since the first of the month.
+"Thursday, then," said Ada Rusk, "at seven forty, at the marker," and that was the end of it, and about nine people in the hall stood up at about a quarter to nine, and Ivy Sarr was at the end of the long table with a tray of seed trays in front of her and did not get up, and Owen Rusk carried the four papers back up the hill in the flattened folder with both hands and did the tray, and the tray was on at a quarter past nine and had been on since about nine with nothing on it from anywhere, and it is the same tray it has been on every evening since the first of the month.
 
 **The count of the season of 489 for Docketford district is certified on the twenty-eighth day of this month.** He had the date off the printed notice on the post at the head of the lane and he had known it since the twenty-eighth of the month before last, and it is the eighteenth day away, and he wrote it on the back of a sheet from a tide table in the standing order and then read the sheet back and did not send it, because there is nobody to send it to and because a date in a drawer is a date in a drawer.
 

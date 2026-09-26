@@ -111,6 +111,12 @@ jobs:
           while IFS= read -r prompt; do
             [ -n "$prompt" ] || continue
             phase_dir="$(dirname "$prompt")"
+            if [ -f "$phase_dir/.retired" ]; then
+              continue
+            fi
+            if grep -qi '^Retired .*phase' "$prompt"; then
+              continue
+            fi
             if [ -f "$phase_dir/.blocked" ]; then
               has_blocked=true
             fi

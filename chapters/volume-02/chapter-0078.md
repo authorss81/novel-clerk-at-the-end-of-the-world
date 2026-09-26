@@ -36,8 +36,7 @@ Owen Rusk read the ten rows in about forty seconds and then read the tenth row a
 
 Eleven minus Nether Sill is ten, and Nether Sill is struck and the correction stands and its appeal lies to the Glass Stair and will take a season, and no office in this county will put it back, and everybody in Docketford expected ten names on that sheet and got ten names on that sheet.
 
-**And two of the ten are not among the eleven.**
-
+And two of the ten are not among the eleven.
 The first is the one nobody in that field would have known to look for. **Marl Dykes is not on it.** Marl Dykes was the fifth row on the board of the season before: two premises of record, nine households, last reconciled in the Concord Year 481, and it was on the printed schedule of this season past, and it was not reconciled this season either, and it has come off a printed list of the places this county is going to look at in the season of 489 by an arithmetic.
 
 There is no row for that anywhere. Not in a correction, because a correction is a form with a schedule of premises attached to it and a date and a reason and a warden, and none of those things happened at Marl Dykes and nobody did any of them. Not in a day-book, because the day-book takes a line when a settlement is reconciled and Marl Dykes has not been reconciled since the Concord Year 481 and will not be. Not on the standing extract at the foot of the frame, because that is places struck from the count, and Marl Dykes is not struck, it is simply gone from a list, which is a different door and a quieter one and there are no handles on it at all.
@@ -56,11 +55,11 @@ Cobb Rennie came up at about twenty past twelve and read the sheet, because Cobb
 
 "That is the count room at the head of the cut. That is the building this whole thing is done out of." Cobb Rennie put his finger on the frame without touching it. "**And it is on the list of places to be counted, and it is the only one of the ten anybody in this county has ever been inside, and it has got six against it, and six is a figure of doors.**"
 
-Then he said the thing that Owen Rusk had worked out at half past four the previous afternoon and had not said to anybody, and he said it without any weight on it, in a field, in the ordinary voice, the way a man reads a price.
+Then he said the thing that Owen Rusk had worked out about twenty minutes earlier, standing about four feet off that sheet, and had not said to anybody, and he said it without any weight on it, in a field, in the ordinary voice, the way a man reads a price.
 
 "**There is no row for a settlement that was not reconciled,**" said Cobb Rennie. "**And there is not going to be one for a settlement that was.**"
 
-Nobody answered him. He had asked for the same thing at the end of a good morning in June and had been told *visibility is not remedy* by two people in two months, and Ada Rusk had said it first and Warden Kade had said it second and neither of them had said it to him, and he was not going to be thanked for a sentence he had now given away three times.
+Nobody answered him. He had asked for the same thing at the end of a good morning in June and he had got it, and Ada Rusk had said it first to a hall and Warden Kade had said it second to him in a room with high windows, and neither of them ever said it twice, and he was not going to be thanked for a sentence he had now given away twice.
 
 ---
 
@@ -72,7 +71,7 @@ He could not ask why it went. **The reason for a settlement's place on a schedul
 
 He could not go and ask the only person in this county who might be able to say which way the arithmetic went. **The return of authorised draws was made in October by a man of about fifty-five in a room across the cut, and it is a return of premises, and the district office's book is the second column of it, and Marl Dykes is a line in that book, and the line is either in the sheet that went to Concord Hall in October or it is not, and if it is not then the line was struck somewhere between this building and a room two hundred miles up a river, and nobody in either building is going to be able to tell him, and the man across the cut is not entitled to a copy of his own sheet, and Owen Rusk applied for a copy of it once this month and was given one, and has promised in a letter in a coat pocket not to put a man with twenty-two years in a room anywhere near a room.**
 
-And the fourth thing, which he thought about for a good while standing at a frame with his hands behind his back, was to write to Marguerite Bray and ask her to rule it into the delivery book, the way the ward ruled the five lines and the pitch and the second term that cannot be performed, and he worked out in the time it takes to read a page twice that it would be wrong, and he worked out why, and the reason is the best thing he did all afternoon and he did not do it.
+And the fourth thing, which he thought about for a good while with his hands in his coat, was to write to Marguerite Bray and ask her to rule it into the delivery book, the way the ward ruled the five lines and the pitch and the second term that cannot be performed, and he worked out in the time it takes to read a page twice that it would be wrong, and he worked out why, and the reason is the best thing he did all afternoon and he did not do it.
 
 **A ward's book is the ward's own. The moment a person from the district office writes a fact about a place into it, the place has an officer, and Ada Rusk said that in a hall in the first month in front of nine people about herself and Owen Rusk was in the room, and he wrote it down, and he is not going to be the reason a hamlet in another district has an officer.**
 
@@ -80,7 +79,7 @@ He read the tenth row once more before he left. *District Office, Fetter Bend. 4
 
 ---
 
-He got back up the hill at about three and did the tray and was on it at a quarter past six, and on the Saturday morning of the first day of the third month of the Concord Year 488 he was in two rooms in Fetter Lane with the lamp out and the district return for the season of 489 in front of him, and he had had it since the Monday, and he had not looked at the top right corner of it for a week.
+He got back up the hill at about three and the tray was on at a quarter past six, and there was nothing on it, and on the Saturday morning of the first day of the third month of the Concord Year 488 he was in two rooms in Fetter Lane with the lamp out and the district return for the season of 489 in front of him, and he had had it since the Monday, and he had not looked at the top right corner of it for a week.
 
 He had looked at the top right corner of about four hundred forms in nine years. It is where the date and the receiving office go and the receiving office's hand, and it is the part of a form that tells you what happened to the form, and there is nothing on it that anybody has ever asked him about and there is never anything on it, and he had not looked at it on the Monday because the Monday had a survey notice in it and a return that had come back with two lines on it and a form about a mill in his hand that he could not undo.
 
@@ -88,8 +87,7 @@ The receiving office of the count room is stamped in the top right corner, and b
 
 Not a signature. Not a note. A tick, in the count room's hand, in the ordinary place where a clerk puts a mark when they have gone down a column and have found it empty — a small stroke and a longer stroke and a hook, and it is about the size of a fingernail, and it is the mark that has been made on about nine hundred forms in this building every year since anybody can remember.
 
-**And it is beside the heading of the fifth column.**
-
+And it is beside the heading of the fifth column.
 Owen Rusk sat in two rooms in Fetter Lane with the lamp out on the Saturday morning of the first day of the third month of the Concord Year 488 and looked at a tick.
 
 **The form was made in a building on the ninth day of the second month.** The stamp in the top right corner is the stamp of the count room at the Glass Stair and it carries the ninth, and the ninth was the day the count was certified, at about ten in the morning, at the west gate of Cutter's Fields, qualified, nine of eleven, in the cold, in front of about twenty people.
@@ -100,7 +98,7 @@ He had written a sentence across the ten cells in his own hand on the Monday the
 
 **And the Office had held the form for three days with the fifth column on it and a tick on it, and had not told this district that it was asking for something, and had sent the form on the twelfth as though it were new, and it is not new, and it was not new on the twelfth either, and it was made on the ninth in a room where somebody had already read the column and found it empty and written a mark about it.**
 
-The Office has got carefuler. It has got carefuler about a challenge that has not been made yet, and it has got carefuler in the exact shape of the answer a man gave it, and the tick is what careful looks like from the inside: a form goes out with a column on it, and a person reads the column, and nobody is told, and the tick is not a signature and cannot be asked after, and in a few years it will be the only evidence in this county that anybody ever read that column at all.
+**The tick is what careful looks like from the inside.** The Office has got carefuler and it has not got kinder, and a form goes out with a column on it, and a person reads the column, and nobody is told, and the tick is not a signature and cannot be asked after, and in a few years it will be the only evidence in this county that anybody ever read that column at all.
 
 He did not put it in the notebook that leaves the building. He put it in his own hand on the back of a sheet from a tide table, and then he tore the sheet in half, which he has done about nine times in eleven months, and put the halves in different pockets, and then he wrote it out again on the other half because a torn sheet about a tick is not a record, and then he did not send that either.
 
@@ -114,6 +112,10 @@ He did the last piece of it on the Saturday afternoon, at the table, and it took
 
 **Docketford district. Season of 489. The ten named settlements: Wexford Landing, Gallants Reach, Lower Lock, Quill Bank, Rush Halt, Witherow, Ossery, Otter Stair, Ashlocks, and the premises of the District Office at Fetter Bend. Marl Dykes, which was named in the schedule of the season of 488, is not named in the schedule of the season of 489 and no reason is given and no form provides for one. The season opens on the first working day of the month. The schedule will not be amended after printing. A Warden may return it and may not amend it.**
 
-That is the shape of the rest of it, and it is on a piece of paper in two rooms in Fetter Lane with the lamp out on the first day of the third month in the Concord Year 488, and it is in a form he may not examine, and it is a list of ten places and nine of them are places and one of them is the room he is sitting in, and one place that was on the list is not on it and nobody will ever be told, and the fifth column is empty on all ten and will be empty in June and will be full of a year a man in a water office corrected a return.
+That is the shape of the rest of it, and it is on a piece of paper in two rooms in Fetter Lane with the lamp out on the first day of the third month in the Concord Year 488, and it is in a form he may not examine, and it is a list of ten places and nine of them are places and one of them is a building two miles up the hill that he is the officer of the record of, and one place that was on the list is not on it and nobody will ever be told, and the fifth column is empty on all ten and will be empty in June and will be full of a year a man in a water office corrected a return.
 
 **And Owen Rusk is the officer of the record of the district returns out of which all ten of them are taken, including the sixth one with the office in it, and there is a form in this county that will want a reason against the district office in the season of 489, and the reason will be a figure, and he is not allowed to put a word in it, and there is nobody in this county he is allowed to ask.**
+
+Then he put the lamp out and the other half of the sheet from the tide table was still in a coat pocket, and it said one thing and it was a drawing of a mark about the size of a fingernail, and he could not show it to anybody, and he could not lose it either, and it went up the stairs with him in the morning in an inside pocket with a district return in it that had nothing in the fifth column and would have nothing in it in June.
+
+Nobody will ever ask him about it. A tick is not signed, and a tick cannot be asked after, and there are about nine hundred of them made every year in a room he has the key to.

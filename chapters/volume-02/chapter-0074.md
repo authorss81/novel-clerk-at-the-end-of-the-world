@@ -6,12 +6,10 @@ Ossery is twelve households and a lime kiln and it is four miles up a cart track
 
 Then he said the other thing, which is the true thing, and which he also said out loud, twice, because he has been a man who tells people the true version before the comfortable one since the second week of the month of rain in a year that has ended.
 
-**Because she would not say why, and a person who will not say why is a person you go and look at, and that is not a reason. That is a shape my hands make when nobody has given me a job.**
-
+Because she would not say why, and a person who will not say why is a person you go and look at, and that is not a reason. That is a shape my hands make when nobody has given me a job.
 There is no season. The count was certified on the ninth and it is qualified and Docketford district is reported short by seven in its return of premises and it was also reported short in the Concord Year 484 and in the Concord Year 486, and the schedule for the season of 489 is to be printed and posted on the twenty-eighth of this month with ten names on it, and none of those ten is going to be looked at by anybody before the season opens, and the Warden may return a schedule and may not amend it, and there is no day on any of them because the days come out of the season's own notice and the notice gives a week and not a day.
 
-**Owen Rusk was not the person who reconciles Ossery and had no business in that yard and knew both of those things at the top of the track.**
-
+Owen Rusk was not the person who reconciles Ossery and had no business in that yard and knew both of those things at the top of the track.
 ---
 
 The first house on the track is a lime worker's cottage and the kiln is four hundred yards further on and is a stone stack about the size of a two-storey house with a low arch in it, and it was cold, because a kiln is banked and cold is what a banked kiln is. Maud Tray was stacking sacking against the windward side of it, and she was about fifty, and she had done it in the way of a person who has done it since she was about nine, and when she turned round and saw a man coming up the track with a coat and no bag she did not startle, and that was the first thing he noticed about her.
@@ -114,11 +112,11 @@ He worked out the rest of it at the top of the track with his hands on his knees
 
 **The review route is the only instrument in this county that asks a settlement what it does.** It is requested by a person of the district. It must show a current local act performed by the settlement, this season, at a place of their own choosing, recorded, and not an act claimed for them from two miles away. It is heard before an officer of the count having no district in the matter. It is requested within seven days of the reconciliation, running from the hour the stone goes down out of the case. And the requester is named on it, and the name goes on a public file.
 
-And there is a pump rota kept weekly by one woman at Witherow that satisfied every word of that, and the review was heard and sustained, and the file says *no current local act shown*, and the reason it was lost is that the office has no column for a settlement and a rota kept by one woman is not three premises.
+And there is a pump rota kept weekly by one woman at Witherow that satisfied every word of that, and the review was heard and upheld, and the file says *no current local act shown*, and the reason it was lost is that the office has no column for a settlement and a rota kept by one woman is not three premises.
 
 And here, on a cart track four miles off the water, there is a cart that has gone twice a week for thirty-one years, and a book with a bootlace in it, and a man who has not been asked anything, and a fire in the first month of the year, and a tank.
 
-**That is the act. That is a current local act performed by the settlement, at a place of their own choosing, recorded weekly, and not claimed for them from two miles away. It has been produced by a person who was not asked for it and cannot be named on anything, and the roster in Fetter Lane is a better-built document than that book by a long way, and that ward is on the ten and this settlement is not, and I have not worked out whether that is a coincidence and I am not going to work it out in a lane.**
+**That is the act. That is a current local act performed by the settlement, at a place of their own choosing, recorded weekly, and not claimed for them from two miles away. It has been produced by a person who was not asked for it and cannot be named on anything, and the roster in Fetter Lane is a better-built document than that book by a long way, and those two places are both on the ten, and I have not worked out whether that is a coincidence and I am not going to work it out in a lane.**
 
 And the door to the review route opens when a stone comes down out of a case, and a stone comes down out of a case when a settlement is reconciled, and Ossery was not reconciled, and it was not reconciled because the Warden suspended the reconciliation of Docketford district with the hour of the certification of the count, in her own hand, in a field, with a page long reason that is not a figure.
 
@@ -134,13 +132,13 @@ Nobody was going to be starved, nobody was going to be thirsty, and there was br
 
 Then he went back down the track at about two o'clock in the afternoon and the light was long and there was nothing on it but him.
 
-On the Monday, the day before, Maud Tray had told him — while they were stacking sacking and without any particular emphasis, the way a person tells a clerk a thing they do not think is interesting — that a man had come up the track about two o'clock on the Monday with a chain and a rule and a book, and had said he was from the district and had wanted to walk the yard and take a figure of the roofs, and that nobody had let him, and that he had gone away at about half past three without a fight.
+He had asked her about the Monday, the day before this one, when she was stacking sacking and said it without any particular emphasis, the way a person tells a clerk a thing they do not think is interesting — that a man had come up the track about two o'clock with a chain and a rule and a book, and had said he was from the district and had wanted to walk the yard and take a figure of the roofs, and that nobody had let him, and that he had gone away at about half past three without a fight.
 
-"**He was very polite about it,**" she said. "That is the part I would remember. He was extremely polite and he had a rule and he was going to do the roofs and I said no, and he said *that is quite all right* and wrote something in the book and shut it and went away."
+"**He was very polite about it,**" Maud Tray had said. "That is the part I would remember. He was extremely polite and he had a rule and he was going to do the roofs and I said no, and he said *that is quite all right* and wrote something in the book and shut it and went away."
 
-"Do you know what the book was for."
+He asked her now, on the track, at the top of it, whether she knew what the book was for, and she gave him the same answer she had given him the day before, which was that she did not know and had not asked him either.
 
-"No," said Maud Tray. "I have had four people out of a building at that gate this year and I have asked two of them what they came for and I have not asked you, because you are the one on the board, and I would like you to work out for yourself whether that is a clever thing to have said or a stupid one, and I have not decided yet and it is the twentieth."
+"No," Maud Tray said. "I have had four people out of a building at that gate this year and I have asked two of them what they came for and I have not asked you, because you are the one on the board, and I would like you to work out for yourself whether that is a clever thing to have said or a stupid one, and I have not decided yet and it is the twentieth."
 
 ---
 
@@ -164,6 +162,8 @@ On the Wednesday he wrote four lines on the back of a sheet from a tide table in
 
 **It is not a settlement. It is not the schedule. It is not a choice of places. It is a question about a document in this building and it is the only question I am allowed to ask, and I have been looking for it since the twelfth day of the month before, and it was on the second page of a form in my own hand, and I did not see it for a fortnight because I was reading a column on a board.**
 
-He did not write anything else. He did not go up the reach, and he did not go to the Water Office, and he did not write to a man in a cart, and he did not put a name anywhere, and there is no form in this county for a person who is owed a question by an office and cannot ask it, and he had one question and it was about a column and he was going to be able to put it in a room.
+He did not write anything else. He did not go up the reach, and he did not go to the Water Office, and he did not write to a man in a cart, and he did not put a name anywhere, and a person who is owed a question by an office and cannot ask it is owed it in this county by nothing whatever, and he had one question and it was about a column and he was going to be able to put it in a room.
 
 The count was qualified. The best act produced in Docketford district this season belongs to a man in a cart with a bootlace in a book who has not been asked anything and cannot be put on a document, and the only door in this county that would have asked him was shut at noon on the ninth by a sheet wired to a frame by a woman who is right, and it is going to stay shut until somebody in Concord Hall with a pencil in a room two hundred miles up a river decides that it opens.
+
+The cart comes up the track twice a week and had been up it on the Tuesday, and it would be up it again on the Friday, and the tank against the wall of the low house was down to about a foot, and the book was on the seat of the cart with the bootlace in it, and there are twelve houses above that track and a day and a half of water between them and nobody has ever been asked whether that is enough.

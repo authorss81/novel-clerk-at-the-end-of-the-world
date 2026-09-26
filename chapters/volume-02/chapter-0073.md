@@ -82,7 +82,7 @@ He found the fourth clause in about nine seconds and then spent the rest of the 
 
 **A line against which a quantity is authorised is a line.**
 
-He got the district's own **schedule of premises of record** out of the room on the second floor he has the key to and has been in about nine times in nine years — a bound book, four columns, number, place, street or lane, date of entry, the district's, not the count's — and he went down the second column with a pencil, one line at a time, and asked of every line the only question the form had left anybody.
+He got the district's own **schedule of premises of record** out of the room on the second floor that he has the key to and has been in about nine times in nine years — a bound book, four columns, number, place, street or lane, date of entry, the district's, not the count's — and he went down the second column with a pencil, one line at a time, and asked of every line the only question the form had left anybody.
 
 *Is a quantity authorised against this line?*
 

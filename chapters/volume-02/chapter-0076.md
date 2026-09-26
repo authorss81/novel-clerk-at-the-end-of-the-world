@@ -1,12 +1,12 @@
 # Chapter 76 — Carefuler and Not Kinder
 
-The notice came down on the Monday morning of the twenty-sixth day of the second month of the Concord Year 488, at ten minutes to ten, at the counter of the count room at the Glass Stair, and it is a single sheet and it is not sealed and it is not signed and it is the size of a sheet of foolscap and it has a loop of tarred cord through the top of it ready for a frame. Owen Rusk read it standing at the counter, and then he took it to the second desk and read it again sitting down, and then he read it a third time on the Friday and it has not changed and there is nothing on it that is a mistake.
+The notice came down on the Monday morning of the twenty-sixth day of the second month of the Concord Year 488, at ten minutes to ten, at the counter of the count room at the Glass Stair, and it is a single sheet and it is not sealed and it is not signed and it is the size of a sheet of foolscap and it has a loop of tarred cord through the top of it ready for a frame. Owen Rusk read it standing at the counter, and then he took it to the second desk and read it again sitting down, and then he read it a third time on the Wednesday and it has not changed and there is nothing on it that is a mistake.
 
 **SURVEY OF SETTLEMENTS OF RECORD. DOCKETFORD DISTRICT. Season of the Concord Year 489.**
 
 *Field verification of premises of record in this district is suspended with the hour of this notice and until the office determines the matter arising out of the hearing held at the count room at the Glass Stair on the twenty-fifth day of the second month of the Concord Year 488, or such earlier determination as the officer may make. The suspension is an act of operations and is not a finding. It may be reviewed by the office. It ends when the office ends it and not before. Nine persons are affected in this district. The reason is not given and no form in this county provides for one.*
 
-Then, at the foot, in a smaller type and a different hand:
+Then, at the foot, in a smaller type and a different hand, a schedule that is about this district and not about the office:
 
 **SCHEDULE OF THE SURVEY ROUND FOR THIS DISTRICT, SEASON OF 489, AS IT STOOD ON THE TWENTY-THIRD DAY OF THIS MONTH.**
 
@@ -22,7 +22,20 @@ Then, at the foot, in a smaller type and a different hand:
 
 *Ossery. No date entered. Eleven. No figure entered.*
 
+And under that, at the bottom of the sheet, printed entire with a county number at the top of it and filled in in nothing, four lines and a date:
+
+**SUSPENSION BY A WARDEN OF THE COUNT.**
+
+*Ground, and it is not to be a figure:* ——
+*By a warden, and there is no name:* ——
+*Reviewed, and by whom:* ——
+*Ended, and by whom:* ——
+
+*Date: the twenty-sixth day of the second month of the Concord Year 488. Not signed.*
+
 Owen Rusk read the fifth row nine times, which he knows because the counting clerk at the second counter was watching him from about four feet and did not say anything about it.
+
+Then he read the four lines under it four times, and the date, and did not say one word about any of it, and the counting clerk watched him do that as well and did not say anything about that either. Above them, on the same sheet, in the same ink, it says that the reason is not given and no form in this county provides for one. Under them there is nothing at all.
 
 ---
 
@@ -62,11 +75,11 @@ Junia Pell was at the end of the second desk at about eleven and she had not rea
 
 "No."
 
-"That is not the harm. That is the ordinary way this county works and it is a disgrace and it is not a story." She put her hand off the paper. "**The harm is that he is the only person who ever went into four of those five yards this season, and his book has gone back to Concord Hall, and it is not copied, and nobody in this county will ever see it, and the four rows on the sheet now say seven, and nine, and six, and two, and the figures in them are figures somebody looked at. And the fifth row says eleven, and eleven is a figure from the Concord Year 486 that a clerk typed out of a book, and both of those rows are on the same form in the same ink, and there is no column in this county for which of them a person was in.**"
+"That is not the harm. That is the ordinary way this county works and it is a disgrace and it is not a mystery." She put her hand off the paper. "**The harm is that he is the only person who ever went into four of those five yards this season, and his book has gone back to Concord Hall, and it is not copied, and nobody in this county will ever see it, and the four rows on the sheet now say seven, and nine, and six, and two, and the figures in them are figures somebody looked at. And the fifth row says eleven, and eleven is a figure from the Concord Year 486 that a clerk typed out of a book, and both of those rows are on the same form in the same ink, and there is no column in this county for which of them a person was in.**"
 
 "Yes," said Owen Rusk.
 
-"And in about four years somebody is going to ask this office to account for the round, and there is no way to account for a round. **There are four figures on that sheet that somebody looked at and one figure that a clerk typed out of a book, and in about four years somebody is going to ask you which of the two you are defending, and the sentence will be true, and it will have your name on it, and it will be about a man whose name is on a board behind me that you have never read.**"
+"And in four or five years somebody is going to ask this office to account for the round, and there is no way to account for a round. **There are four figures on that sheet that somebody looked at and one figure that a clerk typed out of a book, and in about four years somebody is going to ask you which of the two you are defending, and the sentence will be true, and it will have your name on it, and it will be about a man whose name is on a board behind me that you have never read.**"
 
 "Yes."
 
@@ -102,12 +115,10 @@ Nobody looked at Owen Rusk, which was the correct way of doing it.
 
 He went down to the field on the Wednesday morning of the twenty-eighth and the schedule for the season of 489 was already on the frame at the top of it, wired, printed in advance, ten names in five columns and a fifth column with nothing in it, and the woman who maintains the board had had it up since about nine and had stood back twice and looked at it and had not asked about the fifth column, and that is what she has done for nine years and is not going to stop doing now that there is something to ask about. She put the notice up underneath it at about half past three with one loop of tarred cord, and it took her about twenty minutes, and she stood back twice, and about nine people were standing about and reading it as it went up, which is the thing nobody who has not stood at a board in a field can be made to understand, and which is the whole reason the count has ever been published.
 
-**Two sheets went onto one frame in Docketford district on the twenty-eighth day of the second month of the Concord Year 488, and a woman who is not on the board and has asked for no name for nine years wired up both of them, and one of them is the work of a man who wrote a sentence in a column and the other one is what has come of it, and they are about eleven inches apart and about six hours and a half apart and neither of them is about a person.**
-
+Two sheets went onto one frame in Docketford district on the twenty-eighth day of the second month of the Concord Year 488, and a woman who is not on the board and has asked for no name for nine years wired up both of them, and one of them is the work of a man who wrote a sentence in a column and the other one is what has come of it, and they are about eleven inches apart and about six hours and a half apart and neither of them is about a person.
 Above it was the count of the ninth, and under the count was Kade's own sheet, with one loop of cord and a page long reason that is not a figure, and the notice went on at the bottom of the frame under that, which is where it still is.
 
-**Three documents on a frame, and two of them are reasons that are not figures, and there is not one of them about a person, and every one of them cost something.**
-
+Three documents on a frame, and two of them are reasons that are not figures, and there is not one of them about a person, and every one of them cost something.
 Then he did the last arithmetic of the fortnight, standing at the frame, on the back of a sheet from a tide table, in pencil, in about four minutes, and it is the only sum he has made in a season that he did not give to anybody and it is the only one he is ever going to keep.
 
 A water office in this county has been asked, in writing, for the year of the last survey of each settlement of record, and has answered, in its own hand, with *not known* against about ninety lines out of a hundred and ninety-four, and it is the only time anybody has ever asked that office anything.
@@ -116,7 +127,7 @@ Field verification in this district is suspended for the season.
 
 **So the fifth column of the district return for the season of 489 will be completed, in the season of 490, out of the answer to that request.** And the answer to that request is a water office, and a water office is a room in a building with six people in it and a man with a bad knee who has never been to any of the settlements on the list, and he is going to be asked the same question again in about a year, and he is going to answer it, and the year he is going to put in the box is going to be **the year he corrected a return.**
 
-A column headed *year of last survey* is going to be filled in with a year that is a year a piece of paper was touched, by a person who was not there, in a building nobody walks to, and it will be dated, and it will be signed, and it will be correct, and it will be a fiction with a date on it, and in about nine years there will be a settlement on a schedule in this county whose last survey is a Tuesday in October in a room across the cut, and nobody will ever be able to prove anything about it, because a fiction that is dated and signed is better protected than the truth.
+A column headed *year of last survey* is going to be filled in with a year that is a year a piece of paper was touched, by a person who was not there, in a building nobody walks to, and it will be dated, and it will be signed, and it will be correct, and it will be an invention with a date on it, and in about nine years there will be a settlement on a schedule in this county whose last survey is a Tuesday in October in a room across the cut, and nobody will ever be able to prove anything about it, because an invention that is dated and signed is better protected than the truth.
 
 **The Office has got carefuler. It has got carefuler about a challenge that has not been made yet, and it has got carefuler in the exact shape of the answer a man gave it, and it has not got kinder, and it is not going to, and the fifth column is the first thing anybody in this county has ever put in a form that is going to come out true and mean nothing.**
 
@@ -130,12 +141,12 @@ The district return for the season of 489, which had come back on the thirteenth
 
 Owen Rusk read it twice on the Wednesday morning at the end of a desk and did not show it to anybody, and it is the piece of paper from this week that he is least able to put down, and it is four lines long, and every word of it is a thing somebody in this county is entitled to do.
 
-Then he thought about the fourth settlement on the schedule — Rush Halt, and the ninth, and the fifteenth, and the nineteenth, and the fifth, which is a man with a chain and a rule and a book and four yards of track in front of him and no person at the premises and a polite manner. He thought about the man in the cart at Ossery and the book with the bootlace in it, and he thought about the man of about fifty-five in a room across the cut who had filled in a form honestly with the word *not known* ninety times.
+Then he thought about the first settlement on the round — Rush Halt, on the fourth — and the second, and the third, and the fourth, and the fifth, which is a man with a chain and a rule and a book and four yards of track in front of him and no person at the premises and a polite manner. He thought about the man in the cart at Ossery and the book with the bootlace in it, and he thought about the man of about fifty-five in a room across the cut who had filled in a form honestly with the word *not known* ninety times.
 
 He did not go and tell him.
 
 He worked out, standing at a frame behind the tanneries, before he had finished being angry about it, why he was not going to, and it is worth putting down because it is the whole of the man's term in two sentences and neither of them is flattering. **Telling him would be a kindness and telling him would also be a conversation, and he has known since the sixteenth day of this month that a kindness and a conversation are the same act and that the only difference between them is whether anybody writes it down afterwards.** And a man of about fifty-five who had been asked nothing in twenty-two years does not need a man from a building to come and tell him that the year he has just given a building for nothing is going to be entered in a column as a year somebody looked at something. He will find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, in his own hand, in good faith, in a fortnight he did not charge anybody for.
 
-Then he went up the hill and did the tray and was on it at a quarter past six.
+Then he went up the hill and did the tray, and it was on at a quarter past six, and there was nothing on it from anywhere and there had been nothing on it from anywhere for about a week.
 
 **Both of them are true.** He said it out loud to the tray, once, in the way a man says a thing he has been carrying since Sunday, and he did not say it to anybody and he was not going to, because a sentence that is only true when two people are in a room is not a finding, it is an opinion, and an opinion does not go on a board behind a tannery at about four o'clock in the afternoon on the twenty-eighth day of the second month of the Concord Year 488 while nine people read a piece of paper that says his ground was sound.

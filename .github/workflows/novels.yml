@@ -133,6 +133,13 @@ jobs:
         run: |
           set -euo pipefail
           continuation_dir="workspace/continuation/next"
+          if [ -f "$continuation_dir/.done" ] || [ -f "$continuation_dir/.blocked" ]; then
+            n=1
+            while [ -e "$(printf 'workspace/continuation/next-%04d' "$n")" ]; do
+              n=$((n + 1))
+            done
+            continuation_dir="$(printf 'workspace/continuation/next-%04d' "$n")"
+          fi
           if [ -f "$continuation_dir/PROMPT.md" ]; then
             echo "created=false" >> "$GITHUB_OUTPUT"
             exit 0

@@ -12,7 +12,7 @@ The man of about fifty said four words to him in three days. He said them on the
 
 ---
 
-The long room at the Glass Stair is on the first floor and it has high windows on two sides, and it is where the ward's petition was heard in the last month of last year, and it is where a man of about fifty from Concord Hall examined an application for a qualification on the third day of this month. It holds about a hundred and there were **about thirty** in it, and there was a queue at the door, which nobody had told the woman who maintains the board was going to be there and which she had mentioned at the field, once, in the voice she uses for a price.
+The long room at the Glass Stair is on the first floor and it has high windows on two sides, and it is where the ward's petition was heard in the last month of last year, and it is where a woman of about fifty from Concord Hall examined an application for a qualification on the third day of this month. It holds about a hundred and there were **about thirty** in it, and there was a queue at the door, which nobody had told the woman who maintains the board was going to be there and which she had mentioned at the field, once, in the voice she uses for a price.
 
 There was a stone on the table. It was not the season's stone; it was a plain flat one, four inches across, with a Registry punch on the side of it, and it was the officer's own and it was for taking minutes and not for attesting anything, and Owen Rusk noticed that and was grateful for it in a way he could not have explained to anybody.
 

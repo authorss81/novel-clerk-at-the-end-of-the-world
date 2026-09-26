@@ -30,7 +30,7 @@ Owen Rusk looked at the card for longer than a person ought to look at a card.
 
 "And the third column on the board in the field behind the tanneries is the first of those four."
 
-"The board has three columns," said the man, "and the third is premises of record, and yes, that is our second column and it is the district's book and not ours, and the district's book is the only part of this that has anybody's name on it."
+"The board has five columns," said the man, "and the third is premises of record, and yes, that is our second column and it is the district's book and not ours, and the district's book is the only part of this that has anybody's name on it. The fourth one went up in the first week of this season in a person's pencil and it is not ours, and I have not read that one either."
 
 Owen Rusk had a pencil in his coat and he took it out and put it on the counter.
 
@@ -38,7 +38,7 @@ Owen Rusk had a pencil in his coat and he took it out and put it on the counter.
 
 The man of about fifty-five looked at the pencil for about two seconds and then at Owen Rusk, and it was the first time all morning that his face did anything at all.
 
-"I will answer that," he said, "because I have got twenty-two years and a stool and nobody has ever asked me that, and because you are the first person out of that building in this room since a man came about a lead pipe." He put the cup down. "**I did not choose them. I have never chosen anything. I make a return and I send it, and about four hundred settlements in this county are on it every year whether anybody looks at them or not, and the third column of that return is a draw, and a draw is a quantity, and a quantity is the only thing in this building that anybody can add up.** The schedule of settlements to be reconciled is printed from my return, and it is printed in Concord Hall, and I do not see it and I am not asked to see it, and I could not change it if I saw it, and I have wanted to see it every year for twenty-two years and I have never asked, because a man who asks a question about a schedule he does not make is a man who is told about a schedule he does not make."
+"I will answer that," he said, "because I have got twenty-two years and a stool and nobody has ever asked me that, and because you are the first person out of that building in this room since a man came about a lead pipe." He put the cup down. "**I did not choose them. I have never chosen anything. I make a return and I send it, and every district in this county goes on it every year whether anybody looks at it or not, and the third column of that return is a draw, and a draw is a quantity, and a quantity is the only thing in this building that anybody can add up.** The schedule of settlements to be reconciled is printed from my return, and it is printed in Concord Hall, and I do not see it and I am not asked to see it, and I could not change it if I saw it, and I have wanted to see it every year for twenty-two years and I have never asked, because a man who asks a question about a schedule he does not make is a man who is told about a schedule he does not make."
 
 ---
 
@@ -68,7 +68,7 @@ He wrote it down and looked at it and then added the eleven again, and it took h
 
 The man of about fifty-five sat quite still on his side of the counter and did not say anything for long enough that a person coming in at the counter had to ask twice for the form.
 
-"Twenty-two years," he said at last. "I have sent that return two hundred and sixty-four times. In the year the wall went I got it wrong by about six hundred and I wrote to tell them and they wrote back to say the correction was not material. I have never once been asked what the figures are for. **What they are for is this.**"
+"Twenty-two years," he said at last. "I have sent that return twenty-one times. In the year the wall went I got it wrong by about six hundred and I wrote to tell them and they wrote back to say the correction was not material. I have never once been asked what the figures are for. **What they are for is this.**"
 
 ---
 
@@ -112,7 +112,7 @@ The records room of the count at the Glass Stair is one floor below the counting
 
 Owen Rusk stood in the doorway at about half past three and looked at it for about four minutes and did not go in.
 
-On the table by the window, under a weight, was a bound book with the covers off. He knows what is in it and has known since the Wednesday of the sixth week. **The schedule of draws.** A column for every settlement of record in this district, and the quantity, and the year, and the gate. It is one floor below the counting clerk in a building he has worked in for eight years, and he has identified it twice and walked away from it twice, and on the first morning of this month he wrote on the back of a blank challenge form that the practice of reading a column is a decision and a man does not get to make it twice in a season.
+On the table by the window, under a weight, was a bound book with the covers off. He knows what is in it and has known since the Tuesday morning of the first week, standing in a field at about ten past six with a day-book in his hand and the board behind him. **The schedule of draws.** A column for every settlement of record in this district, and the quantity, and the year, and the gate. It is one floor below the counting clerk in a building he has worked in for eight years, and he has identified it twice and walked away from it twice, and on the first morning of this month he wrote on the back of a blank challenge form that the practice of reading a column is a decision and a man does not get to make it twice in a season.
 
 The counting clerk at the second counter came out into the corridor with her coat on.
 
@@ -128,7 +128,7 @@ The counting clerk at the second counter came out into the corridor with her coa
 
 "Yes."
 
-"**It is a public document and about forty people have read it and every one of them went straight to a figure they already knew,**" she said. "Four hundred people came into this room in nine years and not one of them has ever read down a column. They come and they find their own line and they go away, and the reason they find their own line is that they know their own figure, and the reason they know their own figure is that it is on a board in a field. That is not a secret. There is no rule about it. Nobody has ever hidden anything from anybody in that room and the room is the reason the practice is still there, and it will still be there in nine years, and the day somebody works out how to use it is the day this office is a different office."
+"**It is a public document and about forty people have read it and every one of them went straight to a figure they already knew,**" she said. "Two hundred people came into this room in nine years and not one of them has ever read down a column. They come and they find their own line and they go away, and the reason they find their own line is that they know their own figure, and the reason they know their own figure is that it is on a board in a field. That is not a secret. There is no rule about it. Nobody has ever hidden anything from anybody in that room and the room is the reason the practice is still there, and it will still be there in nine years, and the day somebody works out how to use it is the day this office is a different office."
 
 She went back inside. Owen Rusk stood in the doorway for another minute and then went up the stairs and out into the street and down Fetter Lane.
 
@@ -136,9 +136,9 @@ She went back inside. Owen Rusk stood in the doorway for another minute and then
 
 On the Sunday morning of the fourth of the month he did the sum again at the table in two rooms in Fetter Lane, with the lamp out, because the lamp made him think he was working.
 
-He had it on one sheet. The eleven off the board: **nine thousand four hundred.** The district: **nine thousand four hundred.** And beside them, because he could not stop himself, the third column of the printed board added up as well, and it came to **seventy-seven**, and seventy-seven was the number of doors in eleven places and it had nothing whatever to do with the water, and he had read that column nine times in nine days and had talked about it in a field in front of thirty people, and it was the wrong column.
+He had it on one sheet. The eleven off the stand: **nine thousand four hundred.** The district: **nine thousand four hundred.** And beside them, because he could not stop himself, the third column of the printed board added up as well, and it came to **seventy-seven**, and seventy-seven was the number of doors in eleven places and it had nothing whatever to do with the water, and he had read that column nine times in nine days and had talked about it in a field in front of thirty people, and it was the wrong column.
 
-**The board has been telling the truth about itself since the ninth of this month and nobody in this county has been reading the column that lies.** The eleven were not chosen because they had eleven doors or nine doors or two doors. They were chosen because of what they drew, and the thing that chose them is printed on a board at Cutter's Fields in three columns, and one of the three is a column of doors, and the doors are innocent.
+**The board has been telling the truth about itself since the ninth of this month and nobody in this county has been reading the column that lies.** The eleven were not chosen because they had eleven doors or nine doors or two doors. They were chosen because of what they drew, and **the figure that chose them is not on the board at all** — it is in a frame against a wall in a room across the cut, on a sheet a yard wide, in the third column of a return made in October by a man of about fifty-five, and a yard wide is not a thing anybody walks to. The board in the field is a column of doors and a year and a week. **Nobody in this county has ever chosen anything by a door.**
 
 He sat with that for about an hour and then wrote out the three things it does and does not let him do, in the order he could bear to look at them.
 
@@ -158,4 +158,4 @@ So the sum is a conversation and the document is a week late.
 
 He tore the sheet in half, which he has done about nine times in eleven months, and put the halves in different pockets, and then he did not do the tray, which he has not done on a Sunday in about four months, and instead wrote a letter to nobody in a drawer and put it in the drawer under the cord, which is a different drawer and a cord of a different colour and has nothing to do with anything in this season.
 
-Then he went down to the field at about half past four because a board is a thing a man can look at instead of a person, and the day-book on the trestle table had eight lines on it and the quota of eleven at the head of it, and the fourth row was the row with a strip of paper under it saying four words and a stop, and the granary had five days in it, and on the third of the month a man of fifty-eight in a room in the city had stamped a form and said fourteen days, and Owen Rusk stood in a field behind the tanneries with his hands in his coat and worked out that he had seven days in a season and a document arriving on the first day of the next one.
+Then he went down to the field at about half past four because a board is a thing a man can look at instead of a person, and the day-book on the trestle table had eight lines on it and the quota of eleven at the head of it, and the fourth row was the row with a strip of paper under it saying four words and a stop, and the granary had three days in it, and a man of about fifty-five in a room across the cut had stamped a form on the Friday of the second and said fourteen days, and Owen Rusk stood in a field behind the tanneries with his hands in his coat and worked out that he had seven days in a season and a document arriving on the first day of the next one.

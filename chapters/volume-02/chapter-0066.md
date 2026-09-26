@@ -4,7 +4,7 @@ A kitchen is not a room, and the difference is that a room is a thing the county
 
 That was the whole of the argument and Nell Arbour made it on the Monday to a woman of about fifty-four who had come up the hill to Fetter Lane to ask for the Continuance Examiner of the Count, and she made it in four words and then went and washed her hands, and Owen Rusk has thought since that those four words were worth more than the four she had said on the Tuesday about the doors.
 
-**Forty** people came on the Wednesday morning of the last day of the first month of the Concord Year 488, at about ten, to a claimant kitchen in Docketford's Mill Ward with a stove in it and a table that took eleven at a stretch and two more along the wall, and **thirty-one of the forty came off the mud flats at Witherow**, in boots, and two of the thirty-one were under sixteen and had been told to stay by the door and stayed by the door for an hour and a half and did not move.
+**Forty** people came on the Wednesday morning of the last day of the first month of the Concord Year 488, at about ten, to a claimant kitchen in Docketford's Mill Ward with a stove in it and a long table that took sixteen at a stretch and two more along the wall, and **thirty-one of the forty came off the mud flats at Witherow**, in boots, and two of the thirty-one were under sixteen and had been told to stay by the door and stayed by the door for an hour and a half and did not move.
 
 Nobody was in a queue. That is the thing about the Arbour Kitchen and it is not a small thing: there is no rail in Docketford outside the count room, and inside the count room the rail has three sides and a public stand on it, and the rail is why nine people come, and every one of the nine is a clerk. In a kitchen the rail is the door and the door is open and a person comes because it is on a door and not because it is on a letter.
 
@@ -32,7 +32,7 @@ The review was requested by a person of the district, in her own name, on the fo
 
 The officer turned the request over twice and then put it down and did not read it out.
 
-"I am going to ask four questions and they are the same four I asked in a room with high windows in this county three weeks ago, and I am going to ask them in this order, and the first one is the only one that matters this morning."
+"I am going to ask four questions and they are the same four I asked in a room with high windows in this county on the twenty-fourth of the month, and I am going to ask them in this order, and the first one is the only one that matters this morning."
 
 **"The request must show a current local act performed by the settlement, this season, at a place of their own choosing, recorded, and not an act claimed for them from two miles away. Show me the act."**
 
@@ -60,7 +60,7 @@ That is the whole of it and it took the rest of the morning. **Dorn Lyle**, fort
 
 The officer read it. She read it the whole way down, twice, which nobody expected, and the second time she put her finger on the eleven columns and moved it along.
 
-"**This is a good document,**" she said. "This is the best-produced document I have had in front of me in a review in eleven years and I am going to have to write four sentences about it and none of them will help you."
+"**This is a good document,**" she said. "This is the best-produced document I have had in front of me in a review in twenty years and I am going to have to write four sentences about it and none of them will help you."
 
 "Then write them anyway," said Mavis Rudge.
 
@@ -72,7 +72,7 @@ The officer read it. She read it the whole way down, twice, which nobody expecte
 
 "You will enter that," said Mavis Rudge.
 
-"I will enter that," said the officer, "and I have entered about four hundred findings in this county and I have entered that sentence four times in eleven years and every one of the four was written by a man and not by a woman, and I have never had a woman in front of me holding the paper when I wrote it, and that is the whole of what is different about this morning."
+"I will enter that," said the officer, "and I have entered about four hundred findings in this county and I have entered that sentence four times and every one of the four was written by a man and not by a woman, and I have never had a woman in front of me holding the paper when I wrote it, and that is the whole of what is different about this morning."
 
 ---
 
@@ -98,7 +98,7 @@ Then she said: **"Who is taking the record."**
 
 "There is a clerk of this district office behind me," said the officer, "who brought the file up and who has not said anything for two hours."
 
-Junia Pell came up the room. She was twenty-two, she had been in the building three months and four days, and she was the fourth name on a roll of nineteen that had had no vacancy in eleven weeks, and she said the whole of it in one sentence and did not stop in the middle of it.
+Junia Pell came up the room. She was twenty-two, she had been in the building three months and four days, and she was the fourth name on a roll of nineteen that had had no vacancy since the spring, and she said the whole of it in one sentence and did not stop in the middle of it.
 
 "**I would be the hand that a kitchen is a room,**" she said, "and in four years somebody in Concord Hall will want to know how many hearings were heard in places that were not rooms, and there will be one name on the answer, and it will be mine, and I will be twenty-six and I will be the reason, and I have been the reason once in this building already and it cost a man a culvert."
 
@@ -188,18 +188,18 @@ He came up Fetter Lane at about ten past two on the Wednesday and did the tray a
 
 Then Ada Rusk, from the wall, without turning round, in the voice she uses for a roster:
 
-"**The third week is over. The fourth week is the week of the fourth and there is no form on which anybody may move a name into it, and the Warden has not written it down, and I am not going to ask her whether she will.** So there is no day this month and there is no week after it that anybody has given us and I want that read into the book tonight and not on the day, and I want it read as it is, which is that a ward asked for a week in a printed column and got one, and spent it in a room at the Glass Stair about a correction from the year four hundred and eighty-four, and there is nobody in this hall who did that and there is nobody in this hall who could have stopped it, and I am not going to stand here and pretend that either of those is a comfort."
+"**The fourth week was done on Monday, and this is the third morning of the fifth, and the sixth is printed on the same sheet behind it, and there is no form in this county on which anybody may move a name from one week to another, and the Warden may return a schedule and may not amend it, and there is no seventh week printed anywhere, and I am not going to stand in this hall and ask her whether she will write one.** So there are two weeks left on that sheet and neither of them is ours, and there is no day this month and no week after it that anybody has given us, and I want that read into the book tonight and not on the day, and I want it read as it is, which is that a ward asked for a week in a printed column and got one, and spent it in a room at the Glass Stair about a correction from the year four hundred and eighty-four, and there is nobody in this hall who did that and there is nobody in this hall who could have stopped it, and I am not going to stand here and pretend that either of those is a comfort."
 
 Nobody said anything.
 
-"Also," said Ada Rusk, "the granary was counted on the Sunday of the twenty-seventh and there were nine days in it, and today is the first of the month and there are six, and on the sixth of next month there is nothing, and I have not told anybody in this hall to go and buy anything and nobody is to go and buy anything."
+"Also," said Ada Rusk, "the granary was counted on the Sunday of the twenty-seventh and there were ten days in it, and there were nine yesterday, and today is the first of the month and there are six, and on the seventh of next month there is nothing, and I have not told anybody in this hall to go and buy anything and nobody is to go and buy anything."
 
 At about four in the afternoon of the same day Owen Rusk was at the counter of the count room at the Glass Stair, in a public room anybody may go into, where a woman who keeps the board had come in out of the weather with a scraper in her hand, and he asked her the question he had been carrying up a hill for a week.
 
-"Who fills in the third column," he said.
+"There is no column on that board of anything a person drinks," he said. "**Do you know where the water figures come from.**"
 
 She put the scraper down on the counter.
 
-"**Two floors up in another building, and it is not this office,**" she said, "and you have asked that in a field and I have watched you not ask it in a room for a month. Well. Come Thursday, because they shut at three and he is the only one who is there in the morning, and take a pencil, because he will not give you the sheet and you are entitled to the sheet and he is not entitled to keep it, and he does not know that, and nobody has ever told him, because in nine years nobody has ever come."
+"**Two floors up in another building, and it is not this office,**" she said, "and you have asked me that in a field and I have watched you not ask it in a room for a month. **I do not know who fills in the third column and I have been asked that twice in nine years and I have never found out, and it is not me, and it is not the count, and that is the whole of what I have got.** Well. Come Friday, because they shut at three and he is the only one who is there in the morning, and take a pencil, because he will not give you the sheet and you are entitled to the sheet and he is not entitled to keep it, and he does not know that, and nobody has ever told him, because in nine years nobody has ever come."
 
-He was on the boat at eight on the Thursday morning with a pencil in his coat and no paper, and the sun was coming up over the flat above the weirs, and the granary had six days in it, and there was a printed sheet in a field behind the tanneries with a fifth column that nobody in this county had ever read, and the man who filled in the third column of it went up at eight o'clock every morning and had done for twenty-two years and had never once been asked why.
+He was on the boat at eight on the Friday morning with a pencil in his coat and no paper, and the sun was coming up over the flat above the weirs, and the granary had five days in it, and there was a printed sheet in a field behind the tanneries with a fourth column in it that nobody in this county had ever read, and there was nothing on it anywhere of anything a person drinks, and the man who fills in the figures that are not on it went up at eight o'clock every morning and had done for twenty-two years and had never once been asked why.

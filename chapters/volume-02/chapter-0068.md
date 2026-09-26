@@ -24,7 +24,7 @@ The wheel was the first thing. Not the worst thing. The first.
 
 The bend is two hours up and it is a working mile, and the mill is at the top of it on a stone sill with a house against it, and the cut runs away north under four feet of silt in a dry summer and carries a head when there is one. Owen Rusk had been up it three times since the first of the month and had not looked at the wheel, because on the first two times he had been looking at a count sheet, and on the third he had been carrying a piece of paper with a woman's name at the top of it and had said almost nothing for six hours.
 
-**The wheel is a wheel.** Nine feet, elm, iron straps, a breast-shot race two feet across, standing in about two inches of water, and it has been standing in about two inches of water since the twentieth day of the month, which is three weeks, which is a long time for elm.
+**The wheel is a wheel.** Nine feet, elm, iron straps, a breast-shot race two feet across, standing in about two inches of water, and it has been standing in about two inches of water since the twentieth day of the month, which is a fortnight and a day, which is a long time for elm.
 
 Neve Searle was on the mill office step in a shawl with her sleeves pushed up. She had not been off the floor in nine days and she said so before he was to the bottom of the steps.
 
@@ -34,7 +34,7 @@ He sat down on the step, which is the lowest thing in a mill yard and the only p
 
 ---
 
-"**The water went back to the district's main on the twelfth,**" said Neve Searle, "and nobody told us and nobody had to, because the form says it goes back. And on the nineteenth the man from the water gate came up on a Tuesday on his own in a cart, and he was very quick about it, and he said he was sorry, and he said he could not do anything else, and he said it about four times. I have had nineteen days to decide whether to be angry at him and I cannot, because he is a man with a gate and a form, and the rule does not have a place in it for what the mill is."
+"**The water went back to the district's main on the twelfth,**" said Neve Searle, "and nobody told us and nobody had to, because the form says it goes back. And on the nineteenth the man from the water gate came up on a Saturday on his own in a cart, and he was very quick about it, and he said he was sorry, and he said he could not do anything else, and he said it about four times. I have had sixteen days to decide whether to be angry at him and I cannot, because he is a man with a gate and a form, and the rule does not have a place in it for what the mill is."
 
 "What did the gate do to the head."
 
@@ -154,7 +154,7 @@ Neve Searle walked him down to the boards and said one thing at the gate of the 
 
 ---
 
-He did the tray on the Monday evening and it took him until eight and he was on it at ten past seven.
+He did the tray on the Monday evening and he was on it at ten past seven and it took him until eight.
 
 On the Tuesday morning of the sixth, the second desk sent a sheet up to him with a docket on it and a line for his hand, and the line was the fourth column of the quarterly works return, and the fourth column is headed **PERSON RESPONSIBLE FOR THE WORK**, and it may not be left blank, and beneath it, in the ordinary form's voice, *if there is no such person, enter none.*
 
@@ -172,7 +172,7 @@ It is this. The district has a form, and the form has a column, and the column h
 
 **He has just given the district the ward's answer, in the district's hand, with his name at the bottom of it, and he did it in four seconds because he knew the answer, and he knew the answer because a woman of fifty-four said it out loud in a hall in April in front of thirty people and he was in the room.** There is a difference between a ward that answers a form and a district that answers a form, and the difference is that the district's answer binds the district, and in about four years somebody is going to want to know how the district of Docketford fills in a column that wants a name, and the answer is going to be in his hand.
 
-He did not put a note on it. He thought about putting a note on it for about two minutes, and a note would have said *this is the entry of the district and not an act of the district*, and a note on a quarterly works return is a document about a document, and there are four hundred applicants to this office and nobody has ever read a note.
+He did not put a note on it. He thought about putting a note on it for about two minutes, and a note would have said *this is the entry of the district and not an act of the district*, and a note on a quarterly works return is a document about a document, and there are forty applicants to this office and nobody has ever read a note.
 
 ---
 
@@ -186,7 +186,7 @@ He went up the reach on the Wednesday morning of the seventh because he said on 
 
 "It is nothing at six," said Hanna Roe. "That is what I want to say to you and I have got about four minutes before this is work. It is nothing at six. **I have done this twice a day for twenty-six years and there is nothing at six and there is nothing about it that anybody would want to see, and I would like that said out loud by somebody from a building, once, in the only county where a person can be sent to a place by a form.**"
 
-Then she opened it, and he stood on the sill for an hour and ten minutes and watched the main fill and the wheel stand in two inches of water, and it did not turn, and nothing happened, and nothing was going to happen on the seventh of the month or on any morning in that month, and at about ten past seven she shut it and wiped the spindle and said:
+Then she opened it, and he stood on the sill for an hour and ten minutes and watched the main fill and the wheel stand in two inches of water, and it did not turn, and nothing happened, and nothing was going to happen on the seventh of the month or on any morning in that month, and at about eight o'clock she shut it and wiped the spindle and said:
 
 "Right."
 
@@ -196,10 +196,10 @@ She looked at the lamp and then at him.
 
 "**Tuesday,**" she said. "I open it at ten to six and again at half past two. Tuesdays and Fridays, and the other days when the fields are under. If you come on a Tuesday I will not say anything about it, and if you come on a Tuesday for a whole season I will not say anything about that either, and in about four years you will stop, and that is the correct way round and I have watched men stop at things for twenty-six years.**"
 
-He came on the ninth and on the sixteenth and on the twenty-third. It is five hours a week with a boat, and the boat costs, and the second desk's wage is four months in arrears and is a written condition of a roster that nobody funds, and there is a woman in Fetter Lane who told a hall in April that five hours a week is five hours a week and not five hours on a Thursday, and that the hours of the person who was there do not stop.
+**It is Tuesdays and Fridays,** she said, and so it is Tuesdays and Fridays, beginning with the Friday, and it is five hours a week with a boat, and the boat costs, and the crew's wage is four months in arrears and is a written condition of a roster that nobody funds, and there is a woman in Fetter Lane who told a hall in April that five hours a week is five hours a week and not five hours on a Thursday, and that the hours of the person who was there do not stop.
 
 **It is the first thing he has done in this season that nobody asked for. It is not a duty, it is not a hold, it is not on a card, and it is the only one of the three that he can afford.**
 
 Prue Hallam brought him down at about eleven on the Wednesday and put him on the boards at the Fetter Lane slip at half past and said one thing on the way, which was that at the head of the Wexford Landing slip a woman of seventy-nine had been asking at a post whether anybody from the count had been up the reach, and had been told, twice, no.
 
-He got back to Fetter Lane at about one and did the tray, and was on it at a quarter past six, and there was nothing on it from the reach and nothing on it from the Water Office, because the only thing coming for him in this county had been entered on the Friday of the second and stamped on the Friday of the second and is to be delivered on the sixteenth, and the season is certified on the ninth, and the schedule for the season of 489 is printed on the twenty-eighth of next month, and the eleventh household of a silted bend is not going to be on it, and nobody up that reach is anybody's matter, and he is going to be there on Tuesday morning at ten to six for about four minutes of it.
+He got back to Fetter Lane at about one and did the tray, and was on it at a quarter past six, and there was nothing on it from the reach and nothing on it from the Water Office, because the only thing coming for him in this county had been entered on the Friday of the second and stamped on the Friday of the second and is to be delivered on the sixteenth, and the season is certified on the ninth, and the schedule for the season of 489 is printed on the twenty-eighth of next month, and the eleven households of a silted bend are not going to be on it, and nobody up that reach is anybody's matter, and he is going to be there on Tuesday morning at ten to six for about four minutes of it.

@@ -4,7 +4,7 @@ The notice came down on the Monday morning of the twenty-sixth day of the second
 
 **SURVEY OF SETTLEMENTS OF RECORD. DOCKETFORD DISTRICT. Season of the Concord Year 489.**
 
-*Field verification of premises of record in this district is suspended with the hour of this notice and until the determination of the matter heard at the count room at the Glass Stair on the twenty-fifth day of the second month of the Concord Year 488, or such earlier determination as the officer may make. The suspension is an act of operations and is not a finding. It may be reviewed by the office. It ends when the office ends it and not before. Nine persons are affected in this district. The reason is not given and no form in this county provides for one.*
+*Field verification of premises of record in this district is suspended with the hour of this notice and until the office determines the matter arising out of the hearing held at the count room at the Glass Stair on the twenty-fifth day of the second month of the Concord Year 488, or such earlier determination as the officer may make. The suspension is an act of operations and is not a finding. It may be reviewed by the office. It ends when the office ends it and not before. Nine persons are affected in this district. The reason is not given and no form in this county provides for one.*
 
 Then, at the foot, in a smaller type and a different hand:
 
@@ -26,7 +26,7 @@ Owen Rusk read the fifth row nine times, which he knows because the counting cle
 
 ---
 
-It is the same instrument. That is the whole of the Wednesday and it is worth saying it plainly and it is worth saying it on the page because a reader who has been in this county for a season can check it.
+It is the same instrument. That is the whole of the Wednesday and it is worth saying it plainly and it is worth saying it on the page because a person who has stood in that field this season can check it.
 
 **It is a suspension of operations and not a finding, and it may be reviewed by the office, and it ends when the office ends it and not before.** Those are the words. Those are the exact words that Warden Oress Kade wrote at the foot of a sheet the size of a large envelope, in her own hand, in a field behind the tanneries, at noon on the ninth day of this month, and wired them to a frame with one loop of tarred cord.
 
@@ -48,7 +48,7 @@ He went and did the tray.
 
 ---
 
-Junia Pell was at the end of the second desk at about eleven and she had not read the notice, because notices that are not addressed to a person do not come to a person, and she read it off the desk in about ninety seconds with her hand flat on it, which is a thing she has done twice now in this building and once in a kitchen in another ward.
+Junia Pell was at the end of the second desk at about eleven and she had not read the notice, because notices that are not addressed to a person do not come to a person, and she read it off the desk in one go with her hand flat on it, which is a thing she has done twice now in this building and once in a kitchen in another ward.
 
 "**Nine persons in a district of four hundred,**" she said. "And a schedule of a round. And the fifth line has no date in it, and the fifth line has no figure in the 489 column, and the fifth line is a settlement that was not reconciled this season and is on the printed list for the season of 489."
 
@@ -66,11 +66,11 @@ Junia Pell was at the end of the second desk at about eleven and she had not rea
 
 "Yes," said Owen Rusk.
 
-"And in about four years somebody is going to ask you for the reasoning behind the notice and you are going to have to write a sentence about a round of work that was stopped three days into a season, and the sentence is going to be true, and it is going to have your name on it, and it is going to be about a man whose name is on a board behind me that you have never read."
+"And in about four years somebody is going to ask this office to account for the round, and there is no way to account for a round. **There are four figures on that sheet that somebody looked at and one figure that a clerk typed out of a book, and in about four years somebody is going to ask you which of the two you are defending, and the sentence will be true, and it will have your name on it, and it will be about a man whose name is on a board behind me that you have never read.**"
 
 "Yes."
 
-"**Well. I have said it and I am going to go and do the assisted tray.**" She picked up her own files. "And I am not going to be thanked for it, and I want that on the same page as everything else on it this season, and you are not going to thank me, and the reason I am telling you to put it there is that in about four years somebody will read that file and see two names on it and mine will be the one that is doing the arithmetic and yours will be the one that signed, and I would like the arithmetic to be legible."
+"**Well. I have said it and I am going to go and do the assisted tray.**" She picked up her own files. "And I am not going to be thanked for it, and I want that on the same page as everything else on it this season, and you are not going to thank me, and the reason I am telling you to put it there is that somebody will read that file in a few years and see two names on it and mine will be the one that is doing the arithmetic and yours will be the one that signed, and I would like the arithmetic to be legible."
 
 ---
 
@@ -100,9 +100,9 @@ Nobody looked at Owen Rusk, which was the correct way of doing it.
 
 ---
 
-He went down to the field on the Wednesday morning of the twenty-eighth and the schedule for the season of 489 was already on the frame at the top of it, wired, printed in advance, ten names in five columns and a fifth column with nothing in it, and the woman who maintains the board had had it up since about nine and had stood back twice and looked at it and had not asked about the fifth column, because she has maintained that frame for nine years and has never once asked what goes on it, and that is the arrangement and she would like it to keep being the arrangement. She put the notice up underneath it at about half past three with one loop of tarred cord, and it took her about twenty minutes, and she stood back twice, and about nine people were standing about and reading it as it went up, which is the thing nobody who has not stood at a board in a field can be made to understand, and which is the whole reason the count has ever been published.
+He went down to the field on the Wednesday morning of the twenty-eighth and the schedule for the season of 489 was already on the frame at the top of it, wired, printed in advance, ten names in five columns and a fifth column with nothing in it, and the woman who maintains the board had had it up since about nine and had stood back twice and looked at it and had not asked about the fifth column, and that is what she has done for nine years and is not going to stop doing now that there is something to ask about. She put the notice up underneath it at about half past three with one loop of tarred cord, and it took her about twenty minutes, and she stood back twice, and about nine people were standing about and reading it as it went up, which is the thing nobody who has not stood at a board in a field can be made to understand, and which is the whole reason the count has ever been published.
 
-**Two sheets went onto one frame in Docketford district on the twenty-eighth day of the second month of the Concord Year 488, and a woman who is not on the board and has asked for no name for nine years wired up both of them, and one of them is the work of a man who wrote a sentence in a column and the other one is what has come of it, and they are about eleven inches apart and about four hours apart and neither of them is about a person.**
+**Two sheets went onto one frame in Docketford district on the twenty-eighth day of the second month of the Concord Year 488, and a woman who is not on the board and has asked for no name for nine years wired up both of them, and one of them is the work of a man who wrote a sentence in a column and the other one is what has come of it, and they are about eleven inches apart and about six hours and a half apart and neither of them is about a person.**
 
 Above it was the count of the ninth. Under it was Kade's sheet, with one loop of cord and a page long reason that is not a figure.
 
@@ -122,7 +122,7 @@ A column headed *year of last survey* is going to be filled in with a year that 
 
 And there was a second thing in the inside pocket of his coat and it was smaller and it was worse, because it was correct.
 
-The district return for the season of 489, which had come back on the twelfth with a note in four lines saying that the fifth column is not completed and that a sentence is not a year, had gone out again on the Friday and had come back on the Monday morning with a second note at the foot of it in the same hand at the same counter, and the note is two lines and it is the whole of what has happened to a season's work.
+The district return for the season of 489, which had come back on the thirteenth with a note in four lines saying that the fifth column is not completed and that a sentence is not a year, had gone out again on the Friday and had come back on the Monday morning with a second note at the foot of it in the same hand at the same counter, and the note is two lines and it is the whole of what has happened to a season's work.
 
 *Received in the state in which it was made. Figures carried forward. No verification of premises in this district in the season of 489.*
 
@@ -134,7 +134,7 @@ Then he thought about the fourth settlement on the schedule — Rush Halt, and t
 
 He did not go and tell him.
 
-He worked out, standing at a frame behind the tanneries, in about ninety seconds, why he was not going to, and it is worth putting down because it is the whole of the man's term in two sentences and neither of them is flattering. **Telling him would be a kindness and telling him would also be a conversation, and he has known since the sixteenth day of this month that a kindness and a conversation are the same act and that the only difference between them is whether anybody writes it down afterwards.** And a man of about fifty-five who had been asked nothing in twenty-two years does not need a man from a building to come and tell him that the year he has just given a building for nothing is going to be entered in a column as a year somebody looked at something. He will find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, in his own hand, in good faith, in a fortnight he did not charge anybody for.
+He worked out, standing at a frame behind the tanneries, before he had finished being angry about it, why he was not going to, and it is worth putting down because it is the whole of the man's term in two sentences and neither of them is flattering. **Telling him would be a kindness and telling him would also be a conversation, and he has known since the sixteenth day of this month that a kindness and a conversation are the same act and that the only difference between them is whether anybody writes it down afterwards.** And a man of about fifty-five who had been asked nothing in twenty-two years does not need a man from a building to come and tell him that the year he has just given a building for nothing is going to be entered in a column as a year somebody looked at something. He will find out in October, on the twenty-eighth, when a form comes back with a year in it that he put there himself, in his own hand, in good faith, in a fortnight he did not charge anybody for.
 
 Then he went up the hill and did the tray and was on it at a quarter past six.
 

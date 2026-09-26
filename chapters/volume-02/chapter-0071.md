@@ -6,7 +6,7 @@ There is a stove in the ward hall and about eleven people in it on the Tuesday m
 
 **The ward's week does not stop.** The marker goes up on the Thursday and the Friday at seven forty. The channel goes on the Wednesday night, because the channel is a Wednesday and has been a Wednesday since before the return. The pump is primed at four in the morning on the Thursday, which is the hour at which two people get up in this ward to do a thing for six other people who are not going to be asked about it, and one of the two households has a girl of twelve in it, and the girl is not on the return and has never been on the return and carries the notices to the mill's factor on Tuesdays because her aunt cannot read what the Office hands her.
 
-The crew is nine. The wage is four months in arrears. The crossing is closed to loads and to anything above four tons, and it has been closed since the tenth day of the month of rain in a year that ended two months ago, and the abutment is four thousand one hundred and sixty pounds, and the notice at the weir path inviting any district able to perform the repair is in the weather and has not been taken down and has brought nobody.
+The crew is nine. The wage is four months in arrears. The crossing is closed to loads and to anything above four tons, and it has been closed since the tenth day of the month of rain in a year that ended six weeks ago, and the abutment is four thousand one hundred and sixty pounds, and the notice at the weir path inviting any district able to perform the repair is in the weather and has not been taken down and has brought nobody.
 
 He was up Fetter Lane at about half past three on the Wednesday morning because he had not slept, and there is a pump house at the top of the lane and a standpipe at the bottom of it, and the ward primes that pump at four in the morning on a Thursday, and he knows that, and the pump house was locked and the standpipe was dry and there was nobody in the lane.
 
@@ -42,7 +42,7 @@ And then, at the bottom of the left-hand column, in a different ink because it w
 
 **LOWER LOCK. 486. Eleven.**
 
-Eleven doors, and eleven is the correct figure, and it is correct because a crew of nine went up a weir path every week of the flood season with a tape and a spade and wrote the number down themselves, and it is the freshest figure on that board and it is nine days older than the month before last, and it is the only row anybody on it can verify without a boat.
+Eleven doors, and eleven is the correct figure, and it is correct because a crew of nine went up a weir path every week of the flood season with a tape and a spade and wrote the number down themselves, and it is the freshest figure on that board and it is nine days old, and it is the only row anybody on it can verify without a boat.
 
 And beside that, on the same sheet, in the other column, he added the third column of the board because he could not help it, and the third column came to **seventy-seven**, which is the doors of eleven places, and which has nothing whatever to do with the water, and which is the column he read nine times in nine days and argued about in a field in front of thirty people, and it is the wrong column, and he has known it is the wrong column since the fourth day of this month and has said so out loud twice.
 
@@ -66,7 +66,7 @@ Above it on the frame were the count of the ninth, and Kade's single sheet under
 
 Owen Rusk read the count. He had read it four times on the Friday it went up and once in a hall with thirty people in it, and he read it again because the board is where he goes.
 
-Then he read the fifth column of the schedule of settlements to be reconciled, which is still on the frame above the count with its ten names' predecessor, eleven names, five columns, and he read the second column down the way he reads every column in this county, which is the year of the last reconciliation, and he said the row numbers out loud under his breath without meaning to, because he has never in his life been able to help it.
+Then he read the schedule of settlements to be reconciled, which is still on the frame above the count with its ten names' predecessor, eleven names, five columns, and he read the third column down the way he reads every column in this county, which is the premises of record, and he said the row numbers out loud under his breath without meaning to, because he has never in his life been able to help it.
 
 Nine. Four. Six. **Eleven.** Two. Nine. Seven. Three. Eleven. Nine. Six.
 
@@ -86,7 +86,7 @@ Owen Rusk stood in the field behind the tanneries with his hands in his coat and
 
 Junia Pell was at the end of the second desk on the Tuesday afternoon with the returned form in her hand, because a form that comes back from a counter is read by a clerk before it is read by an officer, and she is the clerk, and she had been in the building three months and eleven days.
 
-"Four lines from a counter in Concord Hall and every one of them is correct," she said, "and I am not being funny, and I have read it four times because the third one is the one that will be quoted. *The district office is requested to complete the column or to state that it is unable.*" She put her finger on it. "**You are not able. That is now the district's answer about a column in the district's own hand and it is going up a stair in about a minute and it is going to come back in June with a note on it, and in about four years somebody is going to ask this office to state, on the record, whether it has ever surveyed anything.**"
+"Four lines from a counter in Concord Hall and every one of them is correct," she said, "and I am not being funny, and I have read it four times because the third one is the one that will be quoted. *The district office is requested to complete the column or to state that it is unable.*" She put her finger on it. "**You are not able. That is now the district's answer about a column in the district's own hand and it is going up a stair in about a minute and it is going to come back in June with a note on it, and in a few years somebody is going to ask this office to state, on the record, whether it has ever surveyed anything.**"
 
 "I wrote the sentence across the cells."
 

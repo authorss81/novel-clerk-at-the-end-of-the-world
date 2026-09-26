@@ -8,7 +8,7 @@ Then he said the other thing, which is the true thing, and which he also said ou
 
 **Because she would not say why, and a person who will not say why is a person you go and look at, and that is not a reason. That is a shape my hands make when nobody has given me a job.**
 
-There is no season. The count was certified on the ninth and it is qualified and Docketford district is reported short by seven in its return of premises and it was also reported short in the Concord Year 484 and in the Concord Year 486, and the schedule for the season of 489 was printed in advance on the twenty-eighth of this month with ten names on it, and none of those ten is going to be looked at by anybody before the season opens, and the Warden may return a schedule and may not amend it, and there is no day on any of them because the days come out of a printed sheet and the printed sheet is a week and not a day.
+There is no season. The count was certified on the ninth and it is qualified and Docketford district is reported short by seven in its return of premises and it was also reported short in the Concord Year 484 and in the Concord Year 486, and the schedule for the season of 489 is to be printed and posted on the twenty-eighth of this month with ten names on it, and none of those ten is going to be looked at by anybody before the season opens, and the Warden may return a schedule and may not amend it, and there is no day on any of them because the days come out of the season's own notice and the notice gives a week and not a day.
 
 **Owen Rusk was not the person who reconciles Ossery and had no business in that yard and knew both of those things at the top of the track.**
 
@@ -50,7 +50,7 @@ The man of about sixty-one put one hand on the cart and did not unhook the barro
 
 "Fourth what."
 
-"**Fourth person out of a building to come up this track since the twelfth of the month before last, and the first one that was not the water gate, and the first one that came on a Tuesday, and the second one that asked me a question.**" He took his hand off the cart. "The other three came about the fire in the first month of the year and wanted a pump and did not want a bucket, and the fire was out before the water came. The water gate man came twice and was sorry four times and I told him not to be, and that was correct, because there is nothing in his form for what happened to the mill and he cannot help it and being sorry to me about it does him no good at all."
+"**Fourth person out of a building to come up this track since the twelfth of the first month, and the first one that was not the water gate, and the first one that came on a Tuesday, and the second one that asked me a question.**" He took his hand off the cart. "The other three came about the fire in the first month of the year and wanted a pump and did not want a bucket, and the fire was out before the water came. The water gate man came twice and was sorry four times and I told him not to be, and that was correct, because there is nothing in his form for what happened to the mill and he cannot help it and being sorry to me about it does him no good at all."
 
 "That is a good way to be spoken about."
 
@@ -74,7 +74,7 @@ The entry is **one thousand two hundred a day, authorised**, and it is the large
 
 The entry has been on the Water Office's return since the Concord Year 481 and it has never been struck, because the man who makes that return takes last year's sheet and corrects it, and he can strike a line when a place has told him the line is wrong, and **the only person in this county who could tell him the line was wrong is standing at a cart with a bootlace in the binding of a book and has never been asked.**
 
-"That is the figure," said Owen Rusk. "Nine hundred and forty a day, authorised, and the largest per premises of the eleven on the printed list, and it is a cart."
+"That is the figure," said Owen Rusk. "One thousand two hundred a day, authorised, and the largest per premises of the eleven on the printed list, and it is a cart."
 
 "Yes."
 
@@ -128,7 +128,7 @@ He stood on the bank above the track for a while and did the two sums of his who
 
 ---
 
-The last house on the track is the low one, and he asked Maud Tray before he went into it, and she came and stood at the door and let him in for about ninety seconds and would not let him further.
+The last house on the track is the low one, and he asked Maud Tray before he went into it, and she came and stood at the door and let him in for the length of one look round a room and would not let him a step further.
 
 Nobody was going to be starved, nobody was going to be thirsty, and there was bread in a crock and a girl of about nine asleep on a bench with a coat over her and a woman of about forty sitting on the floor with a mended sleeve who said the two sentences that were available to her and would not say them twice, and Owen Rusk did not ask her a third thing because there was no third thing.
 

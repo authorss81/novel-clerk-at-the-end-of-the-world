@@ -24,7 +24,7 @@ Along the wall under the window there was a range of drawers, and one of them ha
 
 ---
 
-It took about a minute and a half at the counter, and there were nine people in the room, and the rail has three sides and a public stand on it, and about four of the nine looked up.
+It took a couple of minutes at the counter, and there were nine people in the room, and the rail has three sides and a public stand on it, and about four of the nine looked up.
 
 "**Does the Count have a definition of a settlement,**" said Owen Rusk, "and if it has one, where is it written. I am asking about the procedure and not about the schedule, and I want those words on the record."
 
@@ -74,7 +74,7 @@ She went into the corridor and then stopped and came back three steps, which she
 
 The form came back at twenty past two on the same afternoon, at the second desk, out of the tray, in the hand of a counter.
 
-Owen Rusk read it in about ninety seconds and then sat quite still at the end of the desk for about five minutes, with the form face up in front of him, and then turned it over, which is a thing a man does to a form when he wants to be sure he has read every line of it.
+Owen Rusk read it standing up in a minute and then sat quite still at the end of the desk for about five minutes, with the form face up in front of him, and then turned it over, which is a thing a man does to a form when he wants to be sure he has read every line of it.
 
 **THE OFFICE DOES NOT MAINTAIN A LIST OF THE SETTLEMENTS OF THIS DISTRICT. A settlement, for the purposes of the Count, is a settlement of record; that is to say, a settlement appearing in a return of premises of record made by the district office and received by this office. The district office is not required to define the lines of its own return. A line against which a quantity is authorised is a line. The Office does not examine the basis of a quantity. This is information and is not a filing, and the Office will not answer it as one in any other quarter.**
 
@@ -116,6 +116,6 @@ And on the Monday afternoon a building in another city put six words in the midd
 
 He had wanted the fourth column to have his name taken off it. He had said so in a room with high windows on the twenty-fourth day of the month and had meant it as modesty, and it had not worked, and it was not going to work, because that column is the only thing in this season that any office in this county gave anybody for nothing, and there is not going to be a second one.
 
-Then he thought about the word *granted*, in pencil, with no authority behind it, and about the tick in the top right corner of the district return with the fifth column on it, three days before this district was asked to complete it, and he worked out that the two of them were the same fact. **An office that grants things in pencil to a person who asks in a public room is an office that has found a way of answer a person without saying no.** And he was the person who found it, by asking, in a field, in about nine minutes, in front of thirty people, on the ninth day of the first month.
+Then he thought about the word *granted*, in pencil, with no authority behind it, and about the tick in the top right corner of the district return with the fifth column on it, three days before this district was asked to complete it, and he worked out that the two of them were the same fact. **An office that grants things in pencil to a person who asks in a public room is an office that has found a way of answering a person without saying no.** And he was the person who found it, by asking, in a field, in about nine minutes, in front of thirty people, on the ninth day of the first month.
 
 He put the pen down at about eight and did not leave until about ten past nine, and the week had produced one definition and the definition was six words in the middle of a form, and it says that the list of places this county will look at in a season is made out of the buildings somebody happened to write down, and that nobody has ever been asked whether a building where the count is done is a place, and that there is nowhere on any form in this county to put that question, and that a person who asks it at a public counter gets five clauses back the same afternoon, and that the five clauses are correct.

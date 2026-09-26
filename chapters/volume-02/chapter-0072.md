@@ -8,7 +8,7 @@ He was in the room at ten past eight on the Friday morning of the sixteenth day 
 
 "I wrote the wrong year on the form on Friday the second."
 
-"You wrote the season of four hundred and eighty-eight as the date of making, which is October in the year before, and I stamped it, and I did not correct you, and I would like you to know that I noticed." He put the counterfoil down beside the copy. "**The copy is the right one. There is only one of them.** The season is named in the first line and the season of four hundred and eighty-eight was made in October of the year before, and if you had put the year after you would have been asking me for a sheet that does not exist yet, and I would have had to tell you so, and you would have gone away with nothing, and in about four years somebody in a building would have said that the district office asked for the wrong document and that is the kind of thing that is remembered."
+"You wrote the season of four hundred and eighty-eight as the date of making, which is October in the year before, and I stamped it, and I did not correct you, and I would like you to know that I noticed." He put the counterfoil down beside the copy. "**The copy is the right one. There is only one of them.** The season is named in the first line and the season of four hundred and eighty-eight was made in October of the year before, and if you had put the year after you would have been asking me for a sheet that does not exist yet, and I would have had to tell you so, and you would have gone away with nothing, and in a few years somebody in a building would have said that the district office asked for the wrong document and that is the kind of thing that is remembered."
 
 "Thank you."
 
@@ -38,7 +38,7 @@ And the head of the sheet carries the district's allocation in a box, and he too
 
 ---
 
-The rest of it took about nine minutes and it is the reason this batch is the shape it is.
+The rest of it took about nine minutes and it is the reason the season is the shape it is.
 
 "There is nothing on this sheet about when any of it was measured."
 
@@ -104,7 +104,7 @@ He read it back to the man of about fifty-five in about six minutes, standing at
 
 He put the two sheets together and squared them, which is a thing a man does who has spent twenty-two years at a counter.
 
-"I am not going to thank you and I want you to hear the reason and not the politeness of it. **If I thank you then I have been given something, and I have not, and there is a difference and I have been the man who is given something twice in twenty-two years and I did not get anything out of either of them.** Twenty-two years of not asking is not a thing that gets paid back by a Tuesday, and I have not got worse at it in a fortnight and I am not going to. And in three weeks one line of my return is going to be a line shorter and nobody will tell me why, and that was true when I told you on the second of the month and it is more true now, because you have been in this room and somebody in a building has seen that somebody has been in this room."
+"I am not going to thank you and I want you to hear the reason and not the politeness of it. **If I thank you then I have been given something, and I have not, and there is a difference and I have been the man who is given something twice in twenty-two years and I did not get anything out of either of them.** Twenty-two years of not asking is not a thing that gets paid back by a fortnight, and I have not got worse at it in a fortnight and I am not going to. And in three weeks one line of my return is going to be a line shorter and nobody will tell me why, and that was true when I told you on the second of the month and it is more true now, because you have been in this room and somebody in a building has seen that somebody has been in this room."
 
 He put the two sheets into the inside pocket of his coat.
 

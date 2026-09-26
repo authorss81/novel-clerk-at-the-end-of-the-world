@@ -82,7 +82,7 @@ That is the plain way to say it and it is the whole of what the recitals require
 
 Pell did hers in the room, in her own hand, and she has now three of them on the file and the third is the longest, and it says the thing about a district-exclusion roll of nineteen names of which she is the fourth and which she cannot leave without leaving the next instrument with one observer, and it says that she is an officer of the office that produced the refusal column and of the schedule of refusals now in the file, and it says that she has read the district's schedule of performed acts four times and has twice wanted it to be less than it is, and it ends with the sentence: *I have no interest in the subject of the work and I have an interest in the office, and those are two different things and the second one is the reason this office can be believed on the first one.*
 
-Voss's had come up from the annex on the Friday night in an envelope with the mill's postmark, and it is the fifth, and the line on the outside said: *this is the fifth and not a copy of the fourth, and it is the last one I can write without saying a thing about the mill.*
+Voss's had come up from the annex on the Friday night in an envelope with the mill's postmark, and it is the sixth, and the line on the outside said: *this is the sixth and not a copy of the fifth, and it is the last one I can write without saying a thing about the mill.*
 
 Owen Rusk read both of them in the room because a person who certifies reads the examinations, and he read them both twice, and at the end of the second one he put the page down and said the thing he had learned to say in a hall in the sixth week, which was:
 

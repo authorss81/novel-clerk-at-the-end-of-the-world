@@ -118,7 +118,7 @@ And the reason that is not a worse life than the one he had at the start of the 
 
 Nothing underneath any of it had been restored. He went and checked, because he always checks, because it is the only professional habit he has that was ever any use to anybody.
 
-The Fetter Lane pump grant is suspended and is not restored and its own review is not named, and the four hundred pounds a year that the Registry's own precedent once entered against a named work in the same quarter, in writing, on the same day, on a published schedule, is not in this file and is not going to be. The pump still runs by hand at four in the morning on the worst nights, and it took on the first stroke on Thursday, and it will not always.
+The Fetter Lane pump grant is suspended and is not restored and its own review is not named, and the hundred and forty pounds a year that the Registry's own precedent once entered against a named work in the same quarter, in writing, on the same day, on a published schedule, is not in this file and is not going to be. The pump still runs by hand at four in the morning on the worst nights, and it took on the first stroke on Thursday, and it will not always.
 
 The crossing is closed to loads. It was closed to loads on the first day of this month of rain and it is closed to loads now, and the load-restriction suspension of the tenth stands and has not been amended, and the crack in the abutment has moved and nobody in this city has a duty to look at it this month.
 

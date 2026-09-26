@@ -116,24 +116,28 @@
 
 ## Volume 01 Index — *The Unfiled Ward* (Chapters 1–50, C.Y. 487)
 
+> **Corrected by the volume-close review fix pass.** This table used to carry invented titles for Chapters 1–10 and 12–18, it merged Chapters 12–13 and 17–18, and its day ranges drifted from the corrected calendar. **The prose titles are the chapter headings in the files themselves and are the only titles; Chapters 12, 13, 17 and 18 are four chapters and not two; and Chapter 47 runs Days 64–66.** This table is now built from `state/volume-01-index.md` §1, which is the operative authority for Volume 01 and agrees with the prose.
+
 | Ch | Title | Day | Weekday | Pressure type |
 | --- | --- | --- | --- | --- |
-| 1 | The Margin That Was Not There | 1 | Tuesday | investigation |
-| 2 | What the Ward Actually Runs | 1–2 | Tue–Wed | character / material |
-| 3 | Two Leaves | 3 | Thursday | investigation |
-| 4 | A Form, Receipted at Stonecross | 4 | Friday | character |
-| 5 | He Withdrew It Himself | 6 | Sunday | reversal |
-| 6 | The Notice With Three Boxes | 7–8 | Mon–Tue | political |
-| 7 | The Two Witnesses | 9–10 | Wed–Thu | character / training |
-| 8 | Into the Spillway | 10–11 | Thu–Fri | action / cost |
-| 9 | A Receipt Is Not a Request | 12 | Saturday | political |
-| 10 | The Unrouteable Tray | 13–14 | Sun–Mon | discovery |
-| 11 | The Entry | 15 | Tuesday | political / training |
-| 12–13 | The Answer and the Date | 16–19 | Wed–Sat | political |
-| 14 | The Empty Tenth | 20 | Sunday | investigation |
-| 15 | The Requirements Sheet | 21 | Monday | discovery |
-| 16 | A Withdrawal Narrows | 22 | Tuesday | character |
-| 17–18 | The Signature | 23–24 | Wed–Thu | political |
+| 1 | The Fourth River Desk | 1 | Tuesday | investigation |
+| 2 | What the Ward Knows | 1–2 | Tue–Wed | character / material |
+| 3 | Two Witnesses | 3 | Thursday | investigation |
+| 4 | Arbour Kitchen | 4 | Friday | character |
+| 5 | Nobody Else Will Perform It | 6 | Sunday | reversal |
+| 6 | Notice | 7–8 | Mon–Tue | political |
+| 7 | Performing It | 9–10 | Wed–Thu | character / training |
+| 8 | Load Restriction | 10–11 | Thu–Fri | action / cost |
+| 9 | Petition | 12 | Saturday | political |
+| 10 | Unfiled Correspondence | 13–14 | Sun–Mon | discovery |
+| 11 | Entry | 15 | Tuesday | political / training |
+| 12 | The Answer Is a Date | 16–17 | Wed–Thu | political |
+| 13 | Saturday | 18–19 | Fri–Sat | political |
+| 14 | The Index | 20 | Sunday | investigation |
+| 15 | What Ivy Needs | 21 | Monday | discovery |
+| 16 | Separability | 22 | Tuesday | character |
+| 17 | Sixteen | 23 | Wednesday | political |
+| 18 | The Signature | 24 | Thursday | political |
 | 19 | The Review | 25 | Friday | political |
 | 20 | Who Sent It | 26–27 | Sat–Sun | emotional consequence |
 | 21 | The Same Batch | 28 | Monday | investigation |
@@ -162,7 +166,7 @@
 | 44 | Ten of the Clock in the Long Room | 59 | Thursday | political climax |
 | 45 | The Narrowing | 60 | Friday | cost |
 | 46 | The Certification | 61–63 | Sat–Mon | **acquisition** |
-| 47 | One Active Hold | 64–65 | Tue–Wed | cost |
+| 47 | One Active Hold | 64–66 | Tue–Thu | cost |
 | 48 | What the Office Owes | 66–67 | Thu–Fri | political |
 | 49 | Marta Rusk | 68–69 | Sat–Sun | emotional consequence |
 | 50 | One Page, and a Drawer | 70 | Monday | resolution / **closing image** |

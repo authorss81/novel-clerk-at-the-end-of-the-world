@@ -42,6 +42,7 @@ review_log="logs/${phase_id}.review.log"
 fix_log="logs/${phase_id}.fix.log"
 wip_branch="novel-wip/${phase_id}"
 checkpoint_pid=""
+resumed_work=false
 
 case "$phase_id" in
   phase-000-*|phase-001-*|phase-002-*) phase_timeout="$PLANNING_TIMEOUT_SECONDS" ;;
@@ -102,6 +103,9 @@ resume_wip() {
       echo "WIP conflict; continuing from current main"
       return 0
     fi
+    if ! git diff --quiet origin/main..HEAD; then
+      resumed_work=true
+    fi
     touch "$phase_dir/.checkpoint"
     rm -f "$phase_dir/.deferred"
   fi
@@ -142,6 +146,30 @@ checkpoint_and_defer() {
   checkpoint_wip
   echo "Phase deferred: $phase_id ($reason)"
   exit 0
+}
+
+has_other_incomplete_phase() {
+  local candidate
+  while IFS= read -r prompt_file; do
+    candidate="$(dirname "$prompt_file")"
+    if [ "$candidate" != "$phase_dir" ] && [ ! -f "$candidate/.done" ] && [ ! -f "$candidate/.blocked" ]; then
+      return 0
+    fi
+  done < <(find workspace -name PROMPT.md -type f | sort)
+  return 1
+}
+
+ensure_next_phase() {
+  if has_other_incomplete_phase; then
+    return 0
+  fi
+  local continuation_dir="workspace/continuation/next"
+  mkdir -p "$continuation_dir"
+  cat > "$continuation_dir/PROMPT.md" <<EOF
+Continue the novel after the completed phase $phase_id.
+
+Read NOVEL_SPEC.md, the series outline and ending, the relevant volume outline, state/current.md, the rolling summaries, and the previous 20 chapters before writing. If the current volume is complete, plan the next volume and write its first 10 to 20 chapter batch. Otherwise write the next planned batch. Do not stop at an outline. Update manuscript state files and create exactly one next phase prompt before this phase is marked done. Do not edit controller, workflow, agent, or dispatcher files.
+EOF
 }
 
 model_list=("$PRIMARY")
@@ -202,9 +230,14 @@ if ! git diff --quiet; then
     exit 0
   fi
 else
-  echo "Writer exited successfully but produced no file changes; deferring"
-  touch "$phase_dir/.deferred"
-  exit 0
+  if [ "$resumed_work" = true ]; then
+    echo "Writer returned no new changes; promoting resumed WIP commit"
+    git push origin HEAD:main
+  else
+    echo "Writer exited successfully but produced no file changes; deferring"
+    touch "$phase_dir/.deferred"
+    exit 0
+  fi
 fi
 
 start_checkpoint_loop
@@ -237,6 +270,7 @@ if [ "$review_code" -eq 0 ] && grep -qiE 'finding|problem|issue|contradiction|re
   commit_changes "novel: save review fixes $phase_id" || true
 fi
 
+ensure_next_phase
 touch "$phase_dir/.done"
 rm -f "$phase_dir/.deferred" "$phase_dir/.blocked" "$phase_dir/.checkpoint" "$phase_dir/.wip-conflict"
 if ! commit_changes "novel: complete $phase_id"; then

@@ -2,7 +2,7 @@
 
 The Guard's counting tent was up the reach at Ravensmoor on the Monday morning of the twenty-second day of the fourth month of the Concord Year 488, and Owen Rusk went up there on the Monday because the correction of the eighth had to reach the Warden in her own hand and she was a hundred and sixty miles from the count room and forty from where the correction was, and because there was a form in this county on which a person may attend at the place of the count, and he had used it twice this year and both times it had been a formality.
 
-He went up there to hand over four sheets, and he stayed two nights, and he came down on the Wednesday afternoon with a piece of paper in his coat that she had given him back unread at about eleven o'clock in the morning, and it is the fifth thing in a longhand book on a shelf in a room he has the key to, and the room has no window and a bulb on a flex taped twice.
+He went up there to hand over four sheets, and he stayed two nights, and he came down on the Wednesday afternoon with a piece of paper in his coat that she had given him back unread at about eleven o'clock in the morning, and it is in a longhand book on a shelf in a room he has the key to, and the room has no window and a bulb on a flex taped twice.
 
 **He had given her a sheet on the Tuesday morning of the twenty-third with the things he did not tell her in order, with the days on them, which is what she told him to do in a field on the twenty-ninth of the second month of this year, on the understanding that he would not write to her for a season, and the season was over, and the door was not shut any more, and he wrote the sheet in a room with a bulb on a flex and it took him about two hours and it is eleven lines and it is the only document in this county that anybody has ever written for her and nobody else.**
 
@@ -10,7 +10,7 @@ She read it standing up, at a table, with the tent flap open about four inches, 
 
 "That is eleven lines and there are nine things in it and I am not going to ask you about any of them," she said. "**I said write them down in order with the days on them and you have done that and I have read them and I am putting it in the case and I am not going to say one word about it now or later, and I will not tell you what I thought of it, and I want that to be a rule between us and not a favour.**"
 
-She gave it back and he put it in his coat and it is the fifth thing and it is not in a file.
+She gave it back and he put it in his coat and it is in the book and it is not in a file.
 
 ---
 
@@ -50,11 +50,11 @@ Marden Fell. Four premises of record against it, in the district's own book, ent
 
 The woman of about sixty looked at her for about four seconds.
 
-"**Then I am not on it and I am on it,**" she said, "**and I have been waiting since the twenty-eighth of the month before last for somebody to come up this lane, and not one of you has come, and I have not asked anybody in nine years, because the last time I asked anybody anything I was told the answer in a room and I was not in the room.**"
+"**Then I am not on it and I am on it,**" she said, "**and I have been waiting since the twenty-eighth of the month before last for somebody to come up this lane, and not one of you has come, and I have not asked anybody in nine years, and the last time I asked anybody anything at all I was told the answer in a room and I was not in the room.**"
 
 "Who did you ask," said Warden Kade.
 
-"**I asked the district office, in the year before last, whether my mother's house was still a house, because it is not any more and it is still in a book somewhere and I wanted to know if a person is allowed to be a person in a place that has stopped being houses.**" She did not raise her voice. "**And I got a form, and the form is correct, and it said four clauses, and none of the four clauses was about my mother.**"
+"**I asked the district office, nine years ago, whether my mother's house was still a house, because there has been nobody living in it for a long time and it is still in a book somewhere, and I wanted to know if a person is allowed to be a person in a place that has stopped being houses.**" She did not raise her voice. "**And I got a form, and the form is correct, and it said four clauses, and none of the four clauses was about my mother.**"
 
 There were about nine people in that lane by then and the dog had gone to the far end of it.
 
@@ -78,7 +78,7 @@ She did not argue first. There is a thing people expect a person to do and she d
 
 She wrote on the back. That is the whole of it, and she has said since that she chose the back deliberately, and that the back is where a person puts the thing they have to say when there is no box for it, and that the front of that sheet is a thing a building printed and the back is hers.
 
-**STRUCK. The schedule of settlements to be reconciled for Ravensmoor district for the season of 489 is struck. The reason is that on the twenty-second day of this month I sat at a table in the counting tent and attested a correction for a settlement I had not been to, and the reason in the box was a figure, and it was the right figure, and on the twenty-third I went to the settlement, and there were eleven households in it, and nine of them have not been asked anything for two years and one of them has not been asked anything for nine. I have written reasons in a box nineteen times and every one of them was a number, and a number is a thing you can say the meaning of in a room without deciding what it means, and I did not decide. I cannot tell you what a settlement is until somebody has gone to it and asked. I went to one yesterday. I have not been to the other ten on this sheet, and this sheet is going out without me. — O. Kade, Warden of the Census Guard, the twenty-fourth day of the fourth month of the Concord Year 488, at a gate on the Fetter Bend road.**
+**STRUCK. The schedule of settlements to be reconciled for Ravensmoor district for the season of 489 is struck. The reason is that on the twenty-second day of this month I sat at a table in the counting tent and attested a correction for a settlement I had not been to, and the reason in the box was a figure, and it was the right figure, and on the twenty-third I went to the settlement, and there were eleven households in it, and nine of them have not been asked anything for two years and one of them has not been asked anything for nine. I have written reasons in a box nine times and every one of them was a number, and a number is a thing you can say the meaning of in a room without deciding what it means, and I did not decide. I cannot tell you what a settlement is until somebody has gone to it and asked. I went to one yesterday. I have not been to the other ten on this sheet, and this sheet is going out without me. — O. Kade, Warden of the Census Guard, the twenty-fourth day of the fourth month of the Concord Year 488, at a gate on the Fetter Bend road.**
 
 **And there is nothing on it that she could defend in a room, and that is why it is the first one.**
 

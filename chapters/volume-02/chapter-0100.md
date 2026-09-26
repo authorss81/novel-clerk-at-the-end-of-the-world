@@ -22,19 +22,19 @@ He did not stand in front of the small board for about an hour. He went and read
 
 He read the column aloud. There was nobody in the field. The lamp was on the woman's side of the board and there was about two feet of light on the first two rows and his own breath on the rest of it.
 
-*Four. Nine. Four. —. Seven. Six. Two. Three. Eleven. Five. Seven.*
+*Four. Nine. Four. Eleven. Seven. Six. Two. Three. Eleven. Five. Seven.*
 
 He counted them. He did it the way he does it, from the top, and he has counted about eleven hundred columns in nine years in this county and he has never once counted one twice in a field.
 
 Then he counted them again.
 
-*Four. Nine. Four. —. Seven. Six. Two. Three. Eleven. Five. Seven.*
+*Four. Nine. Four. Eleven. Seven. Six. Two. Three. Eleven. Five. Seven.*
 
 Eleven both times.
 
 **That is the entire job he has.** Not a ward that cannot be counted, not a settlement that is not on a list, not a sluice wheel held together with oak wedges by nine people for fourteen days, not a settlement four miles up a track with nine doors of record out of twenty-two households and a tank and a book in five hands and a custody limit written into a return by the people who live in the yard: **eleven figures, eleven reasons, read down, and eleven.**
 
-He is a Stage 2 Continuance Examiner of the Count, Docketford district, entered on the fourth day of the first month of the Concord Year 488, and he holds three active holds and three named claimants — Ivy Sarr's household of Fetter Lane, a person who cannot be asked; Mavis Rudge of Witherow, whose file says she asked and the answer was no; Ned Callow of Quill Bank, who asked for a person in a room and did not get one and will not ask again. **A hold is an answerability and preserves nothing. There is no fourth hold and there is not going to be, and the thing he claimed in a yard at Slackwater on the tenth day of this month is a claim and not a duty and there is no instrument in this county for it, and it has no term and no interval and no panel, and it is the sixth thing in a longhand book on a shelf in a room he has the key to, and the room has no window and a bulb on a flex taped twice, and the book may not leave the building because there is not one instrument in this county for a man who wants to give something away.**
+He is a Stage 2 Continuance Examiner of the Count, Docketford district, entered on the fourth day of the first month of the Concord Year 488, and he holds three active holds and three named claimants — Ivy Sarr's household of Fetter Lane, a person who cannot be asked; Mavis Rudge of Witherow, whose file says she asked and the answer was no; Ned Callow of Quill Bank, who asked for a person in a room and did not get one and will not ask again. **A hold is an answerability and preserves nothing. There is no fourth hold and there is not going to be, and the thing he claimed in a yard at Slackwater on the tenth day of this month is a claim and not a duty and there is no instrument in this county for it, and it has no term and no interval and no panel, and it is in a longhand book on a shelf in a room he has the key to, and the room has no window and a bulb on a flex taped twice, and the book may not leave the building because there is not one instrument in this county for a man who wants to give something away.**
 
 ---
 
@@ -48,7 +48,7 @@ Ruth Mapp read the roster out at ten past six in the evening, in the ordinary vo
 
 The crossing at the bottom of Fetter Lane is shut to loads and to vehicles above four tons. The repair is four thousand one hundred and sixty pounds and is unfunded. The notice at the weir path says that any district able to perform the repair is invited to perform it, and it has been in the weather since the flood, and it has brought no district, and it is going to be there in June, and the reason it is going to be there in June is that the day the notice comes down is the day that ward has stopped asking.
 
-**Ada Rusk said it at the west gate at about nine in the morning, in front of about twenty people, and she said it as a fact and not as a sentence, and she is the eleventh door on a schedule of ten places nobody went to look at, and the small board has eleven settlements on it and this ward is not one of them, and there is no column anywhere in this county that says she was looked at.**
+**Ada Rusk said it at the west gate at about nine in the morning, in front of about twenty people, and she said it as a fact and not as a sentence, and she is the eleventh door in a ward that is on a schedule of ten places nobody went to look at, and the small board has eleven settlements on it and this ward is not one of them, and there is no column anywhere in this county that says she was looked at.**
 
 "There is no row for us on the second board," she said. "**There is a row for us on the other one, at the bottom of that frame, and it says no. The small board is eleven settlements and eleven reasons, and every reason in it is a number, and there is no number about this ward in this county to put on it, and that has happened thirteen times this year and it has happened again this morning, and I am not going to say a fourteenth time what I have said thirteen times, so I am going to say this instead and then I am going to stop.**
 
@@ -62,7 +62,7 @@ Somebody at the back said, "**Are you all right, Ada.**"
 
 **The people of Lower Lock went down the hill at about half past ten in about four groups and one of the groups had a girl of twelve in it who had a box of seed trays under her arm, because the trays are not stopped and there is nothing in the granary and the trays come anyway, and she has carried them up that hill on about four Saturdays in nine years and nobody has ever thought about why.**
 
-She came back across the field to the small board on her own at about eleven, with the box against her hip, and read the third column, which is the reasons, and then read the second column, which is the premises, and then went and found Owen Rusk standing about eight feet off with a lamp he had just put out.
+She came back across the field to the small board on her own at about eleven, with the box against her hip, and read the third column, which is the reasons, and then read the second column, which is the premises, and then went and found Owen Rusk standing about eight feet off on the side of the board the lamp was not on.
 
 "Is that ours," she said.
 
@@ -102,7 +102,7 @@ Six persons in a ward of eleven doors at three of five parts, and the word is no
 
 **None of that is on the small board. The small board has eleven rows and eleven figures. Owen Rusk read the column on the Sunday morning of the twenty-eighth day of the fourth month of the Concord Year 488 and counted it twice and got eleven both times, and that is the entire job he has, and the count is clean, and a clean count is a count with nothing wrong in it, and the season of 489 is the cleanest count this county has ever certified, and it is clean because it is empty, and it is not a lie, and it is not a remedy, and legibility is not remedy, and the practice did not stop.**
 
-It was the second board that he read twice and not the frame, and the woman who maintains the board stood at the far end of it with the cord round her arm and did not offer an opinion, because she has never once asked what goes on that field and has not acquired one in nine years.
+It was the second board that he read twice and not the frame, and the woman who maintains the board stood at the far end of it with the cord round her arm, and she had not asked him what goes on that field in nine years and she asked him twice on that morning, and she said so before he could put either of them in a book.
 
 "What did you count," she said, eventually.
 
@@ -114,7 +114,7 @@ It was the second board that he read twice and not the frame, and the woman who 
 
 "That is the reason a person gives," she said, "**and the reason a person gives is not the reason. The reason is that it is yours and you wanted to be sure. I have maintained that frame for nine years and I put a certification at the bottom of it under a strip of paper the size of a receipt because I will not put a sheet over a sheet, and nobody asked me and nobody could have told me no, and the reason I did it is not the reason I have given four times. It is that I had been on that ladder since half past six and my hands were cold and it was quicker.**" She put the cord in her apron. "**Both of those are true and the second one is the one that is always true and I have never seen anybody print the second one.**"
 
-Then she went, and he stayed, and about half past eleven he read the third column once more on his own and it was the third time and there was nobody there to see it.
+Then she went, and she asked him to put the lamp out, because she has done it every year for nine years and it is hers and not the county's, and he said that he would, and about half past eleven he read the third column once more on his own and it was the third time and there was nobody there to see it.
 
 ---
 

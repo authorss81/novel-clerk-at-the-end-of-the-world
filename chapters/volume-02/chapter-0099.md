@@ -14,7 +14,7 @@ There are eleven rows.
 
 **The eleven are the settlements struck from the count for the season of the Concord Year 489, being the settlements in the eleven districts the Census Guard worked this season, and the eleven is not the ten on the certification's schedule, and it is not the fourth kind on a sheet dated the second month of the Concord Year 474 in a room in Docketford, which is nine, and it is not the eleven households who went off a reach in the Concord Year 484, and it is not a figure of barrels, and it is not the nine premises of record now standing against a place nobody had looked at, and about four people in this county are going to be asked about the word eleven in the next year and the answer is a sheet.**
 
-Four of the eleven are in Docketford district. Six are in districts Owen Rusk has not been to and are not his business, and the seventh is in the district he was standing in a gate in on Wednesday, and he did not examine it and did not try to, and the board is public and anybody may walk to the west gate of Cutter's Fields and read it, which is the whole point of it and the whole of what it does.
+Four of the eleven are in Docketford district. Six are in districts Owen Rusk has not been to and are not his business, and the seventh of the seven is in the district he was standing in a gate in on Wednesday, and he did not examine it and did not try to, and the board is public and anybody may walk to the west gate of Cutter's Fields and read it, which is the whole point of it and the whole of what it does.
 
 **SLATE OF SETTLEMENTS STRUCK FROM THE COUNT FOR THE SEASON OF THE CONCORD YEAR 489, and the reason against each. One, settlement. Two, premises of record, being the figure of the premises of record at the date of the strike. Three, reason.**
 
@@ -31,7 +31,7 @@ Four of the eleven are in Docketford district. Six are in districts Owen Rusk ha
 *Bight, Merrow. 7. 5.*
 *Coalyard, Sten. 5. 7.*
 
-**And that is the eleven, and Owen Rusk read the whole column twice on the Friday morning from about eight feet off and there is nobody in this county who can say what any of the eleven reasons means except the one about Slackwater, and he is the man who made that one mean something by standing in a lane with a woman of sixty.**
+**And that is the eleven, and Owen Rusk read the whole column twice on the Friday morning from about eight feet off and there is nobody in this county who can say what any of the eleven reasons means except the one against Marden Fell, and he is the man who made that one mean something by standing in a lane four hundred yards long with a woman of sixty at the end of it.**
 
 **And it is not the eleven settlements in Ravensmoor district that were not reconciled on the twenty-fourth of this month, and it is not the ten on the certification's schedule, and in about four years nobody in this county is going to be able to keep any two of the sets apart, and neither can anybody else, and the difference between them is that one of them is a list of places a warden struck in her own hand and the other four are lists of places a building struck with a figure.**
 
@@ -41,7 +41,7 @@ Four of the eleven are in Docketford district. Six are in districts Owen Rusk ha
 
 **And Nether Sill is four, and four is not the figure of its premises, and nobody in this county has ever been able to find out what four is, and it has been in a reason box since the twelfth day of the second month and eleven households have kept the water it was about.**
 
-And Ossery is the eleventh row and its reason is eleven, and the eleven is the figure of its premises written a second time, and it says not one word about the fact that the ground Ossery sits on is under a tank carried up four miles of unmade track twice a week by a man the office has never asked anything, and there is no figure in this county that is that, and there never has been, and the office did not print a dash because a dash is not a figure and a column of reasons is a column of figures.
+And Ossery is the fourth row and its reason is eleven, and the eleventh is the figure of its premises written a second time, and it says not one word about the fact that the ground Ossery sits on is under a tank carried up four miles of unmade track twice a week by a man the office has never asked anything, and there is no figure in this county that is that, and there never has been, and the office did not print a dash because a dash is not a figure and a column of reasons is a column of figures.
 
 "You said every reason is a number," said Cobb Rennie, who had come up the hill on his own two feet. "**And you said it before that board was made and you were right, and I would like it written down that you were right, and I have been saying it in fields since the seventh of the third month and I have given it away twice and this is the third time and I am not going to say it a fourth.**"
 
@@ -77,7 +77,7 @@ The crossing at Fetter Lane is shut to loads. The crew is nine and their wage is
 
 **Nether Sill is not restored, and the reason in its box is four, and eleven households kept the water it was about and are not on any of these three documents. Hark Holm is not restored. The eleven households off the reach in the Concord Year 484 are not restored and are not affected by any of them.**
 
-**And nobody was thanked. Ada Rusk was not thanked for anything on the Friday morning and was not asked for anything and is not on either board and is not on the schedule and her ward is the eleventh door on a sheet in a field and is not on this one, and she has not asked to be, and she has said in a hall that she is not going to say the sentence about visibility a third time because a third time is the way a thing stops being true, and she stood at the back of the frame with her hands behind her back and read the eleven reasons out loud in a field, one at a time, to about thirty-four people, and did not say anything else about it.**
+**And nobody was thanked. Ada Rusk was not thanked for anything on the Friday morning and was not asked for anything and is not on either board and is not on the schedule and there are eleven doors in her ward and the eleventh of them is on the big frame in a field and is not on this one, and she has not asked to be, and she has said in a hall that she is not going to say the sentence about visibility a third time because a third time is the way a thing stops being true, and she stood at the back of the frame with her hands behind her back and read the eleven reasons out loud in a field, one at a time, to about thirty-four people, and did not say anything else about it.**
 
 ---
 
@@ -93,13 +93,13 @@ The crossing at Fetter Lane is shut to loads. The crew is nine and their wage is
 
 ---
 
-**And on the Friday afternoon of the twenty-sixth day of the fourth month the fourth week of the season was over, and the season of 489 for Docketford district had been over since the twenty-eighth of the third month, and the last morning of the season of 489 as the Guard kept it was not going to be for another two days, and the counting tent at Cutter's Fields was to come down on the Sunday morning of the twenty-eighth and go up the river with the stone in its case, and about twenty people were in that field on the Friday afternoon reading a board about a season that was over.**
+**And the fourth week of the season of 489 was over, and had been over since the Friday of the twenty-eighth day of the third month, and on the Friday afternoon of the twenty-sixth day of the fourth month the count of the season for Docketford district was a month old and there were about twenty people in that field reading a board about a season that was over.**
 
-Ada Rusk read the eleven out loud, one at a time, in a field, with about thirty-four people in it, and she did not say anything else about it, and nobody asked her to.
+She read the eleven out loud a second time, in the afternoon, in a different order, and she read the six that were the doors written twice without any particular emphasis, and about nine people were still in the field, and nobody asked her to.
 
 Then she said one sentence to her brother, at the frame, at about ten past two in the afternoon, with her hands behind her back and about nine people within earshot, and it is the last thing she says to him this year.
 
-"**The eleventh door on that other board is ours and it is not on this one and I did not ask to be, and the reason we are not on this one is that a column of reasons is made out of figures and there is no figure about this ward in this county, and that has happened thirteen times and it has happened again this morning, and I have said the sentence about the second of four in a hall thirteen times and once in a room and once in a yard and I am not going to say it a fourteenth time anywhere, so I am going to say nothing, and I am going to stand here, and you may write down that I said nothing.**"
+"**The eleventh door in this ward is on that other board and it is not on this one and I did not ask to be, and the reason we are not on this one is that a column of reasons is made out of figures and there is no figure about this ward in this county, and that has happened thirteen times and it has happened again this morning, and I have said the sentence about the second of four in a hall thirteen times and once in a room and once in a yard and I am not going to say it a fourteenth time anywhere, so I am going to say nothing, and I am going to stand here, and you may write down that I said nothing.**"
 
 "You said nothing," said Owen Rusk.
 

@@ -4,7 +4,7 @@ He sat down at the desk at about ten minutes to three with about forty minutes l
 
 Nothing happened.
 
-That is the whole of it, and it is worth a chapter. A certification that arrives at the end of its term does not produce a form and does not produce a notice and does not produce a clerk, and there is no room in this building in which anybody could be told, and no person is required to know when a thing they were never told about expires. He had asked for the certification. He had filled in the box on the second page in his own hand, in four seconds, in a room with high windows, and it was the only line he had been allowed to sign in seven weeks, and it had a term on it, and the term was about forty minutes away when he sat down.
+That is the whole of it, and a day is allowed to be that. A certification that arrives at the end of its term does not produce a form and does not produce a notice and does not produce a clerk, and there is no room in this building in which anybody could be told, and no person is required to know when a thing they were never told about expires. He had asked for the certification. He had filled in the box on the second page in his own hand, in four seconds, in a room with high windows, and it was the only line he had been allowed to sign in seven weeks, and it had a term on it, and the term was about forty minutes away when he sat down.
 
 At about half past three, on the ground floor, in the record of the district returns, which is his posting and is a book on a table that anybody may read and which he has been the officer of since Friday morning, a line changed.
 
@@ -60,7 +60,7 @@ And then Ada Rusk, from the wall by the door, where she was standing with a slat
 
 "What did it cost."
 
-Not *what happened*. What did it cost. She said it the way she says the numbers in that hall, in the voice she uses for six in the evening at twenty minutes to six in the morning, and it was not a rhetorical question and she did not wait long for it.
+Not *what happened*. What did it cost. She said it the way she says the numbers in that hall, in the voice she uses for six in the evening and for twenty minutes to six in the morning, and it was not a rhetorical question and she did not wait long for it.
 
 "Four weeks," said Owen Rusk. "And a form."
 
@@ -118,7 +118,7 @@ He looked at it for a long time. There is no count of premises at the top of tha
 
 None of those is a premise. Not one. And the ward had spent seven weeks learning to say so out loud to a building that would not give it a hearing, and it had got the hearing, and it had got the four words, and it had got a status with a window in it for four weeks, and at about ten to seven on the seventieth day of the month of a rain season that has ended, it occurred to him — standing at a post, in the wet, the way it now occurred to him about four times a week, which is a thing he has stopped apologising for — that for seven weeks the argument had been about whether his ward **existed**, and that he had never once, in any room, been asked whether his ward could be **counted**.
 
-He had a tray of two hundred and forty sheets of mail that could not be routed upstairs, and a book downstairs with a new line in it, and eight hours until the building shut, and eleven days until the season opened.
+He had a tray of two hundred and forty sheets of mail that could not be routed upstairs, and a book downstairs with a new line in it, and three quarters of an hour until the building shut, and twenty-two days until the season opened.
 
 And Ada Rusk's four words were still drying on a slate in a hall behind him, and they were a status, and this notice, on the same post, wanted premises.
 

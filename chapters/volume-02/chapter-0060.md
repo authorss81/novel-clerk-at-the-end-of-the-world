@@ -16,7 +16,7 @@ Then he signed it, and it went up the stair, and it came back on the Monday afte
 
 ---
 
-The woman who maintains the board has been doing it for nine years and she does it on a Wednesday morning with a ladder and a bucket of nails and a piece of chalk, and her name is not on the board and she has asked twice in other districts to have it off and got it off twice, and Owen Rusk has never once asked her what it is and did not ask her on the Wednesday of the eighth day either, and he had spent a week and a half learning that there are questions you do not ask because the answer is not yours.
+The woman who maintains the board has been doing it for nine years and she does it on a Wednesday morning with a ladder and a bucket of nails and a piece of chalk, and her name is not on the board and she has asked twice in other districts to have it off and got it off twice, and Owen Rusk has never once asked her what it is and did not ask her on the Tuesday of the eighth day either, and he had spent a week and a half learning that there are questions you do not ask because the answer is not yours.
 
 She did not want to know why. That was the thing he had not expected. She looked at the four lines of his request, and at the four columns he had drawn out for her on the back of a sheet, and she said:
 
@@ -28,7 +28,7 @@ She did not want to know why. That was the thing he had not expected. She looked
 
 ---
 
-The board had four columns on the Thursday morning of the ninth day and it took about forty minutes to wire up, and it is worth setting out what it looked like, because the whole of the argument of this book is in it and it is a sheet of paper nailed to a frame.
+The board had four columns on the Wednesday morning of the ninth day and it took about forty minutes to wire up, and it is worth setting out what it looked like, because the whole of the argument of the season is in it and it is a sheet of paper nailed to a frame.
 
 **SCHEDULE OF SETTLEMENTS TO BE RECONCILED. DOCKETFORD DISTRICT. Season of the Concord Year 488.**
 
@@ -52,9 +52,9 @@ And the strip had not been wired up on the Thursday. It was wired up on the Satu
 
 **Ten of the eleven reasons are the premises column written twice.**
 
-Owen Rusk read the board from the left at about half past eleven on the Thursday morning with a cup of nothing in his hand and worked it out, and it took him about a minute and a half, and it is the whole of what he has for the whole of the Concord Year 488 and it is not a discovery, it is an absence, and there is no noun in this county for a discovery that consists of finding out that a column has nothing in it.
+Owen Rusk read the board from the left at about half past eleven on the Wednesday morning with a cup of nothing in his hand and worked it out, and it took him about a minute and a half, and it is the whole of what he has for the whole of the Concord Year 488 and it is not a discovery, it is an absence, and there is no noun in this county for a discovery that consists of finding out that a column has nothing in it.
 
-Eleven rows. Two columns of figures. In nine rows the figures are the same figure.
+Eleven rows. Two columns of figures. In ten rows the figures are the same figure.
 
 And the reason for that is not a secret and it is not even a policy. It is that **there is no reason yet.** The ten have not been reconciled. Their fourteen days are running or have not started. Their corrections are not made. And a reason is made at the end of the fourteen by a warden in a box the size of her hand, and until then the office has nothing to put in a published column for them, and what it has put there instead is the figure it already had, which is the figure of premises of record, and the figure of premises of record is a figure about doors.
 
@@ -62,19 +62,17 @@ So a person standing in a field behind the tanneries on the ninth day of the Con
 
 **And the row against Lower Lock is a figure that Owen Rusk could not explain, and he is the officer of the record of the district returns.**
 
-The ward returned eleven premises of record on the twenty-seventh day of the month before. It is the correct number. Two of the ward's thirteen household references are in one building and have been for years, and the county has never been to check that, and the count does not need it to, because the count wants a door and there is a door.
+The ward returned eleven premises of record on the seventy-sixth day of the month before. It is the correct number. Two of the ward's thirteen household references are in one building and have been for years, and the county has never been to check that, and the count does not need it to, because the count wants a door and there is a door.
 
 The twelfth line of the ward's first column was left empty on purpose, in capitals, in a ward's hand, and it is the pitch at the foot of Fetter Lane, and the pitch is not premises of record and cannot be made one by a district writing it on a form, and the household on it is a woman of seventy-one who has had the pitch for forty-one years and whose name is in a steward's book and not in a column in this county.
 
 And the fourth column of the ward's return has six names in it and the six names are entered as **none**, in capitals, on a line that may not be left blank, because there is a line on it that may not be left blank and six people in that ward cannot be asked and the ward is performing a care act for all six of them at four in the morning and there is nobody to name.
 
-And the figure against Lower Lock is eleven.
-
-**Eleven is a correct figure of the doors of Lower Lock and it is a figure of nothing else, and it is standing in a public column on a board behind the tanneries as the reason this ward is to be looked at, and Owen Rusk read it four times on the Thursday morning of the ninth day and could not make it mean one single thing.**
+**Eleven is a correct figure of the doors of Lower Lock and it is a figure of nothing else, and it is standing in a public column on a board behind the tanneries as the reason this ward is to be looked at, and Owen Rusk read it four times on the Wednesday morning of the ninth day and could not make it mean one single thing.**
 
 There is no second figure. He looked. He read the foot of the sheet and the margin and the printing shop's line about enquiries, and there is no second column and no note and no footnote, and the eleven is the eleven, and the number standing in the reason column for ten settlements out of eleven is a copy of the number in the column beside it that is a fact about doors, and the eleventh carries a number about four doors produced of nine recorded, which is also correct, and which is also, entirely and only, a fact about doors.
 
-He wrote one line in his own register on the Thursday and it is the whole of what he wrote:
+He wrote one line in his own register on the Wednesday and it is the whole of what he wrote:
 
 *Ten reasons on this board are the premises column twice. The eleventh is a figure of four of nine. There is no column in this county in which a place is given a reason in words, and the reason box on the correction form is a figure because the form is for a machine, and the machine reconciles four hundred districts, and the machine does not need to know why a place has four doors. Warden Kade has wanted this printed for nineteen years. I have printed it in an afternoon and it has cost the county nothing and it is not a remedy and I do not know what it is.*
 
@@ -86,7 +84,7 @@ He read out the fourth column. He read out the row with Lower Lock in it, and th
 
 Then he told them the other thing, which was the receipt, and he told them it plainly and in the wrong order, which is the order a thing like that has to be told in.
 
-**The receipt of the nineteenth of the month, promised in the answer of the nineteenth, on a day to be named at an hour to be named, was disposed of on the fourth day of the last month under item nine of the Schedule of Instruments in Force, on the ground that the certification it was a receipt of had run its term and that no instrument in the matter was in force. It was on a spike on the ground floor. There is no person in this city who was required to be told. It is the fifth of five lines. It is still owed, and there is now nothing on any desk in this city that says so, and the rule that did it is item nine and item nine is four hundred years old and has never been amended and is correct in every word of it, and nobody has done anything wrong, and I have come up here to say it out loud in a hall because I am the only person in this city who was ever told.**
+**The receipt of the district and of its witnesses, promised in the answer of the nineteenth day of the month, on a day to be named at an hour to be named, and asked for again on the twentieth, was disposed of on the ninety-first and last day of that month under item nine of the Schedule of Instruments in Force, on the ground that the certification it was a receipt of had run its term and that no instrument in the matter was in force. It was on a spike on the ground floor and then it was on a tray of mine, and the rule does not care which. There is no person in this city who was required to be told. It is the fifth of five lines. It is still owed, and there is now nothing on any desk in this city that says so, and the rule that did it is item nine and item nine is four hundred years old and has never been amended and is correct in every word of it, and nobody has done anything wrong, and I have come up here to say it out loud in a hall because I am the only person in this city who was ever told.**
 
 Nobody said anything for about twenty seconds. There is a stove in that hall and it ticked.
 
@@ -114,7 +112,7 @@ Marguerite Bray ruled it. She ruled the day and the hour and she ruled the name 
 
 She did it on the Wednesday night and it is in the delivery book in her own hand and it is the ninth line of the ward's answer to the Count and it is the only one of the nine that is not a schedule of what the ward has done:
 
-**This district was entered on the published schedule of settlements to be reconciled on the seventy-seventh day of the month before, posted for notice in advance of the season, and a fourth column was added to that schedule on the seventh day of the Concord Year 488 by a clerk of this district who had no authority to add one, and the figure given against this district in the reason column is eleven. This district returned eleven premises of record on the twenty-seventh day of the month before and the return was correct. This district is not suspended and no person in this district has been asked anything by the count and no water has been taken from this district's main. This district has performed every act in its return every week for twelve weeks and the roster is read aloud on Wednesdays at ten past six and anybody may come. The Count wants premises. The paper of this district says four words. The four words are not premises. This district performs and is not counted and says so itself, in this hand, and does not intend to stop.**
+**This district was entered on the published schedule of settlements to be reconciled on the seventy-seventh day of the month before, posted for notice in advance of the season, and a fourth column was added to that schedule on the seventh day of the Concord Year 488 by a clerk of this district who had no authority to add one, and the figure given against this district in the reason column is eleven. This district returned eleven premises of record on the seventy-sixth day of the month before and the return was correct. This district is not suspended and no person in this district has been asked anything by the count and no water has been taken from this district's main. This district has performed every act in its return every week for twelve weeks and the roster is read aloud on Thursdays at ten past six and anybody may come. The Count wants premises. The paper of this district says four words. The four words are not premises. This district performs and is not counted and says so itself, in this hand, and does not intend to stop.**
 
 ---
 
@@ -154,7 +152,7 @@ Cobb Rennie looked at the board for a while.
 
 *A settlement is not a row, it is its people.* Fourteen days is per person, and a person gets a notice, and a notice wants an answer, and the answer wants somebody at home, and a warden does the second place on a settlement and not the first. Wexford Landing had nine households. Quill Bank has eleven. Rush Halt has fourteen. Witherow has eleven. The season has been open twelve days and has four lines on it, and the quota is eleven.
 
-And the eleventh day of the month is the last day of the notice, and there is nothing on any form in this county that says so. It is Owen Rusk's own arithmetic, made in a field on the Thursday of the last month of the last year, out of a quota of eleven and an opening date and nothing else, and he has never been asked to produce it and has never offered it, and it is the only figure standing in this season that no office is responsible for.
+And the eleventh day of the month is the last day of the notice, and there is nothing on any form in this county that says so. It is Owen Rusk's own arithmetic, made in a field on the Monday of the last month of the last year, out of a quota of eleven and an opening date and nothing else, and he has never been asked to produce it and has never offered it, and it is the only figure standing in this season that no office is responsible for.
 
 So Docketford district is reported short by seven. Kade said that in a field in the last month of the last year — a district reported short is a district whose count is qualified, a qualified count goes up to the province, and this district was reported short in the Concord Year 484 and again in 486 — and Owen Rusk wrote it down in a register that leaves the building and has read it about nine times this week.
 
@@ -166,13 +164,13 @@ So Docketford district is reported short by seven. Kade said that in a field in 
 
 **The two-lists question was asked at about half past three on the Saturday afternoon, at the board, by a man Owen Rusk did not know.** He answered it in a sentence and a half, out loud, in a field, and has thought about it every day since.
 
-*No. That is a schedule of settlements to be reconciled, made by the office that holds the returns. That is an order of a Deputy Registrar on sixteen named returns, made in the last month of the year before last, public, appealable to the Glass Stair, still in appeal, not withdrawn. They are two instruments, two offices, two dates, two lists, and neither can move a line on the other. The sixteen are sixteen whichever list you read them in. The eleven are eleven. A district officer and a census warden each think their list is the list, and neither of them is wrong, and the difference between them is a column.*
+*No. That is a schedule of settlements to be reconciled, made by the office that holds the returns. That is an order of a Deputy Registrar on sixteen named returns, made in the last month of last year, public, appealable to the Glass Stair, still in appeal, not withdrawn. They are two instruments, two offices, two dates, two lists, and neither can move a line on the other. The sixteen are sixteen whichever list you read them in. The eleven are eleven. A district officer and a census warden each think their list is the list, and neither of them is wrong, and the difference between them is a column.*
 
 ---
 
 **The reading was at about four in the afternoon on the twelfth, at the board, and no count correction has ever been read out in this district before, and it took eleven minutes.**
 
-It is not a ceremony and it was not announced, and there is a line in the counting rules that says the reconciliation of a settlement may be read out by the officer of the record of the district returns, and there has never been a reason for anybody to use it. The man who maintains the board put a stool out at about ten past three. The woman with the slate wired the strip on and went and stood at the tent door. About thirty people came, which is a great many, and fourteen of them were from Lower Lock, because Ada Rusk had told the hall on the Thursday night that it was on the board and had said, in the ordinary voice, that anybody who wanted to come and hear a number read out could come and hear a number read out.
+It is not a ceremony and it was not announced, and there is a line in the counting rules that says the reconciliation of a settlement may be read out by the officer of the record of the district returns, and there has never been a reason for anybody to use it. The man who maintains the board put a stool out at about ten past three. The woman with the slate wired the strip on and went and stood at the tent door. About thirty people came, which is a great many, and fourteen of them were from Lower Lock, because Ada Rusk had told the hall on the Wednesday night that the reading was on the board, and had said, in the ordinary voice, that anybody who wanted to come and hear a number read out could come and hear a number read out.
 
 There was nobody from Nether Sill. Two hours upriver, and the season's notice carries a line about enquiries at the count room at the Glass Stair, and it is not a notice that a person is to be told something, and telling them would be a service, and the form does not provide for a service. Owen Rusk looked at the thirty people at about five past four and worked out that the eleven households on a silted bend had not been told that the thing done to them on the ninetieth day of the month before was going to be read out in a field this afternoon, and that the apparatus for telling them was a boat and a girl of seventeen who takes people up for money, and that there was no form in which he could put *tell them*.
 
@@ -244,4 +242,4 @@ The year **four hundred and sixty-one** is in the third row from the bottom. It 
 
 He did not read the rest of the column. He stood in front of it for about a minute and a half and he did not read it, and the reason was not a mystery and he did not make one of it. The reason was that the drawer under the black cord on the ground floor of the River Desk was still shut, and that a fourth column on a board in a field and a drawer in a building are the same decision in two places, and that he had made that decision at the top of a stair in the last month of the last year and a man does not get to make it twice in a season, and that he was not going to make it again in a field in the second week of a season because the light was going and because it would have made a good story, and that there is no form anywhere in this city on which a person is allowed to have a good story at his own expense.
 
-Eleven settlements and eleven reasons on a board in a field behind the tanneries, and ten of the eleven reasons are the premises column written twice, and the eleventh is a figure of four doors of nine, and the year 461 is in a column he has not read, and Owen Rusk had a card in his pocket with three holds on it and three named claimants in it, one of whom is a girl of twelve who is not on any column of anything, and there were ten settlements on the list that had not been corrected, and one of them was four streets from where he sleeps.
+Eleven settlements and eleven reasons on a board in a field behind the tanneries, and ten of the eleven reasons are the premises column written twice, and the eleventh is a figure of four doors of nine, and the year 461 is in a column he has not read, and Owen Rusk had a card in his pocket with three holds on it and three named claimants in it, one of whom is a girl of twelve who is not on any column of anything.

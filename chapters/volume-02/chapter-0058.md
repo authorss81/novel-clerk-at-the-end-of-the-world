@@ -1,6 +1,6 @@
 # Chapter 58 — What the Warden Knows
 
-The tray on the Monday of the ninety-first day took him until about seven, and he was on time, and he noticed that he was on time at about ten past six and did not think about it again until the Thursday.
+The tray on the Monday of the ninety-first day took him until about seven, and he was on time, and he noticed that he was on time at about ten past six and stood there afterwards for a minute doing nothing at all with the fact.
 
 Then he walked down to the field.
 
@@ -18,11 +18,11 @@ He took the names first, because he could not help it, and there are eleven and 
 
 **Nether Sill. Wexford Landing. Gallants Reach. Lower Lock. Marl Dykes. Quill Bank. Rush Halt. Witherow. Ossery. Otter Stair. Ashlocks.**
 
-Nine of the eleven are outside the town. Four of those are up the river, above Fetter Bend, which is a working crossing and the last good bank for nine miles. One of the four is off the water entirely, up a cart track, and Ossery is it, and is forty minutes off the nearest water. Four are on the flat above the weirs. And the two that are inside the town are **Lower Lock**, which is fourth on the list and the largest figure on the whole board and is nine tenths of a mile from the tanneries, and **Ashlocks**, which is a group of six houses on the flat below the tanneries and which is the eleventh name on the list because its premises were returned late in the month of rain by a man who apologised for the lateness in writing.
+Nine of the eleven are outside the town. Four of those are up the river, above Fetter Bend, which is a working crossing and the last good bank for nine miles. One of the four is off the water entirely, up a cart track, and Ossery is it, and is forty minutes off the nearest water. Four are on the flat above the weirs. And the two that are inside the town are **Lower Lock**, which is fourth on the list and carries the largest figure on the whole board along with the ninth, and is nine tenths of a mile from the tanneries, and **Ashlocks**, which is a group of six houses on the flat below the tanneries and which is the eleventh name on the list because its premises were returned late in the month of rain by a man who apologised for the lateness in writing.
 
 He stood there for a while with that, and then for a while longer with the eleventh.
 
-Then he read the second column, which is the year of the last reconciliation, and it is the column that decides the season's order in a way no column on that board says it decides anything. Two rows say 479. One says 481. One says 484. The other seven say 486. And the Count of the Concord Year 487, for which this schedule exists, **was suspended in the month of rain and was not taken**, so that the third column has not been checked by anybody in this district since the year in the second column of each row, and there is one row on that board whose figure has not been looked at by a person in nine years.
+Then he read the second column, which is the year of the last reconciliation, and it is the column that decides the season's order in a way no column on that board says it decides anything. Three rows say 479. One says 481. The other seven say 486. And the Count of the Concord Year 487, for which this schedule exists, **was suspended in the month of rain and was not taken**, so that the third column has not been checked by anybody in this district since the year in the second column of each row, and there is one row on that board whose figure has not been looked at by a person in nine years.
 
 Then he read the third column, which is premises of record, and it is eleven figures, and they are the county's carried figures, and the county has not been to any of these places since the reconciliation named in the second column, and the two columns together mean that the figure in a row is a count of doors made in the year in the other column, and that the doors may since have come down, and a door that has come down does not write to anybody.
 
@@ -42,7 +42,7 @@ Owen Rusk stood at a board in a field at about half past eight in the evening on
 
 And the fifth question. *Whether there is one figure on that board that appears eleven times out of eleven, and whether that figure is a draw.*
 
-He read the third column over and over in about four minutes and got eleven different numbers out of it. The answer to the first half of her fifth question is **no**. The answer to the second half is that the figure is not on the board.
+He read the third column over and over for four or five minutes and got eleven different numbers out of it. The answer to the first half of her fifth question is **no**. The answer to the second half is that the figure is not on the board.
 
 And the column it is in is a floor below the counting clerk who put *demolished* in pencil across a returned notice in the spring, in a book called the **schedule of draws**, in a building two miles up the hill where Owen Rusk has worked for eight years and has never opened it.
 
@@ -56,7 +56,7 @@ The woman with the slate was on a stool at the tent door with her knees up, doin
 
 And Warden Kade came in from the west gate at about a quarter to nine with river mud to the knee on the leg that had been to the knee in the morning, and she had been to **Wexford Landing**, and there is a woman of seventy-nine there who keeps a book and has not been asked anything since the year before last, and Kade had been in her house for two hours.
 
-"Second of the eleven," she said. "She is answered. Four premises, and the four are correct, and the household count in my head is nine and the return says five because two of them are at a daughter in Ashlocks, and I have written the two of them in the note and not in the column, and that is what the note is for."
+"Second of the eleven," she said. "She is answered. Four premises, and the four are correct, and the household count in my head is nine and the return says seven, because two of them are at a daughter in Ashlocks, and I have written the two of them in the note and not in the column, and that is what the note is for."
 
 She put the ledger on the trestle table and did not open it, which Owen Rusk noticed, because she had opened it four times in his presence in three days and had not once closed it in a way that was a performance.
 
@@ -158,7 +158,7 @@ He walked up the hill and it was after ten and the last night of the year was co
 
 *REPAIR OF ABUTMENT, NINTH WEIR. Four thousand one hundred and sixty pounds. Any district able to perform the repair is invited to perform it.*
 
-There is a man in this city who knows exactly what a district office does with a settlement it cannot account for, and he is alive, and he is unpromoted, and he is the first name in a register of contested closures, and he was not in his office on the Thursday, and Owen Rusk had not gone to see him and was not going to go and see him this week, because there were three days between now and the seventh and the seventh was a Monday and the seventh was the last hour of a door.
+There is a man in this city who knows exactly what a district office does with a settlement it cannot account for, and he is alive, and he is unpromoted, and he is the first name in a register of contested closures, and he was not in his office on the Thursday, and Owen Rusk had not gone to see him and was not going to go and see him this week, because there were three days between the Thursday and the seventh and the seventh was a Monday and the seventh was the last hour of a door.
 
 ---
 
@@ -188,7 +188,7 @@ She stopped for a moment.
 
 "Then it saved them," said Owen Rusk.
 
-"It saved four," said Warden Kade. "It may have cost eleven. **I do not know that it did and I do not know that it did not and I have not permitted myself to say either, in nine years, out loud, to anybody, and I have said it to you and you will do with it what you do with everything else in this city, which is put it in a book.** One of the four is alive, and she is at Wexford Landing, and she is not one of the four premises at that landing. She is the fifth. She is seventy-nine and she keeps the book, and I did not know that until Thursday morning when I was two hours in her house, and I have not said that name out loud to you before now and I am saying it because I would like there to be one person in the Registry who knows it, and she asked me whether I had remembered the dog."
+"It saved four," said Warden Kade. "It may have cost eleven. **I do not know that it did and I do not know that it did not and I have not permitted myself to say either, in nine years, out loud, to anybody, and I have said it to you and you will do with it what you do with everything else in this city, which is put it in a book.** One of the four is alive, and she is at Wexford Landing, and she is not one of the four premises at that landing. She is the fifth. She is seventy-nine and she keeps the book, and I did not know that until this afternoon when I was two hours in her house, and I have not said that name out loud to you before now and I am saying it because I would like there to be one person in the Registry who knows it, and she asked me whether I had remembered the dog."
 
 ---
 

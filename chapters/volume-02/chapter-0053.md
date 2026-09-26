@@ -58,7 +58,7 @@ Column two was the easy one and column three was the hard one, and column four w
 
 Column two took an hour. Thirteen household references, two hundred and forty people, and the district's roll has had the names in it for thirty-six years in a book in a family, and where the Registry's roll and Bray's book disagree, Bray's book wins and has always won, and there are eleven names in it that the county's roll has not carried since the fourth quarter of the Concord Year 471, and all eleven are in a batch struck in one afternoon by one officer with initials, and **none of them has ever been asked, because a person who does not know that they are named in an entry cannot apply to see it.**
 
-Owen Rusk put the eleven in the second column of a return of premises in his own hand and did not tell the district office where he had got them, and there was no line on the form to put that in, and he had looked for one for about two minutes on the Friday and had not found it and had been, for about four minutes on the Friday, genuinely happy about that.
+Owen Rusk put the eleven in the second column of a return of premises in his own hand and did not tell the district office where he had got them, and there was no line on the form to put that in, and he had looked for one for about two minutes on the Friday and had not found it and had been, for a good four minutes on the Friday, genuinely happy about that.
 
 Column three is where the ward spent the Saturday.
 
@@ -121,3 +121,15 @@ He did not send it round the hall. He put it in the bag and Ada Rusk said, looki
 The return of premises went up on the Sunday morning of the seventy-sixth day of the month in the ward's bag from the hall door, in a boat, with a copy of the ward's schedule of performed acts behind it and the six names on the fourth column entered as **none**, and the twelfth line of the first column empty, and the eighth line in capitals.
 
 It went up with a line missing on it on purpose, and everybody in that hall knew it, and nobody filled it in, and that is the whole of what Lower Lock did in the week the counting season notice went up on a post at the top of Fetter Lane.
+
+---
+
+It came back in nine days.
+
+It came back in the same bag and by the same road, and every column was on it as it had gone out, and in the top right corner, in a hand nobody in that hall had ever seen and nobody in the district office could afterwards name, it was marked **incomplete**.
+
+Not *refused*. Owen Rusk knew the shape of the word *refused* the way he knew the shape of his own hand, and this was not that shape, and for about a day and a half he could not work out why a word with nine letters in it ought to matter more than the other two. Then he worked it out, standing up, at the end of the second desk.
+
+**A thing that comes back marked incomplete comes back with a question on it. And the question is a person. And an answer to a person has to have a name in it, and there is no name in that ward that anybody is willing to put there.**
+
+The return went on the file with the word on it. It was never answered. The word is still on it.

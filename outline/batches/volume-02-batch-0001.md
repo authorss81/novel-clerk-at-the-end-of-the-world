@@ -2,7 +2,7 @@
 
 Batch number: 0001
 Chapter range: 51–60
-Story time: **The seventieth day of the last month of the Concord Year 487, through the twelfth day of a month in the Concord Year 488.** Thirty-three days. The last month of 487 ran to ninety-one days and the year turned on a Tuesday. **Day 1 of C.Y. 487 was a Tuesday**, so Day 70 is a Monday, Days 71, 78, 85 and 91 are Tuesdays, Day 73 is a Thursday, Day 77 a Monday, Day 80 a Thursday, Day 84 a Monday, Day 87 a Thursday, Day 90 a Sunday, Day 91 a Monday, and C.Y. 488 Days 1, 8 are Tuesdays and Day 7 a Monday.
+Story time: **The seventieth day of the last month of the Concord Year 487, through the twelfth day of a month in the Concord Year 488.** Thirty-three days. The last month of 487 ran to ninety-one days and the year turned on a Tuesday. **Day 1 of C.Y. 487 was a Tuesday**, so Day 70 is a Monday, Days 71, 78 and 85 are Tuesdays, **Day 91 is a Monday**, Day 73 is a Thursday, Day 77 a Monday, Day 80 a Thursday, Day 84 a Monday, Day 87 a Thursday, Day 90 a Sunday, and C.Y. 488 Days 1 and 8 are Tuesdays, Day 7 a Monday, Day 9 a Wednesday and Day 12 a Saturday.
 
 ## Batch Goal
 
@@ -119,10 +119,10 @@ The certification ran seven days from the seal at about half past three on Day 6
 
 - **POV and location:** Cutter's Fields and Arbour Kitchen, Days 77–79.
 - **Goal:** See the schedule. Owen goes because the count is nailed up in public and public things can be read by anybody, which is a sentence he has believed in a hall for seven weeks.
-- **Resistance:** The board is not a comparison sheet and there is no queue. It is a **published list of eleven settlements with a reason column against each**, and the reason against each is a **figure**, and the figures are the same class of figure, and there is no column on that board for a reason in words.
+- **Resistance:** The board is not a comparison sheet and there is no queue. It is a **published list of eleven settlements in three columns — name, year of last reconciliation, premises of record** — and the second and third columns are the same class of figure, and **there is no column on that board for a reason at all.** The reason exists in a box the size of the warden's hand on the correction form, in her own hand, and it is not published until Chapter 60, when Owen gets a fourth column onto the board on the word *granted* written in pencil.
 - **Major turn:** Eleven names. Eight Owen has never been in. **Nether Sill is first on the list.** And one of them is four streets from where he sleeps, and the figure against it is one he can read. And there is a line at the head of the board giving the **quota for the district**, and the quota is eleven, and the quota was **set in the last week of the Concord Year 487**, and the board went up on the first working day after the new year.
 - **Nell Arbour on stage:** she has a claimant household from one of the eight and needs somebody who can read a count sheet quickly, and she asks him, and she is working, and she is not available, and Owen notices that he asked her for nothing and that she noticed too. Neither says anything. She says the sentence that becomes the volume's question, in a kitchen, without noticing that she has said it: *somebody decided, and it was not the field, and I want to know on what.*
-- **Ending hook:** Under the reason column, at the foot of the board, in a smaller hand, a line about **when the schedule was made**. Owen reads it twice. He does not go and find out.
+- **Ending hook:** Under the third column, at the foot of the board, in a smaller hand, a line about **when the schedule was made**. Owen reads it twice. He does not go and find out.
 
 ### Chapter 55 — The Boat and the Tent
 

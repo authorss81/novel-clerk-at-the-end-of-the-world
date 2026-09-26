@@ -185,3 +185,39 @@ And on the twelfth he reads the correction out, in public, at the board, in abou
 **What it cost.** A window that was open for seven days and closed unused, because nobody on a bend would put a name on a page. An appeal window that had already closed. The receipt, gone forever under a correct rule, and the fifth of five now the only one that cannot be paid at all. Three rows on a public board that were numbers belonging to corrections that had not happened yet. The day-book has four lines against a quota of eleven, and the district will be reported short.
 
 **What is now owed.** The schedule was written before anybody surveyed anything and the Warden cannot amend it. The reasons are the **Water Office's**, and a man from it read a column in October and asked about a draw, and the draw was for **Coal Hill**, and the two tide tables have not spoken in two years. The **schedule of draws** is one floor below the counting clerk and Owen has not opened it. Kade's private list marks one of the eleven *wrong and I knew* and she will not say which. One of the four households of Hark Holm is alive at Wexford Landing and is the fifth house there and keeps the book, and she asked whether the warden had remembered the dog. Gallants Reach came back onto the schedule because a sheet carried forward from a lapsed year was challenged, and it has six premises and eleven households. Lower Lock's own reconciliation is on the day-book for the third week of the season.
+
+---
+
+## Volume 02 Batch 0001 — settled by the review fix pass
+
+One review pass, twelve blocking findings, all fixed. **No chapter was restarted, no scene was rewritten, and no planned event moved.** The batch's spine, its turn at Chapter 57, its acquisition at 59 and its climax at 60 stand where they stood. **The full record, including the four decisions that change what Batch 0002 inherits, is in `state/continuity.md` under *VOLUME 02 — BATCH 0001, SETTLED BY THE REVIEW FIX PASS*, and that section is binding.**
+
+**The seven meta-prose sentences** — *worth a chapter*, *Volume 01's close*, *four batches*, *in this volume* twice, *in this chapter*, *of this book* — are rewritten from inside the fiction.
+
+**The calendar, re-derived from Day 1 of 487 being a Tuesday.** The season opens on 488 Day 1, so Day 70 is **twenty-two** days out, Day 77 **fifteen**, Day 84 **eight**, Day 90 **two**; the batch had said eleven, eleven, ten and eight. **Day 91 of 487 is a Monday**, not a Tuesday, and the three files that said otherwise are corrected. 488 Day 9 is a **Wednesday**, so the board goes up on the Wednesday morning, Owen reads it at half past eleven, and he tells the ward on the Wednesday evening. The **first month of 488 runs to thirty days.**
+
+**The board's year column is three rows at 479, one at 481, seven at 486** — the count printed in Chapter 60 and the only correct one. **There is no 484 row**; 484 is Hark Holm and is a different document.
+
+**Nether Sill's nine premises are settled: six empty in C.Y. 486, four produced in 488, five come down or combined.** Three occupied, one standing and empty, five gone. The two spoken versions that said three are corrected to six; Chapter 59's correction document was already right and is the proof.
+
+**The receipt was disposed of on the ninety-first day of 487, not the fourth.** Asked for on the twentieth, period out on the thirty-fourth, off the spike on the seventy-second, disposed of on the ninety-first by somebody else's initials. Corrected in Chapters 59 and 60 and in three state files.
+
+**Kade has never been to Nether Sill.** Chapter 55's method line is kept; Chapter 57's two visits are replaced by the settlement's own file, which is on her table every season, and which makes her fourth reason land harder rather than softer.
+
+**There are two tide tables and two women.** The third, wrongly at Nether Sill, is cut; the room at the mill is eight people. The quarrel is spoken about **twice** — Chapter 56 as Nell's reason for not going up the landing, Chapter 60 by Kade and Owen — and the three state files that said *once* are corrected.
+
+**The published schedule has three columns.** The reason column is Owen's, put up on the ninth on a pencil *granted*, and that is why Chapter 60 lands. The volume outline, the Chapter 54 card and the Batch 0002 prompt are amended to it.
+
+**Ada's ninth ruled line said the return went up on the twenty-seventh; it went up on the seventy-sixth.** And the ward's reading is on **Thursdays** at ten past six, as it has been since the flood week.
+
+**Chapter 53's *incomplete* hook now exists.** The return comes back in nine days marked **incomplete** in a hand nobody in that hall had seen — not refused — and Owen works out that a thing marked incomplete comes back with a question on it, and the question is a person. The word is still on the file.
+
+**Prose repairs.** Refusals fifteen minutes apart, not eleven; the margin clause eight words, not six; Wexford Landing's return says seven, not five; Lower Lock is one of the two largest figures; three days between the Thursday and the seventh; the woman of seventy-nine found out this afternoon; Stability Order 114 made in the last month of last year; ten rows, not nine, carry the same figure twice; one garbled clock time in Chapter 51; and *about four minutes* varied out of five identical uses.
+
+**Coda.** Six chapters closed on a version of *he was N minutes late and he noticed it on the Thursday*. **The motif is kept in Chapter 51, where stopping minding is the point, and in Chapter 52 only.** Chapters 54, 56, 57 and 58 now close on their own hooks. Chapter 56's closing line also contradicted Chapter 51's and is gone with it.
+
+**State files.** `state/open-threads.md` said Kade **named** the woman of Wexford Landing; **she did not, and her name is in no chapter.** **Amos Searle** and **Ivor Searle** are now on both new-persons lists. Chapter 54's *two rows are 479* and Chapter 59's *six dwelling-houses* were fossilised in the summaries and are corrected.
+
+**Examined and left alone.** Kade's *five settlements this season* is correct — the day-book only takes a settlement once it is reconciled, and three were done before it existed. *About* before a clock time is the house register; only the identical *about four minutes* was varied. Ada's *every act in its return every week for twelve weeks* could not be shown to be wrong and is **flagged in the continuity file for a later pass to settle deliberately.**
+
+**Untouched, and load-bearing:** Kade entire; the earned loss at Chapter 57; *a notice does not start a clock, a notice reports one*; Cobb Rennie at the board; Ada's ninth line; **visibility is not remedy**; the year 461 unread; the two lost names; and the ending.

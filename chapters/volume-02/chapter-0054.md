@@ -8,7 +8,7 @@ Not a queue. He looked for the queue first, the way you look for a queue, becaus
 
 There was no queue. There were nine men and two women putting up a canvas wall on the west side of the field with a rope and eight stakes, and there was a trestle table under the slope of the tanneries with a ledger on it the size of a door, and there was a wooden case about the size of a bread crock sitting on the table with a hasp on it, and there was a board about seven feet by four made of three planks nailed to a frame, and on the board there were two printed sheets and one shorter one and eleven lines of names.
 
-Owen Rusk stood at about two paces from it for about four minutes and read it.
+Owen Rusk stood at about two paces from it for four or five minutes and read it.
 
 At the top, in the ordinary hand of a printing shop:
 
@@ -26,13 +26,13 @@ He read the third column first, because he is a man who reads columns, and it to
 
 **Nine.** **Four.** **Six.** **Eleven.** **Two.** **Nine.** **Seven.** **Three.** **Eleven.** **Nine.** **Six.**
 
-Eleven rows, eleven figures, and the figures are the district's figures, and the district's figures are the figures the district office has carried since the Count of the Concord Year 486, and nobody has been to any of these places since then, and there are two rows on that board where the year of the last reconciliation is **479**, which is nine years ago, and there is one row that says **481**, and those are the three that a warden would go to first, and he marked them without meaning to.
+Eleven rows, eleven figures, and the figures are the district's figures, and the district's figures are the figures the district office has carried since the Count of the Concord Year 486, and nobody has been to any of these places since then, and there are three rows on that board where the year of the last reconciliation is **479**, which is nine years ago, and there is one row that says **481**, and those are the four that a warden would go to first, and he marked them without meaning to.
 
 The fourth row was **Lower Lock, 486, eleven.**
 
 Eleven. That is the number of premises of record the county carries for Lower Lock, and it is the correct number, and it is the number on the Return of Premises that came down to the ward on Thursday, and it is the number Ada Rusk filled in on the Friday in a slate hand with two households in one building and one household that is a pitch and has no door.
 
-Owen Rusk stood at about two paces from a board in a field behind the tanneries at about a quarter past nine in the morning on the seventy-seventh day of a season that does not open for eleven days, and read the fact that the largest settlement in his own life was on a list of eleven places that did not answer, and that nobody in the seven weeks of the case had ever thought to write a sentence about it, because the case had been about whether the ward was a place and the answer had turned out to be yes.
+Owen Rusk stood at about two paces from a board in a field behind the tanneries at about a quarter past nine in the morning on the seventy-seventh day of a season that does not open for fifteen days, and read the fact that the largest settlement in his own life was on a list of eleven places that did not answer, and that nobody in the seven weeks of the case had ever thought to write a sentence about it, because the case had been about whether the ward was a place and the answer had turned out to be yes.
 
 ---
 
@@ -40,7 +40,7 @@ The tent went up along the rope at about half past ten. It is a wall of canvas o
 
 The man who put it on the table was about sixty and he did not say anything for about ten minutes, and then he said, to nobody, in a voice with a flat end on it:
 
-"Two settlements this morning and the district opens in eleven days, and if it does not rain."
+"Two settlements this morning and the district opens in fifteen days, and if it does not rain."
 
 A woman of about thirty came out of the tent at about a quarter to eleven and read the board from about nine feet off without coming nearer, which is a thing field people do, and she wrote four figures on a slate in about twenty seconds, and Owen Rusk watched her do it and thought: *she is not reading the names. She is reading the third column and she already knows the eleven.*
 
@@ -146,10 +146,10 @@ There was a second sheet up. It was smaller than the first and it was in a diffe
 
 Eleven against eleven. A quota of eleven and a schedule of eleven and a season of eleven days, and the quota set on the twenty-eighth day of the month before, and Owen Rusk stood in a field behind the tanneries at about twenty to five in the afternoon on a Monday in the eighth month of the Concord Year 487 and read a public figure that had been made before eleven settlements had been told they were on a list, and worked out that this was not remarkable, and worked out that he did not know why it was or was not remarkable, and that not knowing was the part he was going to have to be careful about, because he had spent the summer learning that a thing he could not see was a thing somebody had chosen not to show him.
 
-Then he read the foot of the first sheet, which he had read at two paces and had read again from nine feet and had not read at twenty feet, and it was one line, and it was in a smaller hand, and it was the line that was going to take him four batches to get to:
+Then he read the foot of the first sheet, which he had read at two paces and had read again from nine feet and had not read at twenty feet, and it was one line, and it was in a smaller hand, and it was the line that was going to take him most of a season to get to:
 
 *The year of the last reconciliation is given against each settlement, and a settlement whose last reconciliation was not a reconciliation of premises may be reconciled of something else.*
 
 Owen Rusk read it twice.
 
-Then he went home and did the tray, and it took him until eight o'clock, and he was forty minutes late, and he did not mind.
+Then he went home and did the tray, and it took him until eight o'clock, and the line at the foot of the sheet went home in his coat with him, and he did not do one thing about it for two days.

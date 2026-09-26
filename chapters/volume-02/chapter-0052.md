@@ -48,7 +48,7 @@ Nobody said anything. There is a woman at the back of that hall who has been in 
 
 *Three. Four pages in a bundle, of which one carries a refusal, one is blank on purpose and two are unanswered.*
 
-Four weeks after Volume 01's close, two of them are answered. He said so, because he always checks, and the checking is the only professional habit he has that has ever been any use to anybody. One carries a refusal in a cook's hand. One carries a duty in a watchman's hand. One carries four sentences in a bridge mechanic's capitals. And **one is blank on purpose**, and the woman whose name is at the top of it is standing in this hall with her basket at her feet and has said out loud that she would rather hand over a page with her name on it and nothing on it than a page with her name on it saying nothing.
+A day after the hour of the seal, two of them are answered. He said so, because he always checks, and the checking is the only professional habit he has that has ever been any use to anybody. One carries a refusal in a cook's hand. One carries a duty in a watchman's hand. One carries four sentences in a bridge mechanic's capitals. And **one is blank on purpose**, and the woman whose name is at the top of it is standing in this hall with her basket at her feet and has said out loud that she would rather hand over a page with her name on it and nothing on it than a page with her name on it saying nothing.
 
 *Four. The repair of the abutment, four thousand one hundred and sixty pounds, unfunded, with a notice at the weir path inviting any district able to perform the repair to perform it.*
 

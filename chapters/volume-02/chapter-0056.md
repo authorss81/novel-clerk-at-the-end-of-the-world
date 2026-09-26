@@ -31,7 +31,7 @@ Owen Rusk read that five times too, and then he did the arithmetic, and it took 
 
 The sluice house. The mill house. The barn. And the fourth is the **shop**, which is the front room of the mill house with a counter in it and a door onto the mill road, and which the sheet counted separately in the Concord Year 470 and has counted separately ever since, so a man and his sister and their father live in one building that the county has been counting as two premises for eighteen years, and the county has never been to check, and the count is not wrong, it is a description of a thing that has changed and nobody has looked at it.
 
-**Three empty premises, unstruck, asked about four times in nine years.** The district has not removed them. That is the district's answer and the district is right, and the answer is doing this settlement the harm that the settlement is about to be counted out for.
+**Six empty premises, unstruck, asked about four times in nine years, of which the barn is the one still standing.** The district has not removed them. That is the district's answer and the district is right, and the answer is doing this settlement the harm that the settlement is about to be counted out for.
 
 And the eight households in the mill. The bend flooded in the seventh week of the rain season of 487, the water came up to the sill of the mill and stayed nine days, and there are eight households living in two rooms at the top of a working mill because their houses are under four feet of silt and the silt is not going anywhere this year, and the county's count form, printed in February, has nothing to say about a room at the top of a mill.
 
@@ -91,7 +91,7 @@ The second thing he understood, at about half past ten, was that the eight house
 
 There is a woman doing washing on a door. There are two children on the mill road on a bicycle made for one. There is a man of about thirty sitting in a doorway sewing a coat. There is a smell of bread. There is a bed in the room at the top of the mill that has a curtain round it, and the curtain is there because it is a room in which a person sleeps, and a room in which a person sleeps is the definition of a dwelling that this county has spent a hundred and forty years deciding is not one.
 
-And the fourth thing he understood, at about eleven o'clock, standing in the sluice house with Hanna Roe, was the thing that is the whole of this case, and she told it to him in about four minutes without being asked for it and without once being asked anything.
+And the fourth thing he understood, at about eleven o'clock, standing in the sluice house with Hanna Roe, was the thing that is the whole of this case, and she told it to him in under five minutes without being asked for it and without once being asked anything.
 
 "There is a cut at the head of the bank," she said, "and it is mine, and I open it twice a day and I have done it since I was twenty-eight, and it is the only thing between that bend and nine hundred yards of low bank and four houses and a mill, and the county knows I do it, because the sheet says **sluice: maintained**, and it says maintained in a counting clerk's hand, and it is the only true sentence on that page."
 
@@ -141,10 +141,10 @@ Prue Hallam was on the mill road with the bicycle, waiting, and Owen Rusk said, 
 
 "You may write down anything I say," said Hanna Roe. "That has been the arrangement for twenty-six years. **It is putting it in a column that I mind.**"
 
-They were on the water at about half past two and the light was going and Owen Rusk sat in the bow with a sheet of copying paper on his knee on which he had written eleven lines and had read them back twice, and he worked out, on the water, at about a quarter past three, standing up in a boat, which is a thing two people in this volume do:
+They were on the water at about half past two and the light was going and Owen Rusk sat in the bow with a sheet of copying paper on his knee on which he had written eleven lines and had read them back twice, and he worked out, on the water, at about a quarter past three, standing up in a boat, which is a thing two people who read forms for a living do:
 
 *Item one. Nine on the sheet and four on the ground, and three of the four are half of one building.*
-*Item two. Three of the nine are empty and have been since the Concord Year 480 and have been asked about four times in nine years and have not been struck, and the district's answer is correct.*
+*Item two. Six of the nine are empty and have been since the Concord Year 480 and have been asked about four times in nine years and have not been struck, and the district's answer is correct.*
 *Item three. Eight households in two rooms, and a room in a mill is not a dwelling because it has not got its own water.*
 *Item four. A room is a dwelling if it has a tap, a drain, a door to the outside, and a number on it, and a number has to be given by the district office, and there is a book.*
 *Item five. And there is a second column that wants a name, and the name is the one thing nobody at this bend will give, and I have understood in the last two hours that the name is not the problem and it is the whole of the problem.*
@@ -183,4 +183,4 @@ Owen Rusk came down the river on the Saturday night and got the last post up to 
 
 She went into the tent. Owen Rusk stood at the trestle table at about ten to nine in the evening with a lamp burning on it and a wooden case with a hasp on it and a printed board forty feet away with eleven settlements and eleven figures on it, and thought about a room at the top of a mill with a tap and a drain and a door to the outside and a number on it, and about a book two floors below a counting clerk, and about a woman on a slip at the top of a cut who had told him to come back with the number or bring nothing and not to bring a figure.
 
-He went home and did the tray and it took him until a quarter past ten and he was an hour and a quarter late, and it was the first time in eight weeks that he had been more than forty minutes late, and he had not noticed it until the Thursday.
+He went home and did the tray and it took him until a quarter past ten, and at about eleven he wrote the eleven lines out again in a clean hand and put them in the register he does not put on a table, and he did not send them to anybody, because there was nobody in this county he could send eleven lines to.

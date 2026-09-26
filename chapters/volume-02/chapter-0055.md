@@ -138,7 +138,7 @@ Owen Rusk stood at the west gate of Cutter's Fields at about a quarter past elev
 
 And then, immediately after, because he is honest with himself before he is honest with anybody else: he also worked out that Maud Tray's four men had brought the pump up from a hamlet forty minutes off the water, unasked, on a cart, on a Thursday, and that they had done that before anybody at that field had asked them to, and that the Warden had not known they were coming, and that she had turned round a water draw in about ninety seconds using a rule that nobody had thought to use, and that if she had not come out of that tent when the woman with the slate said her name, the rule would not have been used and Ossery would have been suspended in the ninth month of the year.
 
-And he could not decide, then or afterwards, whether that was the service working or one competent person rescuing a rule, and he never did decide it, and it is the first thing in this volume he carried without ever putting it down.
+And he could not decide, then or afterwards, whether that was the service working or one competent person rescuing a rule, and he never did decide it, and it is the first thing he has carried since the spring without ever putting it down.
 
 ---
 
@@ -160,7 +160,7 @@ The girl looked at him.
 
 ---
 
-He got back down the hill to Lower Lock at about half past five on the Monday and told Ada Rusk three things: that a warden had come up the river with a stone and a quota of eleven, that the season opened in ten days, and that he was going up to Nether Sill on the Sunday in a survey boat with a girl of seventeen from a landing below the mill.
+He got back down the hill to Lower Lock at about half past five on the Monday and told Ada Rusk three things: that a warden had come up the river with a stone and a quota of eleven, that the season opened in eight days, and that he was going up to Nether Sill on the Sunday in a survey boat with a girl of seventeen from a landing below the mill.
 
 "You are going up to a place with four doors and a county sheet with nine on it," said Ada Rusk.
 
@@ -168,7 +168,7 @@ He got back down the hill to Lower Lock at about half past five on the Monday an
 
 "Are you going up because a girl of seventeen told you about it on a river post, or because the board is nailed up in a field and you cannot leave a thing alone once you have read it."
 
-"Both," said Owen Rusk. "And because a woman at Arbour Kitchen asked me to read a form, and because I have been in this building for eight years and I did not go and look at a column, and because in ten days a thing happens to eleven places on this river and four of them are in this district and one of them is four streets from this hall, and I do not know what to do about that and I have not got anybody to ask."
+"Both," said Owen Rusk. "And because a woman at Arbour Kitchen asked me to read a form, and because I have been in this building for eight years and I did not go and look at a column, and because in eight days a thing happens to eleven places on this river and four of them are in this district and one of them is four streets from this hall, and I do not know what to do about that and I have not got anybody to ask."
 
 "You have got me," said Ada Rusk. "I am not anybody. I am a woman of twenty-four with a crew and a slate and a sister who cannot leave a pump. If you go up there and somebody asks you a question you cannot answer, come back and say so in this hall and do not come back and tell us it is being handled."
 
